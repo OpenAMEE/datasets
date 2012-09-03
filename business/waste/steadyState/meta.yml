@@ -1,0 +1,37 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_pulp_and_paper_sector
+- pulp
+- paper
+- waste
+- ICFPA
+- IPCC
+- landfill
+- methane
+- calculation
+- emission_factor
+- direct
+- global
+provenance: Based on the Pulp and Paper worksheet from the [[http://www.ghgprotocol.org/calculation-tools/all-tools|GHGP]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  timeSinceOpened: Time since waste was first deposited
+  collectionEfficiency: Fraction of emitted gas that is recovered by collection systems
+  fractionCollectedBurned: Fraction of recovered gas which is burned
+  decayRate: Decay constant of waste
+  type: 
+  ultimateMethanePotential: Maximum theoretical quantity of methane which generated per unit mass of waste (at standard density)
+  timeSinceClosed: Time since waste ceased to be deposited (zero for ongoing sites)
+  wasteDepositionRate: Mass of waste deposited in the landfill per time period
+  fractionUncollectedOxidising: Fraction of unrecovered gas which oxidising in situ
+  source: 
+  standardDensity: Standard density of methane
+wikiname: Waste_steady_state
+name: "Steady-state methodology for landfill waste emissions"
+usages:
+  default: { collectionEfficiency : optional, fractionCollectedBurned : optional, decayRate : optional, ultimateMethanePotential : optional, fractionUncollectedOxidising : optional, standardDensity : optional }

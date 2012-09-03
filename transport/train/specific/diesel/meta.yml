@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- train
+- passenger
+- specific
+- model
+- diesel
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: http://www.rssb.co.uk/index.asp
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  region: Region from which data sourced
+  volumePer100SeatPerDistance: Fuel consumption rate per 100 seats
+  volumePerCarPerDistance: Fuel consumption rate per car/carrige
+  occupancy: Percentage passenger occupancy of train
+  tareMass: Weight of unoccupied train
+  numberOfCars: Typical number of cars/carriges
+  seatingCapacity: Total seating capacity of train
+  type: Type of train
+  passengers: Number of passengers under consideration
+  source: 
+  distance: Distance travelled
+wikiname: Specific_diesel_trains
+usages:
+  default: {occupancy : optional, passengers : optional }

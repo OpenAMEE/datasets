@@ -1,0 +1,9 @@
+name,Refrigeration Installation
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Equipment,type,TEXT,true,true,,,,
+Installation Percentage Emission Factor,installationEmissionFactor,DECIMAL,true,false,,,,
+Equipment Charge Capacity,equipmentChargeCapacity,DECIMAL,false,false,kg,,,
+Refrigerant Type,refrigerantType,TEXT,false,false,,,,
+Number of Units,numberOfUnits,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

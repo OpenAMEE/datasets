@@ -1,0 +1,40 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- train
+- freight
+- GHGP
+- US
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|GHG Protocol worksheet]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  mass: Mass of freight transported
+  kgCO2PerTonneKm: Distance-based CO2 emissions factor
+  gCH4PerShortTonMile: Distance-based CH4 emissions factor
+  subtype: Subtype of train used for freighting
+  type: Type of train used for freighting
+  source: 
+  gN2OPerShortTonMile: Distance-based N2O emissions factor
+  distance: Distance freight transported
+wikiname: US_train_freight

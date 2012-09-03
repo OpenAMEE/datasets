@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- electronics
+- heat_transfer_fluids
+- IPCC
+- EPA
+- fluorinated
+- calculation
+- emission_factor
+- direct
+- global
+- IPCC
+- IPCC_tier1
+- IPCC_industry_electronics
+- EPA
+- EPA_mandatory
+- EPA_mandatory_electronics
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of process
+  capacity: Production capacity
+  source: 
+  fractionCapacityUtilised: Fraction of production capacity utilised
+  massC6F14PerArea: C,,6,,F,,14,, emissions per quantity of substrate produced
+wikiname: Heat_transfer_fluids_production_methodology
+usages:
+  default: {capacity : compulsory, fractionCapacityUtilised : compulsory }
+

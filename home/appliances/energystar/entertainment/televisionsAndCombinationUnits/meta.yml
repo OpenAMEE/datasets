@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+provenance: http://www.energystar.gov/index.cfm?c=home.index
+tags: 
+- energy_star
+- appliances
+- US
+- entertainment
+- television
+- combination_unit
+authority: enterprise
+show: "1"
+gallery: "nil"
+ivds: 
+  model: 
+  companyName: 
+  quantity: number of appliances to be taken into consideration in the calculation. Default of 1.
+  energyPerTime: CO2 emission factor for the chosen product
+  series: 
+  brandName: 
+  source: 
+wikiname: Entertainment_Televisions_And_Combination_Units

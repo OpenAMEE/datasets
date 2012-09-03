@@ -1,0 +1,5 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+passengerClass,1.0|2.0,
+kgCO2PerPassengerKm,1.0|2.0,
+source,1.0|2.0,

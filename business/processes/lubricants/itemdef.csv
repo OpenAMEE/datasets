@@ -1,0 +1,10 @@
+name,Lubricants
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Lubricant type,type,TEXT,true,true,,,,
+Carbon content,massCarbonPerEnergy,DECIMAL,true,false,kg,GJ,,
+Fraction oxidised during use,oxidisedFraction,DECIMAL,true,false,,,,
+Lower heating value,energyPerMass,DECIMAL,true,false,GJ,kg,,
+Energy quantity consumed,energyConsumed,DECIMAL,false,false,GJ,,,
+Mass quantity used,massConsumed,DECIMAL,false,false,kg,,,
+Source,source,TEXT,true,false,,,,

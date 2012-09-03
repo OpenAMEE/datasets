@@ -1,0 +1,4 @@
+year,country,domain,massPerEnergyRenewable,massPerEnergyNuclear,massPerEnergyFossil,massPerEnergyTotal,units,source
+2010,Sweden,Nordic,80,140.8,99.2,320,,Ostfold Research/Energy Trading and Environment 2020 project
+2010,Finland,Nordic,85.2,88.04,110.76,284,,Ostfold Research/Energy Trading and Environment 2020 project
+2010,Denmark,National,127.71,4.73,340.56,473,,Ostfold Research/Energy Trading and Environment 2020 project

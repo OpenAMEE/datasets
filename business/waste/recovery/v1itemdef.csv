@@ -1,0 +1,9 @@
+Name,wasteRecovery
+algFile,algorithm.js
+name,path,type,isDataItemValue,isDrillDown
+Source,source,TEXT,true,false
+Collected,collected,DECIMAL,false,false
+Collection Efficiency,collectionEfficiency,DECIMAL,false,false
+Fraction collected burned,fractionCollectedBurned,DECIMAL,false,false
+Methane content,methaneContent,DECIMAL,false,false
+Fraction uncollected oxidising,fractionUncollectedOxidising,DECIMAL,false,false

@@ -1,0 +1,55 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- GHGP
+- US
+- road
+- car
+- bus
+- heavy_goods
+- motorcycle
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: |-
+  <%= chart :dependent => 'massCO2PerDistance' %>
+show: "1"
+authority: enterprise
+ivds: 
+  type: Vehicle type
+  fuel: Fuel type
+  emissionStandard: Emissions control standard
+  distancePerVolume: Fuel efficiency of vehicle
+  massCO2PerDistance: Quantity of fossil CO,,2,, per unit distance
+  massBiogenicCO2PerDistance: Quantity of biogenic CO,,2,, per unit distance
+  massCH4PerDistance: Quantity of CH,,4,, per unit distance
+  massN2OPerDistance: Quantity of N,,2,,O per unit distance
+  massCH4PerVolume: Quantity of CH,,4,, per unit volume fuel consumed
+  massN2OPerVolume: Quantity of N,,2,,O per unit volume fuel consumed
+  distance: Distance travelled
+  volume: Quantity of fuel consumed
+  occupancy: Occupancy of vehicle
+wikiname: US_road_transport_by_Greenhouse_Gas_Protocol
+name: "US road transport by Greenhouse Gas Protocol"
+usages:
+  default: { occupancy : optional }
+  byDistanceOnly: { occupancy : optional, volume : forbidden }
+  byFuelOnly: { occupancy : optional, distance : forbidden }
+  order: [ default, byDistanceOnly, byFuelOnly ]
+  

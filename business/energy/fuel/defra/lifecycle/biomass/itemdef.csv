@@ -1,0 +1,7 @@
+name,Biomass life-cycle
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Mass CO2 Equivalent per Mass of Biomass,kgCO2ePerTonne,DECIMAL,true,false,kg,t,,
+Quantity Used,quantity,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

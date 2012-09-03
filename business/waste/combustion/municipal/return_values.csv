@@ -1,0 +1,8 @@
+label,type,unit,per_unit,default
+fossilCO2,DECIMAL,kg,,false
+biogenicCO2,DECIMAL,kg,,false
+totalCO2,DECIMAL,kg,,false
+CH4,DECIMAL,kg,,false
+N2O,DECIMAL,kg,,false
+CO2e,DECIMAL,kg,,true
+comment,TEXT,,,false

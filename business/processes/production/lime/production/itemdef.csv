@@ -1,0 +1,16 @@
+name,Lime Manufacture - Production Data
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Lime Type,limeType,TEXT,true,true,,,,
+Quantity of Lime,limeQuantity,DECIMAL,false,false,kg,,,
+Fraction CaO/CaO.MgO content,caoMgoRatio,DECIMAL,false,false,,,,
+Default CaO.MgO content,defCaoMgoRatio,DECIMAL,true,false,,,,
+Stoichometric Ratio,stoicRatio,DECIMAL,false,false,,,,
+Default Stoichometric Ratio,defStoicRatio,DECIMAL,true,false,,,,
+Proportion of Hydrated Lime,hydLime,DECIMAL,false,false,,,0.1,
+Water Content of Hydrated Lime,waterLime,DECIMAL,false,false,,,0.28,
+Weight of LKD Not Recycled to Kiln,lkdWeight,DECIMAL,false,false,kg,,,
+Fraction of Original Carbonate in the LKD,fracLkd,DECIMAL,false,false,,,,
+Fraction Calcination of the Original Carbonate in the LKD,calcinationLKD,DECIMAL,false,false,,,,
+Default LKD Correction Factor,defLkdCorrection,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

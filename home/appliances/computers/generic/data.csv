@@ -1,0 +1,17 @@
+device,rating,kWhPerYear,units,source,algorithm,default
+Personal Computers,Desktop,425.9,kWh/Year,MTP/defra/amee 2008,value*user_numberOfDesktops*fuel_electricity,default
+Personal Computers,Desktop no monitor,224,kWh/Year,dgen / defra 2007,value*user_numberOfDesktops*fuel_electricity,default
+Personal Computers,Laptop,69.1,kWh/Year,MTP/defra/amee 2008,value*user_numberOfLaptops*fuel_electricity,
+Personal Computers,MFD,70.4,kWh/Year,MTP/defra/amee 2008,value*user_numberOfLaptops*fuel_electricity,
+Printer,Inkjet,26.2,kWh/Year,MTP/defra/amee 2008,value*fuel_electricity,default
+Printer,Laser,150,kWh/Year,MTP/defra/amee 2008,value*fuel_electricity,
+Printer,MFD,70.36,kWh/Year,MTP/defra/amee 2008,value*fuel_electricity,
+Monitor,LCD,64,kWh/Year,dgen / defra 2007,value*fuel_electricity,default
+Monitor,CRT,156,kWh/Year,dgen / defra 2007,value*fuel_electricity,
+Monitor,Plasma,677,kWh/Year,dgen / defra 2007,value*fuel_electricity,
+Scanner,-,2.044,kWh/Year,based on Fujitsu ScanSnap S510 A4 Scanner used 12min per day,,
+Hard drive,external,3.749,kWh/Year,based on WD elements 400Gb used 1hr per day,,
+Modem/router,-,41.172,kWh/Year,based on netgear WGR614v7 US model,,
+Other,-,0,kWh/Year,N/A,,
+PSU,typical,13.57,kWh/year,MTP / defra 2007,value*user_numberOfPSUs*fuel_electricity,
+standby,-,0,N/A,N/A,,

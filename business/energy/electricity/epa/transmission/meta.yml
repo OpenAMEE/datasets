@@ -1,0 +1,21 @@
+--- 
+data_items: []
+
+tags: 
+- EPA
+- US
+- egrid
+- electricity
+- grid
+- data
+- history
+provenance: "[[http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html|EPA-eGRID]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  region: Grid region two-letter abbreviation
+  name: Grid region name
+  factor: Annual transmission loss factor (%), i.e. the fraction of electricity supplied to the grid lost in transmission
+name: "US electricity annual transmission losses"
+wikiname: "EPA_eGRID_transmission_losses"

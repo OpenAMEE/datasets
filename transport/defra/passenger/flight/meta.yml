@@ -1,0 +1,30 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- defra
+- passenger
+- distance
+- plane
+- defra_annex6
+- calculation
+- emission_factor
+- direct
+- indirect
+- lca
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  type: Type of flight
+  passengerClass: Passenger class
+  distance: Typical distance of flight type
+  journeys: Number of journeys made
+  passengers: Number of passengers
+wikiname: DEFRA_journey_based_flight_methodology
+name: "DEFRA journey based passenger flight methodology"
+usages:
+  default: { passengers : optional, journeys : optional }

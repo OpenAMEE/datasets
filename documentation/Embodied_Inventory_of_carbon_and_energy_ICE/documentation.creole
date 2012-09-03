@@ -1,0 +1,46 @@
+The Inventory for Carbon and Energy, or //ICE//, is a life cycle database representing a wide range of building and construction materials, published by the [[http://people.bath.ac.uk/cj219/|Sustainable Energy Research Team (SERT)]] at the University of Bath, UK.
+
+In January 2011, **[[http://people.bath.ac.uk/cj219/|Version 2.0]]** was published. This version is represented in AMEE.
+
+==The dataset==
+The dataset represents over 300 individual materials, including metals (e.g. aluminium, iron, steel), plastics, insulation, mineral-based materials (e.g. aggregate, cement, concrete, glass, stone), and organic materials (soil, timber) as well as manufactured composite materials such as carpets, photovoltaic cells, roads and windows. Each material is differentiated into a range of specific subtypes, and, in many cases, distinct representations of //virgin// versus //recycled// variants of materials are available.
+
+For each type of material, the database provides measures of the embodied **energy** (i.e. MJ) and **CO,,2,,** emissions (i.e. kg) which are related to specific unit quantities of the material. The bulk of the materials in the dataset are represented as **mass** quantities - that is, the embodied energy and CO,,2,, emissions are represented on a //per kg// basis. Calculations are made, in these cases, by multiplying a mass quantity for the material by the appropriate factors. In some cases, materials are represented on an **area** basis (i.e. m^2), for example, carpets, roads and paint (kg [CO,,2,,] per m^2). In these cases, calculations are made by providing area quantities.
+
+A number of materials are represented by slightly extended methodologies. For example, the methodology for concrete enables the specification of an additional quantity of reinforcing steel, while double-glazed windows can be specified as having their air spaces filled with insulating gases. The several types of timber that are represented additionally support the **biogenic CO,,2,,** which is embodied in the production life cycle (i.e. the combustion of off-cuts for energy or waste disposal purposes). Users of the dataset can choose whether to consider these biogenic emissions together with fossil-derived CO,,2,, emissions.
+
+===CO,,2,,e factors===
+For many materials, unit embodied emissions of CO,,2,,e are also available. This value represents all greenhouse gases associated with the production cycle, represented in terms of the equivalent quantity of CO,,2,, which would exert the same atmospheric warming effect.
+
+In cases where no unit CO,,2,, estimate is available in the dataset, the authors advise that an approximate 'rule of thumb' for calculating CO,,2,,e is to increase CO,,2,, emissions by 6%. This value represents on the embodied CO,,2,,e associated with fuel use (not process related emissions) and is based on the average fuel mix of UK industry.
+
+==Life cycle analysis boundaries==
+With a few exceptions, the life cycle analysis boundaries represented within the ICE database are designated as **cradle-to-gate**. The authors advise that, even within these boundaries there are many possible variations that affect the absolute boundaries of each material analysis. This arises predominantly from the use of secondary data resources which represent variable boundaries. The ideal boundaries are described by the authors as follows:	
+	
+|=Item|=Boundaries treatment|
+|//Delivered energy//|All delivered energy is converted into primary energy equivalent, see below.|
+|//Primary energy//|Default method, traced back to the ‘cradle’.|
+|//Primary electricity//|Included, counted as energy content of the electricity (rather than the opportunity cost of energy).|
+|//Renewable energy (inc. electricity)//|Included.|
+|//Calorific Value (CV)/Heating value of fossil fuel energy//|Default values are Higher Heating Values (HHV) or Gross Calorific Values (GCV), both are equivalent metrics.|
+|//Calorific value of organic fuels//|Included when used as a fuel, excluded when used as a feedstock, e.g. timber offcuts burnt as a fuel include the calorific value of the wood, but timber used in a table excludes the calorific value of the wooden product.|
+|//Feedstock energy//|Fossil fuel derived feedstocks are included in the assessment, but identified separately. For example, petrochemicals used as feedstocks in the manufacture of plastics are included. See above category for organic feedstock treatment.|
+|//Carbon sequestration and biogenic carbon storage//|Excluded, but ICE users may wish to modify the data themselves to include these effects.|
+|//Fuel related carbon dioxide emissions//|All fuel related carbon dioxide emissions which are attributable to the product are included.|
+|//Process carbon dioxide emissions//|Included; for example CO2 emissions from the calcination of limestone in cement clinker manufacture are counted.|
+|//Other greenhouse gas emissions//|The newest version of the ICE database (2.0) has been expanded to include data for GHGs. The main summary table shows the data in CO2 only and for the GHGs in CO2e.|
+|//Transport//|Included within specified boundaries, i.e. typically cradle-to-gate.|
+
+==Changes in version 2.0==
+[[ICE_Building_Materials_LCA|Version 1.6]] of the ICE database was superceded by Version 2.0 in January 2011. The main changes/improvements are summarised below:
+
+|**1**|The majority of data has been converted to CO,,2,,e which captures more than just CO,,2,, (e.g. CH,,4,,, PFC's)|
+|**2**|The CO,,2,, embodied in timber materials are now separated into //fossil//- and //biogenic//- CO,,2,,|
+|**3**|The recycled content approach has been revised to a 3-year average recycled content|
+|**4**|Data on cement has been brought in line with British Cement Association data|
+|**5**|ICE cement, mortar and concrete model has been revised and consequently the data is much improved|
+|**6**|New, UK specific data for precast concrete|
+|**7**|Aggregates and sand are now estimated from recorded UK industrial fuel consumption data|
+|**8**|Asphalt mixtures have been modelled from the binder content and the UK recorded mixing energy|
+|**9**|There is now data on recycled glass|
+|**10**|There are some notable improvements in the data for copper, carpets, paint, roads, rubber, sealants and adhesives, soil and stone|

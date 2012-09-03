@@ -1,0 +1,31 @@
+--- 
+data_items: []
+
+tags: 
+- lighting
+- light_bulb
+- wattage
+- electricity
+- calculation
+- direct
+- physical_properties
+- global
+provenance: AMEE 2010
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  number: Number of light bulbs under consideration
+  country: Country
+  timePeriod: Time period under consideration
+  type: Type of consumption
+  source: 
+  timePerTimePeriod: Rate of lighting usage
+  totalTimeInUse: Absolute duration of lighting usage
+  wattage: Wattage of light bulb(s)
+wikiname: Light_bulb_by_wattage
+usages:
+  byRegularUsage : { totalTimeInUse : forbidden, number : optional, timePeriod : optional, country : optional }
+  byAbsoluteTime : { country : optional, timePerTimePeriod : ignored, timePeriod : ignored, number : optional }
+  order : [ byAbsoluteTime, byRegularUsage ]
+

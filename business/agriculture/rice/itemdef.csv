@@ -1,0 +1,15 @@
+name,Rice cultivation
+algFile,default.js
+name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Rice cultivation system,system,TEXT,true,true,,,,
+Drainage regime,drainage,TEXT,true,true,,,,
+Flooding history,flooding,TEXT,true,true,,,,
+Type of organic amendment practiced,organicAmendment,TEXT,true,true,,,,
+Baseline emissions factor,massCH4PerAreaPerDay,DECIMAL,true,false,kg,ha*day,,
+Scaling factor for water regime during cultivation,cultivationWaterScalingFactor,DECIMAL,true,false,,,,
+Scaling factor for water regime prior to cultivation,preCultivationWaterScalingFactor,DECIMAL,true,false,,,,
+Organic amendment conversion factor,organicFactor,DECIMAL,true,false,
+Duration of cultivation period,cultivationPeriod,DECIMAL,false,false,day,,,
+Harvested area,harvestedArea,DECIMAL,false,false,ha,,,
+Rate of organic amendment application,massOrganicAmendmentPerArea,DECIMAL,false,false,t,ha,,
+Source,source,TEXT,true,false,,,,

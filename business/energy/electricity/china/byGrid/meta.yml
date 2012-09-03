@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+tags: 
+- GHGP
+- GHGP_custom
+- china
+- electricity
+- calculation
+- direct
+- emission_factor
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  energyPerTime: The quantity of energy consumed per unit time
+  totalArea: Total area of facility
+  responsibleArea: Area under consideration
+  source: 
+  gridName: The grid region in which the electricity was consumed
+  massCO2PerEnergy: "CO,,2,, emissions intensity"
+wikiname: Electricity_China_By_Grid
+name: "Greenhouse Gas Protocol methodology for electricity by China grid-region"
+usages:
+  totalEmissions : { totalArea : forbidden, responsibleArea : forbidden }
+  byResponsibleArea : { totalArea : compulsory, responsibleArea : compulsory }
+  order : [ totalEmissions, byResponsibleArea ] 

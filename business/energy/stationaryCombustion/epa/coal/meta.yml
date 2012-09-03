@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- stationary
+- combustion
+- EPA
+- US
+- coal
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- physical_properties
+- EPA_mandatory
+- EPA_mandatory_fuel
+provenance: "[[http://www.epa.gov/stateply/resources/index.html|US EPA - Climate Leaders]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  mass: Mass of coal consumed
+  energyPerMass: "Energy per mass of coal ('heating' or 'calorific' value) "
+  energyConsumed: Quantity of energy consumed
+  type: Type of coal
+  burningContext: Context of burning (e.g. 'residential' 'electricity')
+  source: 
+  massCO2PerEnergy: CO,,2,, emissions per unit of energy
+  includeNonCO2Gases: 
+wikiname: EPA_Stationary_combustion_of_coal
+usages:
+  byMass : { energyConsumed : ignored, includeNonCO2Gases : forbidden }
+  byEnergy : { mass : forbidden, includeNonCO2Gases : forbidden }  
+  order : [byMass, byEnergy ]

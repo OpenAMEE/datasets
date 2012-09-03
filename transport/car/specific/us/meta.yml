@@ -1,0 +1,46 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- passenger
+- car
+- distance
+- mobile
+- fuel
+- US
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.fueleconomy.gov|www.fueleconomy.gov]]"
+gallery: |-
+ <%= chart :dependent => 'mpgCombined', :x => 'manufacturer' %>
+show: "1"
+authority: enterprise
+ivds: 
+  mpgCombined: Combined city/highway usage fuel consumption
+  mpgHighway: Highway usage fuel consumption
+  unrndCityEPA: 
+  mpgOwn: User determined fuel consumption
+  line: Car model
+  class: Car class category
+  distanceMilesPerMonth: Distance travelled per month
+  unrndCompEPA: 
+  drivingType: Specify "own", "city", "highway", or "combined" driving type
+  releaseDate: 
+  driveSystem: Front/rear drive system
+  engineSize: Engine size
+  mpgCity: City usage fuel consumption
+  transmission: Transmission type
+  manufacturer: Car manufacturer
+  indexNumber: 
+  ownFuelConsumption: Manufacturer fuel consumption
+  source: 
+  fuelType: Car fuel type
+  unrndHwyEPA: 
+  cylinders: Cylinder numbers
+  distance: Distance travelled
+wikiname: "US_specific_car_transport"
+usages:
+  default: { ownFuelConsumption : optional, drivingType : optional }

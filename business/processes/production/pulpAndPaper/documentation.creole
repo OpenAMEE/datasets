@@ -1,0 +1,7 @@
+      This category provides data and a methodology for calculating greenhouse gas emissions from pulp and paper manufacturing. These methodologies and their associated data are sourced from the WRI Greenhouse Gas protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheets]] but ultimately follow the methodology published by the [[http://www.ghgprotocol.org/downloads/calcs/Pulp_and_Paper_Guidance.pdf|Climate Change Working Group]] of The International Council of Forest and Paper Associations (ICFPA).
+
+Direct emissions from the manufacture of pulp and paper can be calculated using the [[Pulp_and_Paper_Direct_Emissions|direct emissions]] subcategory. Users should be aware that emissions from the stationary combustion of fuels in the paper industry can be established using the AMEE [[Stationary_Combustion|stationary combustion]] category.
+
+Emissions arising from the combustion of biomass can be calculated using the [[Pulp_and_paper_biomass_emissions|biomass emissions]] category. This calculation considers the CH,,4,, and N,,2,,O emissions from a variety of biomass scenarios.
+
+To calculate the biogenic CO,,2,, emissions associated with the burning of pulping liquors, users can use the [[Pulping_liquor_consumption|pulping liquor consumption]] category.

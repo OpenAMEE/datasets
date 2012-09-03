@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- train
+- freight
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  kgCO2ePerTonneKmForCH4: CH4 emission factor
+  mass: "mass of freight being transported "
+  kgCO2ePerTonneKmForN2O: N2O emission factor
+  kgCO2PerTonneKm: CO2 emission factor
+  fuel: currently the only option for //**fuel**// is //diesel//
+  source: 
+  distance: distance travelled on train
+wikiname: Train_Freight_Defra

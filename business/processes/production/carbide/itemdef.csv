@@ -1,0 +1,12 @@
+name,Carbide production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of carbide,type,TEXT,true,true,,,,
+Basis for calculation,basis,TEXT,true,true,,,,
+Carbon content of carbide product,productCarbonContent,DECIMAL,both,false,t,t,,
+Quantity CO2 produced per unit consumed/produced,massCO2PerMass,DECIMAL,both,false,t,t,,
+Quantity CH4 produced per unit consumed/produced,massCH4PerMass,DECIMAL,both,false,kg,t,,
+Quantity of coke consumed/carbide produced,mass,DECIMAL,false,false,t,,,
+Carbon content of coke,feedstockCarbon,DECIMAL,false,false,t,t,,
+Fraction of coke oxidised,feedstockOxidation,DECIMAL,false,false,,,1.0,
+Source,source,TEXT,true,false,,,,

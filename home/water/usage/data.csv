@@ -1,0 +1,8 @@
+type,litresPerUse,litresPerMinute,litresPerDay,units,source,algorithm,default
+toilet flushing,6,,28.8,,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba
+washbasin taps,,4,14.11,,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba
+shower,70,10,30,,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba
+bath,180,,28.8,,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba
+sink taps,,8,28.22,,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba
+washing machine,49,,16.66,,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba
+dishwasher,13,,3.9,,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba

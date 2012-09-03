@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- soda_ash
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_industry
+- IPCC_industry_mineral
+- EPA
+- EPA_mandatory
+- EPA_mandatory_soda_ash
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCO2PerMass: Quantity of CO,,2,, emitted per quantity feedstock/product
+  mass: Quantity of feedstock/product consumed/produced
+  type: Type of calculation (feedstock- or product-based)
+  source: 
+wikiname: Soda_ash_production

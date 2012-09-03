@@ -1,0 +1,6 @@
+label,type,unit,per_unit,default
+directCO2e,DECIMAL,kg,,true
+indirectCO2e,DECIMAL,kg,,false
+lifeCycleCO2e,DECIMAL,kg,,false
+bioCO2,DECIMAL,kg,,false
+comment,TEXT,,,false

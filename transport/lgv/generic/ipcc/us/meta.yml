@@ -1,0 +1,21 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- large_goods
+- heavy_duty
+- truck
+- distance
+- fuel
+- travel
+- IPCC
+- US
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "0"
+authority: enterprise
+ivds: {}
+
+wikiname: US_heavy_duty_transport_IPCC

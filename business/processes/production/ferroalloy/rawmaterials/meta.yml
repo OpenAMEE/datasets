@@ -1,0 +1,45 @@
+--- 
+data_items: []
+
+tags: 
+- IPCC
+- IPCC_industry
+- IPCC_industry_metal
+- IPCC_tier3
+- IPCC_tier2
+- ferroalloy
+- EPA
+- EPA_mandatory
+- EPA_mandatory_ferroalloy
+- calculation
+- mass_balance
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  productCarbonContent: user-supplied value for the carbon content in ferroalloy product
+  percentageVolatiles: the percentage of volatiles, only required for tier 3 calculation
+  slagQuantity: user-supplied value for the quantity of slag forming material
+  oreCarbonContent: user-supplied value for the carbon content in ore
+  oreQuantity: user-supplied value for the quantity of ore
+  reducingAgentQuantity: user-supplied value for the quantity of reducing agent used
+  massCO2PerMassReducingAgent: the emission factor for the reducing agent selected
+  carbonContentInVolatiles: the carbon content in the volatiles, only required for tier 3 calculation
+  productQuantity: user-supplied value for the quantity of ferroalloy produced
+  slagCarbonContent: user-supplied value for the carbon content in slag forming material
+  nonProductOutgoingStreamQuantity: user-supplied value for the quantity of non-product outgoing stream
+  percentageAsh: the percentage of ash, only required for tier 3 calculation
+  typeOfReducingAgent: drill-down used to specify the type of reducing agent used
+  source: 
+  nonProductOutgoingStreamCarbonContent: user-supplied value for the carbon content in non-product outgoing stream
+  reducingAgentCarbonContent: the carbon content in the reducing agent, only required for tier 3 calculation
+wikiname: Ferroalloy_raw_materials_methodology
+usages:
+  default : { oreQuantity : optional, oreCarbonContent : optional, slagQuantity : optional, slagCarbonContent : optional, productQuantity : optional, productCarbonContent : optional, nonProductOutgoingStreamQuantity : optional, nonProductOutgoingStreamCarbonContent : optional, massCO2PerMassReducingAgent : optional, reducingAgentCarbonContent : forbidden, percentageAsh : forbidden, percentageVolatiles : forbidden, carbonContentInVolatiles : forbidden }
+  withCarbonContent : { oreQuantity : optional, oreCarbonContent : optional, slagQuantity : optional, slagCarbonContent : optional, productQuantity : optional, productCarbonContent : optional, nonProductOutgoingStreamQuantity : optional, nonProductOutgoingStreamCarbonContent : optional, percentageAsh : ignored, percentageVolatiles : ignored, massCO2PerMassReducingAgent : ignored, carbonContentInVolatiles : ignored }
+  withAshAndVolatilesContent : { oreQuantity : optional, oreCarbonContent : optional, slagQuantity : optional, slagCarbonContent : optional, productQuantity : optional, productCarbonContent : optional, nonProductOutgoingStreamQuantity : optional, nonProductOutgoingStreamCarbonContent : optional, reducingAgentCarbonContent : forbidden, massCO2PerMassReducingAgent : ignored, carbonContentInVolatiles : optional }
+  order: [ default, withCarbonContent, withAshAndVolatilesContent ]
+

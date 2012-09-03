@@ -1,0 +1,5 @@
+label,type,unit,per_unit,default
+heatCO2e,DECIMAL,kg,,false
+electricityCO2e,DECIMAL,kg,,false
+totalCO2e,DECIMAL,kg,,false
+comment,TEXT,,,false

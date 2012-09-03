@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- IPCC
+- IPCC_tier2
+- IPCC_industry
+- IPCC_industry_chemical
+- EPA
+- EPA_mandatory
+- EPA_mandatory_petrochemical
+- data
+- physical_properties
+- global
+- petrochemical
+- EPA
+- carbon
+- fuel
+- feedstock
+provenance: IPCC-NGGIP [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_1_Ch1_Introduction.pdf|Energy]],[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|Industry]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  carbonContent: Carbon content (mass C per mass)
+  type: Type of petrochemical feedstock/product/by-product
+  source: 
+wikiname: Petrochemical_carbon_contents

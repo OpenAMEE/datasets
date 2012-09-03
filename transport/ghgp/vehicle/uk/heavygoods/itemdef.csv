@@ -1,0 +1,10 @@
+name,GHGP UK heavy goods vehicles
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Vehicle type,type,TEXT,true,true,,,,
+Vehicle size,size,TEXT,true,true,,,,
+Percent laden,load,TEXT,true,true,,,,
+CO2 emissions per unit distance,massCO2PerDistance,DECIMAL,true,false,kg,km,,
+Distance travelled,distance,DECIMAL,false,false,km,,,
+Vehicle occupancy,occupancy,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

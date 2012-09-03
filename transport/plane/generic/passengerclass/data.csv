@@ -1,0 +1,7 @@
+type,passengerClass,kgCO2PerPassengerKm,units,source,algorithm,default
+short haul,economy,0.0936,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+short haul,business,0.1405,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+long haul,economy,0.0819,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+long haul,economy plus,0.1311,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+long haul,business,0.2375,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+long haul,first,0.3276,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,

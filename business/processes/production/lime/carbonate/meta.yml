@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_lime_sector
+- lime
+- carbonate
+- IPCC
+- IPCC_industry
+- IPCC_industry_mineral
+- IPCC_tier3
+- calculation
+- direct
+- mass_balance
+- global
+- EPA
+- EPA_mandatory
+- EPA_mandatory_lime
+provenance: Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for lime production
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  calcinationFrac: "Fraction calcination achieved for carbonate (decimal fraction; 0-1). Default of 1.0 assumed if none explicitly specified"
+  carbonateType: "Type of carbonate"
+  EF: "Carbonate specific 'emissions factor'. The mass ratio of carbonate-sourced carbon to CO2 produced during calcination"
+  weightLkd: "Weight fraction of the carbonate type in lime kiln dust (decimal fraction; 0-1). If not specified, a default value of 1 is assumed, which implies that the entire quantity of lime kiln dust specified represents the carbonate type under consideration. If no specific data on the breakdown of lime kiln dust by carbonate type is available, the fractions of each type within the raw kiln feed can be used as a proxy measure"
+  lkdQuantity: "Quantity of lime kiln dust generated. By default, this quantity is assumed to represent the dust generated specifically in association with the carbonate type under consideration. Alternatively, this value can be used to represent the total quantity of lime kiln dust (i.e. across all carbonate types), with the fraction for the specific carbonate type under consideration specified separately."
+  formula: "Chemical formula for carbonate mineral"
+  defEF: "Default carbonate specific 'emission factor'. This is used if none is specified, and represents the mass ratio of carbonate-sourced carbon to CO2 produced during calcination"
+  carbonateQuantity: "Quantity of carbonate calcined"
+  source: 
+  lkdCalcFrac: "Fraction calcination achieved for carbonate type within lime kiln dust (decimal fraction; 0-1). Default of 1.0 assumed if none explicitly specified"
+wikiname: Lime_carbonate_composition
+usages:
+  default: { EF : optional, calcinationFrac : optional, lkdCalcFrac : optional }
+

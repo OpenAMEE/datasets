@@ -1,0 +1,40 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- business
+- manufacturing
+- electronics
+- calculation
+- emission_factor
+- direct
+- global
+- IPCC
+- IPCC_tier2
+- IPCC_industry_electronics
+- EPA
+- EPA_mandatory
+- EPA_mandatory_electronics
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  capturedFraction: Fraction of gas used with emissions capture technologies
+  massCF4PerMass: Emissions factor for by-product gas emissions
+  massCHF3PerMass: Emissions factor for by-product gas emissions
+  gas: Gas used
+  process: Type of process
+  massC3F8PerMass: Emissions factor for by-product gas emissions
+  destroyedFraction: "Fraction of gas used with emissions destruction technologies "
+  massPerMass: Emissions factor for primary gas
+  heelFraction: Fraction of gas remaining in shipping container
+  massUsed: Quantity of gas used
+  source: 
+  massC2F6PerMass: Emissions factor for by-product gas emissions
+  sector: Industrial sector
+wikiname: Etching_and_CVD_cleaning_in_the_Electronics_Industry
+usages:
+  default : { destroyedFraction : optional, capturedFraction : optional, heelFraction : optional }
+

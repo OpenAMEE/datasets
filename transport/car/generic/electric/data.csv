@@ -1,0 +1,3 @@
+size,kWhPerKm,units,source,algorithm
+small,0.155,kWh/km,based on www.goingreen.co.uk/store/content/gwiz_techspec and www.nicecarcompany.co.uk/assets/files/Prices and spec Sept 08/SCI 01-002a - MEGA City Prices and Specs.pdf,
+medium,0.243,kWh/km,based on www.nicecarcompany.co.uk/assets/files/Prices and spec Sept 08/SCI 01-002l - Ze-0 Prices and Specifications.pdf,

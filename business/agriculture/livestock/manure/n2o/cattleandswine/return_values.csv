@@ -1,0 +1,4 @@
+label,type,unit,per_unit,default
+N2O,DECIMAL,kg,year,false
+CO2e,DECIMAL,kg,year,true
+comment,TEXT,,,false

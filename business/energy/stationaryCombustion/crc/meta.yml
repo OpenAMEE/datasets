@@ -1,0 +1,30 @@
+--- 
+data_items: []
+
+tags: 
+- CRC
+- fuel
+- energy
+- business
+- UK
+- stationary
+- calculation
+- direct
+- emission_factors
+provenance: "[[http://www.decc.gov.uk/en/content/cms/what_we_do/lc_uk/crc/user_guidance/user_guidance.aspx|January 2010 CRC factors]], [[http://www.decc.gov.uk/en/content/cms/consultations/crc/crc.aspx|March 2009 Draft Consultation]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  massCO2PerMass: emission factor used if a mass is entered
+  basis: 
+  fuel: select the //**fuel**// from the data options below
+  volumeUsed: enter //either// the energy, mass or volume used
+  energyUsed: enter //either// the energy, mass or volume used
+  massCO2PerVolume: emission factor used if a volume is entered
+  massUsed: enter //either// the energy, mass or volume used
+  source: 
+  massCO2PerEnergy: emission factor used if an energy is entered
+wikiname: CRC_Fuel_Energy
+usages:
+  default: {volumeUsed : optional, energyUsed : optional, massUsed : optional}

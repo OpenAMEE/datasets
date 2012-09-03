@@ -1,0 +1,12 @@
+name,Ship Generic DEFRA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+kgCO2 Per Passenger Km,kgCO2PerKmPassenger,DECIMAL,true,false,,,,
+kgCO2e Per Passenger Km For CH4,kgCO2ePerKmForCH4,DECIMAL,true,false,,,,
+kgCO2e Per Passenger Km For N2O,kgCO2ePerKmForN2O,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Distance per journey,distancePerJourney,DECIMAL,false,false,km,,,
+Is return,isReturn,TEXT,false,false,,,,
+Number of journeys,numberOfJourneys,DECIMAL,false,false,,,1,
+Number of passengers,numberOfPassengers,DECIMAL,false,false,,,,

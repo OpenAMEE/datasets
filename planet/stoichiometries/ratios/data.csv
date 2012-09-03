@@ -1,0 +1,16 @@
+fromTo,ratio,units,source
+CarbonToCo2,3.666667,none,none
+CokeToCh4,0.035,none,none
+Ch4ToCo2,2.75,none,none
+Na2Co3ToCo2,0.415094,none,none
+CaCo3ToCo2,0.43971,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf
+N2O-NtoN2O,1.5714286,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+ureaToCarbon,0.2,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol1.html
+MagnesiteToCO2,0.52197,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf
+DolomiteToCO2,0.47732,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf
+SideriteToCO2,0.37987,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf
+AnkeriteToCO2,0.44197,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf
+RhodochrositeToCO2,0.38286,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf
+CalciumOxideToCO2,0.785714286,none,http://www.ghgprotocol.org/downloads/calcs/aluminium.pdf
+CalciumHydroxideToCO2,0.594594595,none,http://www.ghgprotocol.org/downloads/calcs/aluminium.pdf
+CaCO3ToCaO,0.5603,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf

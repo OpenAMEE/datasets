@@ -1,0 +1,12 @@
+name,Manure N2O fur
+algFile,default.js
+name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Livestock type,livestockType,TEXT,true,true,,,,
+Management type,managementType,TEXT,true,true,,,,
+Management subtype,managementSubtype,TEXT,true,true,,,,
+N excretion rate,massNExcretedPerHeadPerTime,DECIMAL,true,false,kg,year,,
+Direct manure-N to N2O-N conversion factor,massN2OPerMassNDirect,DECIMAL,true,false,kg,kg,,
+Volatilized fraction,fractionVolatilised,DECIMAL,true,false,,,,
+Volatilised-N to N2O-N conversion factor,massN2OPerMassNVolatilised,DECIMAL,true,false,kg,kg,,
+Livestock population size,livestockNumber,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

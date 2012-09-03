@@ -1,0 +1,22 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: "[[http://www.bre.co.uk|BRE]],[[http://www.nef.org.uk|NEF]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  homeAge: 
+  homeFuel: 
+  homeNoOfBedrooms: 
+  type: 
+  kgCO2PerYear: 
+  homeDwellingType: 
+  source: 
+wikiname: Heating

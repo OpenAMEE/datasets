@@ -1,0 +1,6 @@
+state=UT&type=non+baseload
+massOzoneSeasonNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),5.716
+2005-01-01T00:00:00+00:00 (GMT),5.0178
+2007-01-01T00:00:00+00:00 (GMT),3.2018

@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- car
+- calculation
+- emission_factor
+- UK
+- direct
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  occupants: number of people in the car
+  totalFuelConsumed: total amount of fuel used over entire journey
+  kgCO2PerKm: CO2 emission factor
+  fuel: 
+  kgCO2ePerKmForN2O: N2O emission factor
+  type: "type of car "
+  numberOfJourneys: 
+  ownFuelConsumption: fuel consumption rate measured by user, if available
+  source: 
+  distance: 
+  kgCO2ePerKmForCH4: CH4 emission factor
+wikiname: Car_Defra_By_Type
+usages:
+  byDistance: {  occupants : optional, ownFuelConsumption : optional, numberOfJourneys : optional, totalFuelConsumed : forbidden }
+  byFuel: { distance : ignored, occupants : ignored, ownFuelConsumption : ignored, numberOfJourneys : ignored }
+  order: [ byDistance, byFuel ]

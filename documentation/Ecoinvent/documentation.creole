@@ -1,0 +1,21 @@
+The swiss centre for life cycle inventories ([[http://www.ecoinvent.org/|//ecoinvent Centre//]]) produces one of the worlds leading international databases on Life Cycle Inventory (LCI) data. Created in 1997, it is a competence centre of the //Swiss Federal Institute of Technology// [[http://www.ethz.ch/index_EN|Zürich]] and [[http://www.epfl.ch/|Lausanne]], the [[http://www.psi.ch/index_e.shtml|Paul Scherrer Institute]], the [[http://www.empa.ch/|Swiss Federal Laboratories for Materials Testing and Research]], and the [[http://www.agroscope.admin.ch/aktuell/index.html?lang=de|Swiss Federal Research Station Agroscope Reckenholz-Tänikon]]. 
+
+The core product of the //ecoinvent Centre// is the [[http://www.ecoinvent.org/database/|//ecoinvent database//]] and is compiled from high quality LCI datasets, internationally renowned research institutes, industry data, and LCA consultants. It contains more than 4000 LCI datasets covering the areas of agriculture, energy supply, transport, biofuels and biomaterials, bulk and speciality chemicals, construction materials, packaging materials, basic and precious metals, metals processing, ICT and electronics as well as waste treatment. 
+
+The //ecoinvent database// (currently at version 2.2) offers comprehensive, science-based life cycle assessment, management data and services with an international scope.
+
+//Further information on Life Cycle Assessment can be found [[Life_Cycle_Assessment|here]]//.
+----
+
+==Ecoinvent Data==
+
+//Ecoinvent// data is expressed using [[Ecoinvent_Elementary_flows|elementary flows]], [[Ecoinvent_Elementary_flow_groups|elementary flow groups]], and [[Ecoinvent_process_data|process level data]]. 
+
+Further information can be found by following each link to their respective AMEEdiscover page or you can access //ecoinvent// data simply by entering a word or words of interest in the search box at the top of AMEEdiscover. 
+
+If using the AMEE API, all //ecoinvent// datasets can be accessed in the [[EcoSpold|Ecospold]] data format. Ecospold is compatible with all major LCA and eco-design software tools.
+
+AMEE provides the entire //ecoinvent database v2.2//, accessible using the AMEE API or AMEEdiscover.
+----
+
+**Ecoinvent in AMEE is a proprietary dataset and is accessed under subscription. To subscribe, contact sales@amee.com.**

@@ -1,0 +1,6 @@
+state=ID&type=total
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),0.186
+2005-01-01T00:00:00+00:00 (GMT),0.1753
+2007-01-01T00:00:00+00:00 (GMT),0.2512

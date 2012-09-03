@@ -1,0 +1,10 @@
+name,Refrigeration Operation
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Equipment,type,TEXT,true,true,,,,
+Annual Percentage Leak Rate,annualLeakRate,DECIMAL,true,false,,year,,
+Equipment Charge Capacity,equipmentChargeCapacity,DECIMAL,false,false,kg,,,
+Refrigerant Type,refrigerantType,TEXT,false,false,,,,
+Number of Units,numberOfUnits,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,
+Time Used During Reporting Period,timeUsed,DECIMAL,false,false,year,,,

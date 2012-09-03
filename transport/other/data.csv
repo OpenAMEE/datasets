@@ -1,0 +1,5 @@
+type,kgCO2PerKm,kgCO2PerLaunch,units,source
+walking,0,0,kgCO2/km,N/A
+cycling,0,0,kgCO2/km,N/A
+space shuttle,0,0,kgCO2/launch,N/A
+ariane 5 ECA,0,0,kgCO2/launch,N/A

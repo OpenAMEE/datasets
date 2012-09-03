@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- agriculture
+- IPCC
+- IPCC_agriculture
+- IPCC_agriculture_livestock
+- IPCC_tier1
+- livestock
+- manure
+- N2O
+- fur
+- calculation
+- direct
+- emission_factor
+- physical_properties
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_10_Ch10_Livestock.pdf|IPCC]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  livestockNumber: Total number of livestock (head count) under consideration
+  managementSubtype: Subtype of manure management employed
+  massNExcretedPerHeadPerTime: The typical daily quantity of manure-N produced per head of livestock
+  fractionVolatilised: The fraction of manure-N which is typically volatilised
+  managementType: Type of manure management employed
+  livestockType: Type of livestock
+  source: 
+  massN2OPerMassNDirect: The rate at which manure-N is directly converted to N,,2,,O-N
+  massN2OPerMassNVolatilised: The rate at which volatilised manure-N is converted to N,,2,,O-N
+wikiname: Fur_bearing_livestock_manure_nitrous_oxide_emissions
+name: "IPCC methodology for manure sourced nitrous oxide - fur-bearing livestock"

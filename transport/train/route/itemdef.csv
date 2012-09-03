@@ -1,0 +1,12 @@
+name,Train Route,,,,,,,
+algFile,default.js,,,,,,,
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
+Station 1,station1,TEXT,false,false,,,,
+Station 2,station2,TEXT,false,false,,,,
+Total Distance,totalDistance,DECIMAL,false,false,km,,,
+Train type,trainType,TEXT,false,false,,,,
+Percentage occupied,occupancy,DECIMAL,false,false,,,31,
+Number of passengers,passengers,DECIMAL,false,false,,,1,
+Leg Detail,legDetail,TEXT,false,false,,,,

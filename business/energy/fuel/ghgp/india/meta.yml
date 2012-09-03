@@ -1,0 +1,30 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+tags: 
+- GHGP
+- india
+- biomass
+- biogenic
+- calculation
+- direct
+- emission_factor
+- GHGP_custom
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  mass: Mass of biomass burned
+  carbonContent: Carbon content of biomass (percent by weight)
+  energy: Energy consumed during the combustion of biomass
+  type: Type of biomass
+  netCalorificValue: Energy content of the biomass
+  source: 
+  massCO2PerEnergy: "CO,,2,, emission intensity"
+wikiname: Biomass_India
+name: "Biomass combustion in India"
+usages:
+  byMass : { energy : forbidden }
+  byEnergy : { mass : ignored }
+  order : [ byMass, byEnergy]

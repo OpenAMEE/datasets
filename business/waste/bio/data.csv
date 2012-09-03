@@ -1,0 +1,3 @@
+type,massCH4PerDryMass,massCH4PerWetMass,massN2OPerDryMass,massN2OPerWetMass,units,source
+composting,10.0,4.0,0.6,0.3,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_4_Ch4_Bio_Treat.pdf
+anaerobic digestion,2.0,1.0,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_4_Ch4_Bio_Treat.pdf

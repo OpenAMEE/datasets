@@ -1,0 +1,13 @@
+"type","kgCO2PerKWh","kgCO2PerLitre","kgCO2PerKg","units","source","algorithm","default"
+"gas","0.2037","0.0020091","2.6935","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls","value*user_gas_kWh",
+"oil","0.2585","2.5319","3.1497","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls","value*user_oil_litres",
+"coal","0.3114",,"2.5063","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls","value*user_coal_kg",
+"coking coal","0.349",,"2.810","N/A","defra/amee 2008","value*user_coal_kg",
+"petrol","0.2573","2.3035","3.1351","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls","value*user_petrol_litres",
+"diesel","0.2748","2.6391","3.1643","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls","value*user_diesel_litres",
+"kerosene","0.2584","2.5278","3.1496","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls","value*user_kerosene_litres",
+"biodiesel",,"2.5000",,"N/A","net CV RME-type Wells to wheels/European Commission/JRC 2006 http://ies.jrc.ec.europa.eu/our-activities/support-to-eu-policies/well-to-wheels-analysis/WTW.html","value*user_biodiesel_litres",
+"lpg","0.2255","1.4951","2.9424","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls","value*user_LPG_litres",
+"biomass","0.0263",,"0.1215","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls","value*user_biomass_kg",
+"electricity",,,,"N/A","uses data in /home/energy/electricity","value*user_biomass_kg",
+"gas gross CV","0.1836","0.0018102","2.4269","N/A","http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls",,

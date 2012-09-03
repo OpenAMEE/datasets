@@ -1,0 +1,3 @@
+   The AMEE category /transport/train/route/stations contains details of train stations which are used in the [[Train_Route|Train route]] category. 
+
+At present only a single subcategory exists which contains information on over 2800 UK train stations, including //latitude// and //longitude//, //station codes// and //postal codes//. This category is for reference only - being utilised by the category [[Train_Route|/transport/train/route]] for establishing journey distances - and therefore profile items should not be created.

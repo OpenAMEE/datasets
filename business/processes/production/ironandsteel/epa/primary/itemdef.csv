@@ -1,0 +1,22 @@
+name,Primary Iron and steel EPA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Quantity of carbonate flux,fluxQuantity,DECIMAL,false,false,t,,,
+Purity of carbonate flux,fluxPurity,DECIMAL,false,false,,,1.0,
+Carbon content of flux,fluxCarbon,DECIMAL,false,false,t,t,0.12,
+Quantity of steel sold,steelQuantity,DECIMAL,false,false,t,,0,
+Carbon content of steel,steelCarbon,DECIMAL,false,false,t,t,0.0032,
+Quantity of iron sold,ironQuantity,DECIMAL,false,false,t,,0,
+Carbon content of iron,ironCarbon,DECIMAL,false,false,t,t,0.04,
+Quantity of coke sold,cokeQuantity,DECIMAL,false,false,ton_us,,0,
+Carbon content of coke,cokeCarbon,DECIMAL,false,false,kg,ton_us,690.68,
+Quantity of tar sold,tarQuantity,DECIMAL,false,false,bbl,,0,
+Carbon content of tar,tarCarbon,DECIMAL,false,false,kg,bbl,136.83,
+Quantity of residual oil sold,oilQuantity,DECIMAL,false,false,bbl,,0,
+Carbon content of residual oil,oilCarbon,DECIMAL,false,false,kg,bbl,135.11,
+Quantity of coke oven gas sold,cokeOvenGasQuantity,DECIMAL,false,false,ft^3,,0,
+Carbon content of coke oven gas,cokeOvenGasCarbon,DECIMAL,false,false,kg,ft^3,0.00653,
+Quantity of blast furnace gas sold,blastFurnaceGasQuantity,DECIMAL,false,false,ft^3,,0,
+Carbon content of blast furnace gas,blastFurnaceGasCarbon,DECIMAL,false,false,kg,ft^3,0.00646,
+Source,source,TEXT,true,false,,,,

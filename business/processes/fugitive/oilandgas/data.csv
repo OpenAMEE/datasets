@@ -1,0 +1,154 @@
+type,subType,emissionSource,geographicContext,value,massCH4PerVolume,massN2OPerVolume,massCO2PerVolume,units,source
+gas distribution,-,-,developing countries,upper,0.002500000,,0.000140000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas distribution,-,-,developing countries,mean,0.001800000,,0.000095500,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas distribution,-,-,developed countries,,0.001100000,,0.000051000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas distribution,-,-,developing countries,lower,0.001100000,,0.000051000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,deep-cut extraction plants,flaring,developed countries,,0.000000072,0.000000012,0.000110000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,deep-cut extraction plants,flaring,developing countries,mean,0.000000086,0.000000047,0.000130000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,deep-cut extraction plants,flaring,developing countries,upper,0.000000099,0.000000081,0.000150000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,deep-cut extraction plants,flaring,developing countries,lower,0.000000072,0.000000012,0.000110000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,deep-cut extraction plants,fugitive,developing countries,lower,0.000011000,,0.000001600,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,deep-cut extraction plants,fugitive,developing countries,upper,0.000024000,,0.000003700,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,deep-cut extraction plants,fugitive,developing countries,mean,0.000017500,,0.000002650,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,deep-cut extraction plants,fugitive,developed countries,,0.000011000,,0.000001600,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,flaring,developed countries,,0.000002000,0.000000033,0.003000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,flaring,developing countries,lower,0.000002000,0.000000033,0.003000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,flaring,developing countries,upper,0.000002800,0.000000045,0.004100000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,flaring,developing countries,mean,0.000002400,0.000000039,0.003550000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,fugitive,developed countries,mean,0.000590000,,0.000166000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,fugitive,developing countries,lower,0.000150000,,0.000012000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,fugitive,developing countries,upper,0.000350000,,0.000028000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,fugitive,developed countries,lower,0.000150000,,0.000012000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,fugitive,developed countries,upper,0.001030000,,0.000320000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,fugitive,developing countries,mean,0.000250000,,0.000020000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,raw CO2 venting,developed countries,,,,0.040000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,raw CO2 venting,developing countries,upper,,,0.095000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,raw CO2 venting,developing countries,mean,,,0.067500000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,default weighted total,raw CO2 venting,developing countries,lower,,,0.040000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,flaring,developing countries,upper,0.000003300,0.000000074,0.004900000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,flaring,developing countries,lower,0.000002400,0.000000054,0.003600000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,flaring,developing countries,mean,0.000002850,0.000000064,0.004250000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,flaring,developed countries,,0.000002400,0.000000054,0.003600000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,fugitive,developing countries,lower,0.000097000,,0.000007900,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,fugitive,developing countries,mean,0.000158500,,0.000012950,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,fugitive,developing countries,upper,0.000220000,,0.000018000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,fugitive,developed countries,,0.000097000,,0.000009700,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,raw CO2 venting,developing countries,lower,,,0.063000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,raw CO2 venting,developing countries,mean,,,0.106500000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,raw CO2 venting,developing countries,upper,,,0.150000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sour gas plants,raw CO2 venting,developed countries,,,,0.063000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,flaring,developing countries,mean,0.000001400,0.000000030,0.002150000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,flaring,developed countries,,0.000001200,0.000000028,0.001800000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,flaring,developing countries,lower,0.000001200,0.000000025,0.001800000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,flaring,developing countries,upper,0.000001600,0.000000034,0.002500000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,fugitive,developing countries,lower,0.000480000,,0.000150000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,fugitive,developing countries,mean,0.000790000,,0.000250000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,fugitive,developed countries,mean,0.000755000,,0.000235000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,fugitive,developed countries,upper,0.001030000,,0.000320000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,fugitive,developing countries,upper,0.001100000,,0.000350000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas processing,sweet gas plants,fugitive,developed countries,lower,0.000480000,,0.000150000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,flaring,-,developed countries,,0.000000760,0.000000021,0.001200000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,flaring,-,developing countries,lower,0.000000760,0.000000021,0.001200000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,flaring,-,developing countries,mean,0.000000880,0.000000025,0.001400000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,flaring,-,developing countries,upper,0.000001000,0.000000029,0.001600000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,fugitive,-,developing countries,lower,0.000340000,,0.000014000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,fugitive,-,developing countries,mean,0.012170000,,0.000097000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,fugitive,-,developing countries,upper,0.024000000,,0.000180000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,fugitive,-,developed countries,lower,0.000380000,,0.000014000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,fugitive,-,developed countries,mean,0.001340000,,0.000048000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas production,fugitive,-,developed countries,upper,0.002300000,,0.000082000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,storage,-,developing countries,lower,0.000025000,,0.000000110,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,storage,-,developing countries,mean,0.000041500,,0.000000185,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,storage,-,developed countries,,0.000025000,,0.000000110,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,storage,-,developing countries,upper,0.000058000,,0.000000260,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,fugitive,developing countries,mean,0.000633000,,0.000001440,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,fugitive,developing countries,upper,0.001100000,,0.000002000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,fugitive,developing countries,lower,0.000166000,,0.000000880,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,fugitive,developed countries,lower,0.000066000,,0.000008800,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,fugitive,developed countries,upper,0.000480000,,0.000008800,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,fugitive,developed countries,mean,0.000273000,,0.000008800,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,venting,developed countries,mean,0.000182000,,0.000003100,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,venting,developed countries,upper,0.000320000,,0.000003100,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,venting,developing countries,mean,0.000392000,,0.000005200,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,venting,developed countries,lower,0.000044000,,0.000003100,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,venting,developing countries,upper,0.000740000,,0.000007300,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+gas transmission and storage,transmission,venting,developing countries,lower,0.000044000,,0.000003100,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+natural gas liquids transport,condensing,-,developed countries,,0.110000000,,0.007200000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+natural gas liquids transport,condensing,-,developing countries,,0.110000000,,0.007200000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+natural gas liquids transport,liquefied petroleum gas,-,developing countries,,,0.000002200,0.430000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+natural gas liquids transport,liquefied petroleum gas,-,developed countries,,,0.000002200,0.430000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,flaring,developing countries,lower,0.025000000,0.000640000,41.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,flaring,developing countries,mean,0.029500000,0.000760000,48.500000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,flaring,developed countries,,0.002500000,0.000000640,41.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,flaring,developing countries,upper,0.034000000,0.000880000,56.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,offshore fugitive,developed countries,,0.000000590,,0.000000043,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,offshore fugitive,developing countries,,0.000590000,,0.000043000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,onshore fugitive,developing countries,mean,30.000750000,,2.150055000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,onshore fugitive,developed countries,lower,0.001500000,,0.000000110,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,onshore fugitive,developing countries,upper,60.000000000,,4.300000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,onshore fugitive,developing countries,lower,0.001500000,,0.000110000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,onshore fugitive,developed countries,upper,3.600000000,,0.000260000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,onshore fugitive,developed countries,mean,1.800750000,,0.000130055,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,venting,developed countries,,0.072000000,,0.000095000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,venting,developing countries,lower,0.720000000,,0.095000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,venting,developing countries,upper,0.990000000,,0.130000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,conventional oil,venting,developing countries,mean,0.855000000,,0.112500000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,flaring,developing countries,upper,0.029000000,0.000740000,47.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,flaring,developing countries,mean,0.025000000,0.000640000,40.500000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,flaring,developed countries,,0.021000000,0.000540000,34.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,flaring,developing countries,lower,0.021000000,0.000540000,34.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,fugitive,developing countries,mean,19.600000000,,2.490000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,fugitive,developing countries,lower,2.200000000,,0.280000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,fugitive,developed countries,,2.200000000,,0.280000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,fugitive,developing countries,upper,37.000000000,,4.700000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,venting,developed countries,,8.700000000,,1.800000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,venting,developing countries,mean,10.350000000,,2.150000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,venting,developing countries,upper,12.000000000,,2.500000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,default weighted total,venting,developing countries,lower,8.700000000,,1.800000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,flaring,developing countries,lower,0.140000000,0.000460000,22.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,flaring,developing countries,mean,0.165000000,0.000545000,26.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,flaring,developed countries,,0.140000000,0.000460000,22.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,flaring,developing countries,upper,0.190000000,0.000630000,30.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,fugitive,developing countries,mean,68.950000000,,4.770000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,fugitive,developed countries,,7.900000000,,0.540000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,fugitive,developing countries,lower,7.900000000,,0.540000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,fugitive,developing countries,upper,130.000000000,,9.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,venting,developed countries,,17.000000000,,5.300000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,venting,developing countries,upper,23.000000000,,7.300000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,venting,developing countries,lower,17.000000000,,5.300000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,heavy oil/cold bitumen,venting,developing countries,mean,20.000000000,,6.300000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,synthetic crude,oil sands,developing countries,lower,2.300000000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,synthetic crude,oil sands,developing countries,mean,20.150000000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,synthetic crude,oil sands,developing countries,upper,38.000000000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,synthetic crude,oil sands,developed countries,,2.300000000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,flaring,developing countries,lower,0.016000000,0.000240000,27.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,flaring,developing countries,mean,0.019000000,0.000285000,32.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,flaring,developed countries,,0.016000000,0.000240000,27.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,flaring,developing countries,upper,0.022000000,0.000330000,37.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,fugitive,developing countries,lower,0.180000000,,0.029000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,fugitive,developed countries,,0.180000000,,0.029000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,fugitive,developing countries,upper,3.000000000,,0.480000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,fugitive,developing countries,mean,1.590000000,,0.254500000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,venting,developing countries,upper,4.800000000,,0.300000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,venting,developing countries,mean,4.150000000,,0.260000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,venting,developed countries,,3.500000000,,0.220000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil production,thermal oil production,venting,developing countries,lower,3.500000000,,0.220000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil refining,-,-,developed countries,upper,0.041000000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil refining,-,-,developed countries,mean,0.021800000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil refining,-,-,developed countries,lower,0.002600000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil transport,pipeline,-,developing countries,,0.005400000,,0.000490000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil transport,pipeline,-,developed countries,,0.005400000,,0.000490000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil transport,tanker trucks and rail cars,-,developed countries,,0.025000000,,0.002300000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+oil transport,tanker trucks and rail cars,-,developing countries,,0.025000000,,0.002300000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well drilling,-,-,developing countries,mean,0.296500000,,0.900000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well drilling,-,-,developing countries,upper,0.560000000,,1.700000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well drilling,-,-,developed countries,,0.033000000,,0.100000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well drilling,-,-,developing countries,lower,0.033000000,,0.100000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well servicing,-,-,developing countries,upper,1.800000000,,0.032000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well servicing,-,-,developing countries,lower,0.110000000,,0.001900000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well servicing,-,-,developing countries,mean,0.955000000,,0.016950000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well servicing,-,-,developed countries,,0.110000000,,0.001900000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well testing,-,-,developed countries,,0.051000000,0.000068000,9.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well testing,-,-,developing countries,lower,0.051000000,0.000068000,9.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well testing,-,-,developing countries,upper,0.850000000,0.001100000,150.000000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+well testing,-,-,developing countries,mean,0.450500000,0.000584000,79.500000000,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf

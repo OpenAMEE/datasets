@@ -1,0 +1,37 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- passenger
+- mobile
+- taxi
+- distance
+- actonco2
+- calculation
+- emission_factor
+- direct
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  country: Country in which journey occurred
+  numberOfPassengers: Number of passengers under consideration
+  distancePerJourney: 
+  isReturn: Set "true" if return journey
+  type: Taxi type
+  distanceKmPerMonth: Distance travelled per month
+  typicalJourneyDistance: 
+  kgCO2PerPassengerKmIE: CO,,2,, emissions factor in Ireland
+  kgCO2PerKmPassenger: CO,,2,, emissions factor
+  useTypicalDistance: Set "true" to use typical distance for taxi type
+  journeyFrequency: 
+  numberOfJourneys: 
+  source: 
+  distance: Distance travelled
+wikiname: Per_passenger_taxi_transport
+usages:
+  byAbsoluteDistance: { country : optional, numberOfPassengers : optional, distancePerJourney : ignored, journeyFrequency : ignored, isReturn : ignored, numberOfJourneys : ignored, useTypicalDistance : ignored }
+  byMultipleJourneys: { country : optional, numberOfPassengers : optional, distance : forbidden, isReturn : optional, useTypicalDistance : optional }
+  order: [ byAbsoluteDistance, byMultipleJourneys ]

@@ -1,0 +1,31 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- aviation
+- plane
+- military
+- jet
+- fighter
+- bomber
+- IPCC
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  useRFI: 
+  volumeFuelPerTime: 
+  flightDuration: 
+  type: 
+  radiativeForcingIndex: 
+  description: 
+  source: 
+wikiname: IPCC_military_aircraft
+usages:
+  default: { useRFI : optional, radiativeForcingIndex : optional }

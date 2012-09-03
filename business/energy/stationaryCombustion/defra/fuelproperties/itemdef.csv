@@ -1,0 +1,9 @@
+name, DEFRA fuel properties
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,fuel,TEXT,true,true,,,,
+Net calorific (lower heating) value,netEnergyPerMass,DECIMAL,true,false,GJ,t,,
+Gross calorific (higher heating) value,grossEnergyPerMass,DECIMAL,true,false,GJ,t,,
+Density (mass per volume),massPerVolume,DECIMAL,true,false,kg,m^3,,	
+Density (volume per mass),volumePerMass,DECIMAL,true,false,L,t,,
+Source,source,TEXT,true,false,,,,

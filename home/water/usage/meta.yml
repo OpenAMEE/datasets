@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- water
+- calculation
+- lca
+- indirect
+- emission_factor
+- UK
+provenance: "http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf   \t   "
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  usesPerDay: Number of uses per day
+  type: Type of water consuming activity
+  litresPerDay: Water consumption rate (per day)
+  litresPerMinute: Water consumption rate (per minute)
+  litresPerUse: Volume water used per activity
+  source: 
+  minutesPerDay: Total minutes usage per day
+wikiname: Usage
+usages:
+  default: { usesPerDay : optional, minutesPerDay : optional }
+
+

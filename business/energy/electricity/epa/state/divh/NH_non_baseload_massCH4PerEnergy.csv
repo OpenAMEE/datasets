@@ -1,0 +1,6 @@
+state=NH&type=non+baseload
+massCH4PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),null
+2005-01-01T00:00:00+00:00 (GMT),63.2423
+2007-01-01T00:00:00+00:00 (GMT),51.4553

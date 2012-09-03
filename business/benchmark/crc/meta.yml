@@ -1,0 +1,26 @@
+--- 
+data_items: []
+
+tags: 
+- CRC
+- disclosure
+- benchmark
+- data
+- company
+- UK
+provenance: "[[http://crc.environment-agency.gov.uk/pplt/web/plt/public/2010-11/CRCPerformanceLeagueTable20102011|Environment Agency]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds:
+  organizationName: Name of the participant
+  registrationNumber: Registration number of the participant under the scheme
+  emissions: "Quantity of disclosed CO,,2,, emissions"
+  rank: The rank of the participant within the Performance League Table
+  tradingName: The trading name (if disclosed) of the participant
+  weightedScore: "The weighted score calculated for the participant. This is sum of each of the Early Action Metric, Absolute Metric, and Growth Metric, each multiplied by a specific weighting. Higher scores result in a better ranking."
+  earlyActionMetric: "The average of (1) The proportion of non-mandatory CRC electricity or gas measured through voluntarily installed 'automatic meter reading' meters or dynamic supply in year 1, and (2) The fraction of CRC emissions covered by the Carbon Trust Standard or an equivalent scheme."
+  absoluteMetric: The percentage change in the CRC Emissions of a participant over an annual reporting period.
+  growthMetric: The percentage change in CRC Emissions per unit turnover or revenue expenditure for an annual reporting year.
+wikiname: CRC_League_Table
+name: "Carbon Reduction Commitment League Table"

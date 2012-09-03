@@ -1,0 +1,17 @@
+typeOfAlloy,operationOfFurnace,massCH4PerMassProduct,units,source
+si-metal,unknown,1.2,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 90,unknown,1.1,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 75,unknown,1.0,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 65,unknown,1.0,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+si-metal,batch-charging,1.5,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 90,batch-charging,1.4,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 75,batch-charging,1.3,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 65,batch-charging,1.3,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+si-metal,sprinkle-charging,1.2,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 90,sprinkle-charging,1.1,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 75,sprinkle-charging,1.0,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 65,sprinkle-charging,1.0,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+si-metal,sprinkle-charging and over 750 degrees C,0.7,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 90,sprinkle-charging and over 750 degrees C,0.6,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 75,sprinkle-charging and over 750 degrees C,0.5,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories
+fesi 65,sprinkle-charging and over 750 degrees C,0.5,none,2006 IPCC Guidlines for National Greenhouse Gas Inventories

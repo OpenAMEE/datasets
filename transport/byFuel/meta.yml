@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- mobile
+- fuel
+- GHGP
+- transport
+- coal
+- calculation
+- emission_factor
+- physical_properties
+- direct
+- global
+provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "0"
+authority: enterprise
+ivds: 
+  mass: Mass of fuel used
+  HVMass: Mass-based heatng value of fuel
+  NRG: Energy produced in combustions
+  fuel: Fuel type
+  EFNRGCO2: CO,,2,, per energy emissions factor
+  volume: Volume of fuel used
+  version: Emissions factor version
+  source: 
+  HVVolume: Volume-based heating value of fuel
+wikiname: Transport_fuel
+usages:
+  byEnergy: { volume : forbidden, mass : forbidden }
+  byMass: { volume : forbidden, NRG : forbidden }
+  byVolume: { NRG : forbidden, mass : forbidden }
+  order: [ byMass, byVolume, byEnergy ]

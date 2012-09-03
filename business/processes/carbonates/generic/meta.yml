@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+tags: 
+- carbonate
+- mineral
+- limestone
+- dolomite
+- EPA
+- EPA_mandatory
+- EPA_mandatory_carbonate
+- IPCC
+- IPCC_industry
+- IPCC_industry_mineral
+- IPCC_tier1
+- IPCC_tier2
+- calculation
+- direct
+- physical_properties
+- mass_balance
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf|IPCC-NGGIP]]"
+gallery: |-
+  <%= chart :x => "form" %>
+show: "1"
+authority: enterprise
+ivds: 
+  fractionDolomite: Fraction of carbonate which is dolomite. This can be specified on a case-by-case basis, but reverts to the default value when left unspecified. This should be specified as a decimal fraction  (i.e. 0-1)
+  mass: Mass of carbonate consumed
+  purity: Purity of carbonate. Default values are provided on the basis of the //form// of carbonate selection, but can be overridden where specific data is available
+  fractionLimestone: Fraction of carbonate which is limestone. This can be specified on a case-by-case basis, but reverts to the default value when left unspecified. This should be specified as a decimal fraction  (i.e. 0-1)
+  form: Form of carbonate
+  type: Type of carbonate
+  source: 
+wikiname: Generic_carbonate_consumption
+usages:
+  default : { fractionDolomite : optional, fractionLimestone : optional, purity : optional }
+name: "IPCC methodology for general carbonate calcination - tiers 1 and 2"

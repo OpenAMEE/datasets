@@ -1,0 +1,16 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- motorcycle
+- GHGP
+- passenger
+provenance: http://www.ghgprotocol.org/
+gallery: 
+show: "0"
+authority: 
+ivds: {}
+
+wikiname: Generic_motorcycle_GHGP

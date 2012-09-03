@@ -1,0 +1,9 @@
+name,Lime production (IAI)
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Quantity of quick lime produced,massQuickLimePerTime,DECIMAL,false,false,t,year,,
+Purity of quick lime,purityQuickLime,DECIMAL,false,false,,,0.95,
+Quantity of slaked lime produced,massSlakedLimePerTime,DECIMAL,false,false,t,year,,
+Purity of slaked lime,puritySlakedLime,DECIMAL,false,false,,,0.95,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,4 @@
+"vehicleType","kgCO2PerMile","gCH4PerMile","gN2OPerMile",units,source
+non-catalyst control,0.203,0.0672,0.0069,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+uncontrolled,0.203,0.0899,0.0087,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+control unknown,0.203,0.07,0.007,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

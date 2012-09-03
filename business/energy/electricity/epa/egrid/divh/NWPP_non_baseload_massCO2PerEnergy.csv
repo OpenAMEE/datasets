@@ -1,0 +1,6 @@
+region=NWPP&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1531.528
+2005-01-01T00:00:00+00:00 (GMT),1333.6351
+2007-01-01T00:00:00+00:00 (GMT),1279.5768

@@ -1,0 +1,12 @@
+type,size,kgCO2PerPassengerKm,kgCO2PerPassengerJourney,units,source,algorithm,default
+domestic,one way,0.0000,79.1730,kgCO2/pass.journey ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,value*user_numberOfJourneys
+domestic,return,0.0000,158.3460,kgCO2/pass.journey ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,value*user_numberOfJourneys
+short haul,one way,0.0000,108.9164,kgCO2/pass.journey ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,value*user_numberOfJourneys
+short haul,return,0.0000,217.8328,kgCO2/pass.journey ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,value*user_numberOfJourneys
+long haul,one way,0.0000,727.2804,kgCO2/pass.journey ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,value*user_numberOfJourneys
+long haul,return,0.0000,1454.5608,kgCO2/pass.journey ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,value*user_numberOfJourneys
+domestic,-,0.1710,0.0000,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+short haul,-,0.0983,0.0000,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+long haul,-,0.1122,0.0000,kgCO2/pass.km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+auto,one way,-1.0,0,N/A,N/A,,
+auto,return,-1.0,0,N/A,N/A,,

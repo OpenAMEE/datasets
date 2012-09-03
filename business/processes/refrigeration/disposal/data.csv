@@ -1,0 +1,11 @@
+type,capacityRemainingAtDisposal,refrigerantRecovered,units,source
+"domestic refrigeration",80,99.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"stand-alone commercial applications",80,94.5,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"medium and large commercial applications",100,95.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"transport refrigeration",50,94.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"industrial refrigeration (inc. food processing and cold storage)",100,95.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"chillers",100,95.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial a/c including heat pumps",80,95.0,none,2010 http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial a/c",80,95.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial heat pumps",80,99.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"mobile air conditioning ",50,88.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting

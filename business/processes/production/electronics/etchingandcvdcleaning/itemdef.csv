@@ -1,0 +1,16 @@
+name,Electronics etching and cvd cleaning
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Industry sector,sector,TEXT,true,true,,,,
+Process,process,TEXT,true,true,,,,
+Gas,gas,TEXT,true,true,,,,
+Primary gas emissions factor,massPerMass,DECIMAL,true,false,kg,kg,,
+CH4 by-product emissions factor,massCF4PerMass,DECIMAL,true,false,kg,kg,,
+C2F6 by-product emissions factor,massC2F6PerMass,DECIMAL,true,false,kg,kg,,
+C3F8 by-product emissions factor,massC3F8PerMass,DECIMAL,true,false,kg,kg,,
+CHF3 by-product emissions factor,massCHF3PerMass,DECIMAL,true,false,kg,kg,,
+Quantity of gas used,massUsed,DECIMAL,false,false,kg,,,
+Fraction used with destructive technologies,destroyedFraction,DECIMAL,false,false,,,0,
+Fraction used with capture technologies,capturedFraction,DECIMAL,false,false,,,0,
+Fraction remaining in shipping container,heelFraction,DECIMAL,false,false,,,0.1,
+Source,source,TEXT,true,false,,,,

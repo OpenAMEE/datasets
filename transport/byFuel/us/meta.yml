@@ -1,0 +1,41 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- fuel
+- GHGP
+- US
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  kgCO2PerUsGallon: Per fuel-quantity CO2 emissions factor
+  kgCH4PerUsGallon: Per fuel-quantity CH4 emissions factor
+  yearOfManufacture: Year of vehicle manufacture
+  transportSubType: Sub-type of transport
+  kgN2OPerUsGallon: Per fuel-quantity N2O emissions factor
+  transportType: Type of transport used
+  CO2eOrCO2: Chooses between calculations for CO2 or CO2e emissions
+  source: 
+  fuelType: Type of fuel used
+  fuelQuantity: "Quantity of fuel used "
+wikiname: US_transport_fuel

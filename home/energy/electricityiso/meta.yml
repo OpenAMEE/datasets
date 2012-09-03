@@ -1,0 +1,42 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- energy
+- electricity
+- country
+- iso
+- calculation
+- direct
+- emission_factor
+- global
+- international
+provenance: WBCSD 2006
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  lastReading: |
+    Previous meter reading - this is used to derive an energy consumption estimate
+
+  kWhReadingCurrent: 
+  country: Country ISO code
+  energyConsumption: |
+    Energy consumption estimate
+
+  kWhPerMonth: 
+  source: 
+  kgCO2PerKWh: |
+    CO,,2,, emissions factor
+
+  currentReading: |
+    Current meter reading - this is used to derive an energy consumption estimate
+
+  kWhReadingLast: 
+wikiname: Electricity_by_country_ISO_code
+usages:
+  byAbsoluteEnergyConsumption: { currentReading : forbidden, lastReading : forbidden }
+  byMeterReadings: { energyConsumption : forbidden }
+  order: [ byAbsoluteEnergyConsumption, byMeterReadings ]

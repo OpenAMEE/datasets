@@ -1,0 +1,6 @@
+region=RMPA&type=total
+massCH4PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),null
+2005-01-01T00:00:00+00:00 (GMT),22.8842
+2007-01-01T00:00:00+00:00 (GMT),23.6264

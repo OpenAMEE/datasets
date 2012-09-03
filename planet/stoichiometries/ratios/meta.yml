@@ -1,0 +1,18 @@
+--- 
+data_items: []
+
+tags: 
+- stoichiometries
+- ratios
+- data
+- physical_properties
+- global
+provenance: Based on data from http://www.ghgprotocol.org/calculation-tools/all-tools and http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+gallery: 
+show: "1"
+authority: recommended
+ivds: 
+  ratio: 
+  fromTo: 
+  source: 
+wikiname: Stoichiometries_ratios

@@ -1,0 +1,8 @@
+name,Soil N2O from managed organic soils
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Climatic context,context,TEXT,true,true,,,,
+Land use type,type,TEXT,true,true,,,,
+N2O-N conversion factor,massPerArea,DECIMAL,true,false,kg,ha,,
+Area managed,area,DECIMAL,false,false,ha,,,
+Source,source,TEXT,true,false,,,,

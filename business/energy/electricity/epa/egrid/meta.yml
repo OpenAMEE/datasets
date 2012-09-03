@@ -1,0 +1,37 @@
+---
+data_items: []
+
+tags: 
+- EPA
+- US
+- egrid
+- electricity
+- grid
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html|EPA-eGRID]]"
+gallery: |-
+  <img src="http://www.energystar.gov/istar/pmpam/help/EGRID_subregion_map.gif"/>
+  <%= chart :dependent => 'massCO2ePerEnergy' %> 
+show: "1"
+authority: enterprise
+ivds:
+  region: eGRID region code
+  type: Type of power
+  massNOxPerEnergy: Mass of nitrogen oxides emitted per unit quantity of electricity
+  massOzoneSeasonNOxPerEnergy: Mass of nitrogen oxides emitted per unit quantity of electricity during the ozone season (May-September)
+  massSO2PerEnergy: Mass of sulphur dioxide emitted per unit quantity of electricity
+  massCO2PerEnergy: Mass of carbon dioxide emitted per unit quantity of electricity
+  massCH4PerEnergy: Mass of methane emitted per unit quantity of electricity
+  massN2OPerEnergy: Mass of nitrous oxide emitted per unit quantity of electricity
+  massCO2ePerEnergy: Mass of CO,,2,,e emitted per unit quantity of electricity
+  massHgPerEnergy: Mass of mercury oxides emitted per unit quantity of electricity
+  regionName: Name of eGRID region, with reference to parent NERC region
+  gridRegion: Parent grid of region
+  energy: Quantity of electricity under consideration
+  includeTransmissionLosses: Set to true to include transmission losses, resulting in a calculation representing emissions associated with electricity consumed. Set to false to calculate emissions associated with electricity supplied to the grid
+name: "eGRID methodology for US electricity by eGRID region"
+wikiname: "EPA_eGRID_by_eGRID_region"
+usages:
+  default: {includeTransmissionLosses: optional}

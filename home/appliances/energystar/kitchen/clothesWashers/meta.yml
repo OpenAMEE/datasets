@@ -1,0 +1,20 @@
+--- 
+data_items: []
+
+provenance: http://www.energystar.gov/index.cfm?c=home.index
+tags: 
+- energy_star
+- appliances
+- US
+- kitchen
+- clothes_washer
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  model: 
+  brand: 
+  quantity: number of products to be included in calculation. Default of 1.
+  energyPerTime: CO2 emission factor for chosen product.
+  source: 
+wikiname: Kitchen_Clothes_Washers

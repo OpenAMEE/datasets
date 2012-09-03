@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- IPCC
+- IPCC_industry
+- IPCC_industry_metal
+- IPCC_tier1
+- IPCC_tier2
+- ferroalloy
+- methane
+- CH4
+- EPA
+- EPA_mandatory
+- EPA_mandatory_ferroalloy
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|IPCC-NGGIP]]"
+gallery: |-
+        <%= chart :x => "operationOfFurnace" %>
+show: "1"
+authority: enterprise
+ivds: 
+  typeOfAlloy: drill-down used to specify the type of alloy
+  massCH4PerMassProduct: emission factor for amount of CH4 per amount of product
+  productQuantity: user-supplied value for quantity of product produced
+  operationOfFurnace: drill-down used to specify the charging operation of the furnace
+  source: 
+wikiname: Ferroalloy_methane_emissions
+usages:
+  default: { massCH4PerMassProduct : optional }

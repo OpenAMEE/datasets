@@ -1,0 +1,2 @@
+   The business category contains information of particular interest to enterprise carbon accounting, in particular information taken from the World Resource Institute's GHG Protocol and Defra. For further information on [[Greenhouse_Gas_Protocol|Greenhouse Gas Protocol]] data please see that section.
+

@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- defra
+- stationary
+- combustion
+- biogenic
+- indirect
+- biomass
+- biogas
+- lca
+- calculation
+- emission_factor
+- defra_annex9
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fuel: Type of fuel
+  massBiogenicCO2ePerMass: Quantity of biogenic CO2 emissions per mass unit of fuel consumed
+  massIndirectCO2ePerMass: Quantity of indirect emissions per mass unit of fuel consumed (as CO,,2,,e)
+  massBiogenicCO2ePerEnergy: Quantity of biogenic CO2 emissions per energy unit of fuel consumed
+  massIndirectCO2ePerEnergy: Quantity of indirect emissions per energy unit of fuel consumed (as CO,,2,,e)
+  mass: Mass of fuel consumed
+  energy: Energy consumed
+wikiname: DEFRA_Biomass_fuel_methodology
+usages:
+  byMass: { energy : ignored }
+  byEnergy: { mass : forbidden }
+  order: [ byMass, byEnergy]

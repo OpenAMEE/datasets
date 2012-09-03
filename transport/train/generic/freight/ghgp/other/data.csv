@@ -1,0 +1,2 @@
+type,subtype,kgCO2PerTonneKm,gCH4PerShortTonMile,gN2OPerShortTonMile,units,source
+train,,0.014205201,0.002,0.0006,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

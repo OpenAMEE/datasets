@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- cement
+- IPCC
+- IPCC_tier1
+- IPCC_industry
+- IPCC_industry_mineral
+- EPA
+- EPA_mandatory
+- EPA_mandatory_cement
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf|IPCC-NGGIP]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  massCement: Quantity of cement produced
+  clinkerExports: Quantity of clinker exported
+  clinkerFraction: Fraction of clinker in cement
+  clinkerImports: Quantity of clinker imported for cement production
+  type: 
+  massPerMass: Default emissions factor for clinker production
+  source: 
+wikiname: IPCC_cement_production_based_on_production
+usages:
+  default: { clinkerImports : optional, clinkerExports : optional }
+

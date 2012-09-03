@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- mobile
+- distance
+- passenger
+- plane
+- GHGP
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "0"
+authority: enterprise
+ivds: 
+  type: Flight type
+  passengers: Number of passengers under consideration
+  source: 
+  cruising: Cruising emissions factor
+  takeOffAndLanding: LTO emissions factor
+  distance: Distance travelled
+wikiname: User_defined_plane_emissions
+usages:
+  default: { cruising : optional, takeOffAndLanding : optional }

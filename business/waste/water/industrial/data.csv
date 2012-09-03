@@ -1,0 +1,10 @@
+type,system,methaneConversionFactor,massPerMassCODMax,units,source
+untreated,sea,0.1,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+untreated,river,0.1,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+untreated,lake,0.1,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,well managed aerobic treatment plant,0,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,overloaded aerobic treatment plant,0.3,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,anaerobic sludge digester,0.8,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,anaerobic reactor,0.8,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,anaerobic shallow lagoon,0.2,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,anaerobic deep lagoon,0.8,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf

@@ -1,0 +1,12 @@
+name,Electricity
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,true,true,,,,
+kgCO2 Per KWh,kgCO2PerKWh,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Current Reading,currentReading,DECIMAL,false,false,kWh,year,0,
+Energy Consumption,energyConsumption,DECIMAL,false,false,kWh,year,,
+kWh Per Month,kWhPerMonth,DECIMAL,false,false,kWh,month,,
+kWh reading current,kWhReadingCurrent,DECIMAL,false,false,kWh,month,0,
+kWh reading last,kWhReadingLast,DECIMAL,false,false,kWh,month,0,
+Last Reading,lastReading,DECIMAL,false,false,kWh,year,0,

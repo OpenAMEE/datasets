@@ -1,0 +1,4 @@
+type,litresPerDay,units,source,algorithm,default
+install water meter,15,litres/day,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba
+fix dripping tap,15,litres/day,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba
+turn off tap when cleaning teeth shaving,12,litres/day,http://www.defra.gov.uk/environment/water/strategy/pdf/future-water.pdf,tba,tba

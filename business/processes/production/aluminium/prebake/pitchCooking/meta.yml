@@ -1,0 +1,45 @@
+--- 
+data_items: []
+
+tags: 
+- prebake
+- GHGP
+- GHGP_aluminum_sector
+- aluminium
+- IPCC
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_industry
+- IPCC_industry_metal
+- EPA
+- EPA_mandatory
+- EPA_mandatory_aluminum
+- climate_leaders
+- calculation
+- direct
+- mass_balance
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  greenWeight: Average weight of green anodes consumed in baking process
+  sulphurQuantity: Packing coke sulphur concentration (%). Default used if no facility-specific data are available
+  ashQuantity: Packing coke ash concentration (%). Default used if no facility-specific data are available
+  defTarQuantity: Default quantity of tar collected from furnace per unit of green anodes consumed. This is used if no facility-specific quantity of tar is available
+  tarQuantity: Quantity of waste tar collected from the furnace
+  anodeQuantity: Quantity of baked anodes produced
+  bakedWeight: Average weight of baked anodes produced in baking process
+  type: Type of furnace
+  defaultGwBwRatio: Default ratio of green/baked anode weights. This is used if facility specific data on green and baked anode weights is not available
+  cokeQuantity: Quantiy of packing coke consumed per unit of baked anode produced
+  hydContent: Green anode hydrogen concentration (%). Default used if no facility-specific data are available
+  source: 
+wikiname: Aluminium_prebake_pitchcooking
+name: "IPCC methodology for aluminium production CO2 emissions - anode prebaking"
+usages:
+  defaultWasteTarQuantity: { bakedWeight : optional, hydContent : optional, tarQuantity : optional, sulphurQuantity : optional, ashQuantity : optional, cokeQuantity : optional }
+  defaultAnodeWeight: { greenWeight : optional, bakedWeight : optional, hydContent : optional, sulphurQuantity : optional, ashQuantity : optional, cokeQuantity : optional }
+  order: [ defaultWasteTarQuantity, defaultAnodeWeight ]
+

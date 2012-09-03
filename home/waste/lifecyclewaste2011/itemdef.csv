@@ -1,0 +1,21 @@
+name,Waste Disposal Life-Cycle 2011
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Waste type,wasteType,TEXT,true,true,,,,
+Waste sub-type,wasteSubType,TEXT,true,true,,,,
+Production Emissions (avoidance excl disposal) CO2e, kgCO2eProductionEmissions,DECIMAL,true,false,kg,t,,
+kgCO2e emitted per tonne (preparation for) re-use,kgCO2ePreparationForReUse,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Disposed of by Closed Loop Recycling,kgCO2eDisposedByRecyclingClosedLoop,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Disposed of by Open Loop Recycling,kgCO2eDisposedByRecyclingOpenLoop,DECIMAL,true,false,kg,t,,
+Net kgCO2 Per Tonne Disposed of by Combustion,kgCO2eCombustion,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Treated by Anaerobic Digestion,kgCO2eAnaerobicDigestion,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Disposed of by Composting,kgCO2eDisposedByComposting,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Disposed of by Landfill,kgCO2eDisposedByLandfill,DECIMAL,true,false,kg,t,,
+Amount re-used,quantityReUse,DECIMAL,false,false,t,,0,
+Amount of Waste Disposed of by Closed Loop Recycling,quantityClosedLoop,DECIMAL,false,false,t,,0,
+Amount of Waste Disposed of by Open Loop Recycling,quantityOpenLoop,DECIMAL,false,false,t,,0,
+Amount of Waste Disposed of by Combustion,quantityCombustion,DECIMAL,false,false,t,,0,
+Amount of Waste Treated by Anaerobic Digestion,quantityAnaerobicDigestion,DECIMAL,false,false,t,,0,
+Amount of Waste Disposed of by Composting,quantityComposted,DECIMAL,false,false,t,,0,
+Amount of Waste Disposed of by Landfill,quantityLandfill,DECIMAL,false,false,t,,0,
+Source,source,TEXT,true,false,,,,

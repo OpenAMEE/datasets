@@ -1,0 +1,4 @@
+label,type,unit,per_unit,default
+SF6,DECIMAL,kg,,false
+CO2e,DECIMAL,kg,,true
+comment,TEXT,,,false

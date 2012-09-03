@@ -1,0 +1,13 @@
+       The AMEE category ///transport/motorcycle// contains data and methodologies for calculating greenhouse gas emissions associated with motorcycle transport. The category currently contains data on representative motorcycle types from two sources, as follows:
+
+
+==Generic car transport - DEFRA==
+The AMEE [[Motorcycle_generic_Defra|DEFRA Generic motorcycle transport]] category contains the most recently published [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]] data on greenhouse gas emissions associated with representative motorcycle types in UK. The methodology uses distance-based emissions factors, requiring the user to specify the distance travelled. This category includes CO,,2,,, CH,,4,, and N,,2,,O emissions as part of each calculation.
+
+==Generic car transport - IPCC==
+The category [[Generic_motorcycle_transport_IPCC|IPCC motorcycle transport]] contains data on motorcycle-associated emissions  sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/|Guidelines for National Greenhouse Gas Inventories]]. This category contains data and methodologies for European and US contexts and calclulates emissions on per vehicle/per passenger basis, using fuel consumption or a combination of fuel consumption, fuel efficiency and distance.
+
+==Generic car transport - GHG Protocol==
+The category [[Generic_motorcycle_GHGP|GHGP motorcycle transport]] contains data on motorcycle-associated emissions sourced from the latest World Resources Institute [[http://www.ghgprotocol.org/about-ghgp|Greenhouse Gas Protocol (GHGP)]] documentation. This category includes emissions methodologies for travel in several geographic contexts, on the basis of distance travelled. 
+
+

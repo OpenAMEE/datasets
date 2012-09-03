@@ -1,0 +1,13 @@
+name,Lime Manufacture - Carbonate Data
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Carbonate Type,carbonateType,TEXT,true,true,,,,
+Quantity of Carbonate,carbonateQuantity,DECIMAL,false,false,kg,,,
+Carbonate-specific Emission Factor,EF,DECIMAL,false,false,,,,
+Default Emission Factor,defEF,DECIMAL,true,false,,,,
+Fraction Calcination achieved for Carbonate,calcinationFrac,DECIMAL,false,false,,,1.0,
+Quantity of LKD,lkdQuantity,DECIMAL,false,false,kg,,,
+Weight Fraction of Original Carbonate in LKD,weightLkd,DECIMAL,false,false,,,1.0,
+Fraction Calcination achieved for LKD,lkdCalcFrac,DECIMAL,false,false,,,1.0,
+Chemical Formula,formula,TEXT,true,false,,,,
+Source,source,TEXT,true,false,,,,

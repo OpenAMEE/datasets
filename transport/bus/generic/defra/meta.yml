@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- bus
+- calculation
+- direct
+- UK
+- emission_factor
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  numberOfPassengers: 
+  distancePerJourney: 
+  isReturn: 
+  kgCO2ePerKmForN2O: 
+  type: 
+  kgCO2PerKmPassenger: 
+  numberOfJourneys: 
+  source: 
+  kgCO2ePerKmForCH4: 
+wikiname: Bus_generic_Defra
+usages:
+  default: { numberOfPassengers : optional, isReturn : optional, numberOfJourneys : optional }

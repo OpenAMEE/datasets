@@ -1,0 +1,30 @@
+--- 
+data_items: []
+
+tags: 
+- waste
+- combustion
+- IPCC
+- IPCC_tier1
+- IPCC_waste
+- IPCC_waste_bio
+- calculation
+- mass_balance
+- direct
+- global
+- industry
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  totalCarbonContent: Total carbon (fossil + recent) in waste by proportion
+  mass: Quantity of waste burned
+  oxidationFactor: Proportion of waste oxidised during combustion
+  type: Type of waste burned
+  fossilFraction: Fossil carbon in waste as a proportion of the total carbon
+  includeAllCarbon: This item is now deprecated
+  source: 
+wikiname: Other_waste_combustion
+usages:
+  default: { includeAllCarbon : forbidden }

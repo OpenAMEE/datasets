@@ -1,0 +1,40 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- defra
+- passenger
+- public
+- distance
+- plane
+- taxi
+- bus
+- train
+- ship
+- defra_annex6
+- calculation
+- emission_factor
+- direct
+- indirect
+- lca
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  type: Type of transport
+  subtype: Subtype of transport
+  class: Passenger class/mode
+  massCO2PerDistancePerPassenger: Quantity of direct CO,,2,, emissions per unit distance
+  massCH4PerDistancePerPassenger: Quantity of direct CH,,4,, emissions per unit distance (CO,,2,,e)
+  massN2OPerDistancePerPassenger: Quantity of direct N,,2,,O emissions per unit distance (CO,,2,,e)
+  massDirectCO2ePerDistancePerPassenger: Quantity of direct greenhouse gas emissions per unit distance (CO,,2,,e)
+  massIndirectCO2ePerDistancePerPassenger: Quantity of indirect greenhouse gas emissions per unit distance (CO,,2,,e)
+  massTotalCO2ePerDistancePerPassenger: Total quantity of greenhouse gas emissions per unit distance (CO,,2,,e)
+  distance: Distance travelled
+  passengers: Number of passengers
+wikiname: DEFRA_passenger_transport_methodology
+usages:
+  default: { passengers : optional }

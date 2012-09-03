@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- passenger
+- occupancy
+- car
+- distance
+- mobile
+- hydrogen
+- calculation
+- emission_factor
+- direct
+provenance: http://www.riversimple.com
+gallery: 
+show: "1"
+authority: unverified
+ivds: 
+  occupants: Number of vehicle occupants
+  massCO2PerDistance: Distance-based CO2 emissions factor
+  country: Country
+  line: Vehicle 'line' or model
+  manufacturer: Vehicle manufacturer
+  range: Vehicle range
+  fuelCapacity: Vehicle fuel capacity
+  fuelSystem: Fuel system type
+  source: 
+  distance: Distance travelled
+wikiname: Hydrogen_powered_cars
+usages:
+  default: { occupants : optional }

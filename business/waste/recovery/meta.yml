@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_pulp_and_paper_sector
+- pulp
+- paper
+- waste
+- recovery
+- methane
+- ICFPA
+- calculation
+- direct
+- mass_balance
+- global
+provenance: Based on the Pulp and Paper worksheet from [[http://www.ghgprotocol.org/calculation-tools/all-tools| GHGP]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  collectionEfficiency: Fraction of generated gas that is recovered by the collection system
+  fractionCollectedBurned: Fraction of recovered gas which is burned
+  methaneContent: Fraction of recovered gas that is methane
+  type: 
+  fractionUncollectedOxidising: Fraction of unrecovered gas which oxidises in situ
+  source: 
+  collected: Volume of gas recovered by the collection system (at standard density, 0.72 kg per cubic metre)
+  standardDensity: Standard density of methane
+wikiname: Landfill_emissions_based_on_methane_recovery
+name: "Landfill emissions based on methane recovery"
+usages:
+  default: { collectionEfficiency : optional, fractionCollectedBurned : optional, methaneContent : optional, fractionUncollectedOxidising : optional, standardDensity : optional }

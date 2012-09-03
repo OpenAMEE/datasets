@@ -1,0 +1,5 @@
+type,chemical,emisFact,units,source
+Pulp Mill,Sodium Carbonate,0.415,kgCO2/kgChemical,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Pulp Mill,Calcium Carbonate,0.44,kgCO2/kgChemical,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Flue gas desulphurization,Calcium Carbonate,0.44,kgCO2/kgChemical,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Flue gas desulphurization,Dolomite,0.477,kgCO2/kgChemical,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

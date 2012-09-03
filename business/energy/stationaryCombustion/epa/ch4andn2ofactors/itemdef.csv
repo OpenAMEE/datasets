@@ -1,0 +1,8 @@
+name,Stationary combustion EPA - CH4 and N2O factors
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,type,TEXT,true,true,,,,
+Burning context,context,TEXT,true,true,,,,
+CH4 emissions factor,massCH4PerEnergy,DECIMAL,true,false,g,MBTU_FiftyNineF,,
+N2O emissions factor,massN2OPerEnergy,DECIMAL,true,false,g,MBTU_FiftyNineF,,
+Source,source,TEXT,true,false,,,,

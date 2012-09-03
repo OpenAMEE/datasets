@@ -1,0 +1,5 @@
+type,kgCO2PerKmPassenger,kgCO2PerPassengerKmIE,typicalJourneyDistance,units,source,algorithm,default
+typical,0.1035,0.0772,7.7,kgCO2/km.passenger,UK: http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls (average bus); IE: Dublin Bus 2006 Via Agency.com (Based on diesel used and passenger km travelled),value*user_distance,
+local,0.1104,0.0772,7.7,kgCO2/km.passenger,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,value*user_distance,
+london,0.0830,0.0818,5.9,kgCO2/km.passenger,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,value*user_distance,
+coach,0.0300,0.0290,151,kgCO2/km.passenger,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,value*user_distance,

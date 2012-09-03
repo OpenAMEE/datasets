@@ -1,0 +1,13 @@
+name,GHGP freight transport
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Freighting type,type,TEXT,true,true,,,,
+Freighting subtype,subtype,TEXT,true,true,,,,
+Vehicle size,size,TEXT,true,true,,,,
+Region,region,TEXT,true,true,,,,
+CO2 emissions per unit distance,massCO2PerMassDistance,DECIMAL,true,false,kg,ton_us*mi,,
+CH4 emissions per unit distance,massCH4PerMassDistance,DECIMAL,true,false,g,ton_us*mi,,
+N2O emissions per unit distance,massN2OPerMassDistance,DECIMAL,true,false,g,ton_us*mi,,
+Distance freighted,distance,DECIMAL,false,false,mi,,,
+Quantity freighted,mass,DECIMAL,false,false,ton_us,,,
+Source,source,TEXT,true,false,,,,

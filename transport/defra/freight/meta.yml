@@ -1,0 +1,40 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- defra
+- distance
+- mass
+- plane
+- road
+- train
+- ship
+- light_goods
+- heavy_goods
+- defra_annex7
+- calculation
+- emission_factor
+- direct
+- indirect
+- lca
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  type: Type of transport
+  subtype: Subtype of transport
+  size: Size of freight vehicle
+  massCO2PerMassPerDistance: Quantity of direct CO,,2,, emissions per unit mass and unit distance
+  massCH4PerMassPerDistance: Quantity of direct CH,,4,, emissions per unit mass and unit distance (CO,,2,,e)
+  massN2OPerMassPerDistance: Quantity of direct N,,2,,O emissions per unit mass and unit distance (CO,,2,,e)
+  massDirectCO2ePerMassPerDistance: Quantity of direct greenhouse gas emissions per unit mass and unit distance (CO,,2,,e)
+  massIndirectCO2ePerMassPerDistance: Quantity of indirect greenhouse gas emissions per unit mass and unit distance (CO,,2,,e)
+  massTotalCO2ePerMassPerDistance: Total quantity of greenhouse gas emissions per unit mass and unit distance (CO,,2,,e)
+  distance: Distance freighted
+  mass: Mass of goods freighted
+  averageLoading: Proportion of vehicle which is typically laden (%)
+  averageMassGoods: Absolute quantity of goods typically freighted
+wikiname: DEFRA_freight_transport_methodology

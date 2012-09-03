@@ -1,0 +1,85 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- transport
+- corinair
+- aircraft
+- plane
+- fuel
+- calculation
+- emission_factor
+- direct
+- global
+provenance: http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  long2: Arrival location longitude
+  lat1: Departure location latitude
+  IATACode1: Departure airport IATA code
+  IATACode: IATA code for aicraft type
+  massFuelCruise463km: Cruise phase fuel consumption versus distance
+  massFuelCruise232km: Cruise phase fuel consumption versus distance
+  massFuelClimbOut1852km: Cruise phase fuel consumption versus distance
+  massFuelTakeOff4630km: Take-off fuel consumption versus flight distance
+  massFuelTaxiOut6482km: Taxiing out fuel consumption versus flight distance
+  lat2: Arrival location latitude
+  journeys: Number of flights
+  ICAOCode: ICAO code for aircraft type
+  massFuelTakeOff463km: Take-off fuel consumption versus flight distance
+  massFuelTakeOff232km: Cruise phase fuel consumption versus distance
+  IATACode2: Arrival airport IATA code
+  massFuelCruise4630km: Cruise phase fuel consumption versus distance
+  massFuelCruise3704km: Cruise phase fuel consumption versus distance
+  massFuelCruise926km: Cruise phase fuel consumption versus distance
+  massFuelClimbOut2778km: Cruise phase fuel consumption versus distance
+  massFuelTaxiOut5556km: Taxiing out fuel consumption versus flight distance
+  aircraft: Name of aircraft model
+  useRFI: Set to 'true', to use RF
+  massFuelClimbOut7408km: Cruise phase fuel consumption versus distance
+  massFuelTakeOff5556km: Take-off fuel consumption versus flight distance
+  massFuelTaxiOut1852km: Taxiing out fuel consumption versus flight distance
+  massFuelTaxiOut926km: Taxiing out fuel consumption versus flight distance
+  massFuelCruise5556km: Cruise phase fuel consumption versus distance
+  massFuelCruise1389km: Cruise phase fuel consumption versus distance
+  massFuelClimbOut3704km: Cruise phase fuel consumption versus distance
+  massFuelTakeOff1852km: Take-off fuel consumption versus flight distance
+  massFuelTaxiOut463km: Taxiing out fuel consumption versus flight distance
+  massFuelTaxiOut232km: Taxiing out fuel consumption versus flight distance
+  massFuelClimbOut463km: Cruise phase fuel consumption versus distance
+  massFuelClimbOut232km: Cruise phase fuel consumption versus distance
+  massFuelTakeOff1389km: Take-off fuel consumption versus flight distance
+  massFuelTakeOff926km: Take-off fuel consumption versus flight distance
+  massFuelTaxiOut2778km: Taxiing out fuel consumption versus flight distance
+  massFuelTaxiIn: Taxiing in fuel consumption
+  massFuelClimbOut4630km: Cruise phase fuel consumption versus distance
+  massFuelTakeOff6482km: Take-off fuel consumption versus flight distance
+  massFuelTakeOff2778km: Take-off fuel consumption versus flight distance
+  massFuelTaxiOut7408km: Taxiing out fuel consumption versus flight distance
+  massFuelTaxiOut1389km: Taxiing out fuel consumption versus flight distance
+  radiativeForcingIndex: Radiative forcing coefficient
+  massFuelCruise6482km: Cruise phase fuel consumption versus distance
+  massFuelCruise2778km: Cruise phase fuel consumption versus distance
+  massFuelApproach: Approach fuel consumption
+  massFuelClimbOut6482km: Cruise phase fuel consumption versus distance
+  massFuelTakeOff7408km: Take-off fuel consumption versus flight distance
+  massFuelTaxiOut3704km: Taxiing out fuel consumption versus flight distance
+  massFuelCruise7408km: Cruise phase fuel consumption versus distance
+  massFuelTakeOff3704km: Take-off fuel consumption versus flight distance
+  source: 
+  massFuelCruise1852km: Cruise phase fuel consumption versus distance
+  massFuelTaxiOut4630km: Taxiing out fuel consumption versus flight distance
+  long1: Departure location longitude
+  distance: Distance flown
+  massFuelClimbOut5556km: Cruise phase fuel consumption versus distance
+  massFuelClimbOut1389km: Cruise phase fuel consumption versus distance
+  massFuelClimbOut926km: Cruise phase fuel consumption versus distance
+wikiname: Specific_turboprop_aircraft
+usages:
+  byAbsoluteDistance: {  IATACode1 : forbidden, IATACode2 : forbidden, journeys : optional, lat1 : forbidden, lat2 : forbidden, long1 : forbidden, long2 : forbidden, useRFI : optional, radiativeForcingIndex : optional }
+  byAirportCode: { distance : ignored, journeys : optional, lat1 : forbidden, lat2 : forbidden, long1 : forbidden, long2 : forbidden, useRFI : optional, radiativeForcingIndex : optional }
+  byLatLong: { distance : ignored, IATACode1 : forbidden, IATACode2 : forbidden, journeys : optional, useRFI : optional, radiativeForcingIndex : optional }
+  order: [ byAbsoluteDistance, byAirportCode, byLatLong ]

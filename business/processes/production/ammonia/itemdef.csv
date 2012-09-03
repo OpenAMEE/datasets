@@ -1,0 +1,17 @@
+name,Ammonia
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Plant type,plant,TEXT,true,true,,,,
+Production process,prodProcess,TEXT,true,true,,,,
+Fuel type,fuel,TEXT,true,true,,,,
+Default fuel requirement per unit production,defFuelQuantity,DECIMAL,true,false,GJ,kg,,
+Default fuel carbon content,defCarbonContent,DECIMAL,true,false,kg,GJ,,
+Quantity of ammonia produced,nh3Quantity,DECIMAL,false,false,kg,,,
+Fuel requirement per unit production,fuelQuantity,DECIMAL,false,false,GJ,kg,,
+Total fuel requirement,totalFuelQuantity,DECIMAL,false,false,GJ,,,
+Fuel carbon content,carbonContent,DECIMAL,false,false,kg,GJ,,
+Fraction of carbon oxidised,oxidationFact,DECIMAL,false,false,,,1.0,
+Quantity of CO2 recovered for urea production,ureaProd,DECIMAL,false,false,kg,,,
+Quantity of CO2 recovered for storage,css,DECIMAL,false,false,kg,,0,
+Quantity of urea produced,quantityUrea,DECIMAL,false,false,kg,,,
+Source,source,TEXT,true,false,,,,

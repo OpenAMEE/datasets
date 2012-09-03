@@ -1,0 +1,129 @@
+  This category provides a simple screening method to allow users to estimate their greenhouse gas emissions from the **disposal** of refrigeration and air conditioning equipment. This methodology follows that from the latest [[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|Defra]] data and advice and is originally based on the methodologies published in association with the [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_7_Ch7_ODS_Substitutes.pdf|IPCC National Greenhouse Gas Inventory Programme]] and EPA [[http://www.epa.gov/climateleaders/documents/resources/mfgrfg.pdf|Climate Leaders]] initiative. 
+  
+The calculation method is based on assumptions relating to the type of unit being used, so requires minimal understanding of the complexities of the system being used. The user should enter information on any units disposed of on-site during the time period under consideration. Any units taken off-site for disposal are not the user's responsibility.
+
+Refrigerants differ in their specific physical (particularly thermal) properties and therefore exert a variable effect on atmospheric warming. As such, the absolute quantity of emissions for a given refrigerant type is converted into a standard measure of environmental impact - CO,,2,,e: the equivalent quantity of carbon dioxide (CO,,2,,) which would produce the same atmospheric warming effect. This conversion is made by multiplying the absolute emissions quantity by the [[Greenhouse_gases_Global_warming_potentials|'global warming potential']] (GWP) of the respective refrigerant - a value unique to the gas which represents its warming effect relative to CO,,2,,.   
+----
+
+==How to use this category==
+===Selecting an emissions scenario===
+Firstly use the drill-down //**type**// to select the type of equipment under assessment. This is chosen from the following options.
+
+* domestic refrigeration
+
+* stand-alone commercial applications
+
+* medium and large commercial applications
+
+* transport refrigeration
+
+* industrial refrigeration (inc. food processing and cold storage)
+
+* chillers
+
+* residential and commercial a/c including heat pumps
+
+* mobile air conditioning
+
+===Specifying activity data===
+The user must then enter the //**equipmentChargeCapacity**// (see the [[Refrigeration]] category for more guide values), and //**numberOfUnits**// profile item values. 
+
+Users can also specify the type of refrigerant using the //**refrigerantType**// profile item value. This value allows the appropriate //global warming potential// to be retrieved (from [[Greenhouse_gases_Global_warming_potentials|here]]) and a conversion of absolute emission to CO,,2,,e made. The refrigerant type must be selected from the following list.
+
+* CO2
+
+* HFC-23
+
+* HFC-32
+
+* HFC-41
+
+* HFC-125
+
+* HFC-134
+
+* HFC-134a
+
+* HFC-143
+
+* HFC-143a
+
+* HFC-152a
+
+* HFC-227ea
+
+* HFC-236fa
+
+* HFC-245fa
+
+* HFC-4310mee
+
+* CF4
+
+* C2F6
+
+* C3F8
+
+* C4F8
+
+* C4F10
+
+* C5F12
+
+* C6F14
+
+* R404a
+
+* R407c
+
+* R408a
+
+* R410a
+
+* R507
+
+* R508b
+
+* CFC-11
+
+* CFC-12
+
+* CFC-13
+
+* CFC-113
+
+* CFC-114
+
+* CFC-115
+
+* HCFC-22
+
+* HCFC-123
+
+* HCFC-124
+
+* HCFC-141b
+
+* HCFC-142b
+
+* HCFC-225ca
+
+* HCFC-225cb
+
+* R290
+
+* R600a
+
+* R406a
+
+* R409a
+
+* R502
+
+===Results and calculation===
+The quantities returned represent the greenhouse gas emissions associated with the quantities and refrigerant type specified. The following quantities are returned:
+
+* //**absoluteEmissions**//: absolute quantity of refrigerant emissions
+* //**CO2e**//: CO,,2,,e emissions (absolute emissions converted using the appropriate [[Greenhouse_gases_Global_warming_potentials|global warming potential]])
+
+If no //**refrigerantType**// is specified then only the absolute quantity of emissions can be calculated and the value for //**CO2e**// will be zero.

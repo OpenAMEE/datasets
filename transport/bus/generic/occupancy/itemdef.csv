@@ -1,0 +1,10 @@
+name,busByOccupancy
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Accounted passengers,accountedPassengers,DECIMAL,false,false,,,,
+Context,context,TEXT,true,true,,,,
+Distance,distance,DECIMAL,false,false,km,,,
+Distance per fuel volume,distancePerFuelVolume,DECIMAL,true,false,km,L,,
+Mass co2per fuel volume,massCO2perFuelVolume,DECIMAL,true,false,kg,L,,
+Occupancy,occupancy,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

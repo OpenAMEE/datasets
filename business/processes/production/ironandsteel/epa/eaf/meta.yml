@@ -1,0 +1,31 @@
+--- 
+data_items: []
+
+tags: 
+- iron
+- steel
+- EPA
+- EAF
+- climate_leaders
+- calculation
+- direct
+- US
+- mass_balance
+- emission_factor
+provenance: "[[http://www.epa.gov/climateleaders/documents/resources/ironsteel.pdf|EPA/Climate Leaders]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fluxCarbon: Carbon content of flux
+  fluxPurity: Purity of carbonate flux
+  steelQuantity: Quantity of steel produced
+  electrodeQuantity: Quantity of electrode used
+  fluxQuantity: Quantity of carbonate flux used
+  massElectrodeCarbonPerMassSteel: Quantity of electrode carbon consumed per quantity of steel
+  electrodeCarbon: Carbon content of electrode
+  type: Type of process
+  source: 
+wikiname: EPA_EAF_iron_and_steel_production
+usages:
+  default : { electrodeQuantity : optional, electrodeCarbon : optional, steelQuantity : optional, massElectrodeCarbonPerMassSteel : optional, fluxPurity : optional, fluxCarbon : optional }

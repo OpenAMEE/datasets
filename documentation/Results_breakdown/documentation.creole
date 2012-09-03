@@ -1,0 +1,144 @@
+ == Displayed totals ==
+
+ActOnCo2 v1 displays the breakdown of the final result as the following totals and sub-totals:
+
+Home - the sum of
+
+ * Lighting
+ * Heating
+
+Appliances - the sum of
+
+ * Kitchen
+ * Entertainment
+ * Study
+ * Other
+
+Transport - sum of
+
+ * Cars+motorbikes
+ * Flights
+
+How the breakdown is performed depends on overrides which apply when the user has given bill data.
+
+"Other" (under appliances) is special in that it is not directly related to any question the user has answered; it is calculated in different ways as part of the override.
+
+Transport isn't involved in the overrides.
+
+== Inferred totals ==
+
+The inferred (i.e. not based on bill data) totals, expressed in tonnes of CO2 per year are:
+
+home - the sum of all profile items <AmountPerMonth> returned from:
+
+ * /home/lighting
+ * /home/heating
+
+appliances - the sum of all profile items <AmountPerMonth> returned from:
+
+ * /home/appliances/cooking
+ * /home/appliances/kitchen/generic
+ * /home/appliances/entertainment/generic
+ * /home/appliances/computers/generic
+ * /home/appliances/televisions/generic
+
+transport - the sum of all profile items <AmountPerMonth> returned from:
+
+ * /transport/car/generic
+ * /transport/motorcycle/generic
+ * /transport/plane/generic
+
+These are further broken down into subtotals as follows:
+
+lighting
+
+ * /home/lighting
+
+heating	
+
+ * /home/heating (note will be split into space and water heating in v2)
+
+kitchen
+
+ * /home/appliances/cooking
+ * /home/appliances/kitchen/generic
+
+entertainment
+
+ * /home/appliances/entertainment/generic
+ * /home/appliances/televisions/generic
+
+study
+
+ * /home/appliances/computing/generic
+
+Note: in the current AMEE PSUs are in /home/appliances/entertainment/generic but in v1 actonco2 they are included in the study total.
+
+The bill values expressed in tonnes of CO2 per year are each based on one profile item from either:
+
+ * /home/energy/quantity - if the amount fuel was given
+
+or
+
+ * /home/energy/uk/price - if the £ of fuel used was given
+
+The bill values referred to below are either:
+
+ * electricity
+ * fuel (one of gas, oil, coal, biomass, lpg)
+
+== Case 1 No bill data ==
+
+When the user hasn't given bill data, the inferred totals and subtotals are displayed to the user  without modification, except for "Other" (see Displayed totals) which is calculated as:
+
+0.0526*(lighting+appliances)
+
+== Case 2 Bill data given, non-electric heating ==
+
+The displayed "Heating" value is displayed as the "fuel" value.
+
+=== Case 2a electricity <= lighting + appliances ===
+
+"Other" is zero.
+
+The following inferred totals:
+
+lighting, appliances, kitchen, entertainment, study
+
+are multiplied by this factor and displayed to the user:
+
+electricity / (lighting + appliances)
+
+=== Case 2b electricty > lighting + appliances ===
+
+"Other" is the difference:
+
+electricity - (lighting + appliances)
+
+All these inferred values are displayed to the user:
+
+lighting, appliances, kitchen, entertainment, study
+
+== Case 3 Bill data given, electric heating ==
+
+=== Case 3a electricity <= lighting + appliances + heating ===
+
+"Other" is zero
+
+The following inferred totals:
+
+heating,lighting, appliances, kitchen, entertainment, study
+
+are multiplied by this factor and displayed to the user:
+
+electricity / (lighting + appliances + heating)
+
+=== Case 3b electricty > lighting + appliances + heating ===
+
+"Other" is the difference:
+
+electricity - (lighting + appliances + heating)
+
+All these inferred values are displayed to the user:
+
+heating,lighting, appliances, kitchen, entertainment, study

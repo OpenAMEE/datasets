@@ -1,0 +1,16 @@
+name,fugitive abandoned mine generic
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Year of emissions inventory,inventoryYear,TEXT,true,true,,,,
+Annual CH4 emissions from mines abandoned between 1901 and 1925,volumeCH4PerTime1901to1925,DECIMAL,true,false,m^3,year,,
+Annual CH4 emissions from mines abandoned between 1926 and 1950,volumeCH4PerTime1926to1950,DECIMAL,true,false,m^3,year,,
+Annual CH4 emissions from mines abandoned between 1951 and 1975,volumeCH4PerTime1951to1975,DECIMAL,true,false,m^3,year,,
+Annual CH4 emissions from mines abandoned between 1976 and 2000,volumeCH4PerTime1976to2000,DECIMAL,true,false,m^3,year,,
+Annual CH4 emissions from mines abandoned between 2001 and Present,volumeCH4PerTime2001toPresent,DECIMAL,true,false,m^3,year,,
+Number of mines abandoned between 1901 and 1925,minesAbandoned1901to1925,DECIMAL,false,false,,,0,
+Number of mines abandoned between 1926 and 1950,minesAbandoned1926to1950,DECIMAL,false,false,,,0,
+Number of mines abandoned between 1951 and 1975,minesAbandoned1951to1975,DECIMAL,false,false,,,0,
+Number of mines abandoned between 1976 and 2000,minesAbandoned1976to2000,DECIMAL,false,false,,,0,
+Number of mines abandoned between 2001 and Present,minesAbandoned2001toPresent,DECIMAL,false,false,,,0,
+Quantity of methane recovered,recoveredMethane,DECIMAL,false,false,m^3,year,0,
+Source,source,TEXT,true,false,,,,

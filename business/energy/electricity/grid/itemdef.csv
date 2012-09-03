@@ -1,0 +1,9 @@
+name,GHGP international grid electricity
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,true,true,,,,
+Mass CO2 per Energy,massCO2PerEnergy,DECIMAL,true,false,kg,kWh,,
+Energy per Time,energyPerTime,DECIMAL,false,false,kWh,,,
+Responsible area,responsibleArea,DECIMAL,false,false,m^2,,,
+Total area,totalArea,DECIMAL,false,false,m^2,,,
+Source,source,TEXT,true,false,,,,

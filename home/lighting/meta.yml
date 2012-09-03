@@ -1,0 +1,30 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- home
+- business
+- lighting
+- actonco2
+- commercial
+- light_bulb
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: MTP/defra 2007
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  noOfLightBulbs: Number of standard light bulbs
+  noOfLowEnergyLightBulbs: Number of low energy light bulbs
+  type: Type of light bulb
+  source: 
+  kWhPerYear: Energy consumption factor
+wikiname: Lighting
+usages:
+usages:
+  default: {noOfLightBulbs : optional, noOfLowEnergyLightBulbs : optional }
+

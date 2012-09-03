@@ -1,0 +1,49 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- large_goods
+- heavy_duty
+- truck
+- distance
+- fuel
+- travel
+- IPCC
+- US
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fuelEfficiency: Fuel consumption efficiency of vehicle
+  occupancy: Total vehicle occupancy
+  massCH4PerDistance: Methane emissions per distance travelled
+  technology: Type of emissions control technology
+  distancePerJourney: Distance per repeated journey
+  massCH4PerStart: Methane emissions per vehicle start
+  fuel: Type of fuel used by vehicle
+  massN2OPerStart: Nitrous oxide emissions per vehicle start
+  massN2OPerDistance: Nitrous oxide emissions per distance travelled
+  fuelConsumed: Total quantity of fuel consumed
+  numberOfJourneys: Number of journeys of specified distance and frequency
+  frequency: Frequency of repeated journeys; set to 'daily', 'weekly' or 'monthly' if appropriate
+  source: 
+  distance: Total distance travelled
+wikiname: US_conventional_fuel_heavy_goods_transport
+usages:
+  byFuelOnly: { distance : forbidden, frequency : ignored, numberOfJourneys : ignored, distancePerJourney : forbidden, fuelEfficiency : ignored, occupancy : optional }
+  byDistanceAndFuel: {  frequency : ignored, distancePerJourney : forbidden, fuelEfficiency : forbidden, occupancy : optional }
+  byDistanceAndEfficiency: { frequency : ignored, distancePerJourney : forbidden, fuelConsumed : ignored, occupancy : optional }
+  byJourneysAndFuel: { distance : ignored, frequency : optional, fuelEfficiency : forbidden, occupancy : optional }
+  byJourneysAndEfficiency: { distance : ignored, frequency : optional, fuelConsumed : ignored, occupancy : optional }
+  order: [ byFuelOnly, byDistanceAndFuel, byDistanceAndEfficiency, byJourneysAndFuel, byJourneysAndEfficiency ]

@@ -1,0 +1,12 @@
+name,HCFC-22 production; fluorine and carbon balance efficiencies method
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Amount of HCFC-22 Produced,quantityHCFC22,DECIMAL,false,false,kg,,,
+Fraction of Time HFC-23 is Released to Atmosphere Untreated,timeHFC23,DECIMAL,false,false,,,1.0,
+Carbon Balance Efficiency (%),carbonBalEff,DECIMAL,false,false,,,,
+Fluorine Balance Efficiency (%),fluorineBalEff,DECIMAL,false,false,,,,
+Carbon Content Factor,carbonContFact,DECIMAL,false,false,,,0.81,
+Fluorine Content Factor,fluorineContFact,DECIMAL,false,false,,,0.54,
+Loss of HCFC-22 Production Efficiency due to HFC-23 Production (fraction),lossHCFC22,DECIMAL,false,false,,,1.0,
+Source,source,TEXT,true,false,,,,

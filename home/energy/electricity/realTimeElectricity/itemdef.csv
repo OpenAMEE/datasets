@@ -1,0 +1,18 @@
+name,Real Time Electricity Values
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,true,true,,,,
+Close cycle gas turbine,ccgt,DECIMAL,true,false,kWh,,,
+Open cycle gas turbine,ocgt,DECIMAL,true,false,kWh,,,
+Oil,oil,DECIMAL,true,false,kWh,,,
+Coal,coal,DECIMAL,true,false,kWh,,,
+Nuclear,nuclear,DECIMAL,true,false,kWh,,,
+Wind,wind,DECIMAL,true,false,kWh,,,
+Pump storage,pumpStorage,DECIMAL,true,false,kWh,,,
+Non pump storage hydro,npshyd,DECIMAL,true,false,kWh,,,
+Other,other,DECIMAL,true,false,kWh,,,
+France,intfr,DECIMAL,true,false,kWh,,,
+Ireland,intirl,DECIMAL,true,false,kWh,,,
+Source,source,TEXT,true,false,,,,
+Energy Used,energyUsed,DECIMAL,false,false,kWh,year,,
+Mass CO2 per energy,massCO2PerEnergy,DECIMAL,true,false,kg,kWh,,

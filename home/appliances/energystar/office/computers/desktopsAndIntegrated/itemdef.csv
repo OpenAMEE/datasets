@@ -1,0 +1,11 @@
+name,Energy Star Computers
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Product Type,productType,TEXT,true,true,,,,
+Brand,brand,TEXT,true,true,,,,
+Model Name,modelName,TEXT,true,true,,,,
+Model Number,modelNumber,TEXT,true,true,,,,
+Category,category,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
+Number Owned,quantity,DECIMAL,false,false,,,1,
+Energy Per Time,energyPerTime,DECIMAL,true,false,kWh,year,,

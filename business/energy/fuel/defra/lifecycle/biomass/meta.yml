@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+tags: 
+- deprecated
+- defra
+- biomass
+- lca
+- UK
+- fuel
+- calculation
+- emission_factor
+- indirect
+authority: enterprise
+show: "1"
+gallery: "nil"
+ivds: 
+  quantity: 
+  type: 
+  kgCO2ePerTonne: 
+  source: 
+wikiname: Life_Cycle_Biomass

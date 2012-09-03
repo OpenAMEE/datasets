@@ -1,0 +1,8 @@
+name,Direct emissions from make up chemicals
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Chemical,chemical,TEXT,true,true,,,,
+Amount of Chemical Used,chemicalQuantity,DECIMAL,false,false,kg,year,,
+Emission Factor,emisFact,DECIMAL,true,false,kg,kg,,
+Source,source,TEXT,true,false,,,,

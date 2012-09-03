@@ -1,0 +1,6 @@
+abatementTechnology,defAbateFact,defDestrFact,units,source
+Catalytic Destruction,0.89,0.925,kgN2O/kgacid,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Thermal Destruction,0.97,0.99,kgN2O/kgacid,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Recycle to Nitric Acid,0.94,0.99,kgN2O/kgacid,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Recycle to feedstock for Adipic Acid,0.89,0.94,kgN2O/kgacid,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+no abatement technology,0.00,0.00,kgN2O/kgacid,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

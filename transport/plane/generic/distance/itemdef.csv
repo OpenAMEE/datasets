@@ -1,0 +1,9 @@
+name,planeDistance
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Cruising,cruising,DECIMAL,false,false,kg,km,0.10462818336163,
+Distance,distance,DECIMAL,false,false,km,,,
+Passengers,passengers,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,
+Take off and landing,takeOffAndLanding,DECIMAL,false,false,kg,,34.0680611205433,
+Type,type,TEXT,true,true,,,,

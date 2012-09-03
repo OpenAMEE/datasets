@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- stationary
+- combustion
+- EPA
+- US
+- wood
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- physical_properties
+- EPA_mandatory
+- EPA_mandatory_fuel
+provenance: "[[http://www.epa.gov/stateply/resources/index.html|US EPA/Climate Leaders]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  mass: Mass of fuel consumed
+  energyPerMass: "Energy per mass of fuel ('heating' or 'calorific' value) "
+  energyConsumed: Quantity of energy consumed
+  subtype: Subtype of wood
+  type: Type of wood
+  burningContext: Context of burning (e.g. 'residential' 'electricity')
+  massCO2PerEnergy: CO,,2,, emissions per unit of energy
+  includeNonCO2Gases: 
+wikiname: EPA_Stationary_combustion_of_wood
+usages:
+  byMass : { includeNonCO2Gases : forbidden, energyConsumed : ignored }
+  byEnergy : { includeNonCO2Gases : forbidden, mass : forbidden }  
+  order : [ byMass, byEnergy ]

@@ -1,0 +1,19 @@
+--- 
+data_items: []
+
+tags: 
+- electricity
+- generation
+- distribution
+- transmission
+- losses
+- defra
+- UK
+- international
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "0"
+authority: enterprise
+ivds: 
+
+wikiname: Electricity_by_DEFRA

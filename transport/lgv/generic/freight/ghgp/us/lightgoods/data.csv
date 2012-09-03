@@ -1,0 +1,5 @@
+fuelType,kgCO2PerTonneKm,gCH4PerShortTonMile,gN2OPerShortTonMile,units,source
+gasoline,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+diesel,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+lpg or cng,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+fuel unknown,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

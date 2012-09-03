@@ -1,0 +1,13 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+payment,1.0|2.0,
+kgCO2PerPound,1.0|2.0,
+source,1.0|2.0,
+currencyGBP,2.0,
+currencyGBPPerMonth,1.0,currencyGBP
+deliveries,2.0,
+greenTariff,1.0|2.0,
+includesHeating,1.0|2.0,
+numberOfDeliveries,1.0,deliveries
+paymentFrequency,1.0|2.0,
+season,1.0|2.0,

@@ -1,0 +1,9 @@
+name,Stationary combustion of tires EPA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,type,TEXT,true,true,,,,
+Heating value of fuel,energyPerMass,DECIMAL,true,false,MBTU_FiftyNineF,ton_us,,
+CO2 emissions factor,massCO2PerEnergy,DECIMAL,true,false,kg,MBTU_FiftyNineF,,
+Energy consumed,energyConsumed,DECIMAL,false,false,MBTU_FiftyNineF,,,
+Mass of fuel consumed,mass,DECIMAL,false,false,ton_us,,,
+Source,source,TEXT,true,false,,,,

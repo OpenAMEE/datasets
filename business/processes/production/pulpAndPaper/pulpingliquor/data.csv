@@ -1,0 +1,10 @@
+type,woodFurnish,carbonContent,energyPerMassGross,energyPerMassNet,units,source
+kraft black liquor,scandinavian softwood,35.0,14.2,13.5,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+kraft black liquor,scandinavian hardwood,32.5,13.5,12.8,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+kraft black liquor,north american softwood,35.0,14.2,13.5,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+kraft black liquor,north american hardwood,34.0,13.9,13.2,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+kraft black liquor,tropical eucalyptus,34.8,,,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+kraft black liquor,tropical mixed woods,35.2,14.1,13.4,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+kraft black liquor,bagasse,36.9,14.8,14.1,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+kraft black liquor,bamboo,34.5,14.1,13.4,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+kraft black liquor,straw,36.5,14.7,14.0,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf

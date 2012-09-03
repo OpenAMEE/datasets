@@ -1,0 +1,4 @@
+coalRank,factorCoefficient,factorExponent,units,source
+anthracite,1.72,-0.58,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+bituminous,3.72,-0.42,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+sub-bituminous,0.27,-1.0,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf

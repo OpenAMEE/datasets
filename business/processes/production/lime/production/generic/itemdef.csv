@@ -1,0 +1,7 @@
+name,Generic lime production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Quantity of Lime produced,limeQuantity,DECIMAL,false,false,t,,,
+CO2 emissions per quantity of lime,massPerMass,DECIMAL,false,false,t,t,0.75,
+Source,source,TEXT,true,false,,,,

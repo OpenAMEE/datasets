@@ -1,0 +1,27 @@
+---
+data_items: []
+
+tags: 
+- electricity
+- heat
+- chp
+- defra
+- defra_annex2
+- calculation
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of service
+  plantEmissions: Total emissions of CHP plant
+  electricityProduced: Total electricity output
+  heatProduced: Total heat output
+  heatConsumed: Heat consumed by end-user
+  electricityConsumed: Electricity consumed by end-user
+wikiname: Combined_Heat_and_Power_output_by_DEFRA
+usages:
+  heatUser: { electricityConsumed : optional }
+  electricityUser: { heatConsumed : optional }
+  order: [ heatUser, electricityUser ]

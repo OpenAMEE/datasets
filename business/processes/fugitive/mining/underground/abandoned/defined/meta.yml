@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- fugitive
+- CH4
+- IPCC
+- mining
+- IPCC_tier2
+- IPCC_energy
+- IPCC_energy_fugitive
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  recoveredMethane: Quantity of methane recovered during inventory year
+  emissionsRate: CH,,4,, emissions rate prior to mine abandonment
+  coalRank: Rank of coal mined
+  source: 
+  timeAbandoned: Time since mine was abandoned
+  factorExponent: This is used to derive a conversion factor for converting the emissions rate prior to abandonment into an emission rate subsequent to the period of abandonment
+  factorCoefficient: This is used to derive a conversion factor for converting the emissions rate prior to abandonment into an emission rate subsequent to the period of abandonment
+wikiname: User_defined_abandoned_mines
+name: "IPCC methodology for abandoned underground mines - tier 2"
+usages:
+  default: { recoveredMethane : optional }

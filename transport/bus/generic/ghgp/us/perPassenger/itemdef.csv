@@ -1,0 +1,10 @@
+name,Bus GHGP per passenger US
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of vehicle,type,TEXT,true,true,,,,
+CO2 per passenger distance,kgCO2PerPassengerMile,DECIMAL,true,false,kg,mi,,
+CH4 per passenger distance,gCH4PerPassengerMile,DECIMAL,true,false,g,mi,,
+N2O per passenger distance,gN2OPerPassengerMile,DECIMAL,true,false,g,mi,,
+Source,source,TEXT,true,false,,,,
+Number of passengers,numberOfPassengers,DECIMAL,false,false,,,1,
+Distance,distance,DECIMAL,false,false,mi,,,

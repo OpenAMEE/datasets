@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- nitric
+- GHGP_nitric_sector
+- acid
+- IPCC
+- IPCC_industry
+- IPCC_industry_chemical
+- IPCC_tier1
+- EPA
+- EPA_mandatory
+- EPA_mandatory_nitric
+- IPCC_tier3
+- IPCC_tier2
+- calculation
+- direct
+- emission_factor
+- global
+provenance: Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for nitric acid
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  plantType: Select the type of plant from the drill options below
+  destrFact: N2O destruction factor. Ignored if none entered
+  defEmFact: Used if no N2O emission factor is entered
+  specEmFact: N2O emission factor
+  acidQuantity: 
+  source: 
+  abateFact: Ignored if none entered
+wikiname: Nitric_acid
+usages:
+  default: { destrFact : optional, specEmFact : optional, abateFact : optional }

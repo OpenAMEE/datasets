@@ -1,0 +1,16 @@
+typeOfBoiler,description,massCH4PerEnergy,massN2OPerEnergy,units,source
+wood waste-fired,wood,30,4,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and Tier 1 - IPCC 1997c
+wood waste-fired,uncontrolled emission from wood-fired stoker boilers,15,,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and Tier 2 - IPCC 1997c
+wood waste-fired,average for wood residue combustion,9.5,5.9,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and USEPA 2001
+wood waste-fired,average for circulating fluidized bed boilers burning peat or bark,1,8.8,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and Fortum 2001
+wood waste-fired,average for bubbling fluidized bed boilers burning peat or bark,2,2,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and Fortum 2001
+wood waste-fired,pre-1980 wood residue-fired stoker boilers sampled ahead of control devices,8.2,,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and NCASI 1980
+wood waste-fired,per-1980 wood residue-fired stoker boilers sampled after wet scrubbers,2.7,,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and NCASI 1980
+wood waste-fired,wood fired boiler,41,3.1,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and JPA 2002
+wood waste-fired,wood as fuel,24,3.4,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and AEA Tech. 2001
+wood waste-fired,wood waste,30,5,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and Swedish EPA 2004
+wood waste-fired,median factors,12,4,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+recovery furnaces,recovery furnace,1,1,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and Fortum 2001
+recovery furnaces,recovery furnace - black liquor,2.5,,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf and JPA 2002
+recovery furnaces,black liquor,30,5,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf
+recovery furnaces,median factors,25,2,none,http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf

@@ -1,0 +1,9 @@
+vehicleType,size,kgCO2PerTonneKm,gCH4PerShortTonMile,gN2OPerShortTonMile,units,source
+rigid,3.5-7.5 tonnes,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+rigid,7.5-17 tonnes,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+rigid,>17 tonnes,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+rigid,unknown,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+articulated,3.5-33 tonnes,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+articulated,>33 tonnes,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+articulated,unknown,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+type unknown,,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

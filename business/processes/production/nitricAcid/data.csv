@@ -1,0 +1,6 @@
+plantType,defEmFact,units,source
+Atmospheric pressure plant (low pressure),0.005,kgN20/kgHNO,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Plants with NSCR (all processes),0.002,kgN20/kgHNO,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Plants with process-integrated or tailgas N20 destruction,0.0025,kgN20/kgHNO,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Medium pressure combustion plant,0.007,kgN20/kgHNO,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+High pressure plants,0.009,kgN20/kgHNO,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

@@ -1,0 +1,7 @@
+name,Correction factors for unoxidized carbon
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,fuel,TEXT,true,true,,,,
+Guidance Document Source,sourceDocumentation,TEXT,true,true,,,,
+Oxidation factor,oxidationFactor,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

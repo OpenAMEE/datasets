@@ -1,0 +1,17 @@
+supplier,kgCO2PerKWh,units,source,algorithm
+British Gas,0.374,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+Ecotricity,0.232,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+EDF Energy,0.567,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+Good Energy,0.000,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+Green Energy,0.112,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+npower (RWE),0.543,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+Npower Cogen,0.380,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=2005,value*user_electricity_kWh
+Powergen,0.377,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=2008,value*user_electricity_kWh
+Scottish and Southern Energy,0.413,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+ScottishPower,0.570,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+Utilita,0.460,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+UK average,0.460,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+Eon,0.575,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+Electricity Plus, 0.519,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+LO CO2,0.177,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh
+First Utility,0.417,kgCO2/kWh,http://www.electricityinfo.org/supplierdataall.php?year=latest,value*user_electricity_kWh

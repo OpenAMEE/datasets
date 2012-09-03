@@ -1,0 +1,8 @@
+band,kgCO2PerKm,kgCO2PerKmMin,kgCO2PerKmMax,units,source,algorithm
+A,0.120,0.000,0.120,kgCO2/km ,http://www.environ.ie/en/Environment/Atmosphere/ClimateChange/VehicleLabelling/,value*user_distance_km
+B,0.140,0.120,0.140,kgCO2/km ,http://www.environ.ie/en/Environment/Atmosphere/ClimateChange/VehicleLabelling/,value*user_distance_km
+C,0.155,0.140,0.155,kgCO2/km ,http://www.environ.ie/en/Environment/Atmosphere/ClimateChange/VehicleLabelling/,value*user_distance_km
+D,0.170,0.155,0.170,kgCO2/km ,http://www.environ.ie/en/Environment/Atmosphere/ClimateChange/VehicleLabelling/,value*user_distance_km
+E,0.190,0.170,0.190,kgCO2/km ,http://www.environ.ie/en/Environment/Atmosphere/ClimateChange/VehicleLabelling/,value*user_distance_km
+F,0.225,0.190,0.225,kgCO2/km ,http://www.environ.ie/en/Environment/Atmosphere/ClimateChange/VehicleLabelling/,value*user_distance_km
+G,0.245,0.225,999.0,kgCO2/km ,http://www.environ.ie/en/Environment/Atmosphere/ClimateChange/VehicleLabelling/,value*user_distance_km

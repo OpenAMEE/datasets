@@ -1,0 +1,6 @@
+state=SD&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),2381.937
+2005-01-01T00:00:00+00:00 (GMT),2224.2848
+2007-01-01T00:00:00+00:00 (GMT),2155.4847

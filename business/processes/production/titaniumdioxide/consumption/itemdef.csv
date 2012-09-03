@@ -1,0 +1,8 @@
+name,Titanium dioxide production by feedstock
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of process,type,TEXT,true,true,,,,
+Quantity of feedstock consumed,massFeedstock,DECIMAL,false,false,t,year,,
+Carbon content of feedstock,feedstockCarbon,DECIMAL,false,false,t,t,,
+Carbon oxidation factor of feedstock,feedstockOxidation,DECIMAL,false,false,,,1.0,
+Source,source,TEXT,true,false,,,,

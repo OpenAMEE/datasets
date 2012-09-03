@@ -1,0 +1,31 @@
+---
+data_items: []
+
+tags: 
+- electricity
+- generation
+- distribution
+- transmission
+- losses
+- defra
+- UK
+- calculation
+- direct
+- indirect
+- lca
+- emission_factor
+- defra_annex3
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of activity (e.g. generation, consumption)
+  emission: Type of emission (e.g. direct, indirect)
+  basis: basis for emissions data/calculation (e.g. annual, rolling average)
+  massCO2PerEnergy: Quantity of CO,,2,, emitted per unit of electricity
+  massCH4PerEnergy: Quantity of CH,,4,, (as CO,,2,,e) emitted per unit of electricity
+  massN2OPerEnergy: Quantity of N,,2,,O (as CO,,2,,e) emitted per unit of electricity
+  massCO2ePerEnergy: Quantity of total CO,,2,,e emitted per unit of electricity
+  energyConsumed: Quantity of energy consumed
+wikiname: UK_electricity_by_DEFRA

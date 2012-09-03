@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- stationary
+- combustion
+- EPA
+- US
+- petroleum
+- gas
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- physical_properties
+- EPA_mandatory
+- EPA_mandatory_fuel
+provenance: "[[http://www.epa.gov/stateply/resources/index.html|US EPA/Climate Leaders]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  energyPerVolume: "Energy per volume of fuel ('heating' or 'calorific' value) "
+  energyConsumed: Quantity of energy consumed
+  volume: Volume of fuel consumed
+  subtype: Subtype of petroleum-derived fuel
+  type: Type of petroleum-derived fuel
+  burningContext: Context of burning (e.g. 'residential' 'electricity')
+  massCO2PerEnergy: CO,,2,, emissions per unit of energy
+  includeNonCO2Gases: 
+wikiname: EPA_Stationary_combustion_of_petroleum_derived_fuels
+usages:
+  byVolume : { energyConsumed : ignored, includeNonCO2Gases : forbidden }
+  byEnergy : { volume : forbidden, includeNonCO2Gases : forbidden }  
+  order : [byVolume, byEnergy ]

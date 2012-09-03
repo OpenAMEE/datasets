@@ -1,0 +1,4 @@
+"fuel","technology","massN2OPerDistanceUrbanCold","massN2OPerDistanceUrbanHot","massN2OPerDistanceHighway","massN2OPerDistanceRural","massCH4PerDistanceUrbanCold","massCH4PerDistanceUrbanHot","massCH4PerDistanceRural","massCH4PerDistanceHighway","units","source"
+"gasoline","less than 50 cc",1,1,1,1,219,219,219,219,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"gasoline","greater than 50 cc 2-stroke",2,2,2,2,150,150,150,150,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"gasoline","greater than 50 cc 4-stroke",2,2,2,2,200,200,200,200,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"

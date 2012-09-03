@@ -1,0 +1,45 @@
+--- 
+data_items: []
+
+tags: 
+- waste
+- water
+- industry
+- IPCC
+- IPCC_waste
+- IPCC_waste_water
+- IPCC_tier1
+- calculation
+- direct
+- global
+- emission_factor
+- business
+- EPA
+- EPA_mandatory
+- EPA_mandatory_wastewater
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  recoveredMethane: Quantity of methane recovered
+  useTypicalOxygenDemand: Set to 'true' to use industry typical waste water organic concentration
+  massPerMassCODMax: "Maximum methane production factor for waste type based on chemical oxygen demand "
+  system: Discharge pathway of waste water
+  useTypicalWater: Set to 'true' to use industry typical values for waste water generation
+  massOrganicWaste: "Absolute quantity of organics within discharged waste water "
+  massSludge: Quantity of organic sludge removed
+  massProduced: Quantity of industrial production
+  volume: Absolute volume of waste water discharged
+  type: Type of water treatment
+  volumeWasteWaterPerMassProduction: Waste water discharged per quantity of industrial production
+  methaneConversionFactor: Methane emissions modifier for specific treatment context
+  source: 
+  massOrganicPerVolumeWasteWater: Concentration of organic material in waste water (as expressed in terms of oxygen consumption)
+  industry: Industry type
+wikiname: Industrial_waste_water
+usages:
+  byOrganicMass: { recoveredMethane : optional, massSludge : optional, volume : ignored, volume : ignored, massOrganicPerVolumeWasteWater : ignored, volumeWasteWaterPerMassProduction : ignored, massProduced : ignored, useTypicalWater : ignored, industry : ignored, useTypicalOxygenDemand : ignored }
+  byOrganicConcentration: { recoveredMethane : optional, massSludge : optional, massOrganicWaste : forbidden, useTypicalWater : ignored, industry : ignored, useTypicalOxygenDemand : optional, volumeWasteWaterPerMassProduction : ignored, massProduced : ignored, industry : optional }
+  byIndustrialProduction: { recoveredMethane : optional, massSludge : optional, massOrganicWaste : forbidden, volume : forbidden, useTypicalWater : optional, industry : optional, useTypicalOxygenDemand : optional }
+  order: [ byOrganicMass, byOrganicConcentration, byIndustrialProduction ]

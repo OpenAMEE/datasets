@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- IPCC
+- IPCC_industry
+- IPCC_industry_metal
+- IPCC_tier1
+- ferroalloy
+- EPA
+- EPA_mandatory
+- EPA_mandatory_ferroalloy
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  typeOfFerroalloy: drill-down used to specify the type of ferroalloy used
+  productQuantity: user-supplied value for the quantity of ferroalloy produced
+  massCO2PerMassProduct: the emission factor for the ferroalloy type selected
+  source: 
+wikiname: Generic_ferroalloy_production
+usages:
+  default: { massCO2PerMassProduct : optional }

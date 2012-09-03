@@ -1,0 +1,12 @@
+prov:process
+The data in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls#'Annex%202%20CHP%20Imports%20and%20Exports'! was based on prov:assumption nouri:"It is typically roughly twice as efficient to generate heat from fossil fuels as it is to generate electricity".
+
+prov:download
+prov:out svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+prov:manual
+prov:out csv_files:business/energy/chp/defra
+prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%202%20CHP%20Imports%20and%20Exports'!
+
+prov:ameem business/energy/chp/defra

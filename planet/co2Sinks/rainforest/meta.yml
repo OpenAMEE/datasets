@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+tags: 
+- rainforest
+- sinks
+- calculation
+- physical_properties
+provenance: Based on data provided by http://www.rainforestsos.org/pages/rainforests-and-climate-change and http://www.savetherainforest.org/savetherainforest_007.htm
+gallery: 
+show: "1"
+authority: unverified
+ivds: 
+  co2Quantity: 
+  rainforestArea: 
+  source: 
+  co2ToRainforest: The amount of CO,,2,, absorbed by an area of rainforest in one year
+  sourceName: Select the data source from the options below
+wikiname: CO2_Sinks_Rainforest
+usages:
+  CO2SequesteredByArea: { co2Quantity : forbidden }
+  areaRequiredForCO2Sequestration: { rainforestArea : ignored }
+  order: [ CO2SequesteredByArea, areaRequiredForCO2Sequestration ]

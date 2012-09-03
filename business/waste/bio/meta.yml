@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- waste
+- biological
+- IPCC
+- IPCC_tier1
+- IPCC_waste
+- IPCC_waste_bio
+- calculation
+- emission_factor
+- direct
+- global
+- composting
+- anaerobic_digestion
+- industry
+- agriculture
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_4_Ch4_Bio_Treat.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  isWetWeight: Set to 'true' to indicate quantity is specified on a wet-weight basis
+  recoveredMethane: Quantity of methane recovered
+  massN2OPerWetMass: Nitrous oxide emissions factor for wet weight quantities
+  mass: Quantity of waste treated
+  massN2OPerDryMass: Nitrous oxide emissions factor for dry weight quantities
+  massCH4PerWetMass: Methane emissions factor for wet weight quantities
+  type: Type of biological waste treatment
+  source: 
+  massCH4PerDryMass: Methane emissions factor for dry weight quantities
+wikiname: Biological_waste_treatment
+usages:
+  default: { recoveredMethane : optional, isWetWeight : optional }

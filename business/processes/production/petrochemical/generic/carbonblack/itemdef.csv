@@ -1,0 +1,10 @@
+name,Carbon black production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of process,process,TEXT,true,true,,,,
+Type of feedstock,feedstock,TEXT,true,true,,,,
+Methane flaring,methaneFlared,TEXT,true,true,,,,
+Quantity of CO2 per unit of carbon black produced,massCO2PerMass,DECIMAL,true,false,t,t,,
+Quantity of CH4 per unit of carbon black produced,massCH4PerMass,DECIMAL,true,false,kg,t,,
+Quantity of carbon black produced,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

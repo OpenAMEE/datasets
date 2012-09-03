@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- defra
+- water
+- defra_annex9
+- calculation
+- lca
+- indirect
+- emission_factor
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]] - [[http://www.water.org.uk/home/policy/publications/archive|Water UK]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  quantity: amount of water used
+  type: use to select emissions from supply, treatment or both
+  source: 
+  kgCO2ePerCubicMetre: CO2 emission factor
+wikiname: Water_Defra
+usages:
+  default: { quantity : compulsory }
+

@@ -1,0 +1,8 @@
+name,Energy UK Suppliers
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Supplier,supplier,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
+kgCO2 Per KWh,kgCO2PerKWh,DECIMAL,true,false,kg,kWh,,
+Energy Consumption,energyConsumption,DECIMAL,false,false,kWh,year,0,
+kWh Per Month,kWhPerMonth,DECIMAL,false,false,kWh,month,0,

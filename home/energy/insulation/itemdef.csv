@@ -1,0 +1,6 @@
+name,Insulation
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown
+Description,description,TEXT,false,false
+Source,source,TEXT,true,false
+Type,type,TEXT,true,true

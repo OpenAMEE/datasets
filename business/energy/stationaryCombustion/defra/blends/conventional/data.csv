@@ -1,0 +1,4 @@
+"fuel","massDirectCO2ePerVolume","massIndirectCO2ePerVolume","massTotalCO2ePerVolume","massBiogenicCO2ePerVolume","massDirectCO2ePerEnergy","massIndirectCO2ePerEnergy","massTotalCO2ePerEnergy","massBiogenicCO2ePerEnergy","massDirectCO2ePerMass","massIndirectCO2ePerMass","massTotalCO2ePerMass","massBiogenicCO2ePerMass","units","source"
+"diesel",2.6676,0.5085,3.1761,0,74.391,14.180,88.571,0,3.187782,0.6076575,3.7954395,0,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
+"petrol",2.3117,0.4110,2.7227,0,70.370,12.511,82.882,0,3.1485354,0.559782,3.7083174,0,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
+"cng",0.4738536927,0.0697934896,0.5436471822,0,56.730,8.356,65.086,0,2.7076,0.3988,3.1064,0,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"

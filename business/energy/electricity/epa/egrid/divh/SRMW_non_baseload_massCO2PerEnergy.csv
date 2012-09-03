@@ -1,0 +1,6 @@
+region=SRMW&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),2150.439
+2005-01-01T00:00:00+00:00 (GMT),2101.1576
+2007-01-01T00:00:00+00:00 (GMT),1945.6617

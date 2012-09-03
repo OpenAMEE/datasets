@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- refrigeration
+- defra
+- defra_annex8
+- UK
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  numberOfUnits: use for multiple unit systems, default 1
+  refrigerantType: the refrigerant type must be selected from one of the [[Greenhouse_gases_Global_warming_potentials|GWPs]] contained in AMEE
+  type: type of refrigeration equipment, chosen by the user from the list below
+  equipmentChargeCapacity: typical charge capacity ranges can be seen in the [[Refrigeration]] page
+  source: 
+  installationEmissionFactor: 
+wikiname: Refrigeration_Installation
+usages:
+  default: { refrigerantType : optional }

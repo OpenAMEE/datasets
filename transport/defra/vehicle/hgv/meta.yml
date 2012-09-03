@@ -1,0 +1,31 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- defra
+- heavy_goods
+- distance
+- defra_annex7
+- calculation
+- emission_factor
+- direct
+- indirect
+- lca
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  type: Type of vehicle
+  size: Size of vehicle (gross vehicle weight)
+  load: Proportion of vehicle which is laden with goods (%)
+  massCO2PerDistance: Quantity of direct CO,,2,, emissions per unit distance
+  massCH4PerDistance: Quantity of direct CH,,4,, emissions per unit distance (CO,,2,,e)
+  massN2OPerDistance: Quantity of direct N,,2,,O emissions per unit distance (CO,,2,,e)
+  massDirectCO2ePerDistance: Quantity of direct greenhouse gas emissions per unit distance (CO,,2,,e)
+  massIndirectCO2ePerDistance: Quantity of indirect greenhouse gas emissions per unit distance (CO,,2,,e)
+  massTotalCO2ePerDistance: Total quantity of greenhouse gas emissions per unit distance (CO,,2,,e)
+  distance: Distance travelled
+wikiname: DEFRA_heavy_goods_vehicle_methodology

@@ -1,0 +1,13 @@
+name,Heat transfer fluids by consumption
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Type of fluid,fluid,TEXT,false,false,,,,
+Density of liquid FC,density,DECIMAL,false,false,kg,L,,
+Volume of liquid FC remaining end of previous period,previousFC,DECIMAL,false,false,L,,,
+Volume of liquid FC purchased,purchasedFC,DECIMAL,false,false,L,,,
+Total charge (or nameplace capacity) of new installed,newCharge,DECIMAL,false,false,L,,,
+Total charge (or nameplace capacity) of retired or sold equipment,oldCharge,DECIMAL,false,false,L,,,
+Volume of liquid FC remaining end of period,remainingFC,DECIMAL,false,false,L,,,
+Volume of liquid FC recovered from retired equipment and sent offsite,recoveredFC,DECIMAL,false,false,L,,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- GHGP
+- fuel
+- global
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: <%= chart :dependent => 'massCO2PerVolume' %>
+show: "1"
+authority: enterprise
+ivds: 
+  fuel: Type fo fuel consumed
+  region: Geographic region
+  massCO2PerVolume: Quantity of fossil CO,,2,, per unit volume
+  massBiogenicCO2PerVolume: Quantity of biogenic CO,,2,, per unit volume
+  volume: Quantity of fuel consumed
+wikiname: Transport_fuels_by_Greenhouse_Gas_Protocol
+name: "Transport fuels by Greenhouse Gas Protocol"

@@ -1,0 +1,22 @@
+--- 
+data_items: []
+
+tags: 
+- electronics
+- entertainment
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: "[[MTP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  rating: Select the //**Rating**// of the //**Device**// from the list below
+  device: Select the //**Device**// used from the list below
+  onStandby: 
+  numberOwned: Defaults to 1 if not set explicitly.
+  source: 
+  kWhPerYear: Emission factor for selected device
+wikiname: Entertainment_generic

@@ -1,0 +1,5 @@
+"fuelType","kgCO2PerUsGallon","units","source"
+"ethanol",5.56,"none","GHGP http://www.ghgprotocol.org/calculation-tools/all-tools"
+"100% biodiesel",9.46,"none","GHGP http://www.ghgprotocol.org/calculation-tools/all-tools"
+"E85 Ethanol/Gasoline",4.726,"none","GHGP http://www.ghgprotocol.org/calculation-tools/all-tools"
+"B20 Biodiesel/Diesel",1.892,"none","GHGP http://www.ghgprotocol.org/calculation-tools/all-tools"

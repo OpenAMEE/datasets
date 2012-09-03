@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- agriculture
+- IPCC
+- IPCC_agriculture
+- IPCC_agriculture_soil
+- IPCC_tier1
+- soil
+- fertilizer
+- urea
+- calculation
+- direct
+- mass_balance
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_11_Ch11_N2O&CO2.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of additive. Currently there is just one option //urea//
+  massPerMass: Carbon content of the urea additive
+  massUsed: Quantity of urea applied
+  source: 
+wikiname: Soil_urea_application
+name: "IPCC methodology for urea applications to managed soils"

@@ -1,0 +1,9 @@
+name,HCFC-22 production; production data only method
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Amount of HCFC-22 Produced,quantityHCFC22,DECIMAL,false,false,kg,,,
+HFC-23 Emission Factor,emissFact,DECIMAL,false,false,kg,kg,,
+Default HFC-23 Emission Factor,defEmissFact,DECIMAL,true,false,kg,kg,,
+Fraction of Time HFC-23 is Released to Atmosphere Untreated,timeHFC23,DECIMAL,false,false,,,1.0,
+Source,source,TEXT,true,false,,,,

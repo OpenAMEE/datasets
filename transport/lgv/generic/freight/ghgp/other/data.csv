@@ -1,0 +1,2 @@
+vehicleType,kgCO2PerTonneKm,gCH4PerShortTonMile,gN2OPerShortTonMile,units,source
+heavy and light goods vehicles,0.167418444,0.0035,0.0027,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

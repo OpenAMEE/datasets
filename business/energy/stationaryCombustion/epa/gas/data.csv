@@ -1,0 +1,5 @@
+"type","subtype","energyPerVolume","massCO2PerEnergy","units","source"
+"natural gas","typical national mix",1029,53.060,,"http://www.epa.gov/climateleaders/documents/resources/stationarycombustionguidance.pdf"
+"landfill gas","50 percent co2 and 50 percent ch4",502.5,52.070,,"http://www.epa.gov/climateleaders/documents/resources/stationarycombustionguidance.pdf"
+"natural gas","pipeline",1050,53.525,,"http://www.epa.gov/climatechange/emissions/archived/downloads/tsd/TSD%20Stationary%20Combustion%202-02-09.pdf"
+"natural gas","other",1100,53.525,,"http://www.epa.gov/climatechange/emissions/archived/downloads/tsd/TSD%20Stationary%20Combustion%202-02-09.pdf"

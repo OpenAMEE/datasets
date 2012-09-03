@@ -1,0 +1,21 @@
+--- 
+data_items: []
+
+provenance: "[[http://projects.bre.co.uk/sap2005/|RdSAP]],[[http://www.est.org.uk|EST]]"
+tags: 
+- home
+- heating
+- UK
+- electricity
+- fuel
+- data
+- physical_properties
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  efficiency: 
+  heatingType: 
+  fuel: 
+  source: 
+wikiname: Heating_UK_types

@@ -1,0 +1,8 @@
+**This category is now deprecated. The same functionality can be found by using [[Generic_lighting|this category]]**
+
+    This category contains data for calculating CO,,2,, emissions associated with indoor lighting. There are two entries: one is for a typical **tungsten-filament** light bulb and the other is for a typical **low energy** light bulb.
+
+
+To use this category, specify the light bulb type using the //type// drill option. Next set the quantity of light bulbs used. For 'normal' light bulbs, set this quantity using the //**noOfLightBulbs**// profile item value. For lower-energy light bulbs, use the //**noOfLowEnergyLightBulbs**// profile item value.
+
+The returned amount represents CO,,2,, emissions associated with typical usage of the specified quantity of bulbs.

@@ -1,0 +1,37 @@
+--- 
+data_items: []
+
+tags: 
+- ice
+- construction
+- materials
+- concrete
+- calculation
+- emission_factor
+- energy
+- lca
+- steel
+provenance: "[[http://people.bath.ac.uk/cj219/|Inventory of Carbon & Energy]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of concrete
+  subtype: Subtype of concrete
+  replacement: Replacement material and proportion (%)
+  energyPerMass: Embodied energy per unit mass of concrete
+  massCO2PerMass: Embodied CO,,2,, per unit mass of concrete
+  massCO2ePerMass: Embodied CO,,2,,e per unit mass of concrete
+  boundary: Life cycle analysis boundary, i.e. the stages in the concrete life cycle which are represented by the energy and CO,,2,, factors
+  note: Author notes on the sourcing of data
+  mass: Mass of concrete used
+  energyPerMassPerSteelDensity: "Embodied energy per unit mass of concrete for each unit density of reinforcing steel. The verbose description of the unit for this quantity is (MJ / kg [concrete]) / (kg [steel] / m^^3^^ [concrete]). This has been rearranged into the more concise form: (MJ m^^3^^) / kg"
+  massPerMassPerSteelDensity: "Embodied CO,,2,, per unit mass of concrete for each unit density of reinforcing steel. The verbose description of the unit for this quantity is (kg [CO,,2,,] / kg [concrete]) / (kg [steel] / m^^3^^ [concrete]). This has been rearranged into the more concise form: m^^3^^ / kg"
+  energyPerMassPrecast: Additional embodied energy per unit mass of concrete for precast concrete 
+  massPerMassPrecast: Additional embodied CO,,2,, per unit mass of concrete for precast concrete
+  steelDensity: Quantity of reinforcing steel per unit volume of concrete
+  isPrecast: Defines whether concrete under consideration is precast. Set to //true// to indicate precasting, otherwise assumed //false//
+wikiname: ICE_v2_concrete
+name: "Inventory of Carbon & Energy methodology for concrete"
+usages:
+  default: { energyPerMassPerSteelDensity : forbidden, massPerMassPerSteelDensity : forbidden, energyPerMassPrecast : forbidden, massPerMassPrecast : forbidden, steelDensity : optional, isPrecast : optional }

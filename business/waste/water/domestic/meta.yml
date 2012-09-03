@@ -1,0 +1,42 @@
+--- 
+data_items: []
+
+tags: 
+- waste
+- water
+- domestic
+- IPCC
+- IPCC_waste
+- IPCC_waste_water
+- IPCC_tier1
+- calculation
+- direct
+- global
+- emission_factor
+- business
+- EPA
+- EPA_mandatory
+- EPA_mandatory_wastewater
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  recoveredMethane: Quantity of methane recovered
+  systemContext: Water treatment context
+  massOrganicPerVolume: Concentration of organic material in waste water (as expressed in terms of oxygen consumption)
+  massPerMassCODMax: Maximum methane production factor for waste type based on chemical oxygen demand
+  massPerMassBODMax: Maximum methane production factor for waste type based on biological oxygen demand
+  system: Discharge pathway of waste water
+  massSludge: Quantity of organic sludge removed
+  volume: Absolute volume of waste water discharged
+  type: Type of water treatment
+  isCOD: Set to 'true' to indicate that the water oxygen demand is calculated on a chemical rather than biological basis
+  totalOrganicWaste: Absolute quantity of organics within discharged waste water
+  methaneConversionFactor: Methane emissions modifier for specific treatment context
+  source: 
+wikiname: Domestic_waste_water
+usages:
+  byOrganicMass: { isCOD : optional, recoveredMethane : optional, massSludge : optional, volume : ignored, massOrganicPerVolume : ignored }
+  byOrganicConcentration: { isCOD : optional, recoveredMethane : optional, massSludge : optional, totalOrganicWaste : forbidden }
+  order: [ byOrganicMass, byOrganicConcentration ]

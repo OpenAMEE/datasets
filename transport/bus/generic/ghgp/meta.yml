@@ -1,0 +1,16 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- bus
+- GHGP
+- passenger
+provenance: http://www.ghgprotocol.org/about-ghgp
+gallery: 
+show: "0"
+authority: enterprise
+ivds: {}
+
+wikiname: Generic_bus_transport_GHGP

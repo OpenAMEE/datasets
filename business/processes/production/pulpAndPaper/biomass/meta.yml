@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_pulp_and_paper_sector
+- pulp
+- paper
+- biomass
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- global
+- EPA
+- EPA_mandatory
+- EPA_mandatory_pulp_and_paper
+provenance: "[[http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf|ICFPA]]"
+gallery: |-
+        <%= chart :x => "description" %>
+show: "1"
+authority: enterprise
+ivds: 
+  energy: Quantity of energy consumed
+  massCH4PerEnergy: "CH,,4,, emission factor for specified boiler type"
+  massN2OPerEnergy: "N,,2,,O emission factor for specified boiler type"
+  typeOfBoiler: Type of boiler
+  description: Specific characteristics of combustion scenario
+  source: 
+wikiname: Pulp_and_paper_biomass_emissions
+name: "ICFPA methodology for biomass combustion"
+usages:
+  default: { massCH4PerEnergy : optional, massN2OPerEnergy : optional }

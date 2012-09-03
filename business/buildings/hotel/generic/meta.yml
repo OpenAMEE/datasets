@@ -1,0 +1,22 @@
+--- 
+data_items: []
+
+tags: 
+- hotel
+- building
+- calculation
+- direct
+- emission_factor
+- UK
+- global
+provenance: The emission factors of CO2 per person are from WBCSD 2006, CIBSE 2004 and Defra 2007
+gallery: 
+show: "1"
+authority: recommended
+ivds: 
+  CO2perPerson: The amount of CO,,2,, emitted per person during hotel stay
+  stayDuration: Duration of stay in hotel
+  numberOfPeople: "Number of people staying "
+  type: Select the drill //**type**// from the options below
+  source: 
+wikiname: Hotel_generic

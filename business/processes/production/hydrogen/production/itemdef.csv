@@ -1,0 +1,9 @@
+name,Hydrogen production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Hydrogen production process,process,TEXT,true,true,,,,
+Quantity of CO2 emitted per quantity of hydrogen,massCO2PerMass,DECIMAL,true,false,g,kg,,
+Quantity of CH4 emitted per quantity of hydrogen,massCH4PerMass,DECIMAL,true,false,g,kg,,
+Quantity of N2O emitted per quantity of hydrogen,massN2OPerMass,DECIMAL,true,false,g,kg,,
+Quantity of hydrogen produced,mass,DECIMAL,false,false,kg,,,
+Source,source,TEXT,true,false,,,,,

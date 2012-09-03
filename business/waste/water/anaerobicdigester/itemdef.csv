@@ -1,0 +1,12 @@
+name,Water treatment anaerobic digestion
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of process,type,TEXT,true,true,,,,
+Total volumetric flow,volumetricFlow,DECIMAL,false,false,ft^3,min,,
+CH4 concentration,CH4Concentration,DECIMAL,false,false,,,,
+Density of methane (at 60F),density,DECIMAL,false,false,lb,ft^3,0.0423,
+Temperature at which flow measured,temperature,DECIMAL,false,false,,,,
+Pressure at which flow measured,pressure,DECIMAL,false,false,atm,,,
+Duration of operation under consideration,time,DECIMAL,false,false,min,,,
+CH4 destruction efficiency,destructionEfficiency,DECIMAL,false,false,,,0.99,
+Source,source,TEXT,true,false,,,,

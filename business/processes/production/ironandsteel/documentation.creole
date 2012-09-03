@@ -1,0 +1,4 @@
+      AMEE contains a number of categories for calculating the greenhouse gas emissions relating to processes associated with iron and steel manufacturing. These methodologies are sourced from the WRI Greenhouse Gas protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheets]], the IPCC 2006 [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|Guidelines for National Greenhouse Gas Inventories]] and the US EPA.
+
+**See the appropriate subcategories for further details.**
+

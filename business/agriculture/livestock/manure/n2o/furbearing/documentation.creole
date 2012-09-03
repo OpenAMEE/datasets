@@ -1,0 +1,48 @@
+**Domestic livestock methodology, manure management and storage. Calculates nitrous oxide emissions (N,,2,,O and CO,,2,,e) based on livestock population. Scenarios include foxes, mink, polecats, rabbits and racoons. Globally applicable.**
+
+==Summary==
+This methodology represents **nitrous oxide** (N,,2,,O) emissions associated with the **management and storage of fur-bearing livestock** - specifically foxes, mink, polecats, rabbits and racoons. The data and calculation methodology is sourced from the [[IPCC]], as published in //[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_10_Ch10_Livestock.pdf|Volume 4, Chapter 10 - Emissions from Livestock and Manure Management]]// and //[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_11_Ch11_N2O&CO2.pdf|Volume 4, Chapter 11 - N2O Emissions from Managed Soils, and CO2 Emissions from Lime and Urea Application]]// of their //[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|2006 IPCC Guidelines for National Greenhouse Gas Inventories]]//.
+----
+
+==The methodology==
+===Emissions model===
+Nitrogen (N) found within the excretions of livestock manure contributes to N,,2,,O emissions both //directly// and //indirectly//. Direct emissions arise from the processes of //nitrification// and //denitrification//. Nitrification is the transformation of N-containing compounds (ammonia (NH,,3,,) => nitrite (NO,,2,,^^-^^) => nitrate (NO,,3,,^^-^^)) which occurs under aerobic conditions (i.e. in the presence of oxygen). Denitrification is the subsequent transformation to N,,2,,O which occurs only under anaerobic conditions. As such, direct N,,2,,O emissions require both aerobic and anaerobic conditions in succession. Indirect emissions result from the vaporization of N-containing compounds (primarily NH,,3,, and mono-nitrogen oxides, NO,,x,,) as well as through runoff and leaching into soils. Indirect emissions depend primarily on time.
+
+This emissions methodology is based upon factors which describe both the direct and indirect pathways of manure-N (i.e. manure-associated nitrogen). Direct emissions are based upon the typical **daily** rates at which manure-N is produced by livestock, and the rates at which this N is converted directly into N,,2,,O-N (i.e. nitrous oxide-associated nitrogen). Indirect emissions are based upon the typical fractions of excreted N which are //volatilised// and the rates at which this volatilised N is converted into N,,2,,O-N.
+
+Quantities of N,,2,,O-N are then converted into N,,2,,O emission quantities on the basis of their relative molecular masses.
+
+Annual emission rates (e.g. //kg / year//) for a population or sub-population of livestock are calculated by multiplying the //per animal// emissions rates by the total size of the livestock population which is under consideration.
+
+This methodology represents the IPCC //Tier 1// approach.
+
+===Model data===
+The rate at which N,,2,,O is emitted ultimately depends on the nitrogen (N) and carbon ~(C) content of manure, and the duration of storage and type of treatment. As such, emissions factors for a broad range of scenarios are provided within this methodology. A total of 68 specific scenarios are represented, differentiated by **livestock type** (e.g., //fox//, //rabbit//),  **manure management type** (e.g. //composting//, //aerobic treatment//) and **subtype** (e.g. //static pile//, //natural aeration//).
+
+Each scenario is represented by several data values, including //daily N excretion rates//, //direct// and //indirect N to N,,2,,O-N conversion factors//, and the //fraction of manure-N typically volatilised//. In addition, this methodology uses two general constants for deriving emissions quantities from N,,2,,O-N:
+
+* //molecular mass ratio of N,,2,,O and N//: the factor for converting a N,,2,,O-N quantity into N,,2,,O (44/28)
+
+* //global warming potential of N,,2,,O//: the factor for converting a N,,2,,O emissions quantity into **[[Greenhouse_gases_Global_warming_potentials|CO,,2,,e]]** - the quantity of CO,,2,, which would exert the same atmospheric warming effect.  
+
+
+===Activity data required===
+N,,2,,O emissions are directly proportionate to the **total livestock population** kept, which therefore needs to be specified in order to make an emissions calculation.
+
+===Calculation and results===
+This emissions calculated by this methodology represent those attributable to the specified population of livestock over a period of 1 year.
+
+The methodology calculates two emissions quantities: (1) the **absolute** quantity of N,,2,,O associated with the livestock population; and (2) N,,2,,O emissions expressed in terms of **[[Greenhouse_gases_Global_warming_potentials|CO,,2,,e]]**.  
+----
+
+==Additional information==
+===Nomenclature===
+Following [[IPCC]] advice, the term //manure// is used collectively to include both dung and urine (i.e., the solids and the liquids) produced by livestock.
+
+===Incomplete data===
+Data on the fraction of manure N lost through volatilisation is not provided for all combinations of livestock type and manure management practices in the IPCC source documentation. Where possible, AMEE returns the sum of both direct and indirect N,,2,,O emissions. Otherwise, the returned values represent direct emissions only. 
+
+----
+
+==Related methodologies==
+Analogous methodologies are also available focussing on [[Poultry_manure_nitrous_oxide_emissions|poultry]], [[Cattle_and_swine_manure_nitrous_oxide_emissions|cattle and swine]] and [[Other_livestock_manure_nitrous_oxide_emissions|other]] livestock N,,2,,O emissions associated with manure management.

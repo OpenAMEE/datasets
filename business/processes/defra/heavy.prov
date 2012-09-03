@@ -1,0 +1,49 @@
+prov:assembled
+prov:container nouri:"Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories"
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/contri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/ackri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/prefri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/overri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/introri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/ch1ri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/ch2ri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs4a.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/annex1ri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/annex2ri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/annex3ri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/glosri.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/contwb.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/ackwb.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/prefwb.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/overwb.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/introwb.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs5a.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs5b.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/ch3wb.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs5c.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs5d.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs5e.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/contref.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/ackref.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/prefref.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/overref.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/introref.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs6a.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs6b.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/ch3ref1.pdf
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs6c.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs6d.html
+prov:component http://www.ipcc-nggip.iges.or.jp/public/gl/invs6e.html
+
+prov:process
+The data in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls#'Annex%204%20Process%20Emissions'! was based on prov:numeric nouri:"Revised 1996 IPCC Guidelines for National Greenhouse Gas Inventories" and was adapted for the UK by prov:by nouri:"AEA".
+
+prov:download
+prov:out svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+prov:manual
+prov:out csv_files:business/processes/defra
+prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%204%20Process%20Emissions'!
+
+prov:ameem business/processes/defra

@@ -1,0 +1,13 @@
+name,fugitive oil and gas
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Process type,type,TEXT,true,true,,,,
+Process subtype,subType,TEXT,true,true,,,,
+Specific source,emissionSource,TEXT,true,true,,,,
+Geographic context,geographicContext,TEXT,true,true,,,,
+Emissions factor value,value,TEXT,true,true,,,,
+CH4 emissions per unit volume processed,massCH4PerVolume,DECIMAL,true,false,kg,m^3,,
+N2O emissions per unit volume processed,massN2OPerVolume,DECIMAL,true,false,kg,m^3,,
+CO2 emissions per unit volume processed,massCO2PerVolume,DECIMAL,true,false,kg,m^3,,
+Volume processed,volume,DECIMAL,false,false,m^3,year,,
+Source,source,TEXT,true,false,,,,

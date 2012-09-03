@@ -1,0 +1,8 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+size,1.0|2.0,
+kW,1.0|2.0,
+source,1.0|2.0,
+comment,1.0|2.0,
+hoursOn,2.0,
+hoursPerMonth,1.0,hoursOn

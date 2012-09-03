@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+provenance: Act on CO2
+tags: 
+- UK
+- typical
+- aggregate
+- transport
+- data
+- benchmark
+- direct
+- actonco2
+authority: recommended
+show: "1"
+gallery: 
+ivds: 
+  ruralOrUrban: Home context
+  totalCO2: Typical total CO,,2,, emissions
+  flightsCO2: Typical flight-associated CO,,2,, emissions
+  numberOfPeople: Number of people in household
+  carsAndMotorbikesCO2: Typical car/motorcycle-associated CO,,2,, emissions
+  profileType: Individual or household calculation
+  source: 
+wikiname: People_Like_Me_Travel

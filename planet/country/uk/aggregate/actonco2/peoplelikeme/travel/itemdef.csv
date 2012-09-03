@@ -1,0 +1,10 @@
+name,People Like Me Travel
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown
+Rural or urban,ruralOrUrban,TEXT,true,true
+Profile type,profileType,TEXT,true,true
+Number of people,numberOfPeople,TEXT,true,true
+Flights CO2,flightsCO2,DECIMAL,true,false
+Cars and motorbikes CO2,carsAndMotorbikesCO2,DECIMAL,true,false
+Total CO2,totalCO2,DECIMAL,true,false
+Source,source,TEXT,true,false

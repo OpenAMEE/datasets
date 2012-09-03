@@ -1,0 +1,4 @@
+label,type,unit,per_unit,default
+bioCO2,DECIMAL,kg,,false
+CO2,DECIMAL,kg,,true
+comment,TEXT,,,false

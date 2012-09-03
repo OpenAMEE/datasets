@@ -1,0 +1,9 @@
+name,Manure methane cattle and swine
+algFile,default.js
+name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Livestock type,livestockType,TEXT,true,true,,,,
+Geographic region,region,TEXT,true,true,,,,
+Mean annual temperature,temperature,TEXT,true,true,,,,
+Livestock population size,livestockNumber,DECIMAL,false,false,,,,
+CH4 emissions per head livestock,massCH4PerHeadPerTime,DECIMAL,true,false,kg,year,,
+Source,source,TEXT,true,false,,,,

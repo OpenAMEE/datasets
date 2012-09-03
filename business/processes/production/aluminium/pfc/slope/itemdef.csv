@@ -1,0 +1,12 @@
+name,Aluminium Production: PFC Slope Method
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of cell technology,cellType,TEXT,true,true,,,,
+Quantity of aluminium produced,alQuantity,DECIMAL,false,false,kg,,,
+Anode effect minutes,aem,DECIMAL,false,false,min,day,,
+Anode effect frequency,aef,DECIMAL,false,false,,day,,
+Slope coefficient for CF4,cf4Coef,DECIMAL,false,false,kg*day,t*min,,
+Default slope coefficient for CF4,defCf4Coef,DECIMAL,true,false,kg*day,t*min,,
+C2F6/CF4 weight fraction,weightFrac,DECIMAL,false,false,,,,
+Default C2F6/CF4 weight fraction,defWeightFrac,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

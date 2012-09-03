@@ -1,0 +1,6 @@
+state=TX&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1337.601
+2005-01-01T00:00:00+00:00 (GMT),1138.4655
+2007-01-01T00:00:00+00:00 (GMT),1137.9852

@@ -1,0 +1,6 @@
+state=ID&type=total
+massCO2ePerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),null
+2005-01-01T00:00:00+00:00 (GMT),135.1953247
+2007-01-01T00:00:00+00:00 (GMT),140.7071909

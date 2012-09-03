@@ -1,0 +1,12 @@
+name,Car Generic Electric
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,false,false,,,,
+Distance,distance,DECIMAL,false,false,km,year,,
+Distance Km Per Month,distanceKmPerMonth,DECIMAL,false,false,km,month,,
+Energy Consumption,energyConsumption,DECIMAL,false,false,kWh,year,,
+kWh per km,kWhPerKm,DECIMAL,true,false,,,,
+kWh per month,kWhPerMonth,DECIMAL,false,false,kWh,month,,
+Occupants,occupants,DECIMAL,false,false,,,-1,
+Size,size,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,20 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- energy
+- season
+- calculation
+- UK
+provenance: EST/defra2008
+gallery: 
+show: "1"
+authority: recommended
+ivds: 
+  usagePerQuarter: Energy consumed per quarter
+  name: Season covered by energy consumption estimate
+  energy: Energy consumed
+  percentage: Adjustment factor
+  source: 
+wikiname: Seasonal_energy_adjustment_factors

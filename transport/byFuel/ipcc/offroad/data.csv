@@ -1,0 +1,13 @@
+fuel,useContext,massCO2PerEnergy,massCH4PerEnergy,massN2OPerEnergy,energyPerVolume,units,source
+diesel,agriculture,74100,4.15,28.6,0.036200,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+diesel,forestry,74100,4.15,28.6,0.036200,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+diesel,industry,74100,4.15,28.6,0.036200,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+diesel,household,74100,4.15,28.6,0.036200,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+motor gasoline 4-stroke,agriculture,69300,80,2,0.034400,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+motor gasoline 4-stroke,forestry,69300,0,0,0.034400,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+motor gasoline 4-stroke,industry,69300,50,2,0.034400,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+motor gasoline 4-stroke,household,69300,120,2,0.034400,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+motor gasoline 2-stroke,agriculture,69300,56,0.4,0.034400,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+motor gasoline 2-stroke,forestry,69300,68,0.4,0.034400,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+motor gasoline 2-stroke,industry,69300,52,0.4,0.034400,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf
+motor gasoline 2-stroke,household,69300,72,0.4,0.034400,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf

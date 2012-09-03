@@ -1,0 +1,6 @@
+region=TRE&type=non+baseload
+massNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),0.709
+2005-01-01T00:00:00+00:00 (GMT),0.5749
+2007-01-01T00:00:00+00:00 (GMT),0.5254

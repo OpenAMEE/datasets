@@ -1,0 +1,22 @@
+--- 
+data_items: []
+
+provenance: http://www.energystar.gov/index.cfm?c=home.index
+tags: 
+- energy_star
+- appliances
+- US
+- entertainment
+- set_top_box
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  companyName: 
+  quantity: The number of appliances the user wishes to use in the calculation. Default of 1.
+  energyPerTime: CO2 emission factor for the specified product.
+  brandName: 
+  modelName: 
+  modelNumber: 
+  source: 
+wikiname: Entertainment_Set_Top_Boxes

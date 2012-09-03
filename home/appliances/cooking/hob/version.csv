@@ -1,0 +1,6 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+baseKWhPerYear,1.0|2.0,
+perPersonKWhPerYear,1.0|2.0,
+source,1.0|2.0,
+numberOfPeople,1.0|2.0,

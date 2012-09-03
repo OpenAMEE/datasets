@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- plane
+- freight
+- calculation
+- direct
+- emission_factor
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  long2: "arrival airport longitude "
+  lat1: departure airport latitude
+  IATACode1: departure airport IATA code
+  kgCO2ePerTonneKmForCH4: CH4 emission factor
+  lat2: "arrival airport latitude "
+  mass: freight mass
+  IATACode2: arrival airport IATA code
+  useRFI: use to include effects of radiative forcing
+  kgCO2ePerTonneKmForN2O: N2O emission factor
+  kgCO2PerTonneKm: CO2 emission factor
+  type: flight type, e.g. //domestic//
+  radiativeForcingIndex: use to set own RFI, default 1.9
+  source: 
+  distance: 
+  long1: "departure airport longitude "
+wikiname: Plane_Freight_Defra

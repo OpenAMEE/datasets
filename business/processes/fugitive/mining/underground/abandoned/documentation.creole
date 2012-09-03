@@ -1,0 +1,6 @@
+  The AMEE category /business/processes/fugitive/mining/underground/abandoned contains data and methodologies for calculating the fugitive methane emissions from abandoned underground mines, sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/| 2006 Guidelines for National Greenhouse Gas Inventories]].
+
+Two methodologies are currently available, and are located in the following subcategories:
+
+* [[Generic_abandoned_mines|Generic abandoned mines]]
+* [[User_defined_abandoned_mines|User-defined abandoned mines]] 

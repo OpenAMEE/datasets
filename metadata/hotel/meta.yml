@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags:
+- metadata
+- hotel
+provenance: 
+gallery: 
+show: "1"
+authority: 
+ivds: 
+  hasIndoorPool: 
+  hasSauna: 
+  rating: 
+  hasRoomTempControl: 
+  floorspaceUnits: 
+  hasCentrallyControlledVentilation: 
+  hasFitnessRoom: 
+  proportionFloorspaceRemaining: 
+  numberOfRooms: 
+  hasCeilingFan: 
+  refrigerantVolume: 
+  hasIndividuallyControlledVentilation: 
+  hasSolarium: 
+  type: 
+  averageOccupancyRate: 
+  hasCentrallyControlledAirCon: 
+  totalFloorspace: 
+  proportionFloorspaceMeetingRooms: 
+  hasTurkishBath: 
+  numberOfMeetingRooms: 
+  hasFitnessCentre: 
+  source: 
+  hasOutdoorPool: 
+  proportionFloorspaceaccommodation: 
+wikiname: Metadata_hotel

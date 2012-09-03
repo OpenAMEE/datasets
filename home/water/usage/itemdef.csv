@@ -1,0 +1,10 @@
+name,Water Usage
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown
+litres per use,litresPerUse,DECIMAL,true,false
+litres per minute,litresPerMinute,DECIMAL,true,false
+litres per day,litresPerDay,DECIMAL,true,false
+uses per day,usesPerDay,DECIMAL,false,false
+minutes per day,minutesPerDay,DECIMAL,false,false
+Source,source,TEXT,true,false
+Type,type,TEXT,true,true

@@ -1,0 +1,11 @@
+ The AMEE category at business/processes/production/petrochemical/generic provides data and methodologies for calculating greenhouse gas emissions associated with the production of several types of petrochemicals. These methodologies represent the //Tier 1// approaches described by the IPCC Guidelines for National Greenhouse Gas Inventories ([[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|NGGIP]]). The data is based on integrated ethylene dichloride (EDC)/vinyl chloride monomer (VCM) plants, rather than stand alone facilities.
+
+See the following subcategories for further details:
+
+* [[Acrylonitrile_production|Acrylonitrile production]]
+* [[Carbon_black_production|Carbon black production]]
+* [[Ethylene_production|Ethylene production]]
+* [[Ethylene_dichloride_production|Ethylene dichloride production]]
+* [[Ethylene_oxide_production|Ethylene oxide production]]
+* [[Methanol_production|Methanol production]]
+* [[Vinyl_chloride_monomer_production|Vinyl chloride monomer production]]

@@ -1,0 +1,51 @@
+**Fuel combustion methodology. Calculates direct carbon dioxide (CO,,2,,) emissions associated with stationary fuel combustion and electricity usage. Applicable to the UK government's Carbon Reduction Commitment initiative.**
+
+==Summary==
+This methodology represents CO,,2,,emissions associated with a variety of fuels and other energy sources (electricity). It is specifically applicable to the UK government's [[http://www.decc.gov.uk/en/content/cms/emissions/crc_efficiency/crc_efficiency.aspx|Carbon Reduction Commitment]] (CRC) initiative which commenced in April 2010. The data is sourced from the list of [[http://www.decc.gov.uk/Media/viewfile.ashx?FilePath=What%20we%20do\A%20low%20carbon%20UK\crc\1_20100122101538_e_@@_crcconversiontable.pdf&filetype=4&minwidth=true|conversion factors]] published in conjunction with the CRC scheme.
+----
+
+==The methodology==
+The emissions calculation methodology is based upon emissions factors which relate a energy-, mass- or volume-based quantities of fuel or electricity with the associated quantities of greenhouse gas emissions. These values vary between fuels, depending on factors such as the concentration of carbon and moisture within each fuel type, or, in the case of electricity, with the mix of fuels used in generation.
+
+===Model data===
+Each fuel/energy type is represented by a single emissions factor representing the rate at which CO2 is emissions per quantity of fuel/energy consumed. 28 fuels for stationary combustion are represented (plus a further 2 from the original CRC proposal documentation - see below) as well as grid electricity.
+
+===Activity data required===
+Calculations are based upon the quantity of fuel/electricity described. The CRC source documentation does not specify fuel densities or heating (calorific) values and therefore the basis on which fuel quantities are specified (energy, mass, volume) is not interchangable for each given fuel. AMEE follows CRC protocol in requiring quantities to be specified on a basis according to the particular fuel type chosen. The specific input required (**energy**, **mass**, **volume**) varies between fuel/energy types, as follows:
+
+|=massUsed|=energyUsed|=volumeUsed|
+|aviation spirit|blast furnace gas|burning oil/kerosene/paraffin|
+|aviation turbine fuel|coke oven gas|diesel|
+|coking coal|colliery methane|gas oil|
+|fuel oil|natural gas|lpg|
+|industrial coal|other petroleum gas|petrol|
+|lubricants|refinery miscellaneous||
+|waste|sour gas||
+|naphtha|electricity||
+|petroleum coke|network gas||
+|scrap tyres|basic oxygen steel gas||
+|solid smokeless fuel|||
+|waste solvents|||
+|cement industry coal|||
+|commercial/public sector coal|||
+|lignite|||
+|peat|||
+|waste oils|||
+
+===Calculation and result===
+The quantity of fuel/energy consumed is multiplied by the appropriate emissions factor to calculate the assocaited CO,,2,, emissions. If a quantity is provided which is incompatible with the emissions factor (i.e. energy-, mass- or volume-based as required) a calculation cannot be made.
+----
+
+==Related methodologies==
+Other methodologies for fuel combustion, similarly published by the UK government department [[DEFRA_DECC|DEFRA]] are available with [[Energy_based_fuel_combustion_by_DEFRA|energy]], [[Mass_based_fuel_combustion_by_DEFRA|mass]] and [[Volume_based_fuel_combustion_by_DEFRA|volume]] based calculations.
+
+Fuel properties, such as density and calorific values - for converting between energy, mass and volume - can be found [[Fuel_properties_by_DEFRA|here]].
+----
+
+==Notes==
+===Simplification proposal===
+In June 2011, the UK government published tentative proposals for [[http://www.decc.gov.uk/media/viewfile.ashx?filetype=4&filepath=11/cutting-emissions/crc-efficiency/2088-simplifying-crc-next-steps.pdf&minwidth=true|simplifying the CRC]]. Included in these proposals was the reduction of the list of mandatory fuels/energy types from 29 to 4. These proposals are due for public consultation in 2012 with a view to full implementation in 2013. 
+
+===Data sources===
+Six new fuel types (//basic oxygen steel gas//, //cement industry coal//, //commercial/public sector coal//, //lignite//, //peat// and //waste oils//) are included with respect to those specified in the previous documentation (the [[http://www.decc.gov.uk/Media/viewfile.ashx?FilePath=188_20090312092134_e_@@_crccondoc.pdf&filetype=4|Consultation on Draft Order to Implement the Carbon Reduction Commitment]]). Two fuels //not// included in the latest documentation but which appeared in the previous Draft documentation ('//refinery miscellaneous//', '//lubricants//') are preserved in this category but should not be considered compliant with current CRC protocol.
+

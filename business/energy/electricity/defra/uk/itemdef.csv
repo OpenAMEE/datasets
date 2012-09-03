@@ -1,0 +1,12 @@
+name,DEFRA UK electricity
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of activity,type,TEXT,true,true,,,,
+Type of emission,emission,TEXT,true,true,,,,
+Basis of emissions factor,basis,TEXT,true,true,,,,
+CO2 emissions factor,massCO2PerEnergy,DECIMAL,true,false,kg,kWh,,
+CH4 emissions factor (CO2e),massCH4PerEnergy,DECIMAL,true,false,kg,kWh,,
+N2O emissions factor (CO2e),massN2OPerEnergy,DECIMAL,true,false,kg,kWh,,
+Total CO2e emissions factor,massCO2ePerEnergy,DECIMAL,true,false,kg,kWh,,
+Energy consumed,energyConsumed,DECIMAL,false,false,kWh,,,
+Source,source,TEXT,true,false,,,,

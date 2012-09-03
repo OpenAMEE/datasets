@@ -1,0 +1,10 @@
+name,GHGP transport fuel by context
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,fuel,TEXT,true,true,,,,
+Context of fuel use,useContext,TEXT,true,true,,,,
+Region,region,TEXT,true,true,,,,
+CH4 emissions per unit volume,massCH4PerVolume,DECIMAL,true,false,g,gal,,
+N2O emissions per unit volume,massN2OPerVolume,DECIMAL,true,false,g,gal,,
+Quantity fuel consumed,volume,DECIMAL,false,false,gal,,,
+Source,source,TEXT,true,false,,,,

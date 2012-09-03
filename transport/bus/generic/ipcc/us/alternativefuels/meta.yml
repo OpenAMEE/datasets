@@ -1,0 +1,45 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- bus
+- distance
+- fuel
+- IPCC
+- US
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fuelEfficiency: Fuel consumption efficiency of vehicle
+  totalOccupancy: Total vehicle occupancy
+  massCH4PerDistance: Factor for methane emissions per unit distance
+  distancePerJourney: Distance per repeated journey
+  fuel: Type of fuel used by vehicle
+  accountedPassengers: Number of passengers under consideration
+  massN2OPerDistance: Factor for nitrous oxide emissions per unit distance
+  fuelConsumed: Total quantity of fuel consumed
+  numberOfJourneys: Number of journeys of specified distance
+  frequency: Frequency of travel; specify 'daily', 'weekly' or 'monthly' if appropriate
+  source: 
+  factorType: Describes whether emissions are based on 'upper', 'lower' or 'mean' values from the range of emissions factors specified by the IPCC
+  distance: Distance travelled
+wikiname: US_alternative_fuel_bus_transport
+usages:
+  byFuelOnly: { distance : forbidden, frequency : ignored, numberOfJourneys : ignored, distancePerJourney : forbidden, fuelEfficiency : ignored, totalOccupancy : optional, accountedPassengers : optional }
+  byDistanceAndFuel: {  frequency : ignored, numberOfJourneys : ignored, distancePerJourney : forbidden, fuelEfficiency : forbidden, totalOccupancy : optional, accountedPassengers : optional }
+  byDistanceAndEfficiency: { frequency : ignored, numberOfJourneys : ignored, distancePerJourney : forbidden, fuelConsumed : ignored, totalOccupancy : optional, accountedPassengers : optional }
+  byJourneysAndFuel: { distance : ignored, frequency : optional, fuelEfficiency : forbidden, totalOccupancy : optional, accountedPassengers : optional }
+  byJourneysAndEfficiency: { distance : ignored, frequency : optional, fuelConsumed : ignored, totalOccupancy : optional, accountedPassengers : optional }
+  order: [ byFuelOnly, byDistanceAndFuel, byDistanceAndEfficiency, byJourneysAndFuel, byJourneysAndEfficiency ]

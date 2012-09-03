@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- IPCC
+- lubricants
+- calculation
+- physical_properties
+- emission_factor
+- global
+- IPCC_industry
+- IPCC_industry_non_energy_fuel
+- IPCC_tier1
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_5_Ch5_Non_Energy_Products.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  energyPerMass: Energy quantity per mass of lubricant. This value is also known as the 'lower heating value' or 'gross calorific value'
+  energyConsumed: Quantity of lubricant used - defined on an energy basis
+  massConsumed: Quantity of lubricant used - defined on an mass basis
+  type: Type of lubricant
+  oxidisedFraction: Fraction of lubricant which is oxidised during use
+  massCarbonPerEnergy: Mass of carbon contained within lubricant in relation to the energy content of the lubricant
+  source: 
+wikiname: Lubricants
+name: "IPCC methodology for non-energy lubricant uses"
+usages:
+  byMass: { energyConsumed : forbidden }
+  byEnergy: { massConsumed : optional }
+  order: [ byMass, byEnergy ]

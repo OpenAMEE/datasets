@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- energy
+- electricity
+- fuel
+- supplier
+- calculation
+- emission_factor
+- direct
+- ireland
+provenance: "[[http://www.edenbee.com|www.edenbee.com]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  supplier: Select //**Supplier**// from the data list options below
+  energyConsumption: Required user entered profile item value. Enter the energy consumed during reporting period
+  kWhPerMonth: 
+  kgCO2PerKWh: Emission Factor for the selected //**supplier**//
+  source: 
+wikiname: Energy_in_Ireland_by_supplier

@@ -1,0 +1,3 @@
+type,defTarQuantity,defaultGwBwRatio,units,source
+Rieghammer Furnace,0.005,1.055,percent,GHGP http://www.ghgprotocol.org/downloads/calcs/Aluminium%20Sector%20GHG%20Workbook%20-%20version%202.0.xls
+Other Furnaces,0.0,1.055,percent,GHGP http://www.ghgprotocol.org/downloads/calcs/Aluminium%20Sector%20GHG%20Workbook%20-%20version%202.0.xls

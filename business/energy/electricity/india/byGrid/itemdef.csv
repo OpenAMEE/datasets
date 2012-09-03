@@ -1,0 +1,9 @@
+name,GHGP Electricity India by grid
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Grid Name,gridName,TEXT,true,true,,,,
+Energy per Time,energyPerTime,DECIMAL,false,false,kWh,year,,
+Mass CO2 per Energy,massCO2PerEnergy,DECIMAL,true,false,kg,kWh,,
+Responsible area,responsibleArea,DECIMAL,false,false,m^2,,,
+Source,source,TEXT,true,false,,,,
+Total area,totalArea,DECIMAL,false,false,m^2,,,

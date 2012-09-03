@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- hydrogen
+- EPA
+- NREL
+- lca
+- US
+- calculation
+- direct
+- indirect
+- emission_factor
+provenance: "[[http://www.nrel.gov/docs/fy01osti/27637.pdf|NREL]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCH4PerMass: Quantity of CH,,4,, emitted per unit of hydrogen produced
+  massCO2PerMass: Quantity of CO,,2,, emitted per unit of hydrogen produced
+  mass: Quantity of hydrogen produced
+  process: Type of process
+  massN2OPerMass: Quantity of N,,2,,O emitted per unit of hydrogen produced
+  source: 
+wikiname: Life_cycle_hydrogen_production
+usages:
+  default : { mass : compulsory }
+

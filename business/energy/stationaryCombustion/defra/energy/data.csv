@@ -1,0 +1,45 @@
+fuel,basis,massCO2PerEnergy,massCH4PerEnergy,massN2OPerEnergy,massDirectCO2ePerEnergy,massIndirectCO2ePerEnergy,massTotalCO2ePerEnergy,units,source
+aviation spirit,gross,0.23735,0.00244,0.00235,0.24214,0.04278,0.28492,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+aviation turbine fuel,gross,0.24542,0.00012,0.00242,0.24795,0.04564,0.29359,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+burning oil,gross,0.24562,0.00052,0.00067,0.24681,0.04564,0.29245,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+cng,gross,0.18322,0.00027,0.00011,0.1836,0.02704,0.21064,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (industrial),gross,0.30383,0.00019,0.00596,0.30998,0.05318,0.36316,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (electricity generation),gross,0.32232,0.00006,0.0028,0.32518,0.05318,0.37836,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (domestic),gross,0.29582,0.03892,0.00446,0.3392,0.05318,0.39238,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coking coal,gross,0.32636,0.00335,0.00781,0.33752,0.05318,0.3907,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+diesel,gross,0.24989,0.00012,0.00173,0.25174,0.04798,0.29972,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+diesel (retail station biofuel blend),gross,0.2407,0.0001,0.0017,0.2425,0.0511,0.2936,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+fuel oil,gross,0.26613,0.00023,0.00108,0.26744,0.04516,0.3126,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+gas oil,gross,0.25191,0.00027,0.02639,0.27857,0.04798,0.32655,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lng,gross,0.18322,0.00027,0.00011,0.1836,0.06473,0.24833,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lpg,gross,0.21419,0.00015,0.00033,0.21467,0.02689,0.24156,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lubricants,gross,0.2627,0.00016,0.0007,0.26356,0.032,0.29556,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+naphtha,gross,0.23717,0.00021,0.00061,0.23798,0.03346,0.27144,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+natural gas,gross,0.18322,0.00027,0.00011,0.1836,0.01795,0.20155,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+other petroleum gas,gross,0.1863,0.00024,0.00493,0.19146,0.02269,0.21415,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petrol,gross,0.23963,0.00035,0.00068,0.24066,0.04279,0.28345,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petrol (retail station biofuel blend),gross,0.2351,0.0003,0.0007,0.2361,0.0444,0.2805,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petroleum coke,gross,0.31106,0.00023,0.00708,0.31837,0.03789,0.35626,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+refinery miscellaneous,gross,0.24512,0.00023,0.00067,0.24602,0.02986,0.27588,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+aviation spirit,net,0.24985,0.00257,0.00248,0.25489,0.04504,0.29993,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+aviation turbine fuel,net,0.25834,0.00012,0.00254,0.261,0.04804,0.30904,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+burning oil,net,0.25854,0.00055,0.00071,0.2598,0.04804,0.30784,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+cng,net,0.20381,0.0003,0.00012,0.20423,0.03008,0.23431,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (industrial),net,0.31982,0.0002,0.00628,0.3263,0.05598,0.38228,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (electricity generation),net,0.33929,0.00006,0.00295,0.3423,0.05598,0.39828,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (domestic),net,0.31139,0.04096,0.0047,0.35705,0.05598,0.41303,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coking coal,net,0.34354,0.00353,0.00822,0.35529,0.05598,0.41127,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+diesel,net,0.26584,0.00013,0.00184,0.26781,0.05105,0.31886,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+diesel (retail station biofuel blend),net,0.256,0.0001,0.0018,0.2579,0.0546,0.3125,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+fuel oil,net,0.28312,0.00024,0.00115,0.28451,0.04804,0.33255,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+gas oil,net,0.26799,0.00029,0.02807,0.29635,0.05105,0.3474,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lng,net,0.20381,0.0003,0.00012,0.20423,0.072,0.27623,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lpg,net,0.22942,0.00016,0.00036,0.22994,0.0288,0.25874,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lubricants,net,0.27947,0.00017,0.00075,0.28038,0.03404,0.31442,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+naphtha,net,0.24965,0.00022,0.00064,0.25051,0.03522,0.28573,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+natural gas,net,0.20381,0.0003,0.00012,0.20423,0.01996,0.22419,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+other petroleum gas,net,0.2025,0.00026,0.00536,0.20811,0.02467,0.23278,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petrol,net,0.25224,0.00037,0.00072,0.25333,0.04504,0.29837,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petrol (retail station biofuel blend),net,0.2475,0.0004,0.0007,0.2486,0.0468,0.2954,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petroleum coke,net,0.32743,0.00024,0.00745,0.33512,0.03988,0.375,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+refinery miscellaneous,net,0.25802,0.00024,0.00071,0.25897,0.03143,0.2904,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting

@@ -1,0 +1,20 @@
+name,CDP emissions and financial metrics
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Company,company,TEXT,true,true,,,,
+Country,country,TEXT,true,true,,,,
+Industrial sector,sector,TEXT,true,true,,,,
+Financial metric used,financialMetric,TEXT,true,true,,,,
+Scope 2 electricity consumption,energyScopeTwoElectricity,DECIMAL,true,false,MWh,,,
+Scope 2 heat consumption,energyScopeTwoHeat,DECIMAL,true,false,MWh,,,
+Scope 2 steam consumption,energyScopeTwoSteam,DECIMAL,true,false,MWh,,,
+Scope 2 cooling consumption,energyScopeTwoCooling,DECIMAL,true,false,MWh,,,
+Reporting period start date,reportingPeriodStart,TEXT,true,false,,,,
+Reporting period end date,reportingPeriodEnd,TEXT,true,false,,,,
+CO2e emissions per USD,massCO2ePerUSDFinancialMetric,DECIMAL,true,false,kg,,,
+Total value of financial metric (USD),totalFinancialMetricUSD,DECIMAL,true,false,,,,
+Total Scope 1 CO2e emissions,massScopeOneCO2e,DECIMAL,true,false,t,,,
+Total Scope 2 CO2e emissions,massScopeTwoCO2e,DECIMAL,true,false,t,,,
+Total Scope 1 energy consumed,energyScopeOne,DECIMAL,true,false,MWh,,,
+Total Scope 2 energy consumed,energyScopeTwoTotal,DECIMAL,true,false,MWh,,,
+Source,source,TEXT,true,false,,,,

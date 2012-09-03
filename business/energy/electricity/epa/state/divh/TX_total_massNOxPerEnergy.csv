@@ -1,0 +1,6 @@
+state=TX&type=total
+massNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1.14
+2005-01-01T00:00:00+00:00 (GMT),0.987
+2007-01-01T00:00:00+00:00 (GMT),0.8577

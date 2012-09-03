@@ -1,0 +1,5 @@
+label,type,unit,per_unit,default
+CO2,DECIMAL,kg,year,false
+CH4,DECIMAL,kg,year,false
+CO2e,DECIMAL,kg,year,true
+comment,TEXT,,,false

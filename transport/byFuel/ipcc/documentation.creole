@@ -1,0 +1,9 @@
+   The AMEE category /transport/byFuel/ipcc contains data and a methodology sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/|Guidelines for National Greenhouse Gas Inventories]] for calculating emissions associated with fuel used in various transportation contexts.
+
+See the appropriate subcategories for further details:
+
+* [[Offroad_fuels|Off-road fuels]]
+
+* [[Ship_fuels|Ship fuels]]
+
+* [[Train_fuels|Train fuels]]

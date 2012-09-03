@@ -1,0 +1,16 @@
+--- 
+data_items: []
+
+tags: 
+- airport
+- IATA
+- latitude
+- longitude
+- country
+provenance: http://www.partow.net/miscellaneous/airportdatabase/
+gallery: 
+show: "0"
+authority: 
+ivds: {}
+
+wikiname: All_airports

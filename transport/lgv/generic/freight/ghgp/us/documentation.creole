@@ -1,0 +1,6 @@
+**This category is deprecated. The Greenhouse Gas Protocol methodologies for freight transport can now be found [[Freight_transport_by_Greenhouse_Gas_Protocol|here]]**
+
+  The AMEE category /transport/lgv/generic/freight/ghgp/us contains data on the greenhouse gas emissions associated with the road transportation of freight in the US, sourced from the [[http://www.ghgprotocol.org/calculation-tools/all-tools|WRI Greenhouse Gas Protocol]]. 
+
+
+Subcategories are organised by vehicle type ('heavy duty', 'light goods'). See the relevant subcategory documentation for further details. 

@@ -1,0 +1,19 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.bre.co.uk|BRE]]"
+tags: 
+- home
+- heating
+- UK
+- data
+- physical_properties
+authority: recommended
+show: "1"
+gallery: 
+ivds: 
+  numberOfBedrooms: 
+  floorArea: 
+  homeType: 
+  source: 
+wikiname: Heating_UK_Floor_Area

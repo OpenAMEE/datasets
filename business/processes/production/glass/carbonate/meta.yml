@@ -1,0 +1,43 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- calculation
+- mass_balance
+- direct
+- global
+- IPCC
+- IPCC_tier3
+- IPCC_industry_mineral
+- IPCC_industry
+- glass
+- carbonate
+- EPA
+- EPA_mandatory
+- EPA_mandatory_glass
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fractionRhodochrosite: Fraction calcinated (default, 100%)
+  massSodaAsh: Quantity of mineral consumed
+  fractionDolomite: Fraction calcinated (default, 100%)
+  fractionSiderite: Fraction calcinated (default, 100%)
+  fractionMagnesite: Fraction calcinated (default, 100%)
+  massAnkerite: Quantity of mineral consumed
+  massRhodochrosite: Quantity of mineral consumed
+  type: "Glass type "
+  fractionCalcite: Fraction calcinated (default, 100%)
+  massSiderite: Quantity of mineral consumed
+  massDolomite: Quantity of mineral consumed
+  massCalcite: Quantity of mineral consumed
+  source: 
+  fractionSodaAsh: Fraction calcinated (default, 100%)
+  massMagnesite: Quantity of mineral consumed
+  fractionAnkerite: Fraction calcinated (default, 100%)
+wikiname: Glass_production_carbonate_methodology
+usages:
+  default : { massCalcite : optional, massMagnesite : optional, massDolomite : optional, massSiderite : optional, massAnkerite : optional, massRhodochrosite : optional, massSodaAsh : optional, fractionCalcite : optional, fractionMagnesite : optional, fractionDolomite : optional, fractionSiderite : optional, fractionAnkerite : optional, fractionRhodochrosite : optional, fractionSodaAsh : optional }
+

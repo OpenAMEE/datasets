@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- oil
+- gas
+- industry
+- fugitive
+- CH4
+- N2O
+- calculation
+- direct
+- emission_factor
+- global
+- IPCC
+- IPCC_energy
+- IPCC_energy_fugitive
+- IPCC_tier1
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf|IPCC]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  massN2OPerVolume: N,,2,,O emissions per unit volume processed
+  geographicContext: Geographic/developmental context
+  value: Describes the type of emissions estimate (min., max., mean) based on the range of values specified in the IPCC methodology
+  volume: Volume of oil/gas processed
+  emissionSource: Specific process source of emissions
+  type: Type of oil/gas processing
+  massCO2PerVolume: CO,,2,, emissions per unit volume processed
+  subType: Subtype of oil/gas processing
+  source: 
+  massCH4PerVolume: CH,,4,, emissions per unit volume processed
+wikiname: Oil_and_gas_fugitive_emissions
+name: "IPCC methodology for oil and gas system fugitive emissions"

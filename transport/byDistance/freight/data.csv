@@ -1,0 +1,10 @@
+type,subtype,massCO2perDistanceMassFreight,units,source
+Road,General,0.072,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Train,Diesel,0.02,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Train,Electric,0.04,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Train,Coal,0.026,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Ship,Inland,0.035,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Ship,Marine,0.01,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Plane,Short haul,1.58,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Plane,Medium haul,0.8,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Plane,Long haul,0.57,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

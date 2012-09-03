@@ -1,0 +1,17 @@
+name,GHGP US road vehicles
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Vehicle type,type,TEXT,true,true,,,,
+Fuel type,fuel,TEXT,true,true,,,,
+Vehicle emission standard,emissionStandard,TEXT,true,true,,,,
+Vehicle fuel efficiency,distancePerVolume,DECIMAL,true,false,mi,gal,,
+CO2 emissions per unit distance,massCO2PerDistance,DECIMAL,true,false,kg,mi,,
+Biogenic CO2 emissions per unit distance,massBiogenicCO2PerDistance,DECIMAL,true,false,kg,mi,,
+CH4 emissions per unit distance,massCH4PerDistance,DECIMAL,true,false,g,mi,,
+N2O emissions per unit distance,massN2OPerDistance,DECIMAL,true,false,g,mi,,
+CH4 emissions per unit volume,massCH4PerVolume,DECIMAL,true,false,g,gal,,
+N2O emissions per unit volume,massN2OPerVolume,DECIMAL,true,false,g,gal,,
+Distance travelled,distance,DECIMAL,false,false,mi,,,
+Fuel consumed,volume,DECIMAL,false,false,gal,,,
+Vehicle occupancy,occupancy,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

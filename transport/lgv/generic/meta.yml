@@ -1,0 +1,61 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- large_goods_vehicle
+- lgv
+- distance
+- fuel
+- mobile
+provenance: [[http://www.defra.gov.uk/environment/business/reporting/pdf/ghg-cf-guidelines2008.pdf|DEFRA]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  airconFull: Set "true", for maximum aircon usage
+
+  airconTypical: Set "true", for typical aircon usage
+
+  occupants: Number of occupants
+
+  kmPerLitreOwn: User determined fuel consumption rate
+
+  kgCO2PerKmUS: CO,,2,, emitted per distance travelled in US
+
+  size: Car size category
+
+  ecoDriving: Set "true", for eco-conscious driving
+
+  country: Country in which car used
+
+  kgCO2PerKm: CO,,2,, emitted per km travelled
+
+  regularlyServiced: Set "true", is vehicle serviced regularly
+
+  fuel: Fuel type
+
+  tyresUnderinflated: Set "true", for underinflated tyres
+
+  distanceKmPerMonth: Monthly distance travelled
+
+  fuelConsumed: 
+  
+  useTypicalDistance: Set "true", to use the typical distance
+
+  kmPerLitre: Manufacturers fuel comsumption rate
+
+  ownFuelConsumption: User specified fuel consumption rate
+
+  fuelConsumed: Manufacturers fuel consumption rate
+
+  source: 
+  
+  distance: Specify the distance travelled
+
+wikiname: Generic_large_goods_vehicle_transport
+usages:
+  byDistance: { ownFuelConsumption : optional, occupants : optional, country : optional, airconTypical : optional, tyresUnderinflated : optional, ecoDriving : optional, airconFull : optional, regularlyServiced : optional, useTypicalDistance : optional, fuelConsumed : forbidden, fuelConsumption : optional }
+  byFuel: { ownFuelConsumption : ignored, occupants : ignored, country : ignored, airconTypical : ignored, tyresUnderinflated : ignored, ecoDriving : ignored, airconFull : ignored, regularlyServiced : ignored, useTypicalDistance : ignored, fuelConsumption : ignored, distance : ignored }
+  order: [ byDistance, byFuel ]

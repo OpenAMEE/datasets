@@ -1,0 +1,20 @@
+--- 
+data_items: []
+
+tags: 
+- oxidation
+- combustion
+- fuel
+- data
+- physical_properties
+- global
+provenance: "[[http://www.wbcsd.org/web/projects/forestry/Pulp-and-Paper-Tool-Guidance.pdf|ICFPA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  sourceDocumentation: Original source documentation of oxidation factor
+  oxidationFactor: Oxidation factor
+  fuel: Type of fuel
+  source: 
+wikiname: Oxidation_factors

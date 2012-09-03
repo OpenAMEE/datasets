@@ -1,0 +1,64 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- transport
+- corinair
+- aircraft
+- plane
+- fuel
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html|CORINAIR]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  long2: Arrival location longitude
+  lat1: Departure location latitude
+  IATACode1: Departure airport IATA code
+  IATACode: IATA code for aicraft type
+  massFuelCruise8334km: Cruise phase fuel consumption versus distance
+  massFuelCruise463km: Cruise phase fuel consumption versus distance
+  massFuelCruise232km: Cruise phase fuel consumption versus distance
+  lat2: Arrival location latitude
+  journeys: Number of flights
+  ICAOCode: ICAO code for aircraft type
+  IATACode2: Arrival airport IATA code
+  massFuelCruise4630km: Cruise phase fuel consumption versus distance
+  massFuelCruise3704km: Cruise phase fuel consumption versus distance
+  massFuelCruise926km: Cruise phase fuel consumption versus distance
+  aircraft: Name of aircraft model
+  useRFI: Set to 'true', to use RF
+  massFuelCruise12038km: Cruise phase fuel consumption versus distance
+  climbOutDuration: Duration of climb out
+  massFuelCruise5556km: Cruise phase fuel consumption versus distance
+  massFuelCruise1389km: Cruise phase fuel consumption versus distance
+  massFuelClimbOut: Climb-out fuel consumption
+  approachDuration: Duration of approach
+  takeOffDuration: Duration of take-off
+  radiativeForcingIndex: Radiative forcing coefficient
+  massFuelCruise6482km: Cruise phase fuel consumption versus distance
+  massFuelCruise2778km: Cruise phase fuel consumption versus distance
+  massFuelApproach: Approach fuel consumption
+  representativeAircraft: Aircraft on which data is based
+  massFuelCruise7408km: Cruise phase fuel consumption versus distance
+  source: 
+  taxiDuration: Duration of taxiing
+  massFuelCruise9260km: Cruise phase fuel consumption versus distance
+  massFuelCruise1852km: Cruise phase fuel consumption versus distance
+  long1: Departure location longitude
+  distance: Distance flown
+  massFuelCruise11112km: Cruise phase fuel consumption versus distance
+  massFuelCruise10186km: Cruise phase fuel consumption versus distance
+  massFuelTaxi: Taxiing fuel consumption
+  massFuelTakeOff: Take-off fuel consumption
+wikiname: Specific_jet_aircraft
+usages:
+  byAbsoluteDistance: {  IATACode1 : forbidden, IATACode2 : forbidden, journeys : optional, lat1 : forbidden, lat2 : forbidden, long1 : forbidden, long2 : forbidden, takeOffDuration : optional, climbOutDuration : optional, approachDuration : optional, taxiDuration : optional, useRFI : optional, radiativeForcingIndex : optional }
+  byAirportCode: { distance : ignored, journeys : optional, lat1 : forbidden, lat2 : forbidden, long1 : forbidden, long2 : forbidden, takeOffDuration : optional, climbOutDuration : optional, approachDuration : optional, taxiDuration : optional, useRFI : optional, radiativeForcingIndex : optional }
+  byLatLong: { distance : ignored, IATACode1 : forbidden, IATACode2 : forbidden, journeys : optional, takeOffDuration : optional, climbOutDuration : optional, approachDuration : optional, taxiDuration : optional, useRFI : optional, radiativeForcingIndex : optional }
+  order: [ byAbsoluteDistance, byAirportCode, byLatLong ]

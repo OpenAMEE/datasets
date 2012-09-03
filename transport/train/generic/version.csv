@@ -1,0 +1,16 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+kgCO2PerKmPassenger,1.0|2.0,
+kgCO2PerPassengerKmES,1.0|2.0,
+kgCO2PerPassengerKmIE,1.0|2.0,
+source,1.0|2.0,
+typicalJourneyDistance,1.0|2.0,
+country,1.0|2.0,
+distance,2.0,
+distanceKmPerMonth,1.0,distance
+distancePerJourney,1.0|2.0,distancePerJourney
+isReturn,1.0|2.0,
+journeyFrequency,1.0|2.0,
+numberOfJourneys,1.0|2.0,
+numberOfPassengers,1.0|2.0,
+useTypicalDistance,1.0|2.0,

@@ -1,0 +1,11 @@
+name,Refrigerant Material Balance by DEFRA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Type of refrigerant,refrigerant,TEXT,false,false,,,,
+Purchases of refrigerant used to charge new equipment,purchased,DECIMAL,false,false,kg,,,
+Total full capacity of the new equipment,newCapacity,DECIMAL,false,false,kg,,,
+Quantity of refrigerant used to service equipment,service,DECIMAL,false,false,kg,,,
+Total full capacity of retiring equipment,retiredCapacity,DECIMAL,false,false,kg,,,
+Refrigerant recovered from retiring equipment,recovered,DECIMAL,false,false,kg,,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,8 @@
+name,Ship Freight
+algFile,algorithm.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+CO2,CO2,DECIMAL,true,false,kg,km*kg,,
+Source,source,TEXT,true,false,,,,
+Type,type,TEXT,true,true,,,,
+Distance,distance,DECIMAL,false,false,km,,,
+Mass,mass,DECIMAL,false,false,kg,,,

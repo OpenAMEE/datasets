@@ -1,0 +1,1 @@
+fuelQuantity * kgCO2PerUsGallon

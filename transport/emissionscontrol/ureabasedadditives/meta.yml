@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+tags: 
+- transport
+- catalytic_converter
+- emissions_control
+- urea
+- IPCC
+- IPCC
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- physical_properties
+- direct
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  mass: Mass of additive used
+  purity: Concentration of additive (%)
+  dummy: 
+  source: 
+wikiname: Urea_based_additives

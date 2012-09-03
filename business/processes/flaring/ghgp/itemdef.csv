@@ -1,0 +1,15 @@
+name,Flaring
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of flaring,type,TEXT,true,true,,,,
+Volume of gas flared,volume,DECIMAL,false,false,ft^3,,,
+Fraction of hydrocarbon in gas,gasHydrocarbonFraction,DECIMAL,false,false,,,,
+Fraction of carbon in hydrocarbon,hydrocarbonCarbonFraction,DECIMAL,false,false,,,,
+Molar volume of gas,molarVolume,DECIMAL,false,false,ft^3,lbmol,379.3,
+Combustion efficiency,combustionEfficiency,DECIMAL,false,false,,,0.98,
+Fraction of methane in gas,gasMethaneFraction,DECIMAL,false,false,,,,
+Molecular mass of CO2,molecularMassCO2,DECIMAL,false,false,,,44,
+Molecular mass of CH4,molecularMassCH4,DECIMAL,false,false,,,16,
+Stoichiometric ratio of C to CO2,cToCO2Stoichiometry,DECIMAL,false,false,,,1,
+Number of pounds in one metric tonne,poundsInTonne,DECIMAL,false,false,lb,t,2204.6,
+Source,source,TEXT,true,false,,,,

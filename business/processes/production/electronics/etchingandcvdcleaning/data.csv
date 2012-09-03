@@ -1,0 +1,59 @@
+sector,process,gas,massPerMass,massCF4PerMass,massC2F6PerMass,massC3F8PerMass,massCHF3PerMass,units,source
+photovoltaic,cvd cleaning only,N2O,1.0,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,cvd cleaning only,N2O,1.0,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,N2O,1.0,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,CF4,0.9000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,C2F6,0.6000,0.2000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,CHF3,0.4000,0.0700,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,CH2F2,0.1000,0.0800,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,C3F8,0.4000,0.1000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,c-C4F8 ,0.1000,0.1000,0.1000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,remote NF3,0.0200,0.0200,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,NF3,0.2000,0.0900,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,SF6,0.2000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,F2,,0.0200,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,aggregated,COF2,,0.0200,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,etching only,CF4,0.7000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,etching only,C2F6,0.4000,0.4000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,etching only,CHF3,0.4000,0.0700,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,etching only,CH2F2,0.0600,0.0800,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,etching only,c-C4F8 ,0.2000,0.2000,0.2000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,etching only,NF3,0.2000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,etching only,SF6,0.2000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,CF4,0.9000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,C2F6,0.6000,0.1000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,C3F8,0.4000,0.1000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,c-C4F8 ,0.1000,0.1000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,remote NF3,0.0200,0.0200,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,NF3,0.2000,0.1000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,F2,,0.0200,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+semiconductor,cvd cleaning only,COF2,,0.0200,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,aggregated,CF4,0.6000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,aggregated,CHF3,0.2000,0.0700,0.0500,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,aggregated,c-C4F8 ,0.1000,0.0090,,,0.0200,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,aggregated,remote NF3,0.0300,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,aggregated,NF3,0.3000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,aggregated,SF6,0.6000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,etching only,CF4,0.6000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,etching only,CHF3,0.2000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,etching only,c-C4F8 ,0.1000,0.0090,,,0.0200,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,etching only,SF6,0.3000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,cvd cleaning only,remote NF3,0.0300,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,cvd cleaning only,NF3,0.3000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+LCD,cvd cleaning only,SF6,0.9000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,aggregated,CF4,0.7000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,aggregated,C2F6,0.6000,0.2000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,aggregated,CHF3,0.4000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,aggregated,C3F8,0.4000,0.2000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,aggregated,c-C4F8 ,0.2000,0.1000,0.1000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,aggregated,NF3,0.2000,0.0500,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,aggregated,SF6,0.4000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,etching only,CF4,0.7000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,etching only,C2F6,0.4000,0.2000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,etching only,CHF3,0.4000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,etching only,c-C4F8 ,0.2000,0.1000,0.1000,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,cvd cleaning only,C2F6,0.6000,0.2000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,cvd cleaning only,C3F8,0.1000,0.2000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,cvd cleaning only,c-C4F8 ,0.1000,0.1000,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,cvd cleaning only,NF3,0.3000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+photovoltaic,cvd cleaning only,SF6,0.4000,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf

@@ -1,0 +1,39 @@
+--- 
+data_items: []
+
+tags: 
+- carbide
+- coke
+- acetylene
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_industry
+- IPCC_industry_carbide
+- EPA
+- EPA_mandatory
+- EPA_mandatory_silicon_carbide
+- calculation
+- direct
+- emission_factor
+- mass_balance
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|NGGIP]]"
+gallery: |-
+        <%= chart :x => "basis" %>
+show: "1"
+authority: enterprise
+ivds: 
+  massCH4PerMass: Quantity of CH,,4,, emitted per quantity consumed/produced
+  massCO2PerMass: Quantity of CO,,2,, emitted per quantity consumed/produced
+  productCarbonContent: Carbon content of carbide product
+  basis: Basis for making calculation (i.e. feedstock consumption, carbide production, carbide usage)
+  mass: Quantity of either feedstock consumed or carbide produced
+  feedstockOxidation: Oxidation acheived for coke feedstock (default, 1 - i.e. 100% oxidation)
+  feedstockCarbon: Carbon content of feedstock coke
+  type: Type of carbide
+  source: 
+wikiname: Carbide_production
+name: "IPCC methodology for carbide production"
+usages:
+  default : { productCarbonContent : optional, feedstockCarbon : optional, feedstockOxidation : optional, massCO2PerMass : optional, massCH4PerMass : optional }

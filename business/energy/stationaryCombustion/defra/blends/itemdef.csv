@@ -1,0 +1,9 @@
+name, DEFRA biofuel blends
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,fuel,TEXT,true,true,,,,
+Mass consumed,mass,DECIMAL,false,false,kg,,,
+Energy consumed,energy,DECIMAL,false,false,GJ,,,
+Volume consumed,volume,DECIMAL,false,false,L,,,
+Percentage biofuel,biofuelPercentage,DECIMAL,false,false,,,0,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,45 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- plane
+- freight
+- GHGP
+- US
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  long2: 
+  lat1: 
+  IATACode1: 
+  lat2: 
+  IATACode2: 
+  mass: Mass of freight transported
+  useRFI: 
+  kgCO2PerTonneKm: CO2 emissions factor
+  type: Type of flight.
+  radiativeForcingIndex: 
+  source: 
+  distance: 
+  long1: 
+wikiname: US_plane_freight

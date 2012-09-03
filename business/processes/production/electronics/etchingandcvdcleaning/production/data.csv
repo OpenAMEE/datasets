@@ -1,0 +1,4 @@
+sector,massCF4PerArea,massC2F6PerArea,massCHF3PerArea,massC3F8PerArea,massNF3PerArea,massSF6PerArea,units,source
+semiconductor,0.9,1.0,0.04,0.05,0.04,0.2,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+TFT-FPD,0.0005,,,,0.0009,0.004,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf
+PV-cells,0.005,0.0002,,,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf

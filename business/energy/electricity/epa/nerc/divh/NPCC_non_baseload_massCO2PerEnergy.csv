@@ -1,0 +1,6 @@
+region=NPCC&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1539.067
+2005-01-01T00:00:00+00:00 (GMT),1413.5094
+2007-01-01T00:00:00+00:00 (GMT),1269.1644

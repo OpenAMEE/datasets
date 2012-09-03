@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- transport
+- motorcycle
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  occupants: 
+  size: 
+  totalFuelConsumed: total fuel used for entire journey
+  kgCO2PerKm: 
+  fuel: 
+  kgCO2ePerKmForN2O: 
+  numberOfJourneys: 
+  ownFuelConsumption: rate of fuel consumption measured by user
+  source: 
+  distance: 
+  kgCO2ePerKmForCH4: 
+wikiname: Motorcycle_generic_Defra
+usages:
+  byDistance: {  occupants : optional, ownFuelConsumption : optional, numberOfJourneys : optional, totalFuelConsumed : forbidden }
+  byFuel: { distance : ignored, occupants : ignored, ownFuelConsumption : ignored, numberOfJourneys : ignored }
+  order: [ byDistance, byFuel ]

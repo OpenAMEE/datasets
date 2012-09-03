@@ -1,0 +1,19 @@
+name,Glass production by carbonate inputs
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Glass type,type,TEXT,true,true,,,,
+Quantity calcite/aragonite consumed,massCalcite,DECIMAL,false,false,t,,,
+Quantity magnesite consumed,massMagnesite,DECIMAL,false,false,t,,,
+Quantity dolomite consumed,massDolomite,DECIMAL,false,false,t,,,
+Quantity siderite consumed,massSiderite,DECIMAL,false,false,t,,,
+Quantity ankerite consumed,massAnkerite,DECIMAL,false,false,t,,,
+Quantity rhodochrosite consumed,massRhodochrosite,DECIMAL,false,false,t,,,
+Quantity soda ash consumed,massSodaAsh,DECIMAL,false,false,t,,,
+Calcite/aragonite calcination fraction,fractionCalcite,DECIMAL,false,false,,,1.0,
+Magnesite calcination fraction,fractionMagnesite,DECIMAL,false,false,,,1.0,
+Dolomite calcination fraction,fractionDolomite,DECIMAL,false,false,,,1.0,
+Siderite calcination fraction,fractionSiderite,DECIMAL,false,false,,,1.0,
+Ankerite calcination fraction,fractionAnkerite,DECIMAL,false,false,,,1.0,
+Rhodochrosite calcination fraction,fractionRhodochrosite,DECIMAL,false,false,,,1.0,
+Soda ash calcination fraction,fractionSodaAsh,DECIMAL,false,false,,,1.0,
+Source,source,TEXT,true,false,,,,

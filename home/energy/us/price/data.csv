@@ -1,0 +1,4 @@
+type,kgCO2PerUSD,units,source,algorithm
+natural gas,4.896,kgCO2/USD,http://www.eia.doe.gov,user_gas_cost*value
+electricity,5.869,kgCO2/USD,http://www.eia.doe.gov,user_electricity_cost*value
+fuel oil,3.508,kgCO2/USD,http://www.eia.doe.gov,user_oil_cost*value

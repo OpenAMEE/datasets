@@ -1,0 +1,21 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- energy
+- renewable
+provenance: 
+gallery: 
+show: "1"
+authority: unverified
+ivds: 
+  generatedEnergy: Quantity of energy generated
+  kWhGeneratedPerMonth: Quantity of energy generated per month
+  type: Type of renewable energy generation
+  description: 
+  source: 
+wikiname: Renewable
+usages:
+  default: {description : optional }

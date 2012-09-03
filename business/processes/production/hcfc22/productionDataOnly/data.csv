@@ -1,0 +1,4 @@
+type,defEmissFact,units,source
+Plants constructed prior to 1995,0.04,kgHFC-23/kgHCFC-22,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Plants constructed in 1995 or later,0.03,kgHFC-23/kgHCFC-22,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Global average (1978-1995),0.02,kgHFC-23/kgHCFC-22,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf

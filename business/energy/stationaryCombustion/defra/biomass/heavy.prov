@@ -1,0 +1,13 @@
+prov:download
+prov:in http://www.bre.co.uk/filelibrary/SAP/2009/STP09-CO201_Revised_emission_factors.pdf
+prov:out svn:8535/internal/provenance/sources/sap-2009-revised-emission-factors-for-the-national-calculation-methodologies.pdf
+
+The data provided in prov:out http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls#'Annex%209%20Other%20UK%20Factors'!B176:I189 was compiled by a prov:process using the CO2 emissions factors presented in prov:numeric http://www.bre.co.uk/filelibrary/SAP/2009/STP09-CO201_Revised_emission_factors.pdf and prov:numeric http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,163182&_dad=portal&_schema=PORTAL .
+
+prov:download
+prov:out svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+The functionality described by prov:out csv_files:business/energy/stationaryCombustion/defra/biomass was created by a prov:manual based on the emissions factors in prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%209%20Other%20UK%20Factors'!B176:I189 .
+
+prov:ameem business/energy/stationaryCombustion/defra/biomass

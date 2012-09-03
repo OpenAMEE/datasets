@@ -1,0 +1,18 @@
+name,Real Time Electricity Intermediate
+algFile,default.js,,,,,,,
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,true,true,,,,
+Energy used,energyUsed,DECIMAL,FALSE,FALSE,kWh,year,,
+Close cycle gas turbine,ccgt,DECIMAL,FALSE,FALSE,kWh,,,
+Open cycle gas turbine,ocgt,DECIMAL,FALSE,FALSE,kWh,,,
+Oil,oil,DECIMAL,FALSE,FALSE,kWh,,,
+Coal,coal,DECIMAL,FALSE,FALSE,kWh,,,
+Nuclear,nuclear,DECIMAL,FALSE,FALSE,kWh,,,
+Wind,wind,DECIMAL,FALSE,FALSE,kWh,,,
+Pump storage,pumpStorage,DECIMAL,FALSE,FALSE,kWh,,,
+Non pump storage hydro,npshyd,DECIMAL,FALSE,FALSE,kWh,,,
+Other,other,DECIMAL,FALSE,FALSE,kWh,,,
+France,intfr,DECIMAL,FALSE,FALSE,kWh,,,
+Ireland,intirl,DECIMAL,FALSE,FALSE,kWh,,,
+mass CO2 per energy,massCO2PerEnergy,DECIMAL,FALSE,FALSE,kg,kWh,,
+Source,source,TEXT,true,false,,,,

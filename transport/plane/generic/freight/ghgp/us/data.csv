@@ -1,0 +1,5 @@
+type,kgCO2PerTonneKm,units,source
+domestic,2.071,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+short haul,1.4388,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+long haul,0.6649,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+auto,0,none,none

@@ -1,0 +1,24 @@
+--- 
+data_items: []
+
+tags: 
+- electricity
+- gas
+- cooking
+- oven
+- domestic
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: "[[MTP]],[[http://www.bre.co.uk|BREDEM]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  numberOfPeople: If this is not set then the **//peopleInHousehold//** value is used in the [[Metadata|/metadata]] profile item.
+  type: Type of oven
+  baseKWhPerYear: Baseline energy consumption factor
+  perPersonKWhPerYear: Energy consumption per additional household person
+  source: 
+wikiname: Oven

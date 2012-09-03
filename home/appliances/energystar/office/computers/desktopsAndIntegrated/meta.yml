@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+provenance: http://www.energystar.gov/index.cfm?c=home.index
+tags: 
+- energy_star
+- appliances
+- US
+- office
+- computer
+- desktop
+- integrated
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  brand: 
+  category: A,B,C or D. See above for explanation.
+  productType: 
+  quantity: number of appliances to be included in the calculation. Default of 1.
+  energyPerTime: CO2 emission factor for chosen product.
+  modelName: 
+  modelNumber: 
+  source: 
+wikiname: Computers_Desktops_and_Integrated

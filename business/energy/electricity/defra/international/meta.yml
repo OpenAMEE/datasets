@@ -1,0 +1,39 @@
+--- 
+data_items: []
+
+tags: 
+- electricity
+- generation
+- distribution
+- transmission
+- losses
+- defra
+- international
+- global
+- calculation
+- direct
+- indirect
+- lca
+- emission_factor
+- defra_annex10
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  country: Country or international jurisdiction
+  type: Type of activity (e.g. generation, consumption)
+  annualMassDirectCO2PerEnergy: Direct CO2 emissions per unit electricity (raw annual basis)
+  massDirectCO2PerEnergy: Direct CO2 emissions per unit electricity (annual rolling average basis)
+  massIndirectCO2ePerEnergy: Indirect CO2e emissions per unit electricity (annual rolling average basis)
+  massLifeCycleCO2ePerEnergy: Life cycle CO2e emissions per unit electricity (annual rolling average basis)
+  percentElectricity: Percentage of total energy production represented by electricity
+  percentHeat: Percentage of total energy production represented by heat
+  percentLossesElectricity: Percentage of losses attributable to electricity production
+  percentLossesHeat: Percentage of losses attributable to heat production
+  energyConsumed: Quantity of energy consumed
+  calculationBasis: Set to 'annual', 'average' to specify data/calculation type
+  emissionType: Set to 'direct', 'indirect', 'life cycle' to specify emission type
+wikiname: International_electricity_by_DEFRA
+usages:
+  default: { calculationBasis : forbidden, emissionType : forbidden }

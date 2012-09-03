@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- passenger
+- occupancy
+- car
+- distance
+- mobile
+- electricity
+- calculation
+- emission_factor
+- direct
+- global
+provenance: 
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  occupants: Number of vehicle occupants
+  size: Car size
+  country: Country in which travel occurred
+  kWhPerKm: Energy consumed per distance
+  energyConsumption: Total energy consumed
+  distanceKmPerMonth: Distance travelled per month
+  kWhPerMonth: Energy consumed per month
+  source: 
+  distance: Distance travelled
+wikiname: Electric_car_transport
+usages:
+  byDistance: { country : optional, energyConsumption : forbidden, occupants : optional }
+  byEnergy: { country : optional, distance : ignored, occupants : optional } 
+  order: [ byDistance, byEnergy ]

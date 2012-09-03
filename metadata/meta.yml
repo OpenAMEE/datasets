@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- metadata
+- country
+provenance: 
+gallery: 
+show: "1"
+authority: 
+ivds: 
+  greenTariff: 
+  mainHeatingSystem: 
+  country: 
+  postcode: 
+  peopleInHousehold: 
+  adultsInHousehold: 
+  profileStatus: 
+  buildingType: 
+  childrenInHousehold: 
+  profileType: 
+  otherDetails: 
+  floorAreaM2: 
+  state: 
+wikiname: Metadata

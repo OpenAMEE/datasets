@@ -1,0 +1,10 @@
+cookerType,fuelType,gasBaseKWhPerYear,gasPerPersonKWhPerYear,elecBaseKWhPerYear,elecPerPersonKWhPerYear,units,source
+Cooktop,gas,226.607,45.626,0,0,kWh/year,UK data - BRE/MTP/dgen/defra 2008
+Cooktop,electricity,0,0,184.14,37.075,kWh/year,UK data - BRE/MTP/dgen/defra 2008
+Cooktop,induction,0,0,129.969,26.168,kWh/year,UK data - BRE/MTP/dgen/defra 2008
+Oven,gas,208.869,42.054,0,0,kWh/year,UK data - BRE/MTP/dgen/defra 2008
+Oven,electricity,0,0,141.565,28.503,kWh/year,UK data - BRE/MTP/dgen/defra 2008
+Range,gas,435.476,87.68,0,0,kWh/year,UK data - BRE/MTP/dgen/defra 2008
+Range,electricity,0,0,325.705,65.578,kWh/year,UK data - BRE/MTP/dgen/defra 2008
+Range,mixed - gas cooktop and electric oven,226.607,45.626,141.565,28.503,kWh/year,UK data -BRE/MTP/dgen/defra 2008
+Range,mixed - electric cooktop and gas oven,208.869,42.054,184.14,37.075,kWh/year,UK data -BRE/MTP/dgen/defra 2008

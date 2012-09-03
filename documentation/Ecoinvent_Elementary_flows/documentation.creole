@@ -1,0 +1,39 @@
+Data within the //ecoinvent database// are grouped into entities called Elementary flows. These are the flows of pollutants and resources between the technosphere and nature. More specifically they describe (a) the material or energy entering the system being studied, which has been drawn from the environment without previous human transformation and (b) material or energy leaving the system being studied, which is discarded into the environment without subsequent human transformation
+ 
+Within the ecoinvent database they are identified by a human readable flow name (e.g. “Carbon dioxide, fossil”), a category and a subcategory.
+ 
+Categories describe the different environmental compartments like soil and water and subcategories further distinguish relevant subcompartments within these compartments.  They are grouped as follows:
+ 
+|=Category|=SubCategory|=Definition|
+|Air|low population density|Emissions in areas without settlements or protected areas in the direct surrounding|
+|Air|low population density, Longterm|Emissions which take place in the future, 100 years after the start of the process.|
+|Air|lower stratosphere + upper troposphere|Emissions from aeroplanes and space shuttles.|
+|Air|high population density|Emissions in densly populated areas.|
+|Air|unspecified|-|
+|Resource|in air|Resources in air, e.g. Argon|
+|Resource|biotic|Biogenic Resource, e.g. wood|
+|Resource|in ground|Resource in soil e.g. ores, but also for landfill volume|
+|Resource|Land|Land occupation and transformation|
+|Resource|in water|Resource in water, e.g. magnesium|
+|Soil|Agricultural|Emission to soil which are used for the production of food and fodder|
+|Soil|forestry|Emission to soils used for plant production (forest, renewable raw materials) which do not enter the human food chain directly.|
+|Soil|industrial|Emission to soils used for industry, manufacturing, waste management and infrastructure.|
+|Soil|unspecified|-|
+|Water|ground-|Ground water which will get in contact with the biosphere after some time.|
+|Water|ground-, longterm|Emissions which take place in the future, 100 years after the start of the process.|
+|Water|Lake|Lakes with fresh water|
+|Water|Ocean|Ocean, sea and salty lakes.|
+|Water|River|Rivers|
+|Water|unspecified|-|	 
+
+===Elementary flow factors===
+ 
+The //ecoinvent database// offers life cycle inventory (LCI) and life cycle impact assessment (LCIA) results. LCIA methods normally assign a factor known as an //Impact factor// to each elementary flow in an inventory table. The //ecoinvent Centre// refer to these as //elementary flow factors//. There are different types of factors, which are described below.
+  
+|Characterisation factor|The importance of single flows relative to a specific basic flow is characterised by a factor, e.g. global warming potential of greenhouse gases relative to CO,,2,,.|
+|Normalized factor|Another factor, e.g. a characterisation factor, is normalized by division through the total sum of the characterised flows in a certain area and within a certain time.|
+|Weighted (…) factor|A weighting is applied to the characterised or normalised results from different categories in order to calculate a final score.|
+|Damage factor|The possible damage due to an emission is described with a factor. This can include a modelling for the environmental fate, a characterisation of the substances and a final weighting.|
+----
+
+**Ecoinvent in AMEE is a proprietary dataset and is accessed under subscription. To subscribe, contact sales@amee.com.**

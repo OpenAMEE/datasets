@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- electricity
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: "[[MTP]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  comment: 
+  device: 
+  rating: 
+  kWhPerCycle: 
+  cyclesPerMonth: 
+  source: 
+  age: 
+  temperature: 
+  cycleRate: Only needs to be set for "wet" appliances.
+  kWhPerYear: 
+wikiname: Kitchen_generic

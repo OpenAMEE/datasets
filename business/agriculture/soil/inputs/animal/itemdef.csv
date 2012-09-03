@@ -1,0 +1,12 @@
+name,Soil N2O from animal inputs
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+livestock type,type,TEXT,true,true,,,,
+Direct urine and dung-N to N2O-N conversion factor,massPerMass,DECIMAL,true,false,kg,kg,,
+Quantity of urine and dung-N deposited onto soil,massNAdded,DECIMAL,false,false,kg,,,
+Volatilised fraction,fractionVolatilised,DECIMAL,true,false,,,,
+Volatilised N to N2O-N conversion factor,massPerMassVolatilised,DECIMAL,true,false,kg,kg,,
+Fraction leached,fractionLeached,DECIMAL,true,false,,,,
+Leached N to N2O-N conversion factor,massPerMassLeached,DECIMAL,true,false,kg,kg,,
+Soil is leached?,isLeached,TEXT,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

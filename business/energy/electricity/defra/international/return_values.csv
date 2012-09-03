@@ -1,0 +1,6 @@
+label,type,unit,per_unit,default
+directCO2AnnualBasis,DECIMAL,kg,,false
+directCO2RollingBasis,DECIMAL,kg,,false
+indirectCO2e,DECIMAL,kg,,false
+lifeCycleCO2e,DECIMAL,kg,,false
+comment,TEXT,,,false

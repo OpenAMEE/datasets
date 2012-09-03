@@ -1,0 +1,4 @@
+label,type,unit,per_unit,default
+CO2,DECIMAL,kg,,true
+energy,DECIMAL,MJ,,false
+comment,TEXT,,,false

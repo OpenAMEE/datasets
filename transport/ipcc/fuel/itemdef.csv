@@ -1,0 +1,11 @@
+name, IPCC transport fuels
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,fuel,TEXT,true,true,,,,
+CO2 emissions per fuel quantity,massCO2PerEnergy,DECIMAL,true,false,kg,TJ,,
+Energy content per fuel quantity,netEnergyPerMass,DECIMAL,true,false,TJ,Gg,,
+Energy consumed,energy,DECIMAL,false,false,TJ,,,
+Mass consumed,mass,DECIMAL,false,false,Gg,,,
+Fuel density,density,DECIMAL,false,false,Gg,L,,
+Volume consumed,volume,DECIMAL,false,false,L,,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,7 @@
+name,ActOnCO2 Metadata
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Home ownership,homeOwnership,TEXT,false,false,,,,
+Real time display,realTimeDisplay,TEXT,false,false,,,,
+Top floor flat,topFloorFlat,TEXT,false,false,,,,

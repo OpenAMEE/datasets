@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- defra
+- fuel
+- volume
+- mass
+- defra_annex6
+- calculation
+- emission_factor
+- direct
+- indirect
+- lca
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  fuel: Type of transport fuel
+  massCO2PerVolume: Quantity of direct CO,,2,, emissions per volume consumed
+  massCH4PerVolume: Quantity of direct CH,,4,, emissions per volume consumed
+  massN2OPerVolume: Quantity of direct N,,2,,O emissions per volume consumed
+  massDirectCO2ePerVolume: Quantity of direct greenhouse gas emissions per volume consumed 
+  massIndirectCO2ePerVolume: Quantity of indirect greenhouse gas emissions per volume consumed
+  massTotalCO2ePerVolume: Total quantity of greenhouse gas emissions per volume consumed
+  mass: Mass of fuel consumed
+  volume: Volume of fuel consumed
+wikiname: DEFRA_transport_fuel_methodology
+usages:
+  byVolume: { mass : ignored }
+  byMass: { volume : forbidden }
+  order: [ byVolume, byMass ]

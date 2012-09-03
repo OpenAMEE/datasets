@@ -1,0 +1,29 @@
+--- 
+data_items: []
+
+tags: 
+- lime
+- aluminium
+- GHGP
+- GHGP_lime_sector
+- IAI
+- EPA
+- climate_leaders
+- calculation
+- direct
+- mass_balance
+- global
+provenance: "[[http://www.ghgprotocol.org/downloads/calcs/aluminium.pdf|International Aluminium Insitute/GHG Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massSlakedLimePerTime: Quantity of slaked lime produced
+  purityQuickLime: Purity of quick lime (fraction, 0-1)
+  puritySlakedLime: Purity of slaked lime (fraction, 0-1)
+  type: Type of lime production
+  massQuickLimePerTime: Quantity of quick lime produced
+  source: 
+wikiname: IAI_lime_production
+usages:
+  default: { puritySlakedLime : optional, purityQuickLime : optional }

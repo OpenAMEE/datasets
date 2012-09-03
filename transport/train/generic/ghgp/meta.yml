@@ -1,0 +1,15 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- train
+- GHGP
+provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "0"
+authority: 
+ivds: {}
+
+wikiname: Generic_train_GHGP

@@ -1,0 +1,11 @@
+type,householdOrIndividual,massCO2PerTime,units,source
+Personal Cars/Motorcycles,household average,2578,kgCO2/year,DECC 2009
+Other Transport,household average,267,kgCO2/year,DECC 2009
+Domestic Flights,household average,23,kgCO2/year,DECC 2009
+International Short-haul Flights,household average,396,kgCO2/year,DECC 2009
+International Long-haul Flights,household average,957,kgCO2/year,DECC 2009
+Personal Cars/Motorcycles,individual average,1100,kgCO2/year,DECC 2009
+Other Transport,individual average,114,kgCO2/year,DECC 2009
+Domestic Flights,individual average,10,kgCO2/year,DECC 2009
+International Short-haul Flights,individual average,169,kgCO2/year,DECC 2009
+International Long-haul Flights,individual average,408,kgCO2/year,DECC 2009

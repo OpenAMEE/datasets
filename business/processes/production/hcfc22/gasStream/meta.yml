@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_hcfc22_sector
+- HCFC_22
+- EPA
+- EPA_mandatory
+- EPA_mandatory_hfc23
+- IPCC
+- IPCC_tier3
+- IPCC_industry
+- IPCC_industry_chemical
+- calculation
+- direct
+- mass_balance
+- global
+provenance: Based on the HCFC-22 GHGP worksheet from http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  flowConcentration: 
+  emissFlowRate: 
+  type: There are no drill options for this category. Set drill //**type**// to //Normal//
+  source: 
+  timeFlow: 
+wikiname: HCFC22_gas_stream
+usages:
+  default: { emissFlowRate : compulsory, flowConcentration : compulsory, timeFlow : compulsory }
+

@@ -1,0 +1,10 @@
+name,Cement Production - Cement-Based Method
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Cement Production,cementQuantity,DECIMAL,false,false,kg,year,,
+Percentage Clinker Content,clinkerContent,DECIMAL,false,false,,,,
+Default Percentage Clinker Content,defClinkerContent,DECIMAL,true,false,,,,
+Amount of Raw Material per kg of Clinker,rawQuantity,DECIMAL,false,false,kg,,1.54,
+Percentage CaCO3 Equivalent Raw Material,caco3Ratio,DECIMAL,false,false,,,78,
+Source,source,TEXT,true,false,,,,

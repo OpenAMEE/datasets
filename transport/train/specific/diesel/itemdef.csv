@@ -1,0 +1,14 @@
+name,Train specific diesel
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Region,region,TEXT,true,true,,,,
+Train type,type,TEXT,true,true,,,,
+Fuel consumption per 100 seats,volumePer100SeatPerDistance,DECIMAL,true,false,L,km,,
+Seating capacity,seatingCapacity,DECIMAL,true,false,,,,
+Fuel consumption per car,volumePerCarPerDistance,DECIMAL,true,false,L,km,,
+Typical car number,numberOfCars,DECIMAL,true,false,,,,
+Unladed (tare) weight,tareMass,DECIMAL,true,false,t,,,
+Distance,distance,DECIMAL,false,false,km,,,
+Percentage occupied,occupancy,DECIMAL,false,false,,,31,
+Number of passengers,passengers,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

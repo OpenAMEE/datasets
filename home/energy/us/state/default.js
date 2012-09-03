@@ -1,0 +1,1 @@
+energyConsumption*kgCO2PerkWh;

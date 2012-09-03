@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- lighting
+- commercial
+- light_bulb
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: MTP/DEFRA 2007
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  number: Number of light bulbs used
+  location: Location of light bulb usage
+  country: Set a country to override the location electricity factor
+  energyPerTime: Energy consumption per time for light bulb
+  type: Type of light bulb
+  source: 
+wikiname: Generic_lighting
+usages:
+  default: { country : optional, number : compulsory }
+

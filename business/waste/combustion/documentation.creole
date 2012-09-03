@@ -1,0 +1,11 @@
+  The AMEE category /business/waste/combustion contains data and methodologies sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf|Guidelines for National Greenhouse Gas Inventories]] for calculating greenhouse gas emissions associated with the burning of waste.
+
+The data is organised into three subcategories, as follows:
+
+* [[Municipal_waste_combustion|/business/waste/combustion/municipal]]: contains data and a methodology for calculating ''municipal waste'' emissions organised by waste type
+
+* [[Industrial_waste_combustion|/business/waste/combustion/industrial]]: contains data and a methodology for calculating ''industrial waste'' emissions organised by industrial sector
+
+* [[Other_waste_combustion|/business/waste/combustion/other]]: contains data and a methodology for calculating emissions for several other industrial waste types
+
+These categories represent specific types or instances of waste combustion. For waste combustion emissions calculations based on aggregated, generic waste types (bulked municipal and industrial wastes) users are referred to the AMEE category [[Stationary_Combustion|/business/energy/stationaryCombustion]].

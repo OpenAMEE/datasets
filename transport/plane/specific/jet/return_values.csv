@@ -1,0 +1,9 @@
+label,type,unit,per_unit,default
+cruiseCO2,DECIMAL,kg,,false
+takeOffCO2,DECIMAL,kg,,false
+climbOutCO2,DECIMAL,kg,,false
+approachCO2,DECIMAL,kg,,false
+taxiCO2,DECIMAL,kg,,false
+totalCO2,DECIMAL,kg,,true
+greatCircleDistance,DECIMAL,km,,false
+comment,TEXT,,,false

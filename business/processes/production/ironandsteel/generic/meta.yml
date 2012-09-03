@@ -1,0 +1,37 @@
+--- 
+data_items: []
+
+tags: 
+- iron
+- steel
+- coke
+- sinter
+- DRI
+- pellet
+- IPCC
+- IPCC_industry
+- IPCC_industry_metal
+- IPCC_tier1
+- EPA
+- EPA_mandatory
+- EPA_mandatory_iron_and_steel
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCH4PerMass: Quantity of CH,,4,, per quantity of product
+  massCO2PerMass: Quantity of CO,,2,, per quantity of product
+  mass: Quantity produced
+  process: Process used
+  product: Type of material produced
+  source: 
+wikiname: Iron_and_steel_generic_processes
+name: "IPCC methodology for iron and steel associated processes - tier 1"
+usages:
+  default : { mass : compulsory }
+

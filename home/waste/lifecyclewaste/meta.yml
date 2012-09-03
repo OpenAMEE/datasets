@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+tags: 
+- deprecated
+- defra
+- defra_annex9
+- waste
+- lca
+- calculation
+- UK
+- emission_factor
+authority: enterprise
+show: "0"
+gallery: "nil"
+ivds: 
+  wasteType: waste type is selected by the user from the data item list below
+  kgCO2eDisposedByRecyclingClosedLoop: 
+  quantityComposted: 
+  percentageRecycled: 
+  kgCO2ePerTonneVirgin: 
+  quantityLandfill: 
+  kgCO2eDisposedByComposting: 
+  kgCO2eDisposedByRecyclingOpenLoop: 
+  kgCO2ePowerOnlyMovingGrate: 
+  kgCO2eDisposedByLandfill: 
+  quantityClosedLoop: 
+  quantityMovingGrate: 
+  kgCO2ePerTonneRecycled: 
+  quantityOpenLoop: 
+  quantityAnaerobicDigestion: 
+  kgCO2eAnaerobicDigestion: 
+  source: 
+  disposalEmissionsOnly: this functionality is deprecated
+wikiname: Life_Cycle_Waste
+usages:
+  default : { quantityClosedLoop : optional, quantityOpenLoop : optional, quantityMovingGrate : optional, quantityAnaerobicDigestion : optional, quantityComposted : optional, quantityLandfill : optional, disposalEmissionsOnly : optional, percentageRecycled: optional, disposalEmissionsOnly : forbidden }

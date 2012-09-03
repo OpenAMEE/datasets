@@ -1,0 +1,46 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- plane
+- air_travel
+- aviation
+- passenger
+- heavy_goods
+- great_circle
+- defra
+- defra_annex6
+- defra_annex7
+- calculation
+- emission_factor
+- direct
+- indirect
+- lca
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  type: Type of route
+  IATACode1: IATA code of departure airport
+  IATACode2: IATA code of destination airport
+  lat1: Latitude of departure
+  lat2: Latitude of destination
+  long1: Longitude of departure
+  long2: Longitude of destination
+  journeys: Number of journeys
+  passengers: Number of passengers
+  passengerClass: Passenger class
+  isReturn: Set to 'true' to specify a return journey
+  mass: Quantity of goods freighted
+  radiativeForcingIndex: Radiative forcing adjustment factor
+  useRFI: Set to 'true' to include Radiative Forcing
+wikiname: Great_Circle_flight_methodology
+usages:
+  passengerFlightByAirport: { lat1 : ignored, lat2 : ignored, long1 : ignored, long2 : ignored, journeys : optional, passengers : optional, passengerClass : optional, isReturn : optional, mass : forbidden, radiativeForcingIndex : optional, useRFI : optional }
+  passengerFlightByLocation: { IATACode1 : forbidden, IATACode2 : forbidden, journeys : optional, passengers : optional, passengerClass : optional, isReturn : optional, mass : forbidden, radiativeForcingIndex : optional, useRFI : optional }
+  freightFlightByAirport: { lat1 : ignored, lat2 : ignored, long1 : ignored, long2 : ignored, journeys : optional, passengers : ignored, passengerClass : ignored, isReturn : ignored, radiativeForcingIndex : optional, useRFI : optional }
+  freightFlightByLocation: { IATACode1 : forbidden, IATACode2 : forbidden, journeys : optional, passengers : ignored, passengerClass : ignored, isReturn : ignored, radiativeForcingIndex : optional, useRFI : optional  }
+  order: [ passengerFlightByAirport, passengerFlightByLocation, freightFlightByAirport, freightFlightByLocation ]

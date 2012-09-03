@@ -1,0 +1,16 @@
+name,Coke calcination
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Green coke feed,massGreenCoke,DECIMAL,false,false,t,,,
+Green coke moisture content,greenCokeMoistureContent,DECIMAL,false,false,,,10,
+Green coke volatiles content,greenCokeVolatilesContent,DECIMAL,false,false,,,10,
+Green coke sulphur content,greenCokeSulphurContent,DECIMAL,false,false,,,3,
+Calcined coke production,massCalcinedCokeProduced,DECIMAL,false,false,t,,,
+Calcined coke production per mass feedstock,massCalcinedCokeProducedPerMass,DECIMAL,false,false,t,t,0.68,
+Under-calcined coke collected,underCalcinedCokeCollected,DECIMAL,false,false,t,,0,
+Coke dust emissions,massCokeDust,DECIMAL,false,false,t,,,
+Coke dust emissions per mass feedstock,massCokeDustPerMass,DECIMAL,false,false,t,t,0.075,
+Sulphur content in calcined coke,calcinedCokeSulphur,DECIMAL,false,false,,,2.5,
+Green coke methane content,greenCokeMethaneContent,DECIMAL,false,false,,,0.035,
+Source,source,TEXT,true,false,,,,

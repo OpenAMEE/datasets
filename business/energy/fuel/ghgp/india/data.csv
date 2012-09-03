@@ -1,0 +1,6 @@
+type,netCalorificValue,carbonContent,massCO2PerEnergy,units,source
+fuel wood,15.22,43.8,105.55,none,http://www.ghgprotocol.org/calculation-tools/all-tools
+mustard straw,16.53,42.1,93.38,none,http://www.ghgprotocol.org/calculation-tools/all-tools
+rice straw,13.03,38.1,107.24,none,http://www.ghgprotocol.org/calculation-tools/all-tools
+bamboo dust,15.25,26.8,98.28,none,http://www.ghgprotocol.org/calculation-tools/all-tools
+msw,5.86,27.2,170.15,none,http://www.ghgprotocol.org/calculation-tools/all-tools

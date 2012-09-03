@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- business
+- manufacturing
+- electronics
+- emissions_control
+- data
+- physical_properties
+- global
+- IPCC
+- IPCC_tier2
+- IPCC_industry_electronics
+- EPA
+- EPA_mandatory
+- EPA_mandatory_electronics
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf|IPCC]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  gas: Type of gas
+  captureEfficiency: Capture abatement factor
+  destructionEfficiency: Destructive abatement factor
+  source: 
+wikiname: Electronics_emissions_control_factors

@@ -1,0 +1,1 @@
+-1.0 * kgCO2ReductionPerYear

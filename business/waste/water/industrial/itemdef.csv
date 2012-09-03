@@ -1,0 +1,19 @@
+name,Industrial waste water
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Water treatment type,type,TEXT,true,true,,,,
+Discharge pathway,system,TEXT,true,true,,,,
+Methane conversion factor,methaneConversionFactor,DECIMAL,true,false,,,,
+Methane production capacity (COD basis),massPerMassCODMax,DECIMAL,true,false,kg,kg,,
+Total degradable organics in waste water,massOrganicWaste,DECIMAL,false,false,kg,,,
+Volume of water discharged,volume,DECIMAL,false,false,m^3,,,
+Oxygen demand of waste water,massOrganicPerVolumeWasteWater,DECIMAL,false,false,kg,m^3,,
+Use industry-typical oxygen demand,useTypicalOxygenDemand,TEXT,false,false,,,false,true,false
+Wastewater generation per production,volumeWasteWaterPerMassProduction,DECIMAL,false,false,m^3,t,,
+Use industry-typical water generation,useTypicalWater,TEXT,false,false,,,false,true,false
+Mass production,massProduced,DECIMAL,false,false,t,,,
+Mass of sludge removed,massSludge,DECIMAL,false,false,kg,,0,
+Methane recovered,recoveredMethane,DECIMAL,false,false,kg,,0,
+Industry,industry,TEXT,false,false,,,,
+Comment,comment,TEXT,false,false,,,,
+Source,source,TEXT,true,false,,,,

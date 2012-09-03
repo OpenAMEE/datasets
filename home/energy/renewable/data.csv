@@ -1,0 +1,9 @@
+type,units,source,algorithm,default
+solar hot water,N/A,N/A,N/A,
+photovoltaic solar panels,N/A,N/A,N/A,
+wind turbine,N/A,N/A,N/A,
+ground source heat pump,N/A,N/A,N/A,
+air source heat pump,N/A,N/A,N/A,
+biomass heating,N/A,N/A,N/A,
+hydro,N/A,N/A,N/A,
+other,N/A,N/A,N/A,

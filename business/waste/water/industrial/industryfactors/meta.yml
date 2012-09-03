@@ -1,0 +1,31 @@
+--- 
+data_items: []
+
+tags: 
+- waste
+- water
+- industry
+- IPCC
+- business
+- IPCC
+- IPCC_waste
+- IPCC_waste_water
+- IPCC_tier1
+- data
+- physical_properties
+- global
+- emission_factor
+- business
+- EPA
+- EPA_mandatory
+- EPA_mandatory_wastewater
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  volumeWasteWaterPerMassProduction: Industry typical value for waste water production per unit of production
+  source: 
+  massOrganicPerVolumeWasteWater: Industry typical value for concentration of organic matter in waste water
+  industry: Type of industry
+wikiname: Industry_typical_waste_water

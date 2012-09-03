@@ -1,0 +1,5 @@
+path,versions,aliasedTo
+fuel,1.0|2.0,
+heatingType,1.0|2.0,
+efficiency,1.0|2.0,
+source,1.0|2.0,

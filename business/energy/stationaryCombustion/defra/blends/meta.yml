@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- defra
+- stationary
+- combustion
+- biogenic
+- indirect
+- biofuel
+- blend
+- lca
+- calculation
+- emission_factor
+- defra_annex9
+- biogenic
+- direct
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fuel: Type of fuel
+  mass: Mass quantity consumed
+  energy: Energy quantity consumed
+  volume: Volume quantity consumed
+  biofuelPercentage: Percentage of biofuel within the blend
+wikiname: Blended_fuels_by_DEFRA
+usages:
+  byMass: { energy : ignored, volume : ignored }
+  byVolume: { energy : ignored, mass : forbidden }  
+  byEnergy: { mass : forbidden, volume : forbidden }
+  order: [ byMass, byVolume, byEnergy]

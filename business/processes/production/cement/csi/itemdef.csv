@@ -1,0 +1,12 @@
+name,Cement: Raw Materials
+algfile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Clinker Production,clinkerQuantity,DECIMAL,false,false,kg,year,,
+Calcination Emission Factor (corrected for CaO and MgO imports),EF,DECIMAL,false,false,kg,t,0.525,
+Bypass Dust Leaving Kiln System (dry weight),bypassDust,DECIMAL,false,false,kg,year,,
+CKD Leaving Kiln System (dry weight),quantityCKD,DECIMAL,false,false,kg,year,,
+Percentage Calcination of CKD,calcinationCKD,DECIMAL,false,false,,,100,
+Percentage Organic Carbon of Raw Meal (average dry weight),carbonContent,DECIMAL,false,false,,,0.2,
+Raw meal:Clinker Ratio (dry weight),rawClinkerRatio,DECIMAL,false,false,,,1.55,
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,, 

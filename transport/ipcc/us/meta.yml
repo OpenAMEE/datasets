@@ -1,0 +1,46 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- car
+- distance
+- fuel
+- travel
+- IPCC
+- US
+- heavy_goods
+- light_goods
+- motorcycle
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of vehicle
+  fuelEfficiency: Fuel consumption efficiency of vehicle
+  occupancy: Total vehicle occupancy
+  massCH4PerDistance: Methane emissions per distance travelled
+  technology: Type of emissions control technology
+  massCH4PerStart: Methane emissions per vehicle start
+  fuel: Type of fuel used by vehicle
+  massN2OPerStart: Nitrous oxide emissions per vehicle start
+  massN2OPerDistance: Nitrous oxide emissions per distance travelled
+  fuelConsumed: Total quantity of fuel consumed
+  distance: Total distance travelled
+  coldStarts: Number of cold engine starts
+wikiname: US_road_transport_by_IPCC
+usages:
+  byFuelOnly: { distance : forbidden, coldStarts : ignored, fuelEfficiency : ignored, occupancy : optional, density : optional }
+  byDistanceAndFuel: { coldStarts : compulsory, fuelEfficiency : forbidden, occupancy : optional, density : optional }
+  byDistanceAndEfficiency: { coldStarts : compulsory, fuelConsumed : ignored, occupancy : optional, density : optional }
+  order: [ byFuelOnly, byDistanceAndFuel, byDistanceAndEfficiency ]

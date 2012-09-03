@@ -1,0 +1,21 @@
+**This category is deprecated. The Greenhouse Gas Protocol methodologies for US heavy goods vehicle transport can now be found [[US_road_transport_by_Greenhouse_Gas_Protocol|here]]**
+
+     The AMEE category /transport/lgv/generic/ghgp/heavyduty/us contains data on emissions associated with heavy duty trucks in the US, sourced from the [[http://www.ghgprotocol.org/calculation-tools/all-tools|GHGP Protocol]], and allows the user to calculate emissions depending on the type, age and fuel of the vehicle. 
+
+
+Firstly the type of vehicle is selected, using the //vehicleType// drill-down, from 'rigid' or 'articulated'. The user selects the drill-down //fuelType// from the following options.
+
+ * lng
+ * lpg
+ * cng
+ * ethanol
+ * diesel
+ * gasoline
+
+Thirdly the drill-down //yearOfManufacture// is used to specify the age of the vehicle. The //**distance**// is then set as a profile item value. 
+
+The algorithm returns kg CO,,2,,e value, which is a sum of CO,,2,,, N,,2,,O and CH,,4,, emissions for each fuel type. 
+
+
+==Biomass fuel==
+The GHG protocol requires CO,,2,, emissions from biomass fuels to be reported on differently, due to the fact that the CO,,2,, released from biomass fuels has only recently been sequestered from the atmosphere and so does not constitute a net increase in CO,,2,,, unlike fossil fuel emissions or those of CH,,4,, and N,,2,,. Therefore, the CO,,2,, emissions for ethanol are not included here, but can be found in the [[US_heavy_duty_biofuel_truck|biofuel]] subcategory. If the user wishes to calculate their total GHG emissions from ethanol-powered heavy duty truck travel (i.e. including the biomass CO,,2,, component), they should use both categories in combination.

@@ -1,0 +1,12 @@
+     The AMEE category business/agriculture contains data on CO,,2,, and other greenhouse gas emissions associated with a variety of agricultural practices, sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_05_Ch5_Cropland.pdf|Guidelines for National Greenhouse Gas Inventories]].
+
+This category currently contains subcategories providing data and calculations for emissions associated with the agricultural sector.
+
+==Livestock==
+The AMEE category [[Livestock|/business/agriculture/livestock]] provides data and methodologies for calculating CH,,4,, and N,,2,,O emissions associated with livestock enteric fermentation (digestive gases) and manure.
+
+==Rice cultivation==
+The AMEE category [[Rice_cultivation|/business/agriculture/rice]] provides data and methodologies for calculating CH,,4,, emissions associated with rice cultivation in a spectrum of environmental and management contexts.
+
+==Soil management==
+The AMEE category [[Soil_management|/business/agriculture/soil]] provides data and methodologies for calculating greenhouse emissions associated with the management of soils, e.g. fertilizer application.

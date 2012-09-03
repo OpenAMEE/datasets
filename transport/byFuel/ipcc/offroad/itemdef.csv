@@ -1,0 +1,12 @@
+name,IPCC European off-road fuels
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,fuel,TEXT,true,true,,,,
+Fuel use context,useContext,TEXT,true,true,,,,
+CO2 emissions factor,massCO2PerEnergy,DECIMAL,true,false,kg,TJ,,
+CH4 emissions factor,massCH4PerEnergy,DECIMAL,true,false,kg,TJ,,
+N2O emissions factor,massN2OPerEnergy,DECIMAL,true,false,kg,TJ,,
+Volume based heating value,energyPerVolume,DECIMAL,true,false,TJ,m^3,,
+Fuel used by energy,energyConsumed,DECIMAL,false,false,TJ,,,
+Fuel used by volume,volumeConsumed,DECIMAL,false,false,m^3,,,
+Source,source,TEXT,true,false,,,,

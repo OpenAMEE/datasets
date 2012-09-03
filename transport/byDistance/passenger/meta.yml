@@ -1,0 +1,22 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- passenger
+- distance
+- mobile
+- GHGP
+provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "0"
+authority: enterprise
+ivds: 
+  vehicle: Transportation type
+  massCO2perPassengerDistance: CO,,2,, emissions factor
+  passengers: Number of passengers under consideration
+  typeAndContext: Transport context
+  source: 
+  distance: Distance travelled
+wikiname: Passenger_transport

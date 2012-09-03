@@ -1,0 +1,9 @@
+name,Water
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+kgCO2 per litre,kgCO2PerLitre,DECIMAL,true,false,,,,
+kWh per litre,kWhPerLitre,DECIMAL,true,false,,,,
+litres per month,litresPerMonth,DECIMAL,false,false,L,month,,
+Volume Per Time,volumePerTime,DECIMAL,false,false,L,year,,
+Source,source,TEXT,true,false....
+Type,type,TEXT,true,true,,,,

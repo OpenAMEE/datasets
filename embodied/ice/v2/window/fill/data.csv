@@ -1,0 +1,5 @@
+"type","energyPerWindow","massCO2PerWindow","boundary","note","units","source"
+"Argon",0.00,0.00,"Not specified","Embodied carbon estimated from typical UK industrial fuel mix. Based on 1.2m x 1.2m unit",,"http://people.bath.ac.uk/cj219/"
+"Air",0.00,0.00,"Not specified","Embodied carbon estimated from typical UK industrial fuel mix. Based on 1.2m x 1.2m unit",,"http://people.bath.ac.uk/cj219/"
+"Krypton",510.00,26.00,"Not specified","Embodied carbon estimated from typical UK industrial fuel mix. Based on 1.2m x 1.2m unit",,"http://people.bath.ac.uk/cj219/"
+"Xenon",4500.00,229.00,"Not specified","Embodied carbon estimated from typical UK industrial fuel mix. Based on 1.2m x 1.2m unit",,"http://people.bath.ac.uk/cj219/"

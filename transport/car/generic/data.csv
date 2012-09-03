@@ -1,0 +1,14 @@
+fuel,size,kgCO2PerKm,kgCO2PerKmUS,typicalDistance,units,source,algorithm
+petrol,small,0.1798,0.224,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls; US EPA/dgen,1.15*value*user_distance_km
+petrol,medium,0.2128,0.270,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls; US EPA/dgen,1.15*value*user_distance_km
+petrol,large,0.2955,0.349,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls; US EPA/dgen,1.15*value*user_distance_km
+diesel,small,0.1510,0.1510,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+diesel,medium,0.1876,0.1876,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+diesel,large,0.2558,0.2558,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+petrol hybrid,medium,0.1262,0.1262,14481,kgCO2/km ,VCA CO2 database is source of original gCO2/km data,1.15*value*user_distance_km
+petrol hybrid,large,0.2240,0.2240,14481,kgCO2/km ,VCA CO2 database is source of original gCO2/km data,1.15*value*user_distance_km
+lpg,medium,0.1862,0.1862,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+lpg,large,0.2586,0.2586,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+cng,medium,0.1862,0.1862,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+cng,large,0.2586,0.2586,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+average,average,0.2028,0.2700,14481,kgCO2/km,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls; AMEE,1.15*value*user_distance_km

@@ -1,0 +1,10 @@
+name,GHGP lightgoods freight US
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,fuelType,TEXT,true,true,,,,
+CO2 per weight distance,kgCO2PerTonneKm,DECIMAL,true,false,,,,
+CH4 per weight distance,gCH4PerShortTonMile,DECIMAL,true,false,,,,
+N2O per weight distance,gN2OPerShortTonMile,DECIMAL,true,false,,,,
+Mass,mass,DECIMAL,false,false,t,,,
+Distance,distance,DECIMAL,false,false,km,,,
+Source,source,TEXT,true,false,,,,

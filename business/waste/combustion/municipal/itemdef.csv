@@ -1,0 +1,16 @@
+name,Municipal waste combustion
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of waste,type,TEXT,true,true,,,,
+Method of burning,method,TEXT,true,true,,,,
+Burning technology,technology,TEXT,true,true,,,,
+Waste dry matter content,dryMatterContent,DECIMAL,true,false,,,,
+Total carbon content,totalCarbonContent,DECIMAL,true,false,,,,
+Fraction fossil carbon,fossilFraction,DECIMAL,true,false,,,,
+Oxidation factor,oxidationFactor,DECIMAL,true,false,,,,
+CH4 emissions factor,massCH4PerMass,DECIMAL,true,false,g,t,,
+N2O emissions factor,massN2OPerMass,DECIMAL,true,false,g,t,,
+Quantity waste burned,mass,DECIMAL,false,false,t,,,
+Is wet weight basis,isWetWeight,TEXT,false,false,,,false,true,false
+Include all carbon,includeAllCarbon,TEXT,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

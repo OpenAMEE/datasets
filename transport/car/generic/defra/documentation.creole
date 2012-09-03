@@ -1,0 +1,3 @@
+** This category is deprecated. The latest DEFRA methodology for car transport can be found [[DEFRA_road_transport_methodology_by_vehicle_size|here]] and  [[DEFRA_road_transport_methodology_by_vehicle_class|here]].**
+
+  This section contains subcategories relating to the calculation of greenhouse gas emissions from car travel in the UK. The methodologies follow the latest [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|Defra]] data and advice. 

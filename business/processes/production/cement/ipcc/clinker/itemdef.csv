@@ -1,0 +1,10 @@
+name,Clinker production (IPCC)
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Quantity clinker produced,massClinker,DECIMAL,false,false,t,,,
+Calcium oxide content of clinker,clinkerCaOFraction,DECIMAL,false,false,,,0.65,
+Fraction of calcium oxide derived from carbonates,carbonateCaOFraction,DECIMAL,false,false,,,1,
+Quantity cement kiln dust not recycled to kiln,massCementKilnDust,DECIMAL,false,false,t,,,
+Fraction of cement kiln dust calcined,cementKilnDustCalcinedFraction,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

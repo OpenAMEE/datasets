@@ -1,0 +1,17 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- energy
+- insulation
+provenance: 
+gallery: 
+show: "1"
+authority: unverified
+ivds: 
+  type: Type of heating insulation
+  description: User-specified description of insulation
+  source: 
+wikiname: Insulation

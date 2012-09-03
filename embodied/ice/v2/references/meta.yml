@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+tags: 
+- ice
+- construction
+- materials
+- data
+- lca
+provenance: "[[http://people.bath.ac.uk/cj219/|Inventory of Carbon & Energy]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  reference: Reference number/index
+  title: Title of reference publication
+  author: Author(s) of reference publication
+  year: Year of reference publication
+  publisher: Publisher of reference publication
+  isbn: International Standard Book Number (ISBN) of reference publication
+wikiname: ICE_v2_references
+name: "Inventory of Carbon & Energy references"
+

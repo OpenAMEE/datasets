@@ -1,0 +1,6 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+source,1.0|2.0,
+kgCO2PerPound,1.0|2.0,
+currencyGBPPerMonth,1.0,currencyGBP
+currencyGBP,2.0,

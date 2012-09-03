@@ -1,0 +1,20 @@
+name, DEFRA conventional fuels for biofuel blends
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,fuel,TEXT,true,true,,,,
+Direct CO2e per unit volume,massDirectCO2ePerVolume,DECIMAL,true,false,kg,L,,
+Indirect CO2e per unit volume,massIndirectCO2ePerVolume,DECIMAL,true,false,kg,L,,
+Total life cycle CO2e per unit volume,massTotalCO2ePerVolume,DECIMAL,true,false,kg,L,,
+Biogenic CO2e per unit volume,massBiogenicCO2ePerVolume,DECIMAL,true,false,kg,L,,
+Direct CO2e per unit energy,massDirectCO2ePerEnergy,DECIMAL,true,false,kg,GJ,,
+Indirect CO2e per unit energy,massIndirectCO2ePerEnergy,DECIMAL,true,false,kg,GJ,,
+Total life cycle CO2e per unit energy,massTotalCO2ePerEnergy,DECIMAL,true,false,kg,GJ,,
+Biogenic CO2e per unit energy,massBiogenicCO2ePerEnergy,DECIMAL,true,false,kg,GJ,,
+Direct CO2e per unit mass,massDirectCO2ePerMass,DECIMAL,true,false,kg,kg,,
+Indirect CO2e per unit mass,massIndirectCO2ePerMass,DECIMAL,true,false,kg,kg,,
+Total life cycle CO2e per unit mass,massTotalCO2ePerMass,DECIMAL,true,false,kg,kg,,
+Biogenic CO2e per unit mass,massBiogenicCO2ePerMass,DECIMAL,true,false,kg,kg,,
+Mass consumed,mass,DECIMAL,false,false,kg,,,
+Energy consumed,energy,DECIMAL,false,false,GJ,,,
+Volume consumed,volume,DECIMAL,false,false,L,,,
+Source,source,TEXT,true,false,,,,

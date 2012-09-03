@@ -1,0 +1,71 @@
+type,method,technology,dryMatterContent,totalCarbonContent,fossilFraction,oxidationFactor,massCH4PerMass,massN2OPerMass,units,source
+paper and cardboard,continuous incineration,stoker,90.00,46.00,1.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+textiles,continuous incineration,stoker,80.00,50.00,20.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+food waste,continuous incineration,stoker,40.00,38.00,0.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+wood,continuous incineration,stoker,85.00,50.00,0.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+garden and park waste,continuous incineration,stoker,40.00,49.00,0.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+nappies,continuous incineration,stoker,40.00,70.00,10.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+rubber,continuous incineration,stoker,84.00,67.00,20.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+leather,continuous incineration,stoker,84.00,67.00,20.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+plastics,continuous incineration,stoker,100.00,75.00,100.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+other,continuous incineration,stoker,90.00,3.00,100.00,100.00,0.20,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+paper and cardboard,continuous incineration,fluidised bed,90.00,46.00,1.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+textiles,continuous incineration,fluidised bed,80.00,50.00,20.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+food waste,continuous incineration,fluidised bed,40.00,38.00,0.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+wood,continuous incineration,fluidised bed,85.00,50.00,0.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+garden and park waste,continuous incineration,fluidised bed,40.00,49.00,0.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+nappies,continuous incineration,fluidised bed,40.00,70.00,10.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+rubber,continuous incineration,fluidised bed,84.00,67.00,20.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+leather,continuous incineration,fluidised bed,84.00,67.00,20.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+plastics,continuous incineration,fluidised bed,100.00,75.00,100.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+other,continuous incineration,fluidised bed,90.00,3.00,100.00,100.00,0.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+paper and cardboard,semi continuous incineration,stoker,90.00,46.00,1.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+textiles,semi continuous incineration,stoker,80.00,50.00,20.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+food waste,semi continuous incineration,stoker,40.00,38.00,0.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+wood,semi continuous incineration,stoker,85.00,50.00,0.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+garden and park waste,semi continuous incineration,stoker,40.00,49.00,0.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+nappies,semi continuous incineration,stoker,40.00,70.00,10.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+rubber,semi continuous incineration,stoker,84.00,67.00,20.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+leather,semi continuous incineration,stoker,84.00,67.00,20.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+plastics,semi continuous incineration,stoker,100.00,75.00,100.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+other,semi continuous incineration,stoker,90.00,3.00,100.00,100.00,6.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+paper and cardboard,semi continuous incineration,fluidised bed,90.00,46.00,1.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+textiles,semi continuous incineration,fluidised bed,80.00,50.00,20.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+food waste,semi continuous incineration,fluidised bed,40.00,38.00,0.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+wood,semi continuous incineration,fluidised bed,85.00,50.00,0.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+garden and park waste,semi continuous incineration,fluidised bed,40.00,49.00,0.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+nappies,semi continuous incineration,fluidised bed,40.00,70.00,10.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+rubber,semi continuous incineration,fluidised bed,84.00,67.00,20.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+leather,semi continuous incineration,fluidised bed,84.00,67.00,20.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+plastics,semi continuous incineration,fluidised bed,100.00,75.00,100.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+other,semi continuous incineration,fluidised bed,90.00,3.00,100.00,100.00,188.00,50.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+paper and cardboard,batch type incineration,stoker,90.00,46.00,1.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+textiles,batch type incineration,stoker,80.00,50.00,20.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+food waste,batch type incineration,stoker,40.00,38.00,0.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+wood,batch type incineration,stoker,85.00,50.00,0.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+garden and park waste,batch type incineration,stoker,40.00,49.00,0.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+nappies,batch type incineration,stoker,40.00,70.00,10.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+rubber,batch type incineration,stoker,84.00,67.00,20.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+leather,batch type incineration,stoker,84.00,67.00,20.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+plastics,batch type incineration,stoker,100.00,75.00,100.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+other,batch type incineration,stoker,90.00,3.00,100.00,100.00,60.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+paper and cardboard,batch type incineration,fluidised bed,90.00,46.00,1.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+textiles,batch type incineration,fluidised bed,80.00,50.00,20.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+food waste,batch type incineration,fluidised bed,40.00,38.00,0.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+wood,batch type incineration,fluidised bed,85.00,50.00,0.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+garden and park waste,batch type incineration,fluidised bed,40.00,49.00,0.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+nappies,batch type incineration,fluidised bed,40.00,70.00,10.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+rubber,batch type incineration,fluidised bed,84.00,67.00,20.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+leather,batch type incineration,fluidised bed,84.00,67.00,20.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+plastics,batch type incineration,fluidised bed,100.00,75.00,100.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+other,batch type incineration,fluidised bed,90.00,3.00,100.00,100.00,237.00,60.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+paper and cardboard,open burning,none,90.00,46.00,1.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+textiles,open burning,none,80.00,50.00,20.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+food waste,open burning,none,40.00,38.00,0.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+wood,open burning,none,85.00,50.00,0.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+garden and park waste,open burning,none,40.00,49.00,0.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+nappies,open burning,none,40.00,70.00,10.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+rubber,open burning,none,84.00,67.00,20.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+leather,open burning,none,84.00,67.00,20.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+plastics,open burning,none,100.00,75.00,100.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+other,open burning,none,90.00,3.00,100.00,58.00,6500.00,150.00,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf

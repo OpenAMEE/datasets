@@ -1,0 +1,15 @@
+--- 
+data_items: []
+
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+tags: 
+- deprecated
+- defra
+- fuel
+- life_cycle
+authority: enterprise
+show: "0"
+gallery: 
+ivds: {}
+
+wikiname: Defra_Life_Cycle

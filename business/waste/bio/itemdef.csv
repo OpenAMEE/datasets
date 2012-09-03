@@ -1,0 +1,12 @@
+name,Biological waste treatment
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Treatment type,type,TEXT,true,true,,,,
+CH4 emissions factor (dry weight basis),massCH4PerDryMass,DECIMAL,true,false,g,kg,,
+CH4 emissions factor (wet weight basis),massCH4PerWetMass,DECIMAL,true,false,g,kg,,
+N2O emissions factor (dry weight basis),massN2OPerDryMass,DECIMAL,true,false,g,kg,,
+N2O emissions factor (wet weight basis),massN2OPerWetMass,DECIMAL,true,false,g,kg,,
+Quantity treated,mass,DECIMAL,false,false,Gg,,,
+Quantity of recovered methane,recoveredMethane,DECIMAL,false,false,Gg,,,
+Is wet weight basis,isWetWeight,TEXT,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

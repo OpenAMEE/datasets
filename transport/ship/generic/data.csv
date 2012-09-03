@@ -1,0 +1,4 @@
+type,kgCO2PerKmPassenger,kgCO2PerPassengerKmIE,typicalJourneyDistance,units,source,algorithm,default
+ferry,0.1152,0.1152,34,kgCO2/km.passenger,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+by foot,0.0191,0.0191,34,kgCO2/km.passenger,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,
+by car,0.1322,0.1322,34,kgCO2/km.passenger,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,,

@@ -1,0 +1,6 @@
+region=WECC&type=total
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1.17
+2005-01-01T00:00:00+00:00 (GMT),1.0833
+2007-01-01T00:00:00+00:00 (GMT),1.0555

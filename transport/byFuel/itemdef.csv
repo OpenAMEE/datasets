@@ -1,0 +1,12 @@
+name,mobileCombustion,,,,,,,
+algFile,default.js,,,,,,,
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+EF (Energy),EFNRGCO2,DECIMAL,true,false,kg,GJ,,
+Energy used,NRG,DECIMAL,false,false,,,,
+Fuel,fuel,TEXT,true,true,,,,
+HV Mass,HVMass,DECIMAL,true,false,GJ,kg,,
+HV Volume,HVVolume,DECIMAL,true,false,GJ,m^3,,
+Mass used,mass,DECIMAL,false,false,kg,,,
+Source,source,TEXT,true,false,,,,
+Version,version,TEXT,true,true,,,,
+Volume used,volume,DECIMAL,false,false,m^3,,,

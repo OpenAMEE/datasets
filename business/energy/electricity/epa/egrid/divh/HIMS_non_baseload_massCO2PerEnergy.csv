@@ -1,0 +1,6 @@
+region=HIMS&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1625.078
+2005-01-01T00:00:00+00:00 (GMT),1674.1529
+2007-01-01T00:00:00+00:00 (GMT),1645.5749

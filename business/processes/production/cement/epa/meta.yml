@@ -1,0 +1,29 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_cement_sector
+- cement
+- EPA
+- calculation
+- direct
+- emission_factor
+- mass_balance
+- global
+provenance: Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for cement
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  cementQuantity: Amount of cement produced
+  defClinkerContent: Used if no percentage clinker content is entered
+  caco3Ratio: Default value is used if none entered
+  clinkerContent: Percentage of clinker for selected cement type
+  type: Select the type of cement from the options below
+  source: 
+  rawQuantity: Default value is used if none entered
+wikiname: Cement_EPA
+usages:
+  default: { clinkerContent : optional, rawQuantity : optional, caco3Ratio : optional }
+

@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- taxi
+- passenger
+- GHGP
+- calculation
+- emission_factor
+- direct
+provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  gN2OPerPassengerMile: Distance-based per passenger N2O emissions factor
+  numberOfPassengers: Number of passengers
+  gCH4PerPassengerMile: Distance-based per passenger CH4 emissions factor
+  type: Type of taxi vehicle
+  source: 
+  distance: Distance travelled
+  kgCO2PerPassengerMile: Distance-based per passenger CO2 emissions factor
+wikiname: US_taxi_per_passenger
+usages:
+  default: { numberOfPassengers : optional }

@@ -1,0 +1,13 @@
+name,Supply Chain Indirect Emissions
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Product Category,productCategory,TEXT,true,true,,,,
+SIC code (SIC 2003),sicCode,TEXT,true,false,,,,
+kgCO2 Per Pound,kgCO2PerPound,DECIMAL,true,false,,,,
+kgCO2e Per Pound for CH4,kgCH4PerPound,DECIMAL,true,false,,,,
+kgCO2e Per Pound for N2O,kgN2OPerPound,DECIMAL,true,false,,,,
+kgCO2e Per Pound for HFCs,kgHFCPerPound,DECIMAL,true,false,,,,
+kgCO2e Per Pound for PFCs,kgPFCPerPound,DECIMAL,true,false,,,,
+kgCO2e Per Pound for SF6,kgSF6PerPound,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Amount Spent (Pounds),amountSpent,DECIMAL,false,false,,,,

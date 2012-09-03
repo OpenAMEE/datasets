@@ -1,0 +1,7 @@
+type,massCO2ePerBiofuelVolume,massCO2ePerBiofuelMass,units,source
+Biodiesel (ME),2.8605,,kgCO2/litre,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+Biodiesel (HVO),2.9652,,kgCO2/litre,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+Bioethanol,1.8045,,kgCO2/litre,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+BioETBE (refinery),2.3087,,kgCO2/litre,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+BioETBE (non-refinery),2.3087,,kgCO2/litre,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+Biomethane,,3.0380,kgCO2/kg,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls

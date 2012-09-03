@@ -1,0 +1,46 @@
+--- 
+data_items: []
+
+tags: 
+- petrochemical
+- IPCC
+- IPCC_tier2
+- IPCC_industry
+- IPCC_industry_chemical
+- EPA
+- EPA_mandatory
+- EPA_mandatory_petrochemical
+- calculation
+- mass_balance
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  primaryByProductMass: Quantity of primary by-product
+  primaryFeedstockMass: Quantity of primary feedstock
+  secondaryByProductMass: Quantity of secondary by-product
+  primaryByProduct: Primary by-product type
+  secondaryFeedstockMass: Quantity of secondary feedstock
+  primaryFeedstockCarbon: Carbon content of primary feedstock
+  primaryByProductCarbon: Carbon content of primary by-product
+  secondaryByProductCarbon: Carbon content of secondary by-product
+  tertiaryByProductMass: Quantity of tertiary by-product
+  tertiaryByProduct: Tertiary by-product type
+  secondaryByProduct: Secondary by-product type
+  productCarbon: Carbon content of product
+  tertiaryFeedstockMass: Quantity of tertiary feedstock
+  tertiaryFeedstock: Tertiary feedstock type
+  secondaryFeedstock: Secondary feedstock type
+  product: Type of petrochemical product
+  tertiaryFeedstockCarbon: Carbon content of tertiary feedstock
+  secondaryFeedstockCarbon: Carbon content of secondary feedstock
+  source: 
+  productMass: Quantity of product
+  primaryFeedstock: Primary feedstock type
+  tertiaryByProductCarbon: Carbon content of tertiary by-product
+wikiname: Petrochemical_mass_balance_methodology
+usages:
+  default: { primaryByProductMass : optional, primaryFeedstockMass : optional, secondaryByProductMass : optional, primaryByProduct : optional, secondaryFeedstockMass : optional, primaryFeedstockCarbon : optional, primaryByProductCarbon : optional, secondaryByProductCarbon : optional, tertiaryByProductMass : optional, tertiaryByProduct : optional, secondaryByProduct : optional, productCarbon : optional, tertiaryFeedstockMass : optional, tertiaryFeedstock : optional, secondaryFeedstock : optional, tertiaryFeedstockCarbon : optional, secondaryFeedstockCarbon : optional, productMass : optional, tertiaryByProductCarbon : optional, primaryFeedstock : optional }

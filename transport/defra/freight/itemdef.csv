@@ -1,0 +1,17 @@
+name, DEFRA freight
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of transport,type,TEXT,true,true,,,,
+Subtype of transport,subtype,TEXT,true,true,,,,
+Vehicle size,size,TEXT,true,true,,,,
+Direct CO2 emissions factor,massCO2PerMassPerDistance,DECIMAL,true,false,kg,t*km,,
+Direct CH4 emissions factor (CO2e),massCH4PerMassPerDistance,DECIMAL,true,false,kg,t*km,,
+Direct N2O emissions factor (CO2e),massN2OPerMassPerDistance,DECIMAL,true,false,kg,t*km,,	
+Total direct CO2e emissions factor,massDirectCO2ePerMassPerDistance,DECIMAL,true,false,kg,t*km,,
+Indirect CO2e emissions factor,massIndirectCO2ePerMassPerDistance,DECIMAL,true,false,kg,t*km,,
+Total life cycle CO2e emissions factor,massTotalCO2ePerMassPerDistance,DECIMAL,true,false,kg,t*km,,
+Average vehicle loading (%),averageLoading,TEXT,true,false,,,,
+Average mass freighted,averageMassGoods,DECIMAL,true,false,t,,,
+Distance freighted,distance,DECIMAL,false,false,km,,,
+Quantity freighted,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

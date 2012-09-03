@@ -1,0 +1,10 @@
+type,units,source,algorithm,default
+cavity,N/A,N/A,N/A,
+loft,N/A,N/A,N/A,
+floor,N/A,N/A,N/A,
+lagging,N/A,N/A,N/A,
+double glazing,N/A,N/A,N/A,
+draft exclusion,N/A,N/A,N/A,
+other,N/A,N/A,N/A,
+hot water tank,N/A,N/A,N/A,
+solid wall,u1,s2,N/A,

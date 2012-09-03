@@ -1,0 +1,14 @@
+--- 
+data_items: []
+
+tags: 
+- petrochemical
+- IPCC
+- EPA
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "0"
+authority: enterprise
+ivds: {}
+
+wikiname: Generic_petrochemical_production

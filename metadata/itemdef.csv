@@ -1,0 +1,16 @@
+name,Metadata
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Adults in household,adultsInHousehold,INTEGER,false,false,,,,
+Building Type,buildingType,TEXT,false,false,,,,
+Children in household,childrenInHousehold,INTEGER,false,false,,,,
+Country,country,TEXT,false,false,,,,
+Floor Area m2,floorAreaM2,DECIMAL,false,false,,,,
+Green tariff,greenTariff,TEXT,false,false,,,,
+Main Heating System,mainHeatingSystem,TEXT,false,false,,,,
+Other details,otherDetails,TEXT,false,false,,,,
+People In Household,peopleInHousehold,INTEGER,false,false,,,1,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20
+Postcode,postcode,TEXT,false,false,,,,
+Profile status,profileStatus,TEXT,false,false,,,,
+Profile Type,profileType,TEXT,false,false,,,Individual,Individual=Individual,Household=Household
+State,state,TEXT,false,false,,,,

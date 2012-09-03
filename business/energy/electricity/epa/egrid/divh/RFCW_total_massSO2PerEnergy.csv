@@ -1,0 +1,6 @@
+region=RFCW&type=total
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),10.199
+2005-01-01T00:00:00+00:00 (GMT),9.7844
+2007-01-01T00:00:00+00:00 (GMT),8.5998

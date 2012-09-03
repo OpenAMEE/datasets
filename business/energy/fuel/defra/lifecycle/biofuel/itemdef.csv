@@ -1,0 +1,9 @@
+name,Biofuel life-cycle
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Mass CO2 Equivalent per Biofuel Mass,massCO2ePerBiofuelMass,DECIMAL,true,false,kg,kg,,
+Mass CO2 Equivalent per Biofuel Volume,massCO2ePerBiofuelVolume,DECIMAL,true,false,kg,L,,
+Mass Used,mass,DECIMAL,false,false,kg,,,
+Volume Used,volume,DECIMAL,false,false,L,,,
+Source,source,TEXT,true,false,,,,

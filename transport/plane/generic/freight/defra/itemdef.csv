@@ -1,0 +1,18 @@
+name,Plane Freight DEFRA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+kgCO2 Per Tonne Km,kgCO2PerTonneKm,DECIMAL,true,false,,,,
+kgCO2 Equivalent Per Tonne Km for CH4,kgCO2ePerTonneKmForCH4,DECIMAL,true,false,,,,
+kgCO2 Equivalent Per Tonne Km for N2O,kgCO2ePerTonneKmForN2O,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+IATA code 1,IATACode1,TEXT,false,false,,,,
+IATA code 2,IATACode2,TEXT,false,false,,,,
+Lat1,lat1,DECIMAL,false,false,,,-999,
+Lat2,lat2,DECIMAL,false,false,,,-999,
+Long1,long1,DECIMAL,false,false,,,-999,
+Long2,long2,DECIMAL,false,false,,,-999,
+Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
+Use RFI,useRFI,TEXT,false,false,,,false,true,false
+Load Mass,mass,DECIMAL,false,false,t,,,
+Distance,distance,DECIMAL,false,false,km,,,

@@ -1,0 +1,19 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: 
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fuel: 
+  numberOfPeople: 
+  kgCO2PerYear: 
+  source: 
+wikiname: Cooking

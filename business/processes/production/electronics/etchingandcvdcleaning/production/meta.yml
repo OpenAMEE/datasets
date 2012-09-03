@@ -1,0 +1,41 @@
+--- 
+data_items: []
+
+tags: 
+- electronics
+- etching
+- CVD
+- IPCC
+- EPA
+- fluorinated
+- FC
+- calculation
+- emission_factor
+- direct
+- global
+- IPCC
+- IPCC_tier1
+- IPCC_industry_electronics
+- EPA
+- EPA_mandatory
+- EPA_mandatory_electronics
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massC2F6PerArea: C,,2,,F,,6,, emissions per unit of substrate produced
+  fractionFluorinatedCompounds: Fraction of PV manufacture employing FC's
+  massCF4PerArea: CF,,4,, emissions per unit of substrate produced
+  massNF3PerArea: NF,,3,, emissions per unit of substrate produced
+  massCHF3PerArea: CHF,,3,, emissions per unit of substrate produced
+  capacity: Production capacity
+  massSF6PerArea: SF,,6,, emissions per unit of substrate produced
+  massC3F8PerArea: C,,3,,F,,8,, emissions per unit of substrate produced
+  source: 
+  fractionCapacityUtilised: Fraction of production capacity utilised
+  sector: Electronics sector
+wikiname: Etching_and_CVD_cleaning_production_methodology
+usages:
+  default : { fractionFluorinatedCompounds : optional }
+

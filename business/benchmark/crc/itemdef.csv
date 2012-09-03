@@ -1,0 +1,13 @@
+name,Carbon Reduction Commitment League Table
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Organization name,organizationName,TEXT,true,true
+Registration number,registrationNumber,TEXT,true,false
+CO2 emissions,emissions,DECIMAL,true,false,t
+Rank,rank,TEXT,true,false
+Trading name,tradingName,TEXT,true,false
+Weighted score,weightedScore,DECIMAL,true,false
+Early Action Metric (%),earlyActionMetric,DECIMAL,true,false
+Absolute Metric (%),absoluteMetric,DECIMAL,true,false
+Growth Metric (%),growthMetric,DECIMAL,true,false
+Source,source,TEXT,true,false

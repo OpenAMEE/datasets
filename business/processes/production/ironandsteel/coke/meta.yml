@@ -1,0 +1,45 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_iron_and_steel_sector
+- iron
+- steel
+- coke
+- IPCC
+- IPCC_industry
+- IPCC_industry_metal
+- IPCC_tier2
+- EPA
+- EPA_mandatory
+- EPA_mandatory_iron_and_steel
+- calculation
+- direct
+- mass_balance
+- emission_factor
+- global
+provenance: "Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for Iron and Steel"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  cokeGasCarbon: Carbon content of coke oven gas produced (percent weight)
+  blastGasQuantity: Quantity of consumed blast furnace gas
+  ch4EM: "CH,,4,, emissions per unit of coke produced"
+  carbonContent: Carbon content for feedstock (percent weight)
+  blastGasCarbon: Carbon content of blast furnace gas consumed (percent weight)
+  byprodQuantity: Quantity of by-products produced
+  materialQuantity: Quantity of feedstock consumed
+  cokeCarbon: Carbon content of produced coke (percent weight)
+  cokeQuantity: Quantity of coke produced
+  source: 
+  byprodCarbon: Carbon content of by-products (percent weight)
+  defCarbonContent: Default carbon content for feedstock (percent weight)
+  material: Feedstock used
+  cokeGasQuantity: Quantity of coke oven gas produced
+wikiname: Iron_and_Steel_coke
+name: "IPCC methodology for coke production - tiers 2/3"
+usages:
+  default: { carbonContent : optional, blastGasCarbon : optional, cokeCarbon : optional, cokeGasCarbon : optional, ch4EM : optional }
+

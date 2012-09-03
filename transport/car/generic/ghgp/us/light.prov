@@ -1,0 +1,29 @@
+The co2 emissions factors in prov:out
+http://www.ghgprotocol.org/downloads/calcs/WRI_Transport_Tool.xls were produced
+by a prov:calculation based on
+prov:numeric http://www.ipcc-nggip.iges.or.jp/public/gl/guidelin/ch1wb1.pdf#Table1-2
+and prov:numeric http://www.epa.gov/oms/cert/mpg/mpg-data/01guide.csv and
+prov:numeric nouri:"Compendium of Greenhouse Gas Emissions Estimation Methodologies
+for the Oil and Gas Industry, American Petroleum Institute, 2001"
+which is deprecated and unavailable,
+together with an unstated set of prov:numeric anonymous:conversion_factors.
+
+The ch4 and n2o emissions factors in prov:out
+http://www.ghgprotocol.org/downloads/calcs/WRI_Transport_Tool.xls were produced
+by a prov:calculation based on prov:numeric
+http://www.epa.gov/climateleaders/documents/resources/mobilesource_guidance.pdf#Table3 called "US EPA Guidance emissions from mobile sources"
+
+prov:process
+prov:out http://www.epa.gov/climateleaders/documents/resources/mobilesource_guidance.pdf#Table3
+prov:in http://www.epa.gov/climatechange/emissions/downloads/US_GHG_Inv_Annexes_1990-2005.pdf#TableA99 called "U.S. EPA Emission of Greenhouse Gas Inventories and Sinks 1990-2005"
+
+prov:download
+prov:in http://www.ghgprotocol.org/downloads/calcs/WRI_Transport_Tool.xls
+prov:via http://www.ghgprotocol.org/calculation-tools/all-tools
+prov:out svn:internal/api_csvs/transport/car/generic/ghgp/sources/WRI_Transport_Tool.xls
+
+prov:manual
+prov:out csv_files:transport/car/generic/ghgp/us
+prov:in svn:internal/api_csvs/transport/car/generic/ghgp/sources/WRI_Transport_Tool.xls
+
+prov:ameem transport/car/generic/ghgp/us

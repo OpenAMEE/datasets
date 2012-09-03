@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- fugitive
+- CH4
+- IPCC
+- mining
+- IPCC_tier1
+- IPCC_energy
+- IPCC_energy_fugitive
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  overburdenDepth: Depth of material (rock/soil) overburden
+  volumeCH4PerMassMining: Emission rate per tonne of coal produced for the mining phase
+  coalProduction: Rate of coal production
+  source: 
+  volumeCH4PerMassPostMining: Emission rate per tonne of coal produced for the post-mining phase
+wikiname: Surface_mining
+name: "IPCC methodology for surface mining fugitive emissions"

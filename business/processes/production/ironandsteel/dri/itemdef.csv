@@ -1,0 +1,13 @@
+name,Iron and Steel: DRI
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Natural Gas Consumption,gasQuantity,DECIMAL,false,false,kg,,,
+Natural Gas Carbon Content,gasCarbon,DECIMAL,false,false,kg,kg,0.73,
+Coke Breeze Consumption,cokeQuantity,DECIMAL,false,false,kg,,,
+Coke Breeze Carbon Content,cokeCarbon,DECIMAL,false,false,kg,kg,,
+Metallurgical Coke Consumption,metCokeQuantity,DECIMAL,false,false,kg,,,
+Metallurgical Coke Carbon Content,metCokeCarbon,DECIMAL,false,false,kg,kg,,
+Amount of DRI Produced,driQuantity,DECIMAL,false,false,kg,,,
+CH4 Emission Factor,ch4EM,DECIMAL,false,false,kg,kg,0.000048,
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,

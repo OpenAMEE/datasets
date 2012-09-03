@@ -1,0 +1,39 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- EPA
+- stationary
+- combustion
+- GHGP
+- CEMS
+- EPA_mandatory
+- EPA_mandatory_fuel
+- calculation
+- direct
+- mass_balance
+- physical_properties
+- US
+provenance: "[[http://www.epa.gov/climatechange/emissions/archived/downloads/tsd/TSD%20Stationary%20Combustion%202-02-09.pdf|US EPA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  volumeDryFlueGasPerEnergy: Total stack gas emissions (by volume) per energy consumed for fuel type
+  volumeCO2PerEnergy: CO,,2,, emissions (by volume) per energy consumed for fuel type
+  oxygenConcentration: Average concentration of O,,2,, in stack gases
+  fuel: Type of fuel used
+  flowRate: Rate of flow for stack gases
+  subtype: Subtype of fuel used
+  operatingTime: Duration for which unit in operation
+  moistureContent: Moisture content in stack gases (fraction)
+  carbonDioxideConcentration: "Concentration of CO,,2,, in stack gases (fraction) "
+  source: 
+  ambientO2Concentration: Ambient concentration of O,,2,, (fraction)
+  density: Density of CO,,2,, (default provided)
+wikiname: Continuous_emissions_monitoring_system
+usages:
+  byCO2Concentration : { moistureContent : optional, density : optional, oxygenConcentration : ignored }
+  byOxygenConcentration : { moistureContent : optional, density : optional, carbonDioxideConcentration : forbidden } 
+  order : [ byCO2Concentration, byOxygenConcentration ]

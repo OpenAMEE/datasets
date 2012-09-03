@@ -1,0 +1,49 @@
+name,Heating UK
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Home type,homeType,TEXT,true,true,,,,
+Fuel,fuel,TEXT,true,true,,,,
+airSourceHeatPump,airSourceHeatPump,DECIMAL,true,false,,,,
+Base number of Bedrooms,baseNumberOfBedrooms,TEXT,true,false,,,,
+cavityWall,cavityWall,DECIMAL,true,false,,,,
+cavityWallSpaceEnergy,cavityWallSpaceEnergy,DECIMAL,true,false,kWh,year,,
+cavityWallWaterEnergy,cavityWallWaterEnergy,DECIMAL,true,false,kWh,year,,
+doubleGlazing,doubleGlazing,DECIMAL,true,false,,,,
+draftExclusion,draftExclusion,DECIMAL,true,false,,,,
+groundSourceHeatPump,groundSourceHeatPump,DECIMAL,true,false,,,,
+insulatedCavityWallSpaceEnergy,insulatedCavityWallSpaceEnergy,DECIMAL,true,false,kWh,year,,
+insulatedCavityWallWaterEnergy,insulatedCavityWallWaterEnergy,DECIMAL,true,false,kWh,year,,
+loft,loft,DECIMAL,true,false,,,,
+noLoftInsulation,noLoftInsulation,DECIMAL,true,false,,,,
+solarHotWaterEnergySaved,solarHotWaterEnergySaved,DECIMAL,true,false,kWh,year,,
+solidWall,solidWall,DECIMAL,true,false,,,,
+solidWallSpaceEnergy,solidWallSpaceEnergy,DECIMAL,true,false,kWh,year,,
+solidWallWaterEnergy,solidWallWaterEnergy,DECIMAL,true,false,kWh,year,,
+Source,source,TEXT,true,false,,,,
+subtractCavityWall,subtractCavityWall,DECIMAL,true,false,,,,
+subtractDoubleGlazing,subtractDoubleGlazing,DECIMAL,true,false,,,,
+subtractLoft100mm,subtractLoft100mm,DECIMAL,true,false,,,,
+underFloor,underFloor,DECIMAL,true,false,,,,
+Age,age,TEXT,false,false,,,1930-1995,pre 1930,1930-1995,post 1995
+comment,comment,TEXT,false,false,,,,
+hasAirSourceHeatPump,hasAirSourceHeatPump,TEXT,false,false,,,false,false,true
+hasBiomass,hasBiomass,TEXT,false,false,,,false,false,true
+hasCavityWallInsulation,hasCavityWallInsulation,TEXT,false,false,,,false,false,true
+hasDoubleGlazing,hasDoubleGlazing,TEXT,false,false,,,false,false,true
+hasDraftExclusion,hasDraftExclusion,TEXT,false,false,,,false,false,true
+hasGroundSourceHeatPump,hasGroundSourceHeatPump,TEXT,false,false,,,false,false,true
+hasHydro,hasHydro,TEXT,false,false,,,false,false,true
+hasLoftInsulation,hasLoftInsulation,TEXT,false,false,,,false,false,true
+hasNoInsulation,hasNoInsulation,TEXT,false,false,,,true,false,true
+hasNoRenewables,hasNoRenewables,TEXT,false,false,,,true,false,true
+hasPhotovoltaic,hasPhotovoltaic,TEXT,false,false,,,false,false,true
+hasSolarHotWater,hasSolarHotWater,TEXT,false,false,,,false,false,true
+hasSolidWallInsulation,hasSolidWallInsulation,TEXT,false,false,,,false,false,true
+hasUnderFloorInsulation,hasUnderFloorInsulation,TEXT,false,false,,,false,false,true
+hasWindTurbine,hasWindTurbine,TEXT,false,false,,,false,false,true
+Heating type,heatingType,TEXT,false,false,,,,
+isWaterHeatingElectric,isWaterHeatingElectric,TEXT,false,false,,,,
+Number Of Bedrooms,numberOfBedrooms,TEXT,false,false,,,3,0,1,2,3,4,5,more than 5
+renewableElectricitySavedCO2,renewableElectricitySavedCO2,DECIMAL,false,false,kWh,year,,
+spaceHeatingCO2,spaceHeatingCO2,DECIMAL,false,false,kg,year,,
+waterHeatingCO2,waterHeatingCO2,DECIMAL,false,false,kg,year,,

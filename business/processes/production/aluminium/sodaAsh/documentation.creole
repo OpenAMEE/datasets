@@ -1,0 +1,9 @@
+    This category provides a methodology for calculating CO,,2,, emissions from the consumption of soda ash in the aluminium industry. This methodology is sourced from the WRI Greenhouse Gas protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheets]] but ultimately derives from the //[[http://www.world-aluminium.org/cache/fl0000127.pdf|Aluminum Sector Greenhouse Gas Protocol]]// published by the International Aluminium Institute. The calculation is based on the carbon content of materials consumed. 
+
+To use this category, create a profile item (there are no drill choices) and specify the required profile items (shown below). The returned value represents CO,,2,, emissions related to the process data provided.
+
+== Algorithm ==
+
+//**CO,,2,, emissions**// = //sodaQuantity * sodaFrac * calcFrac * (44 / 106)//
+
+The factor of 44/106 is the mass ration of CO,,2,, to Na,,2,,CO,,3,,.

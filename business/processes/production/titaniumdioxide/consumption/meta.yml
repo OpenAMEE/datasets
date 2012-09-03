@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- titanium_dioxide
+- IPCC
+- IPCC_tier2
+- IPCC_industry_chemical
+- EPA
+- EPA_mandatory
+- EPA_mandatory_titanium_dioxide
+- calculation
+- direct
+- mass_balance
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  feedstockOxidation: Oxidation level acheived for feedstock (default, 1)
+  feedstockCarbon: Carbon content of feedstock
+  type: Type of process
+  massFeedstock: Quantity of feedstock consumed
+  source: 
+wikiname: Titanium_dioxide_production_feedstock_methodology
+usages:
+  default: { feedstockOxidation : optional }

@@ -1,0 +1,15 @@
+name,Aluminium Production: Prebake Process - Pitch Cooking
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Average process weight of green anodes,greenWeight,DECIMAL,false,false,kg,,,
+Average process weight of baked anodes,bakedWeight,DECIMAL,false,false,kg,,,
+Quantity of baked anodes produced,anodeQuantity,DECIMAL,false,false,kg,,,
+Green anode hydrogen content (%),hydContent,DECIMAL,false,false,,,0.5,
+Quantity of waste tar collected,tarQuantity,DECIMAL,false,false,kg,,,
+Default quantity of waste tar collected,defTarQuantity,DECIMAL,true,false,kg,kg,,
+Packing coke consumed per unit production,cokeQuantity,DECIMAL,false,false,kg,kg,0.015,
+Sulphur content of packing coke (%),sulphurQuantity,DECIMAL,false,false,,,2.0,
+Ash content of packing coke (%),ashQuantity,DECIMAL,false,false,,,2.5,
+Default ratio of green/baked anode weights,defaultGwBwRatio,DECIMAL,true,false,,,,
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,

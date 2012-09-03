@@ -1,0 +1,6 @@
+region=AKMS&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1441.855
+2005-01-01T00:00:00+00:00 (GMT),1457.1141
+2007-01-01T00:00:00+00:00 (GMT),1462.2981

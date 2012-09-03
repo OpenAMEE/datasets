@@ -1,0 +1,18 @@
+name,EPA NERC regions
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Grid subregion,region,TEXT,true,true,,,,
+Emission type,type,TEXT,true,true,,,,
+NOx quantity per unit electricity,massNOxPerEnergy,DECIMAL,true,false,lb,MWh,,
+NOx quantity per unit electricity during ozone season,massOzoneSeasonNOxPerEnergy,DECIMAL,true,false,lb,MWh,,
+SO2 quantity per unit electricity,massSO2PerEnergy,DECIMAL,true,false,lb,MWh,,
+CO2 quantity per unit electricity,massCO2PerEnergy,DECIMAL,true,false,lb,MWh,,
+CH4 quantity per unit electricity,massCH4PerEnergy,DECIMAL,true,false,lb,GWh,,
+N2O quantity per unit electricity,massN2OPerEnergy,DECIMAL,true,false,lb,GWh,,
+CO2e quantity per unit electricity,massCO2ePerEnergy,DECIMAL,true,false,lb,MWh,,
+Hg quantity per unit electricity,massHgPerEnergy,DECIMAL,true,false,lb,GWh,,
+Name of grid subregion,regionName,TEXT,true,false,,,,
+Parent grid of subregion,gridRegion,TEXT,true,false,,,,
+Quantity of electricity,energy,DECIMAL,false,false,kWh,,,
+Include transmission losses?,includeTransmissionLosses,TEXT,false,false,,,true,true,false
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,6 @@
+type,basis,massCO2PerMass,massCH4PerMass,productCarbonContent,units,source
+silicon carbide,coke consumption,2.3,10.2,0.35,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf
+silicon carbide,carbide production,2.62,11.6,0.35,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf
+calcium carbide,coke consumption,1.70,,0.67,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf
+calcium carbide,carbide production,1.090,,0.67,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf
+calcium carbide,usage (acetylene production),1.100,,,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf

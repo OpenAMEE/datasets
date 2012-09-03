@@ -1,0 +1,31 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- transport
+- corinair
+- aircraft
+- plane
+- fuel
+- military
+- calculation
+- emission_factor
+- direct
+- global
+provenance: http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massFuelPerTime: Fuel consumption factor
+  useRFI: Set to 'true' to use RF
+  flightDuration: Duration of flight, or total flying time
+  subtype: Aircraft subtype
+  type: Type of aircraft
+  radiativeForcingIndex: Radiative forcing coefficient
+  representativeAircraft: Aircraft on which data is based
+  source: 
+wikiname: Specific_military_aircraft
+usages:
+  default: { useRFI : optional, radiativeForcingIndex : optional }

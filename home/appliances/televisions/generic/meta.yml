@@ -1,0 +1,22 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: "[[MTP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  comment: 
+  size: 
+  kW: 
+  hoursOn: 
+  type: 
+  hoursPerMonth: 
+  source: 
+wikiname: Televisions_generic

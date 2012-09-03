@@ -1,0 +1,7 @@
+name,Electricity Generation Emission Factors
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel Type,fuel,TEXT,true,true,,,,
+Mass CO2 Produced per Energy Unit,kgCO2PerKWh,DECIMAL,true,false,kg,kWh,,
+Generated to Suppled Gross Factor,generatedToSuppliedGrossFactor,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

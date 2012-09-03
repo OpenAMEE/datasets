@@ -1,0 +1,6 @@
+state=NM&type=non+baseload
+massNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),3.361
+2005-01-01T00:00:00+00:00 (GMT),2.529
+2007-01-01T00:00:00+00:00 (GMT),2.8407

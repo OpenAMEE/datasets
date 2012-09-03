@@ -1,0 +1,12 @@
+name,Aluminium Production: PFC Overvoltage Method
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of cell technology,cellType,TEXT,true,true,,,,
+Quantity of aluminium produced,alQuantity,DECIMAL,false,false,kg,,,
+Anode offect overvoltage,aeo,DECIMAL,false,false,mV,,,
+Current efficiency (%),curEff,DECIMAL,false,false,,,,
+Overvoltage coefficient for CF4,ovCoef,DECIMAL,false,false,kg,t*mV,,
+Default overvoltage coefficient for CF4,defOvCoef,DECIMAL,true,false,kg,t*mV,,
+C2F6/CF4 weight fraction,weightFrac,DECIMAL,false,false,,,,
+Default C2F6/CF4 weight fraction,defWeightFrac,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,20 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- ship
+- heavy_goods
+- mobile
+- distance
+provenance: http://www.defra.gov.uk/environment/business/reporting/pdf/ghg-cf-guidelines2008.pdf
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  mass: Mass of freight shipped
+  type: Shipping type
+  CO2: CO,,2,, emissions factor
+  source: 
+  distance: Distance shipped
+wikiname: Ship_freighting

@@ -1,0 +1,16 @@
+ The stock-averaged value accounts for the fact that appliances in current use are models that have been produced and purchased in previous years. Over these years the energy consumed by an appliance will have varied due to advances in technology.
+
+Some appliances become more energy-efficient as technology advances, but other appliances - notably computers - now consume more energy than before.
+
+The following example illustrates a stock average for desktop computers (without monitors) between the years 2004 and 2006.
+
+|=Year	|=Stock in use  |=Energy usage kWh/year	|=Product|
+|=	|=X	        |=Y	|=X*Y|
+|2004	|20738755	|211.16	|4379196271|
+|2005	|21657463	|229.68	|4974293424|
+|2006	|22505860	|235.18	|5292973359|
+|	|**A**	|Sum of X*Y	|14646463054|
+|	|**B**	|Sum of X	|64902078|
+|=Stock-average|=		|=**A**/**B**	|=225.67||
+
+So, the typical desktop computer in use in 2007 will consume 226 kWh of energy in one year.

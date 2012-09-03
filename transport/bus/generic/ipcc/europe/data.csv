@@ -1,0 +1,7 @@
+"fuel","technology","massN2OPerDistanceUrbanCold","massN2OPerDistanceUrbanHot","massN2OPerDistanceHighway","massN2OPerDistanceRural","massCH4PerDistanceUrbanCold","massCH4PerDistanceUrbanHot","massCH4PerDistanceRural","massCH4PerDistanceHighway","units","source"
+"gasoline",,6,6,6,6,140,140,110,70,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"diesel","less than 16t",30,30,30,30,85,85,23,20,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"diesel","greater than 16t",30,30,30,30,175,175,80,70,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"diesel","urban buses and coaches",30,30,30,30,175,175,80,70,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"cng","Pre-euro 4",0,0,0,0,5400,5400,5400,5400,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"cng","Euro 4 and later",0,0,0,0,900,900,900,900,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"

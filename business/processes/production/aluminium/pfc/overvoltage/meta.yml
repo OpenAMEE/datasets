@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+tags: 
+- PFC
+- GHGP
+- GHGP_aluminum_sector
+- aluminium
+- IPCC
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_industry
+- IPCC_industry_metal
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- physical_properties
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  ovCoef: Overvoltage coefficient for CF,,4,,. This describes the relationship between anode effect overvoltage and the rate of CF,,4,, emissions
+  aeo: Anode effect overvoltage. The additional voltage exceeding the target operating voltage
+  weightFrac: The quantity of C,,2,,F,,6,, emitted relative to CF,,4,, emissions
+  defWeightFrac: Default C,,2,,F,,6,,/CF,,4,, weight fraction. This is used if no facility-specific value is available
+  alQuantity: Quantity of aluminium produced
+  defOvCoef: Default CH,,4,, overvoltage coefficient. This is if no facility-specific value is available
+  cellType: Type of cell technology employed
+  curEff: Current efficiency for the cell
+  source: 
+wikiname: Aluminium_PFC_Overvoltage
+name: "IPCC methodology for aluminium production PFC emissions - overvoltage approach"
+usages:
+  default: { weightFrac : optional, ovCoef : optional }
+

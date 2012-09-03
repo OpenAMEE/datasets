@@ -1,0 +1,9 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+timePerTimePeriod,1.0|2.0,
+source,1.0|2.0,
+timePeriod,1.0|2.0,
+totalTimeInUse,1.0|2.0,
+wattage,1.0|2.0,
+number,1.0|2.0,
+country,1.0|2.0,

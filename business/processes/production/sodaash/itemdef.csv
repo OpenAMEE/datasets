@@ -1,0 +1,7 @@
+name,Soda ash Production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of calculation,type,TEXT,true,true,,,,
+Mass CO2 Produced Per Mass feedstock/product,massCO2PerMass,DECIMAL,both,false,t,t,,
+Quantity of Product,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

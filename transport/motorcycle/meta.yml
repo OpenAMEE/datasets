@@ -1,0 +1,18 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- motorcycle
+- mobile
+- passenger
+- occupancy
+- distance
+- actonco2
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|Defra]],[[http://www.ghgprotocol.org|GHGP]],[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "0"
+authority: enterprise
+ivds: {}
+
+wikiname: Motorcycle

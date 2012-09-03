@@ -1,0 +1,4 @@
+overburdenDepth,volumeCH4PerMassMining,volumeCH4PerMassPostMining,units,source
+less than 25 m,0.3,0.0,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+25 m to 50 m,1.2,0.1,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+greater than 50 m,2.0,0.2,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf

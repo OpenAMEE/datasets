@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- ethylene
+- steam_cracker
+- propylene
+- butadiene
+- IPCC
+- IPCC_tier1
+- IPCC_industry
+- IPCC_industry_chemical
+- EPA
+- EPA_mandatory
+- EPA_mandatory_petrochemical
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCH4PerMass: Quantity of CH,,4,, emissions per unit produced
+  massCO2PerMass: Quantity of CO,,2,, emissions per unit produced
+  region: Geographic region
+  mass: Quantity of ethylene produced
+  geographicAdjustmentFactor: Adjustment factor for geographic location
+  process: Type of process
+  feedstock: Type of feedstock
+  source: 
+wikiname: Ethylene_production

@@ -1,0 +1,2 @@
+type,kgCO2PerPassengerMile,gCH4PerPassengerMile,gN2OPerPassengerMile,units,source
+taxi,0.23,0.02,0.021,none,http://www.ghgprotocol.org/calculation-tools/all-tools

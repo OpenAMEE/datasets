@@ -1,0 +1,29 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- defra
+- stationary
+- combustion
+- direct
+- indirect
+- lca
+- calculation
+- emission_factor
+- UK
+- defra_annex1
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fuel: Type of fuel
+  massCO2PerVolume: Quantity of direct CO,,2,, emitted per unit of fuel consumed
+  massCH4PerVolume: Quantity of direct CH,,4,, emitted per unit of fuel consumed (as CO,,2,,e)
+  massN2OPerVolume: Quantity of direct N,,2,,O emitted per unit of fuel consumed (as CO,,2,,e)
+  massDirectCO2ePerVolume: Total quantity of direct emissions emitted per unit of fuel consumed (as CO,,2,,e)
+  massIndirectCO2ePerVolume: Quantity of indirect emissions per unit of fuel consumed (as CO,,2,,e)
+  massTotalCO2ePerVolume: Total quantity of ALL emissions emitted per unit of fuel consumed (as CO,,2,,e)
+  volume: Quantity of fuel consumed
+wikiname: Volume_based_fuel_combustion_by_DEFRA

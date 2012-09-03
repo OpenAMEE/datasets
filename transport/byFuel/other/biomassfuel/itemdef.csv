@@ -1,0 +1,7 @@
+name,Transport By Fuel GHGP other regions biomass fuel
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel Type,fuelType,TEXT,true,true,,,,
+CO2 per fuel,kgCO2PerUsGallon,DECIMAL,true,false,kg,gal,,
+Source,source,TEXT,true,false,,,,
+Quantity of fuel used,fuelQuantity,DECIMAL,false,false,gal,,,

@@ -1,0 +1,6 @@
+type,kgCO2PerPassengerMile,gCH4PerPassengerMile,gN2OPerPassengerMile,units,source
+light rail,0.163,0.004,0.002,none,http://www.ghgprotocol.org/calculation-tools/all-tools
+tram,0.163,0.004,0.002,none,http://www.ghgprotocol.org/calculation-tools/all-tools
+average (light rail and tram),0.163,0.004,0.002,none,http://www.ghgprotocol.org/calculation-tools/all-tools
+national rail,0.185,0.002,0.001,none,http://www.ghgprotocol.org/calculation-tools/all-tools
+subway,0.163,0.004,0.002,none,http://www.ghgprotocol.org/calculation-tools/all-tools

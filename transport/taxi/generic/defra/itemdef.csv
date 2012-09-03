@@ -1,0 +1,15 @@
+name,Taxi DEFRA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Assumed Occupancy,assumedOccupancy,DECIMAL,true,false,,,,
+kgCO2 Per Passenger Km,kgCO2PerKmPassenger,DECIMAL,true,false,,,,
+kgCO2e Per Passenger Km for CH4,kgCO2ePerKmForCH4,DECIMAL,true,false,,,,
+kgCO2e Per Passenger Km for N2O,kgCO2ePerKmForN2O,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Distance Per Journey,distancePerJourney,DECIMAL,false,false,km,year,,
+Is return,isReturn,TEXT,false,false,,,,
+Number of journeys,numberOfJourneys,DECIMAL,false,false,,,1,
+Number of passengers,numberOfPassengers,DECIMAL,false,false,,,,
+Own Fuel Consumption,ownFuelConsumption,DECIMAL,false,false,km,L,0,
+Total Fuel Consumption,totalFuelConsumed,DECIMAL,false,false,L,,,

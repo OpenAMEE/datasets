@@ -1,0 +1,7 @@
+name,Titanium dioxide production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of titanium dioxide product,product,TEXT,true,true,,,,
+Quantity of CO2 emitted per quantity of product,massCO2PerMass,DECIMAL,both,false,t,t,,
+Quantity of titanium dioxide produced,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,,

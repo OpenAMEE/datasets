@@ -1,0 +1,13 @@
+    The AMEE category /business/waste/water contains data and methodologies for calculating greenhouse gas emissions associated with waste water, sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf|Guidelines for National Greenhouse Gas Inventories]] and the [[http://www.epa.gov/climatechange/emissions/archived/downloads/tsd/TSD%20wastewater_020409.pdf|EPA]] mandatory reporting guidelines.
+
+Several subcategories are available at the following locations:
+
+* [[Domestic_waste_water|/business/waste/water/domestic]]
+
+* [[Industrial_waste_water|/business/waste/water/industrial]]
+
+These categories calculate methane emissions associated with waste water based on the concentration of degradable organic material within the water (as measured by the biological or chemical oxygen demand) and the discharge pathway/treatment system. See the respective subcategories for further details.
+
+* [[Waste_water_treatment_anaerobic_digestion|Anaerobic digestion]]: this category enables the calculation of the quantity of methane from anaerobic digesters which is combusted at water treatment plants.
+
+* [[Waste_water_treatment_N2O|Nitrous oxide (N,,2,,O)]]: this category provides a methodology for calculating the N,,2,,O emissions from water treatment plants based on details of the service population.

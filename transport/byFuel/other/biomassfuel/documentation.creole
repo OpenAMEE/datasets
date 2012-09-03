@@ -1,0 +1,12 @@
+**This category is deprecated. The Greenhouse Gas Protocol methodologies for transport fuel can now be found [[Transport_fuels_by_Greenhouse_Gas_Protocol|here]]**
+
+   This data is from the [[http://www.ghgprotocol.org/calculation-tools/all-tools|GHGP worksheet]] GHG emissions from transport or mobile sources v2.0. This category allows the user to calculate emissions based on the amount of fuel used in a particular journey. The user selects the drill-down //fuelType// from the following options.
+
+ * e85 ethanol/gasoline
+ * b20 biodiesel/diesel
+ * ethanol
+ * 100% biodiesel
+
+The //fuelQuantity// for the journey is then specified as a profile item value. 
+
+The algorithm returns a CO,,2,, value based on the users specifications and certain fuel emission factors. This CO,,2,, value covers biomass emissions only. Therefore, the fossil fuel components of E85 and B20 are not included here, but are in the [[Other_regional_transport_fuel|parent category]]. If the user wishes to calculate complete emissions, including biomass CO,,2,, emissions, both categories must be used.

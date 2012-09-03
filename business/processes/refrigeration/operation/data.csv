@@ -1,0 +1,11 @@
+"type",annualLeakRate,units,source
+"domestic refrigeration",0.3,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"stand-alone commercial applications",1.5,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"medium and large commercial applications",11.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"transport refrigeration",8.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"industrial refrigeration (inc. food processing and cold storage)",8.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"chillers",3.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial a/c including heat pumps",8.5,none,2010 http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial a/c",8.5,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial heat pumps",0.3,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"mobile air conditioning ",7.5,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting

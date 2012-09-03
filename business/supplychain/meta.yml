@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- defra
+- defra_annex8
+- supply_chain
+- UK
+- calculation
+- emission_factor
+- lca
+- indirect
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  amountSpent: "amount spent, in pounds sterling "
+  kgSF6PerPound: SF6 emission factor
+  kgN2OPerPound: N2O emission factor
+  kgPFCPerPound: PFC emission factor
+  kgHFCPerPound: HFC emission factor
+  kgCH4PerPound: CH4 emission factor
+  kgCO2PerPound: CO2 emission factor
+  productCategory: select the product category from the data item list below
+  sicCode: Standard Industrial Classification code
+  source: 
+wikiname: Indirect_Emissions_Supply_Chain

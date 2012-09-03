@@ -1,0 +1,46 @@
+--- 
+data_items: []
+
+tags: 
+- carbonate
+- limestone
+- dolomite
+- EPA
+- IPCC
+- EPA_mandatory
+- EPA_mandatory_carbonate
+- EPA_mandatory_pulp_and_paper
+- IPCC
+- IPCC_industry
+- IPCC_industry_mineral
+- IPCC_tier3
+- calculation
+- direct
+- physical_properties
+- mass_balance
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fractionRhodochrosite: Fraction calcination achieved for rhodochrosite. This can be optionally specified - 100% calcination is assumed otherwise. Should be specified as a decimal fraction (i.e. 0-1)
+  massSodaAsh: Quantity of soda ash consumed
+  fractionDolomite: Fraction calcination achieved for dolomite. This can be optionally specified - 100% calcination is assumed otherwise. Should be specified as a decimal fraction (i.e. 0-1)
+  fractionSiderite: Fraction calcination achieved for siderite. This can be optionally specified - 100% calcination is assumed otherwise. Should be specified as a decimal fraction (i.e. 0-1)
+  fractionMagnesite: Fraction calcination achieved for magnesite. This can be optionally specified - 100% calcination is assumed otherwise. Should be specified as a decimal fraction (i.e. 0-1)
+  massRhodochrosite: Quantity of rhodochrosite consumed
+  massAnkerite: Quantity of ankerite consumed
+  type: Type of process
+  fractionCalcite: Fraction calcination for achieved calcite or aragonite. This can be optionally specified - 100% calcination is assumed otherwise. Should be specified as a decimal fraction (i.e. 0-1)
+  massSiderite: Quantity of siderite consumed
+  massDolomite: Quantity of dolomite consumed
+  massCalcite: Quantity of calcite or aragonite consumed
+  source: 
+  fractionSodaAsh: Fraction calcination achieved for soda ash. This can be optionally specified - 100% calcination is assumed otherwise. Should be specified as a decimal fraction (i.e. 0-1)
+  massMagnesite: Quantity of magnesite consumed
+  fractionAnkerite: Fraction calcination achieved for ankerite. This can be optionally specified - 100% calcination is assumed otherwise. Should be specified as a decimal fraction (i.e. 0-1)
+wikiname: Specific_carbonate_consumption
+usages:
+  default: { fractionRhodochrosite : optional, massSodaAsh : optional, fractionDolomite : optional, fractionSiderite : optional, fractionMagnesite : optional, massRhodochrosite : optional, massAnkerite : optional, fractionCalcite : optional, massSiderite : optional, massDolomite : optional, massCalcite : optional, fractionSodaAsh : optional, massMagnesite : optional, fractionAnkerite : optional }
+name: "IPCC methodology for general carbonate calcination - tier 3"

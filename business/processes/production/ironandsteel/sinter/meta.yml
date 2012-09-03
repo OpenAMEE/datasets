@@ -1,0 +1,39 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_iron_and_steel_sector
+- iron
+- steel
+- sinter
+- IPCC
+- IPCC_industry
+- IPCC_industry_metal
+- IPCC_tier2
+- EPA
+- EPA_mandatory
+- EPA_mandatory_iron_and_steel
+- calculation
+- direct
+- mass_balance
+- global
+provenance: "Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for Iron and Steel"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  sinterQuantity: Quantity of sinter produced
+  carbonSinter: Carbon content of sinter (percent weight)
+  ch4EM: "CH,,4,, emissions per unit of sinter produced"
+  offsiteSinterQuantity: Quantity of sinter off gas transferred offsite
+  carbonContent: Carbon content of feedstock (percent weight)
+  materialQuantity: Quantity of consumed feedstock
+  source: 
+  defCarbonContent: Default carbon content of feedstock (percent weight)
+  material: Feedstock used
+wikiname: Iron_and_Steel_sinter
+name: "IPCC methodology for sinter production - tiers 2/3"
+usages:
+  default: { carbonContent : optional, ch4EM : optional }
+

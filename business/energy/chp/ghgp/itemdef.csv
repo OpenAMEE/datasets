@@ -1,0 +1,13 @@
+name,GHGP CHP
+algfile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,true,true,,,,
+GHG programme,ghgProgramme,TEXT,true,true,,,,
+Facility electricity production efficiency,efficiencyPowerProd,DECIMAL,both,false,,,,
+Facility steam production efficiency,efficiencySteamProd,DECIMAL,both,false,,,,
+Total facility emissions,totalDirectEmissions,DECIMAL,false,false,kg,,,
+Facility steam output,steamOutput,DECIMAL,false,false,kWh,,,
+Facility electricity output,powerOutput,DECIMAL,false,false,kWh,,,
+Electricity consumed,electricityConsumed,DECIMAL,false,false,kWh,,,
+Steam consumed,steamConsumed,DECIMAL,false,false,kWh,,,
+Source,source,TEXT,true,false,,,,

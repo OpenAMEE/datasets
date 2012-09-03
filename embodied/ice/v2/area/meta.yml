@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- ice
+- construction
+- materials
+- calculation
+- emission_factor
+- energy
+- lca
+provenance: "[[http://people.bath.ac.uk/cj219/|Inventory of Carbon & Energy]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  material: Material 
+  type: Specific type of material
+  subtype: Subtype of material
+  energyPerArea: Embodied energy per unit area of material
+  massCO2PerArea: Embodied CO,,2,, emissions per unit area of material
+  massCO2ePerArea: Embodied CO,,2,,e emissions per unit area of material
+  boundary: Life cycle analysis boundary, i.e. the stages in the material life cycle which are represented by the energy and CO,,2,, factors
+  note: Author notes on the sourcing of data
+  area: Area of material used
+wikiname: ICE_v2_by_area
+name: "Inventory of Carbon & Energy methodology for materials by area"

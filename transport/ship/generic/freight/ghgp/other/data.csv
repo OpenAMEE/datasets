@@ -1,0 +1,3 @@
+"type","size","kgCO2PerTonneKm","gCH4PerShortTonMile","gN2OPerShortTonMile","units","source"
+"large ropax ferry",,0.3843,0.000161,0.000805,"none","GHGP http://www.ghgprotocol.org/calculation-tools/all-tools"
+"shipping",,0.0451,0.000161,0.000805,"none","GHGP http://www.ghgprotocol.org/calculation-tools/all-tools"

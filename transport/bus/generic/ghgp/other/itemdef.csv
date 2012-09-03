@@ -1,0 +1,7 @@
+name,Bus Generic GHGP other regions
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Fuel,fuelType,TEXT,true,true,,,,
+CO2 per distance,kgCO2PerMile,DECIMAL,true,false,kg,mi,,
+Source,source,TEXT,true,false,,,,
+Distance travelled,distance,DECIMAL,false,false,mi,,,

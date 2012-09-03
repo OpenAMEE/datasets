@@ -1,0 +1,5 @@
+limeType,defStoicRatio,defCaoMgoRatio,defLkdCorrection,units,source
+High-calcium Lime,0.785,0.95,1.02,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Dolomitic Lime (developed countries),0.913,0.95,1.02,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Dolomitic Lime (developing countries),0.913,0.85,1.02,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Hydraulic Lime,0.785,0.75,1.02,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

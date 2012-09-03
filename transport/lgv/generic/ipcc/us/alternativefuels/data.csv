@@ -1,0 +1,5 @@
+"fuel","factorType","massN2OPerDistance","massCH4PerDistance","units","source"
+"cng",,185.00,5983.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"lng",,274.00,4261.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"lpg",,93.00,67.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"ethanol",,191.00,1227.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"

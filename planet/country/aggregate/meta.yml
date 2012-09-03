@@ -1,0 +1,21 @@
+--- 
+data_items: []
+
+tags: 
+- country
+- global
+- data
+- benchmark
+provenance: Based on data from http://www.eia.doe.gov/emeu/international/carbondioxide.html and http://cait.wri.org/login-main.php?log=7&postlogin=cait
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  perCapita: 
+  country: 
+  annual2006: 
+  rank: In terms of aggregate annual (2005) CO,,2,, production
+  change: the increase in aggregate annual CO,,2,, production between 1996-2006, expressed as a proportion (%) of current (2006) rates. Negative values indicate a decrease since 1996
+  source: 
+  cumulative: 1850-2004
+wikiname: Country_Aggregates

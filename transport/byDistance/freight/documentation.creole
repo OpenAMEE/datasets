@@ -1,0 +1,28 @@
+ //**This category is now deprecated. This category represents outdated Greenhouse Gas Protocol data for freighting. New freighting data can be found at the following pages:
+
+* [[Train_Freight_Defra|UK train freighting (DEFRA)]]
+* [[US_train_freight|US train freighting (GHGP)]]
+* [[Other_regional_train_freight|Other regional train freighting (GHGP)]]
+* [[Plane_Freight_Defra|UK air freighting (DEFRA)]]
+* [[US_plane_freight|US air freighting (GHGP)]]
+* [[Other_regional_plane_freight|Other regional air freighting (GHGP)]]
+* [[Ship_Freight_Defra|UK ship freighting (DEFRA)|]]
+* [[US_ship_freight|US ship freighting (GHGP)]]
+* [[Other_regional_ship_freight|Other regional ship freighting (GHGP)]]
+* [[Light_Goods_Freight_Defra|UK light goods road freighting (DEFRA)]]
+* [[Heavy_Goods_Freight_Defra|UK heavy goods road freighting (DEFRA)]]
+* [[US_lightgoods_truck_freighting|US light goods road freighting (GHGP)]]
+* [[US_heavyduty_truck_freighting|US heavy goods road freighting (GHGP)]]
+* [[Other_regional_road_freight|Other regional road freighting (GHGP)]]**//
+
+
+   The AMEE category at ''/transport/byDistance/freight'' includes data for carriage of freight taken from parts of the [[Greenhouse_Gas_Protocol|Greenhouse Gas Protocol]] worksheet ''CO,,2,, emissions from transport or mobile sources'' (v1.3)
+
+To use this category, use drill-downs to specify the //**type**// and //**subtype**// for the vehicle used. The GHG protocol provides alternative emission factors for transport compiled from a number of sources, as indicated in the worksheet.
+
+Once the type and context have been chosen, specify the following profile values for your item:
+
+* //**distance**//
+* //**mass**// 
+
+There are some [[Transport | additional categories]] in AMEE for freight. Because these are based on per-mass-distance emission factors, and the GHG protocol permits users to define their own emissions factors, a GHGP compliant tool may also use these categories.

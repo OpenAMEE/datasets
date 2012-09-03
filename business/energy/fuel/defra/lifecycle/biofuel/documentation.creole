@@ -1,0 +1,23 @@
+**This category is now deprecated. The latest DEFRA methodology for biomass-associated greenhouse gas emissions can be found [[Biofuels_by_DEFRA|here]].**
+
+  This category allows the user to calculate life-cycle emissions from various biofuels. The methodology follows that from the latest [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|Defra]] data and advice. Full life-cycle emissions are calculated including contributions from carbon dioxide, nitrous oxide and methane.
+
+Note that this category does not enable the user to calculate the direct emissions of carbon dioxide for the combustion of biofuels. This is a full life-cycle calculation only.
+
+==How to use this category==
+
+To use this category firstly use the drill-down //**type**// to select the type of biofuel to be included in the calculation from the following options.
+
+* Biodiesel (ME) - Methyl Ester, biodiesel produced from oils using conventional esterification processes
+
+* Biodiesel (HVO) - Hydrotreated Vegetable Oil, biodiesel produced from vegetable oils using hydroprocessing
+
+* Bioethanol
+
+* BioETBE (refinery)
+
+* BioETBE (non-refinery) 
+
+* Biomethane
+
+The quantity of biofuel must then be set as using the //**mass**// or //**volume**// profile item value. The //**volume**// profile item value is required for all biofuels except Biomethane. Biomethane is measured by mass, rather than volume so the //**mass**// profile item value should be used in this case. If the wrong profile item value is used then the algorithm will return a value of '0'. The algorithm multiplies this quantity by the appropriate emission factor and returns a value of kgCO,,2,,e, which includes contributions from CO,,2,,, N,,2,,O and CH,,4,, emissions.

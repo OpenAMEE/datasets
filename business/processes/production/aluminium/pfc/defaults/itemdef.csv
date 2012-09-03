@@ -1,0 +1,10 @@
+name,Aluminium Production: PFC Default Method
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of cell technology,cellType,TEXT,true,true,,,,
+Quantity of aluminium produced,alQuantity,DECIMAL,false,false,kg,,,
+CF4 emissions per unit production,cf4EmisFact,DECIMAL,false,false,kg,kg,,
+Default CF4 emissions per unit production,defCf4EmisFact,DECIMAL,true,false,kg,kg,,
+C2F6 emissions per unit production,c2f6EmisFact,DECIMAL,false,false,kg,kg,,
+Default C2F6 emissions per unit production,defC2f6EmisFact,DECIMAL,true,false,kg,kg,,
+Source,source,TEXT,true,false,,,,

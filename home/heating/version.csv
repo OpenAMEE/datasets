@@ -1,0 +1,8 @@
+path,versions,aliasedTo
+homeDwellingType,1.0|2.0,
+homeNoOfBedrooms,1.0|2.0,
+homeFuel,1.0|2.0,
+homeAge,1.0|2.0,
+type,1.0|2.0,
+kgCO2PerYear,1.0|2.0,
+source,1.0|2.0,

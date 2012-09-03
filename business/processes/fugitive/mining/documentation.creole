@@ -1,0 +1,7 @@
+  The AMEE category /business/processes/fugitive/mining contains data and methodologies for calculating fugitive greenhouse emissions associated with coal mining, sourced from the [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|2006 IPCC Guidelines for National Greenhouse Gas Inventories]].
+
+
+Several methodologies are currently available under the following subcategories:
+
+* [[Underground_mining|Underground mining]]
+* [[Surface_mining|Surface mining]]

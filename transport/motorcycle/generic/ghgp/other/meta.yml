@@ -1,0 +1,42 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- motorcycle
+- mobile
+- passenger
+- occupancy
+- distance
+- GHGP
+- global
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|GHG Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  occupancy: 
+  vehicleType: Vehicle specification
+  source: 
+  distance: Distance travelled
+  kgCO2PerMile: Per distance CO2 emissions factor
+wikiname: Other_regional_motorcycle_transport
+usages:
+  default: { occupancy : optional }

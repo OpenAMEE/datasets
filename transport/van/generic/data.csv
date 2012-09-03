@@ -1,0 +1,8 @@
+fuel,size,kgCO2PerKm,kgCO2PerKmUS,typicalDistance,units,source,algorithm
+petrol,up to 1.25 tonnes,0.2244,0.2244,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+diesel (by size class),up to 1.305 tonnes,0.1609,0.1609,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+diesel (by size class),1.305 to 1.740 tonnes,0.2249,0.2249,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+diesel (by size class),over 1.740 tonnes,0.2993,0.2993,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+diesel,up to 3.5 tonnes,0.2716,0.2716,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+lpg,up to 3.5 tonnes,0.2718,0.2718,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km
+cng,up to 3.5 tonnes,0.2718,0.2718,14481,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,1.15*value*user_distance_km

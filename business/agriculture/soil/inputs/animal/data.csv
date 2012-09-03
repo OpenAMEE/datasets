@@ -1,0 +1,6 @@
+type,massPerMass,fractionVolatilised,massPerMassVolatilised,fractionLeached,massPerMassLeached,units,source
+cattle,0.02,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+poultry,0.02,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+swine,0.02,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+sheep,0.01,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+other,0.01,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html

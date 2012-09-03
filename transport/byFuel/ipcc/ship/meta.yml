@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- fuel
+- IPCC
+- ship
+- IPCC_tier1
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCH4PerEnergy: Factor for CH4 emissions per unit of fuel consumed
+  volumeConsumed: Quantity of fuel used on a volumetric basis
+  energyPerVolume: Energy yield per volume of fuel ('heating' or 'calorific' value)
+  fuel: Type of fuel used
+  energyConsumed: Quantity of fuel used on an energetic basis
+  massN2OPerEnergy: Factor for N2O emissions per unit of fuel consumed
+  source: 
+  useContext: Context in which fuel used
+  massCO2PerEnergy: Factor for CO2 emissions per unit of fuel consumed
+wikiname: Ship_fuels
+usages:
+  byVolume: { energyConsumed : forbidden }
+  byEnergy: { volumeConsumed : ignored }
+  order: [ byVolume, byEnergy ]

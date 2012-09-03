@@ -1,0 +1,49 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- GHGP
+- passenger
+- bus
+- plane
+- taxi
+- ship
+- train
+- global
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: |-
+  <%= chart :dependent => 'massCO2PerDistance' %>
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of passenger transport
+  subtype: Subtype of passenger transport
+  class: Passenger class
+  region: Geographic region
+  massCO2PerDistance: Quantity of CO,,2,, per unit distance travelled
+  massCH4PerDistance: Quantity of CH,,4,, per unit distance travelled
+  massN2OPerDistance: Quantity of N,,2,,O per unit distance travelled
+  distance: Distance travelled
+  passengers: Number of passengers
+wikiname: Passenger_transport_by_Greenhouse_Gas_Protocol
+name: "Passenger transport by Greenhouse Gas Protocol"
+usages:
+  default: { passengers : optional }
+  

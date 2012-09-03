@@ -1,0 +1,7 @@
+type,householdOrIndividual,massCO2PerTime,units,source
+Space Heating,household average,2473,kgCO2/year,DECC 2009
+Water Heating,household average,1197,kgCO2/year,DECC 2009
+Lights,household average,358,kgCO2/year,DECC 2009
+Space Heating,individual average,1055,kgCO2/year,DECC 2009
+Water Heating,individual average,511,kgCO2/year,DECC 2009
+Lights,individual average,153,kgCO2/year,DECC 2009

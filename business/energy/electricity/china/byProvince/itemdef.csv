@@ -1,0 +1,9 @@
+name,GHGP Electricity China by province
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Province Name,provinceName,TEXT,true,true,,,,
+Grid Name,gridName,TEXT,true,false,,,,
+Energy per Time,energyPerTime,DECIMAL,false,false,kWh,year,,
+Responsible area,responsibleArea,DECIMAL,false,false,m^2,,,
+Source,source,TEXT,true,false,,,,
+Total area,totalArea,DECIMAL,false,false,m^2,,,

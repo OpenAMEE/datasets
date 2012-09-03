@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+provenance: AMEE,[[http://www.eia.doe.gov/emeu/recs/contents.html|RECS]]
+tags: 
+- heating
+- electricity
+- fuel
+- home
+- US
+- calculation
+- emission_factor
+- direct
+authority: recommended
+show: "1"
+gallery: "nil"
+ivds: 
+  kWhPerYearAirCon: 
+  numberOfBedrooms: 
+  fuel: 
+  isAirCon: Defaults to true.
+  type: 
+  kgCO2PerYear: 
+  kWhPerYearWater: 
+  source: 
+  state: 
+  kWhPerYearSpace: 
+wikiname: Heating_US

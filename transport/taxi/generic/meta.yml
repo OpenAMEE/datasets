@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- mobile
+- passenger
+- taxi
+- distance
+- calculation
+- direct
+- emission_factor
+provenance: based on large diesel car, see [[Generic_car_transport|Generic car]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  kgCO2PerKm: Distance-based CO2 emissions factor
+  distanceKmPerMonth: 
+  type: Type of taxi
+  source: 
+  distance: Distance travelled
+wikiname: Generic_taxi_transport

@@ -1,0 +1,3 @@
+country,kgCO2PerKWh,units,source,algorithm
+IE,0.549,kgCO2/kWh,www.cer.ie 2007,value*user_electricity_kWh
+GB,0.527,kgCO2/kWh,defra 2007,value*user_electricity_kWh

@@ -1,0 +1,24 @@
+name,Car Generic
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel,fuel,TEXT,true,true,,,,
+Size,size,TEXT,true,true,,,,
+kgCO2 Per Km,kgCO2PerKm,DECIMAL,true,false,,,,
+kgCO2 Per Km US,kgCO2PerKmUS,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Typical distance,typicalDistance,DECIMAL,true,false,km,year,14481,
+Aircon full,airconFull,BOOLEAN,false,false,,,false,false,true
+Aircon typical,airconTypical,BOOLEAN,false,false,,,true,false,true
+Country,country,TEXT,false,false,,,,
+Distance,distance,DECIMAL,false,false,km,year,,
+Distance Km Per Month,distanceKmPerMonth,DECIMAL,false,false,km,month,,
+Eco driving,ecoDriving,BOOLEAN,false,false,,,false,false,true
+Fuel Consumption,fuelConsumption,DECIMAL,false,false,km,L,0,
+km per litre,kmPerLitre,DECIMAL,false,false,km,L,0,
+km per litre own,kmPerLitreOwn,DECIMAL,false,false,km,L,0,
+Occupants,occupants,DECIMAL,false,false,,,-1,
+Own Fuel Consumption,ownFuelConsumption,DECIMAL,false,false,km,L,0,
+Regularly serviced,regularlyServiced,BOOLEAN,false,false,,,true,false,true
+Tyres underinflated,tyresUnderinflated,BOOLEAN,false,false,,,false,false,true
+Use typical distance,useTypicalDistance,BOOLEAN,false,false,,,false,false,true
+Total fuel consumed,fuelConsumed,DECIMAL,false,false,L,,,

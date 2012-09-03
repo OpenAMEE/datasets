@@ -1,0 +1,10 @@
+name,ICE v2 window fills
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fill type,type,TEXT,true,true,,,,
+Embodied energy per window,energyPerWindow,DECIMAL,true,false,MJ,,,
+Embodied CO2 per window,massCO2PerWindow,DECIMAL,true,false,kg,,,
+Life cycle analysis boundary,boundary,TEXT,true,false,,,,
+Publication notes,note,TEXT,true,false,,,,
+Number of windows,number,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

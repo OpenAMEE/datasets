@@ -1,0 +1,16 @@
+name,GHGP plane freight US
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Flight type,type,TEXT,true,true,,,,
+CO2 per weight distance,kgCO2PerTonneKm,DECIMAL,true,false,,,,
+Mass,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,
+Distance,distance,DECIMAL,false,false,km,,,
+IATA code 1,IATACode1,TEXT,false,false,,,,
+IATA code 2,IATACode2,TEXT,false,false,,,,
+Lat1,lat1,DECIMAL,false,false,,,-999,
+Lat2,lat2,DECIMAL,false,false,,,-999,
+Long1,long1,DECIMAL,false,false,,,-999,
+Long2,long2,DECIMAL,false,false,,,-999,
+Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
+Use RFI,useRFI,TEXT,false,false,,,false,true,false

@@ -1,0 +1,6 @@
+type,subtype,massPerMass,massPerMassIfRice,fractionVolatilised,massPerMassVolatilised,fractionLeached,massPerMassLeached,units,source
+synthetic fertilizer,,0.01,0.003,0.1,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+organic,manure,0.01,0.003,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+organic,compost,0.01,0.003,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+organic,sewage,0.01,0.003,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+organic,other,0.01,0.003,0.2,0.01,0.3,0.0075,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html

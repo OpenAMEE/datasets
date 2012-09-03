@@ -1,0 +1,4 @@
+  The AMEE category /transport/lgv/generic/freight contains data on the greenhouse gas emissions associated with the road transportation of freight.
+
+
+This category currently contains data from the [[http://www.ghgprotocol.org/calculation-tools/all-tools|WRI Greenhouse Gas Protocol]] for road freight and is represented in three subcategories. See the appropriate subcategory documentation for further details.

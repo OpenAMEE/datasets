@@ -1,0 +1,22 @@
+material,defCarbonContent,units,source
+Blast Furnace Gas,0.17,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Charcoal,0.91,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Coal,0.67,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Coal tar,0.62,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Coke,0.83,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Coke Oven gas,0.47,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Coking Coal,0.73,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Direct reduced Iron (DRI),0.02,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Dolomite,0.13,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+EAF Carbon Electrodes,0.82,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+EAF Charge Carbon,0.83,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Fuel Oil,0.86,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Gas Coke,0.83,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Hot Briquetted iron,0.02,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Limestone,0.12,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Natural Gas,0.73,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Oxygen Steel Furnace Gas,0.35,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Petroleum Coke,0.87,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Purchased pig Iron,0.04,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Scrap Iron,0.04,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Steel,0.01,kg C/kg material,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- oil
+- gas
+- industry
+- fugitive
+- CH4
+- flaring
+- stoichiometries
+- calculation
+- direct
+- mass_balance
+- physical_properties
+- global
+- IPCC
+- IPCC_energy
+- IPCC_energy_fugitive
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  volumeCH4Flared: Volume of methane which is flared
+  type: Type of flaring practised. Only one option currently exists and therefore this does not require an explicit choice
+  methaneDensity: Density of flared methane. Default provided
+  combustionEfficiency: Efficiency of methane combustion. Default provided
+wikiname: Methane_flaring
+usages:
+  default: {methaneDensity : optional, combustionEfficiency : optional }
+name: "IPCC methodology for methane flaring"

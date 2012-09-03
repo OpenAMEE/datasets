@@ -1,0 +1,54 @@
+--- 
+data_items: 
+- doc: Catalytically decomposing the N2O
+  drills: 
+  - - abatementTechnology
+    - Catalytic Destruction
+- doc: Treating the off-gasses in a reductive furnace
+  drills: 
+  - - abatementTechnology
+    - Thermal Destruction
+- doc: Thermally decomposing the N2O in a flame reactor to produce recyclable NO
+  drills: 
+  - - abatementTechnology
+    - Recycle to Nitric Acid
+- doc: Consuming the N2O as an oxidation process feedstock
+  drills: 
+  - - abatementTechnology
+    - Recycle to feedstock for Adipic Acid
+tags: 
+- adipic
+- acid
+- GHGP
+- GHGP_adipic_acid_sector
+- production
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_industry
+- IPCC_industry_chemical
+- EPA
+- EPA_mandatory
+- EPA_mandatory_adipic
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  emFact: Baseline N,,2,,O emissions factor - i.e. N,,2,,O emissions per unit quantity of adipic acid produced. Default of 0.3 kg per kg is used unless facility-specific data is provided
+  defDestrFact: Default abatement technology destruction factor - used if no facility-specific factor is available
+  defAbateFact: Default abatement technology utilization factor - used if no facility-specific factor is available
+  destrFact: Abatement technology destruction factor. This represents the percentage of emissions which are abated by reduction practices
+  adipicQuantity: Quantity of Adipic Acid produced
+  abatementTechnology: Type of abatement technology used
+  source: 
+  abateFact: Abatement technology utilization factor. This represents the percentage of time abatement technology is in use
+wikiname: Adipic_acid
+name: "IPCC methodology for adipic acid production"
+usages:
+  default: { abateFact : optional, emFact : optional, destrFact : optional }

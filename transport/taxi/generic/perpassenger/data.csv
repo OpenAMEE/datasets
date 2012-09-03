@@ -1,0 +1,3 @@
+type,kgCO2PerKmPassenger,kgCO2PerPassengerKmIE,typicalJourneyDistance,units,source,algorithm,default
+typical,0.1583,0.1583,7.4,kgCO2/km.passenger,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,value*user_distance,
+black cab,0.1705,0.1705,7.4,kgCO2/km.passenger,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,value*user_distance,

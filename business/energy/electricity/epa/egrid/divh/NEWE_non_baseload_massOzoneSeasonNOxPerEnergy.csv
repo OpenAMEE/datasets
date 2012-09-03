@@ -1,0 +1,6 @@
+region=NEWE&type=non+baseload
+massOzoneSeasonNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1.031
+2005-01-01T00:00:00+00:00 (GMT),1.0885
+2007-01-01T00:00:00+00:00 (GMT),0.7584

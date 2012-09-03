@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- electricity
+- energy
+- real_time
+- calculation
+- direct
+- UK
+- emission_factor
+provenance: electricity-markets/fuel-mix/page21629.html, http://www.eia.doe.gov/oiaf/1605/excel/electricity_factors_99-02country.xls, www.sd-commission.org.uk/publications/downloads/SDC-NuclearPosition-2006.pdf
+gallery: 
+show: "0"
+authority: enterprise
+ivds: 
+  intirl: Quantity of electricity imported from the Republic of Ireland
+  wind: Quantity of electricity supplied by wind generation
+  coal: Quantity of electricity supplied by coal powered generation
+  ccgt: Quantity of electricity supplied by closed cycle gas turbine generation
+  country: Country of electricity grid under consideration
+  ocgt: Quantity of electricity supplied by open cycle gas turbine generation
+  npshyd: Quantity of electricity supplied by hydro generation methods other than pump storage
+  intfr: |
+    Quantity of electricity imported from France
+
+  energyUsed: Quantity of electricity consumed
+  other: Quantity of electricity supplied by 'other' generation methods
+  oil: Quantity of electricity supplied by oil powered generation
+  pumpStorage: Quantity of electricity supplied by pump storage generation
+  nuclear: Quantity of electricity supplied by nuclear generation
+  source: 
+  massCO2PerEnergy: Weighted average CO2 emissions factor for fuel mix
+wikiname: Real_Time_Electricity_User_specified

@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- train
+- passenger
+- specific
+- model
+- electricity
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: http://www.rssb.co.uk/index.asp
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  region: Region from which data sourced
+  country: Country of train travel
+  occupancy: Percentage passenger occupancy of train
+  tareMass: Weight of unoccupied train
+  numberOfCars: Typical number of cars/carriges
+  kWhPerDistance: Energy consumption rate
+  seatingCapacity: Total seating capacity of train
+  kWhPerSeatPerDistance: Energy consumption rate per seat
+  type: Type of train
+  passengers: Number of passengers under consideration
+  source: 
+  distance: Distance travelled
+wikiname: Specific_electric_trains
+usages:
+  default: {occupancy : optional, passengers : optional, country : optional }

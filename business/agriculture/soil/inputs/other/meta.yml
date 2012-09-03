@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- agriculture
+- IPCC
+- IPCC_agriculture
+- IPCC_agriculture_soil
+- IPCC_tier1
+- soil
+- fertilizer
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_11_Ch11_N2O&CO2.pdf|IPCC]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  isLeached: This value can be set to 'true' to specify that the soil expriences leaching. Otherwise leaching is assumed to be absent
+  fractionLeached: Typical fraction of fertilizer-N which is leached
+  fractionVolatilised: Typical fraction of fertilizer-N which is volatilised
+  isRice: This value can be set to 'true' to specify a rice cultivation context. Otherwise a non-rice system is assumed
+  massPerMassLeached: Conversion factor for leached-N to N,,2,,O-N
+  subtype: Subtype of soil application
+  type: Type of soil application
+  massPerMass: Direct conversion factor for applied-N to N,,2,,O-N
+  massNAdded: Quantity of fertilizer-N applied to managed soil
+  massPerMassIfRice: Direct conversion factor for fertilizer-N to N,,2,,O-N under rice cultivation
+  source: 
+  massPerMassVolatilised: Conversion factor for volatilised-N to N,,2,,O-N
+wikiname: Fertilizer_associated_soil_N2O_emissions
+name: "IPCC methodology for fertilizer applications to managed soils"

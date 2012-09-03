@@ -1,0 +1,15 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf|IPCC-NGGIP]]"
+tags: 
+- electronics
+- IPCC
+- EPA
+- heat_transfer_fluids
+authority: enterprise
+show: "0"
+gallery: 
+ivds: {}
+
+wikiname: Heat_transfer_fluids

@@ -1,0 +1,8 @@
+name,Aluminium Production: Soda Ash
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Quantity of Soda Ash,sodaQuantity,DECIMAL,false,false,kg,,,
+Fraction Purity of Soda Ash,sodaFrac,DECIMAL,false,false,,,0.95,
+Fraction Calcination for Soda Ash,calcFrac,DECIMAL,false,false,,,1.0,
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,

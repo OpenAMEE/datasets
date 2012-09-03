@@ -1,0 +1,29 @@
+--- 
+data_items: []
+
+tags: 
+- GWP
+- global_warming_potential
+- data
+- physical_properties
+- global
+provenance: "[[http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-chapter2.pdf|IPCC 4AR]], [[http://unfccc.int/ghg_data/items/3825.php|UNFCCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  name: 
+  GWP: the default GWP used in AMEE calculations
+  gwp_4AR_20: the 20-year time horizon GWP published in the IPCC Fourth Assessment Report (2007)
+  gas: 
+  gwp_SAR_100: the 100-year time horizon GWP published in the IPCC Second Assessment Report (1995)
+  formula: the chemical formula for the respective gas
+  gwp_4AR_100: the 100-year time horizon GWP published in the IPCC Fourth Assessment Report (2007)
+  source: 
+  emissionRate: 
+  residenceTime: the 'lifetime' of the gas, in years
+  gwp_4AR_500: the 500-year time horizon GWP published in the IPCC Fourth Assessment Report (2007)
+wikiname: Greenhouse_gases_Global_warming_potentials
+usages:
+  default : { emissionRate : compulsory }
+

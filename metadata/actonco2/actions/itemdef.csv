@@ -1,0 +1,23 @@
+name,ActOnCO2 Action
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Brief tip content,briefTipContent,TEXT,true,false,,,,
+Carbon saving,carbonSaving,TEXT,true,false,,,,
+Condition 1,condition1,TEXT,true,false,,,,
+Condition 2,condition2,TEXT,true,false,,,,
+Condition 3,condition3,TEXT,true,false,,,,
+Content,content,TEXT,true,false,,,,
+Cost,cost,TEXT,true,false,,,,
+Countrywide saving per year,countryWideSavingPerYear,TEXT,true,false,,,,
+Easiest to do,easiestToDo,TEXT,true,false,,,,
+Icon,icon,TEXT,true,false,,,,
+Individual saving per year,individualSavingPerYear,TEXT,true,false,,,,
+Is well done,isWellDone,TEXT,true,false,,,,
+Links,links,TEXT,true,false,,,,
+Save you money,saveYouMoney,TEXT,true,false,,,,
+Section,section,TEXT,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Use OR,useOR,TEXT,true,false,,,,
+Is done,isDone,TEXT,false,false,,,,
+Is selected,isSelected,TEXT,false,false,,,,

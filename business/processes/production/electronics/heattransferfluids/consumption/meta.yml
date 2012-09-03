@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- electronics
+- heat_transfer_fluids
+- fluorinated
+- calculation
+- mass_balance
+- direct
+- global
+- IPCC
+- IPCC_tier2
+- IPCC_industry_electronics
+- IPCC_industry
+- EPA
+- EPA_mandatory
+- EPA_mandatory_electronics
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_6_Ch6_Electronics_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  previousFC: Volume of liquid FC remaining end of previous period
+  recoveredFC: Volume of liquid FC recovered from retired equipment and sent offsite
+  newCharge: Total charge (or nameplace capacity) of new installed during period under consideration
+  purchasedFC: Volume of liquid FC purchased during period under consideration
+  fluid: Type of heat transfer fluid
+  oldCharge: Total charge (or nameplace capacity) of retired or sold equipment during period under consideration
+  type: Type of process
+  source: 
+  remainingFC: Volume of liquid FC remaining end of period under consideration
+  density: Density of heat transfer fluid
+wikiname: Heat_transfer_fluids_consumption_methodology
+usages:
+  default : { fluid : optional }

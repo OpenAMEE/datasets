@@ -1,0 +1,22 @@
+--- 
+data_items: []
+
+provenance: http://www.energystar.gov/index.cfm?c=home.index
+tags: 
+- energy_star
+- appliances
+- US
+- office
+- imaging
+- multi_function_devices
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  quantity: number of appliances to be included in the calculation. Default of 1.
+  energyPerTime: CO2 emission factor for chosen product.
+  brandName: 
+  modelName: 
+  modelNumber: 
+  source: 
+wikiname: Image_Equipment_Multi_Function_Devices

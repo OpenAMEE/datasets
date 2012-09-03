@@ -1,0 +1,6 @@
+region=SRTV&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),2047.992
+2005-01-01T00:00:00+00:00 (GMT),1998.3575
+2007-01-01T00:00:00+00:00 (GMT),1917.2481

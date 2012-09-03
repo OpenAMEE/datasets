@@ -1,0 +1,11 @@
+"type",installationEmissionFactor,units,source
+"domestic refrigeration",1.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"stand-alone commercial applications",1.5,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"medium and large commercial applications",2.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"transport refrigeration",1.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"industrial refrigeration (inc. food processing and cold storage)",1.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"chillers",1.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial a/c including heat pumps",1.0,none,2010 http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial a/c",1.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"residential and commercial heat pumps",1.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+"mobile air conditioning ",1.0,none,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting

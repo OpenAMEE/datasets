@@ -1,0 +1,8 @@
+gridName,massCO2PerEnergy,units,source
+north,1.123247,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+northeast,1.171632,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+east,0.823774,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+central,0.688693,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+northwest,0.853301,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+southern,0.659008,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+hainan,0.775339,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools

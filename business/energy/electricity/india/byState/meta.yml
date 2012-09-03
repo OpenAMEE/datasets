@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|GHG Protocol worksheet]]"
+tags: 
+- GHGP
+- india
+- electricity
+- calculation
+- direct
+- emission_factor
+- GHGP_custom
+authority: enterprise
+show: "1"
+gallery: "nil"
+ivds: 
+  energyPerTime: The quantity of energy consumed per unit time
+  totalArea: Total area of facility
+  responsibleArea: Area under consideration
+  stateName: The state in which the electricity was consumed
+  source: 
+  gridName: Grid region to which state belongs
+wikiname: Electricity_India_By_State
+name: "Greenhouse Gas Protocol methodology for grid electricity by Indian state"
+usages:
+  totalEmissions : { totalArea : forbidden, responsibleArea : forbidden }
+  byResponsibleArea : { totalArea : compulsory, responsibleArea : compulsory }
+  order : [ totalEmissions, byResponsibleArea ] 

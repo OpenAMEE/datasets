@@ -1,0 +1,6 @@
+region=FRCC&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1475.02
+2005-01-01T00:00:00+00:00 (GMT),1353.7189
+2007-01-01T00:00:00+00:00 (GMT),1286.4119

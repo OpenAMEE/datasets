@@ -1,0 +1,26 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- van
+- freight
+- calculation
+- emission_factor
+- UK
+- direct
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  kgCO2ePerTonneKmForCH4: 
+  size: 
+  mass: 
+  kgCO2ePerTonneKmForN2O: 
+  kgCO2PerTonneKm: 
+  fuel: 
+  source: 
+  distance: 
+wikiname: Light_Goods_Freight_Defra

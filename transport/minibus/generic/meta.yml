@@ -1,0 +1,46 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- minibus
+- passenger
+- mobile
+- distance
+- fuel
+- occupancy
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: http://www.vcacarfueldata.org.uk/downloads/
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  airconFull: Set to 'true' to specify regular use of air-conditioning
+  airconTypical: "Set to 'false' to specify no air-conditioning usage "
+  occupants: Number of vehicle occupants
+  kmPerLitreOwn: 
+  kgCO2PerKmUS: Distance-based CO2 emissions factor for US travel
+  size: Vehicle size
+  ecoDriving: Set to 'true' to specify fuel-saving driving practices
+  country: Country
+  kgCO2PerKm: Distance-based CO2 emissions factor
+  regularlyServiced: Set to 'false' to specify non-regular servicing
+  fuel: Vehicle fuel type
+  tyresUnderinflated: Set to 'true' to specify underinflated tyres
+  distanceKmPerMonth: 
+  typicalDistance: Typical distance
+  fuelConsumed: 
+  useTypicalDistance: Set to 'true' to use typical distances
+  kmPerLitre: 
+  ownFuelConsumption: User-calculated vehicle fuel consumption
+  fuelConsumption: Manufacturer-declared vehicle fuel consumption
+  source: 
+  distance: Distance travelled
+wikiname: Generic_minibus_transport
+usages:
+  byDistance: { ownFuelConsumption : optional, occupants : optional, country : optional, airconTypical : optional, tyresUnderinflated : optional, ecoDriving : optional, airconFull : optional, regularlyServiced : optional, useTypicalDistance : optional, fuelConsumed : forbidden, fuelConsumption : optional }
+  byFuel: { ownFuelConsumption : ignored, occupants : ignored, country : ignored, airconTypical : ignored, tyresUnderinflated : ignored, ecoDriving : ignored, airconFull : ignored, regularlyServiced : ignored, useTypicalDistance : ignored, fuelConsumption : ignored, distance : ignored }
+  order: [ byDistance, byFuel ]

@@ -1,0 +1,40 @@
+--- 
+data_items: []
+
+tags: 
+- iron
+- steel
+- EPA
+- climate_leaders
+- calculation
+- mass_balance
+- direct
+- US
+provenance: "[[http://www.epa.gov/climateleaders/documents/resources/ironsteel.pdf|EPA/Climate Leaders]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  fluxCarbon: Carbon content of carbonate flux
+  fluxPurity: Purity of carbonate flux
+  steelQuantity: Quantity of steel sold
+  fluxQuantity: Quantity of carbonate flux consumed
+  ironCarbon: Carbon content of iron
+  cokeOvenGasQuantity: Quantity of coke oven gas
+  tarQuantity: Quantity of tar
+  steelCarbon: Carbon content of steel
+  type: Type of process
+  blastFurnaceGasCarbon: Carbon content of blast furnace gas
+  blastFurnaceGasQuantity: Quantity of blast furnace gas
+  cokeCarbon: Carbon content of coke
+  cokeQuantity: Quantity of coke sold
+  ironQuantity: Quantity of iron sold
+  source: 
+  cokeOvenGasCarbon: Carbon content of coke oven gas
+  oilCarbon: Carbon content of residual oil
+  oilQuantity: Quantity of residual oil
+  tarCarbon: Carbon content of tar
+wikiname: EPA_primary_iron_and_steel_production
+usages:
+  default: { fluxPurity : optional, fluxCarbon : optional, steelQuantity : optional, steelCarbon : optional, ironQuantity : optional, ironCarbon : optional, cokeQuantity : optional, cokeCarbon : optional, tarQuantity : optional, tarCarbon : optional, oilQuantity : optional, oilCarbon : optional, cokeOvenGasQuantity : optional, cokeOvenGasCarbon : optional, blastFurnaceGasQuantity : optional, blastFurnaceGasCarbon : optional }
+

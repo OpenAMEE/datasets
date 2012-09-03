@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- hydrogen
+- fuel
+- carbon_recovery
+- EPA
+- EPA_mandatory
+- EPA_mandatory_hydrogen
+- calculation
+- mass_balance
+- direct
+- global
+provenance: "[[http://www.epa.gov/climatechange/emissions/archived/downloads/tsd/TSD%20HydrogenProduction%20EPA_2-02-09.pdf|EPA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massHydrogen: Quantity of hydrogen produced
+  carbonRecovered: Quantity of carbon recovered for use in other processes
+  massFeedstockPerMassHydrogen: Quantity of feedstock required per unit of production
+  operatingDuration: Duration of facility operation which is under consideration
+  feedstockOxidation: Oxidation fraction acheived for feedstock
+  feedstockCarbon: Carbon fraction of feedstock
+  type: Type of process
+  CO2Recovered: Quantity of CO,,2,, recovered for use in other processes
+  massFeedstock: Quantity of feedstock consumed
+  source: 
+wikiname: Hydrogen_production_by_feedstock
+usages:
+  byConsumption : { feedstockOxidation : optional, carbonRecovered : optional, CO2Recovered : optional, operatingDuration : optional, massHydrogen : ignored, massFeedstockPerMassHydrogen : ignored }
+  byProduction : { massHydrogen : optional, massFeedstockPerMassHydrogen : optional, feedstockOxidation : optional, carbonRecovered : optional, CO2Recovered : optional, operatingDuration : optional, massFeedstock : forbidden }
+  order : [ byConsumption, byProduction ]
+

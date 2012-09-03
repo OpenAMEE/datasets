@@ -1,0 +1,41 @@
+--- 
+data_items: []
+
+tags: 
+- lime
+- GHGP
+- GHGP_lime_sector
+- lime
+- carbonate
+- IPCC
+- IPCC_industry
+- IPCC_industry_mineral
+- IPCC_tier2
+- calculation
+- direct
+- mass_balance
+- global
+- EPA
+- EPA_mandatory
+- EPA_mandatory_lime
+provenance: Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for lime production
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  caoMgoRatio: 
+  fracLkd: 
+  defStoicRatio: Used if no stoichometric ratio value is entered
+  limeQuantity: 
+  calcinationLKD: 
+  stoicRatio: 
+  defCaoMgoRatio: Used if no CaO.MgO content value is entered
+  lkdWeight: 
+  waterLime: Default of 0.28 used if none given
+  limeType: Select lime type from the drill options below
+  hydLime: Default of 0.1 used if none given
+  source: 
+  defLkdCorrection: Used if lkdWeight, fracLkd or calcinationLKD are not entered
+wikiname: Lime_production_data
+usages:
+  default : { caoMgoRatio : optional, stoicRatio : optional, hydLime : optional, waterLime : optional, lkdWeight : optional, fracLkd : optional, calcinationLKD : optional }

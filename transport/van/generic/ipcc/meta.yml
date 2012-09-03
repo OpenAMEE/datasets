@@ -1,0 +1,18 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- van
+- light_goods
+- IPCC
+- distance
+- fuel
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "0"
+authority: enterprise
+ivds: {}
+
+wikiname: Generic_van_transport_IPCC

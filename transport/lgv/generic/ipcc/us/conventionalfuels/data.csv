@@ -1,0 +1,8 @@
+"fuel","technology","massN2OPerDistance","massN2OPerStart","massCH4PerDistance","massCH4PerStart","units","source"
+"gasoline","low emission vehicle",1.00,120.00,14.00,94.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"gasoline","advanced three-way catalyst",52.00,409.00,15.00,163.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"gasoline","early three-way catalyst",88.00,313.00,121.00,183.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"gasoline","oxidation catalyst",55.00,194.00,111.00,215.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"gasoline","non-oxidation catalyst",20.00,70.00,239.00,147.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"gasoline","uncontrolled",21.00,74.00,263.00,162.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"
+"diesel",,3.00,-2.00,4.00,-11.00,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf"

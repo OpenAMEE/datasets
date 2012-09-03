@@ -1,0 +1,40 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- motorcycle
+- mobile
+- passenger
+- occupancy
+- distance
+- actonco2
+- calculation
+- direct
+- emission_factor
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  occupants: Number of occupants
+  kmPerLitreOwn: User-determined fuel consumption value
+  size: Motorcycle size
+  country: Country in which journey occurred
+  kgCO2PerKm: CO,,2,, per distance emissions factor
+  fuel: Motorcycle fuel type
+  distanceKmPerMonth: Distance travelled per month
+  typicalDistance: Typical distance travelled
+  fuelConsumed: 
+  useTypicalDistance: Set "true" to use typical distance for vehicle type
+  kmPerLitre: Manufacturer fuel consumption value
+  ownFuelConsumption: User-determined fuel consumption value
+  fuelConsumption: Manufacturer fuel consumption value
+  source: 
+  distance: Distance travelled
+wikiname: Generic_motorcycle_transport
+usages:
+  byDistance: { ownFuelConsumption : optional, occupants : optional, country : optional, useTypicalDistance : optional, fuelConsumed : forbidden, fuelConsumption : optional }
+  byFuel: { ownFuelConsumption : ignored, occupants : ignored, country : ignored, useTypicalDistance : ignored, fuelConsumption : ignored, distance : ignored }
+  order: [ byDistance, byFuel ]

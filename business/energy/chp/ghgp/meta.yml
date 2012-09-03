@@ -1,0 +1,30 @@
+---
+data_items: []
+
+tags:
+- chp
+- GHGP
+- electricity
+- heating
+- calculation
+- UK
+- US
+- direct
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|GHGP CHP Worksheet]]"
+gallery:
+show: "1"
+authority: enterprise
+ivds:
+  country: "Country in which CHP facility operates"
+  ghgProgramme: "Programme under which default efficiency data published"
+  efficiencyPowerProd: "Efficiency of facility power production. Default provided if facility specific data is not available. Facility specific data should take the form of a decimal percentage (i.e. 0-1)"
+  efficiencySteamProd: "Efficiency of facility steam production. Default provided if facility specific data is not available. Facility specific data should take the form of a decimal percentage (i.e. 0-1)"
+  totalDirectEmissions: "Total direct greenhouse gas emissions from CHP facility. This represents all emissions attributable to the entire facility for the operating period under consideration"
+  steamOutput: "Facility steam output, including district heat, process heat, other steam. This represents total steam production for the operating period under consideration"
+  powerOutput: "Facility power output. This represents total electricity production associated with the operating period for the operating period under consideration"
+  electricityConsumed: "Quantity of CHP electricity consumed" 
+  steamConsumed: "Quantity of CHP steam consumed"
+wikiname: "Greenhouse_Gas_Protocol_Combined_Heat_and_Power"
+name: "Greenhouse Gas Protocol methodology for Combined Heat and Power emissions allocation"
+usages:
+  default: { efficiencyPowerProd : optional, efficiencySteamProd : optional, electricityConsumed: optional, steamConsumed: optional }

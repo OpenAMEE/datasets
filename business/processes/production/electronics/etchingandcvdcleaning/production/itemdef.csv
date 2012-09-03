@@ -1,0 +1,14 @@
+name,Electronics etching and cvd cleaning by production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Industry sector,sector,TEXT,true,true,,,,
+CF4 emissions per area substrate produced,massCF4PerArea,DECIMAL,true,false,kg,m^2,,
+C2F6 emissions per area substrate produced,massC2F6PerArea,DECIMAL,true,false,kg,m^2,,
+CHF3 emissions per area substrate produced,massCHF3PerArea,DECIMAL,true,false,kg,m^2,,
+C3F8 emissions per area substrate produced,massC3F8PerArea,DECIMAL,true,false,kg,m^2,,
+NF3 emissions per area substrate produced,massNF3PerArea,DECIMAL,true,false,kg,m^2,,
+SF6 emissions per area substrate produced,massSF6PerArea,DECIMAL,true,false,kg,m^2,,
+Annual manufacturing design capacity,capacity,DECIMAL,false,false,m^2,,,
+Plant production capacity utilisation,fractionCapacityUtilised,DECIMAL,false,false,,,,
+Fraction of PV manufacture using fluorinated compounds,fractionFluorinatedCompounds,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

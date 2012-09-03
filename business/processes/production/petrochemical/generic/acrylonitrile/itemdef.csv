@@ -1,0 +1,10 @@
+name,Acrylonitrile production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of process,process,TEXT,true,true,,,,
+Quantity of CO2 per unit of acrylonitrile produced,massCO2PerMass,DECIMAL,true,false,t,t,,
+Quantity of CH4 per unit of acrylonitrile produced,massCH4PerMass,DECIMAL,true,false,kg,t,,
+Quantity of feedstock required per unit of acrylonitrile produced,massFeedstockPerMass,DECIMAL,true,false,t,t,,
+Quantity of acrylonitrile produced,mass,DECIMAL,false,false,t,,,
+Quantity of feedstock consumed,massFeedstock,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

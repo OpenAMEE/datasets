@@ -1,0 +1,7 @@
+name,Soil urea application
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Additive type,type,TEXT,true,true,,,,
+Carbon content of urea,massPerMass,DECIMAL,true,false,t,t,,
+Quantity of urea added,massUsed,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

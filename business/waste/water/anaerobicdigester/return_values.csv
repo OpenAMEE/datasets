@@ -1,0 +1,6 @@
+label,type,unit,per_unit,default
+producedCH4,DECIMAL,kg,,false
+destroyedCH4,DECIMAL,kg,,true
+emittedCH4,DECIMAL,kg,,false
+CO2e,DECIMAL,kg,,false
+comment,TEXT,,,false

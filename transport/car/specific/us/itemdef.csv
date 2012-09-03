@@ -1,0 +1,25 @@
+name,Car Specific US
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Manufacturer,manufacturer,TEXT,true,true,,,,
+Line,line,TEXT,true,true,,,,
+Engine size,engineSize,DECIMAL,true,true,,,,
+Transmission type,transmission,TEXT,true,true,,,,
+Class,class,TEXT,true,false,,,,
+Cylinders,cylinders,DECIMAL,true,false,,,,
+Drive system,driveSystem,TEXT,true,false,,,,
+Fuel type,fuelType,TEXT,true,false,,,,
+Index number,indexNumber,DECIMAL,true,false,,,,
+Fuel efficiency in city,mpgCity,DECIMAL,TRUE,FALSE,mi,gal
+Fuel efficiency on highway,mpgHighway,DECIMAL,TRUE,FALSE,mi,gal
+Combined fuel efficiency,mpgCombined,DECIMAL,TRUE,FALSE,mi,gal
+Release date,releaseDate,TEXT,true,false,,,,
+Source,source,TEXT,true,false,,,,
+unrndCityEPA,unrndCityEPA,DECIMAL,true,false,,,,
+unrndCompEPA,unrndCompEPA,DECIMAL,true,false,,,,
+unrndHwyEPA,unrndHwyEPA,DECIMAL,true,false,,,,
+Own fuel efficinecy,mpgOwn,DECIMAL,false,false,mi,gal,,
+Fuel Consumption,ownFuelConsumption,DECIMAL,false,false,km,L,,
+Driving type,drivingType,TEXT,false,false,,,combined,
+Distance per month,distanceMilesPerMonth,DECIMAL,false,false,mi,month,,
+Distance,distance,DECIMAL,false,false,km,year,,

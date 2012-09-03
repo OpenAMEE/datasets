@@ -1,0 +1,10 @@
+name,GHGP India Biomass
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Net Calorific Value,netCalorificValue,DECIMAL,true,false,GJ,t,,
+Carbon Content (%w),carbonContent,DECIMAL,true,false,,,,
+Mass CO2 Per Energy,massCO2PerEnergy,DECIMAL,true,false,kg,GJ,,
+Energy Consumed,energy,DECIMAL,false,false,GJ,,,
+Mass of Biomass,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

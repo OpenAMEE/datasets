@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- electricity
+- nordic
+- calculation
+- residual_mix
+- domain
+- EU
+provenance: Based on [[http://ostfoldforskning.no/uploads/prosjektsider/publikasjon/Electricity_Disclosure_in_the_Nordic_Countries_-_october_2011.pdf|Recommendation for Electricity Disclosure in the Nordic Countries]].
+gallery: |-
+ <%= chart :dependent => 'massPerEnergyTotal', :x => 'country' %>
+show: "1"
+authority: enterprise
+ivds: 
+  country: 
+  year: 
+  domain: Approximate geographic area over which the emissions data apply 
+  massPerEnergyRenewable: CO2 emissions intensity for renewable generation
+  massPerEnergyNuclear: CO2 emissions intensity for nuclear generation
+  massPerEnergyFossil: CO2 emissions intensity for fossil generation
+  massPerEnergyTotal: Total CO2 emissions intensity
+  energy: Quantity of Electricity (energy) used
+  source:
+wikiname: Nordic_Electricity_Residual_Mix_Disclosure_Nordic_Domain
+name: "Nordic Electricity Residual Mix Disclosure - Nordic Domain"
+

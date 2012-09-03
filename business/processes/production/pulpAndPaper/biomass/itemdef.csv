@@ -1,0 +1,9 @@
+name,Pulp and Paper biomass
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Boiler,typeOfBoiler,TEXT,true,true,,,,
+Description of Boiler,description,TEXT,true,true,,,,
+CH4 Emission Factor,massCH4PerEnergy,DECIMAL,both,false,kg,TJ,,
+N2O Emission Factor,massN2OPerEnergy,DECIMAL,both,false,kg,TJ,,
+Energy burned,energy,DECIMAL,false,false,TJ,,,
+Source,source,TEXT,true,false,,,,

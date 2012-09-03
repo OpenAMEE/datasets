@@ -1,0 +1,14 @@
+name,Global Warming Potentials
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Gas,gas,TEXT,true,true,,,,
+Name,name,TEXT,true,false,,,,
+Chemical formula,formula,TEXT,true,false,,,,
+Default global warming potential,GWP,DECIMAL,true,false,,,,
+Residence time in atmosphere,residenceTime,DECIMAL,true,false,year,,,
+IPCC Second Assessment Report (1995) 100 year global warming potential,gwp_SAR_100,DECIMAL,true,false,,,,
+IPCC Fourth Assessment Report (2007) 20 year global warming potential,gwp_4AR_20,DECIMAL,true,false,,,,
+IPCC Fourth Assessment Report (2007) 100 year global warming potential,gwp_4AR_100,DECIMAL,true,false,,,,
+IPCC Fourth Assessment Report (2007) 500 year global warming potential,gwp_4AR_500,DECIMAL,true,false,,,,
+Emission Rate,emissionRate,DECIMAL,false,false,kg,year,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+tags: 
+- deprecated
+- defra
+- biofuel
+- lca
+- UK
+- fuel
+- calculation
+- indirect
+- emission_factor
+authority: enterprise
+show: "1"
+gallery: "nil"
+ivds: 
+  massCO2ePerBiofuelMass: 
+  mass: only use for //biomethane//, use //**volume**// profile item value for all other fuels
+  type: 
+  volume: 
+  massCO2ePerBiofuelVolume: 
+  source: 
+wikiname: Life_Cycle_Biofuel

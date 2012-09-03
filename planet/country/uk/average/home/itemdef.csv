@@ -1,0 +1,7 @@
+name,UK Average - Home
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Household or Individual UK Average,householdOrIndividual,TEXT,true,true,,,,
+Mass of CO2 per unit time,massCO2PerTime,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

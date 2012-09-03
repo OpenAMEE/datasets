@@ -1,0 +1,7 @@
+name,GHG Electricity Coal
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,true,true,,,,
+Energy Per Time,energyPerTime,DECIMAL,false,false,kWh,year,,
+Mass CO2 Per Energy,massCO2PerEnergy,DECIMAL,true,false,kg,kWh,,
+Source,source,TEXT,true,false,,,,

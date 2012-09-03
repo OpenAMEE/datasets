@@ -1,0 +1,11 @@
+path,versions,aliasedTo
+device,1.0|2.0,
+rating,1.0|2.0,
+age,1.0|2.0,
+temperature,1.0|2.0,
+kWhPerCycle,1.0|2.0,
+kWhPerYear,1.0|2.0,
+source,1.0|2.0,
+comment,1.0|2.0,
+cycleRate,2.0,
+cyclesPerMonth,1.0,cycleRate

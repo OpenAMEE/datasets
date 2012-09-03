@@ -1,0 +1,12 @@
+name,Stationary combustion of gas EPA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,type,TEXT,true,true,,,,
+Fuel subtype,subtype,TEXT,true,true,,,,
+Heating value of fuel,energyPerVolume,DECIMAL,true,false,BTU_FiftyNineF,ft^3,,
+CO2 emissions factor,massCO2PerEnergy,DECIMAL,true,false,kg,MBTU_FiftyNineF,,
+Energy consumed,energyConsumed,DECIMAL,false,false,MBTU_FiftyNineF,,,
+Volume of fuel consumed,volume,DECIMAL,false,false,ft^3,,,
+Include non-CO2 gases,includeNonCO2Gases,TEXT,false,false,,,false,true,false
+Burning context,burningContext,TEXT,false,false,,,industry,residential,commercial,industry,electricity generation
+Source,source,TEXT,true,false,,,,

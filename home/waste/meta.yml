@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- home
+- business
+- waste
+- recycling
+- embodied
+- lca
+- calculation
+- UK
+- emission_factor
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|Defra]]"
+gallery: "nil"
+show: "0"
+authority: 
+ivds: 
+  kgCO2LandfillSavedPerKg: CO,,2,, emissions factor for landfill disposal
+  massPerTime: Quantity of waste disposed
+  kgCO2EmbodiedFossilEnergySavedPerKg: Factor for embodied CO,,2,, emissions
+  kgCO2ThermalSavedPerKg: CO,,2,, emissions factor for combustion disposal
+  kgPerPersonPerYear: Typical quantity of waste produced per person
+  kgCO2RecyclingSavedPerKg: CO,,2,, emissions factor for recyling disposal
+  type: Type of waste disposal used
+  savingType: 
+  source: 
+  kgPerMonth: 
+wikiname: Domestic_waste
+usages:
+  default: { savingType : optional }
+

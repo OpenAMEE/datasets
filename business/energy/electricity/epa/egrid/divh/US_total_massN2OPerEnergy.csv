@@ -1,0 +1,6 @@
+region=US&type=total
+massN2OPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),null
+2005-01-01T00:00:00+00:00 (GMT),20.6025
+2007-01-01T00:00:00+00:00 (GMT),19.6366

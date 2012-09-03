@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_industry
+- IPCC_industry_metal
+- calculation
+- direct
+- emission_factor
+- global
+- magnesium
+- SF6
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|IPCC-NGGIP]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  massSF6PerMassProduct: the emission factor for the casting process selected
+  magnesiumCastingProcess: drill-down used to specify the casting process used
+  source: 
+  mgQuantity: user-supplied value for the quantity of magnesium produced
+wikiname: Magnesium_casting_process
+usages:
+  default: { massSF6PerMassProduct : optional }

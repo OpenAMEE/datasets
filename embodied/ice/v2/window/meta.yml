@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- ice
+- construction
+- materials
+- window
+- calculation
+- emission_factor
+- energy
+- lca
+provenance: "[[http://people.bath.ac.uk/cj219/|Inventory of Carbon & Energy]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of window frame
+  glazing: Type of window glazing, i.e. single or double
+  basis: Basis for emissions calculation, upper, lower or mean estimates based on range of data provided in ICE source documentation
+  energyPerWindow: Embodied energy per 1.2 m x 1.2 m window unit
+  massCO2PerWindow: Embodied CO,,2,, per 1.2 m x 1.2 m window unit
+  boundary: Life cycle analysis boundary, i.e. the stages in the window life cycle which are represented by the energy and CO,,2,, factors
+  note: Author notes on the sourcing of data
+  number: Number of windows
+  fill: Type of glazing air-space fill used
+wikiname: ICE_v2_windows
+name: "Inventory of Carbon & Energy methodology for windows"

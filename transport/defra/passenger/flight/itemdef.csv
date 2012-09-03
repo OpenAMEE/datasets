@@ -1,0 +1,9 @@
+name, DEFRA typical flight distances
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of flight,type,TEXT,true,true,,,,
+Passenger class,passengerClass,TEXT,true,true,,,,
+Typical distance,distance,DECIMAL,true,false,km,,,
+Number of passengers,passengers,DECIMAL,false,false,,,1,
+Number of journeys,journeys,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

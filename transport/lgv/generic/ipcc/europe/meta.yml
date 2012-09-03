@@ -1,0 +1,57 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- large_goods
+- heavy_duty
+- truck
+- distance
+- fuel
+- travel
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+- europe
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  urbanCold: Proportion of driving represented by a 'urban' context from a cold engine start
+  fuelEfficiency: Fuel consumption efficiency of vehicle
+  massCH4PerDistanceUrbanCold: Methane emissions per unit distance travelled for a 'urban' driving context and a cold engine start
+  massN2OPerDistanceRural: Nitrous oxide emissions per unit distance travelled for a 'rural' driving context
+  massN2OPerDistanceUrbanHot: "Nitrous oxide emissions per unit distance travelled for a 'urban' driving context and a warm engine start "
+  occupancy: Total occupancy of vehicle
+  massCH4PerDistanceHighway: Methane emissions per unit distance travelled for a 'rural' driving context
+  technology: Type of emissions control technology
+  distancePerJourney: Distance travelled per journey
+  highway: Proportion of driving represented by a 'highway' context
+  fuel: Type of fuel used
+  massCH4PerDistanceRural: Methane emissions per unit distance travelled for a 'highway' driving context
+  rural: Proportion of driving represented by a 'rural' context
+  urbanhot: Proportion of driving represented by a 'urban' context from a warm engine start
+  massCH4PerDistanceUrbanHot: Methane emissions per unit distance travelled for a 'urban' driving context and a warm engine start
+  massN2OPerDistanceHighway: Nitrous oxide emissions per unit distance travelled for a 'highway' driving context
+  fuelConsumed: Total quantity of fuel consumed
+  numberOfJourneys: Number of journeys made
+  frequency: Frequency of journeys (e.g. 'daily', 'weekly', 'monthly')
+  source: 
+  massN2OPerDistanceUrbanCold: "Nitrous oxide emissions per unit distance travelled for a 'urban' driving context and a cold engine start "
+  distance: Total distance travelled
+wikiname: European_heavy_duty_transport_IPCC
+usages:
+  byFuelOnly: { distance : forbidden, frequency : ignored, numberOfJourneys : ignored, distancePerJourney : forbidden, fuelEfficiency : ignored, occupancy : optional, urbanCold : ignored, urbanhot : ignored, highway : ignored, rural : ignored }
+  byDistanceAndFuel: {  frequency : ignored, numberOfJourneys : ignored, distancePerJourney : forbidden, fuelEfficiency : forbidden, occupancy : optional, urbanCold : optional, urbanhot : optional, highway : optional, rural : optional }
+  byDistanceAndEfficiency: { frequency : ignored, numberOfJourneys : ignored, distancePerJourney : forbidden, fuelConsumed : ignored, occupancy : optional, urbanCold : optional, urbanhot : optional, highway : optional, rural : optional }
+  byJourneysAndFuel: { distance : ignored, frequency : optional, numberOfJourneys : optional, fuelEfficiency : forbidden, occupancy : optional, urbanCold : optional, urbanhot : optional, highway : optional, rural : optional }
+  byJourneysAndEfficiency: { distance : ignored, frequency : optional, numberOfJourneys : optional, fuelConsumed : ignored, occupancy : optional, urbanCold : optional, urbanhot : optional, highway : optional, rural : optional }
+  order: [ byFuelOnly, byDistanceAndFuel, byDistanceAndEfficiency, byJourneysAndFuel, byJourneysAndEfficiency ]

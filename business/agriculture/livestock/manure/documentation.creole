@@ -1,0 +1,7 @@
+     The AMEE category business/agriculture/livestock/manure contains data on the emissions associated with the storage and treatment of livestock manure, sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_10_Ch10_Livestock.pdf|National Greenhouse Gas Inventories Programme]]. These categories represent //Tier 1// approaches.
+
+The data is organised into the following subcategories which relate to CH,,4,, and N,,2,,O emissions respectively:
+
+*[[Manure_associated_methane_emissions]]
+
+*[[Manure_associated_nitrous_oxide_emissions]]

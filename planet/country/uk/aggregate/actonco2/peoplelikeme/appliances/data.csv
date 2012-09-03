@@ -1,0 +1,7 @@
+numberOfPeople,CO2,units,source,algorithm
+1,1198.994,kgCO2/year,ActOnCO2v1/EST 2009,
+2,1636.367,kgCO2/year,ActOnCO2v1/EST 2009,
+3,1997.759,kgCO2/year,ActOnCO2v1/EST 2009,
+4,2240.975,kgCO2/year,ActOnCO2v1/EST 2009,
+5+,2464.546,kgCO2/year,ActOnCO2v1/EST 2009,
+all,1836,kgCO2/year,ActOnCO2v1/EST 2009,

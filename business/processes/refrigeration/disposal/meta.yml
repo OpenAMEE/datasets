@@ -1,0 +1,26 @@
+--- 
+data_items: []
+
+tags: 
+- refrigeration
+- defra
+- defra_annex8
+- UK
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  capacityRemainingAtDisposal: 
+  numberOfUnits: use for multiple-unit systems, default 1
+  refrigerantType: the type of refrigerant must be chosen from the list available in the [[Greenhouse_gases_Global_warming_potentials|GWP]] category
+  refrigerantRecovered: 
+  type: type of refrigeration equipment chosen by the user from the list below
+  equipmentChargeCapacity: the suitable ranges for charge capacity can be seen in the [[Refrigeration]] page
+  source: 
+wikiname: Refrigeration_Disposal
+usages:
+  default: { refrigerantType : optional }

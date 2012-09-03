@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- energy
+- reductions
+- electricity
+- electronics
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: "[[http://www.theclimategroup.org/|www.theclimategroup.org]] - [[http://www.energysavingtrust.org.uk/|www.energysavingtrust.org.uk]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  action: 
+  kgCO2ReductionPerYear: 
+  source: 
+wikiname: UK_energy_reductions

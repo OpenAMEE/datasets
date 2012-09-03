@@ -1,0 +1,12 @@
+name,GHGP Other regional road vehicles
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Vehicle type,type,TEXT,true,true,,,,
+Fuel type,fuel,TEXT,true,true,,,,
+Vehicle emission standard,emissionStandard,TEXT,true,true,,,,
+Vehicle fuel efficiency,distancePerVolume,DECIMAL,true,false,mi,gal,,
+CO2 emissions per unit distance,massCO2PerDistance,DECIMAL,true,false,kg,mi,,
+Biogenic CO2 emissions per unit distance,massBiogenicCO2PerDistance,DECIMAL,true,false,kg,mi,,
+Distance travelled,distance,DECIMAL,false,false,mi,,,
+Vehicle occupancy,occupancy,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

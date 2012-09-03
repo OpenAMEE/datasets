@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+tags: 
+- transport
+- IPCC
+- fuel
+- off_road
+- IPCC
+- IPCC_tier1
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+- global
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  massCH4PerEnergy: Factor for CH4 emissions per unit of fuel consumed
+  fuel: Type of fuel used
+  energyPerVolume: Energy yield per volume of fuel ('heating' or 'calorific' value)
+  volumeConsumed: Quantity of fuel used on a volumetric basis
+  massN2OPerEnergy: Factor for N2O emissions per unit of fuel consumed
+  energyConsumed: Quantity of fuel used on an energetic basis
+  source: 
+  massCO2PerEnergy: Factor for CO2 emissions per unit of fuel consumed
+  useContext: Context in which fuel used
+wikiname: Offroad_fuels
+usages:
+  byVolume: { energyConsumed : forbidden }
+  byEnergy: { volumeConsumed : ignored }
+  order: [ byVolume, byEnergy ]

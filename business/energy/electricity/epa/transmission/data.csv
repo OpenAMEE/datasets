@@ -1,0 +1,7 @@
+"region","name","factor","units","source"
+"E","Eastern Grid",6.47078880639429,,"http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html"
+"W","Western Grid",4.83722666935329,,"http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html"
+"TX","Texas",6.41514890146558,,"http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html"
+"AK","Alaska",1.24435123795012,,"http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html"
+"HI","Hawaii",3.20368600428508,,"http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html"
+"US","U.S.",6.156,,"http://www.epa.gov/cleanenergy/energy-resources/egrid/index.html"

@@ -1,0 +1,36 @@
+---
+data_items: []
+
+tags: 
+- fuel
+- stationary
+- combustion
+- EPA
+- US
+- carbon
+- calculation
+- direct
+- mass_balance
+- physical_properties
+- EPA_mandatory
+- EPA_mandatory_fuel
+provenance: "[[http://www.epa.gov/climatechange/emissions/archived/ghg_tsd.html|US EPA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of fuel
+  subtype: Subtype of fuel
+  mass: Quantity of fuel consumed
+  carbonContent: Carbon content of fuel
+  defaultCarbonContent: Default carbon content of fuel
+  molecularWeight: Molecular weight of gaseous fuel
+  molarVolumeConversionFactor: Molar volume of gaseous fuel
+  density: Density of fuel
+  volume: volume of fuel consumed
+wikiname: Stationary_combustion_by_carbon_content
+usages:
+  byMass : { carbonContent : optional, molecularWeight : ignored,  molarVolumeConversionFactor : ignored, density : ignored, volume: ignored }
+  byVolumeAndDensity : { carbonContent : optional, molecularWeight : ignored,  molarVolumeConversionFactor : ignored, mass : forbidden }
+  byVolumeAndMolecularProperties : { carbonContent : optional, density : ignored, mass : forbidden  }
+  order : [byMass, byVolumeAndDensity, byVolumeAndMolecularProperties]

@@ -1,0 +1,46 @@
+**Freight transport emissions methodology. Calculates direct carbon dioxide (CO,,2,,), methane (CH,,4,,), nitrous oxide (N,,2,,O) and CO,,2,,e emissions associated with freighting. Choices include vehicle type, size and region. Global.**
+
+==Summary==
+This methodology represents greenhouse gas emissions associated with the freighting of goods in the geographic contexts of the US, UK and other regions. The data and calculation methodology is based on those provided in the Greenhouse Gas Protocol worksheet //GHG emissions from transport or mobile sources// (version 2.2), published in June 2011.
+----
+
+==The methodology==
+
+===Emissions model===
+The emissions methodology is based upon emissions factors which describe the rate at which greenhouse gas emissions are produced during the freighting of goods in relation to **distance** travelled and the **quantity** of goods freighted. These emissions factors represent emissions associated with //individual units of freight//, which can be contrasted with similar transport-related emissions factors which describe emissions on the basis of //entire vehicles// (e.g. entire ship or lorry).
+
+Emissions - expressed in terms of mass (e.g. kg) - are calculated by multiplying these rates (mass emitted per mass distance; e.g. kg CO2 per ton mile) by a distance (e.g mile) and quantity (e.g. ton) freighted.
+
+===Model data===
+The rate at which freight transportation produces greenhouse gas emissions varies with the mode of transport, depending on factors such as the fuel efficiency (i.e. the distance achieved per unit of fuel consumed) of the particular type of vehicle (e.g. lorry, plane, train, ship) as well as the typical freight loading. Fuel efficiency may be related factors such as the type of fuel used (e.g. petrol, diesel, biofuel, electricity) and the physical dynamics of the transportation context (i.e. road, rail, water, air). The loading of freight indicates the extent to which the emissions of the entire vehicle can be 'shared' between units of freight. Therefore, emissions factors for a broad range of generalised freight transport scenarios are provided. 
+
+A total of 75 specific types of freight transport scenarios are represented and are differentiated by transport type (i.e. air, heavy goods vehicle, plane, rail, ship), vehicle size (e.g. gross vehicle weight) and region (UK, US, other regions).
+
+Aside from air freighting, which is represented by a CO,,2,, emissions factor only, each freight transport type is represented by three distinct emissions factors which differentiate greenhouse gas emissions into the following types:
+
+* //CO,,2,, emissions//
+* //CH,,4,, emissions//
+* //N,,2,,O emissions//
+
+CH,,4,, and N,,2,,O emissions are converted into kg CO,,2,,e - a standardized unit representing the effect of a unit kg of CO,,2,, on atmospheric warming - using the appropriate [[Greenhouse_gases_Global_warming_potentials|global warming potential]] for each respective gas.
+
+===Activity data required===
+According to this methodology, greenhouse gas emissions are directly proportionate to the distance and quantity (mass) of freight transported, both of which therefore must be specified in order to make an emissions calculation.
+
+===Calculation and result===
+The returned quantities for this methodology represent CO,,2,,, CH,,4,,, N,,2,,O and CO,,2,,e emissions associated with the activity data (distance/fuel) specified. CO,,2,,e emissions represent all three gases, converted using [[Greenhouse_gases_Global_warming_potentials|these]] global warming potential). The individual quantities for CH,,4,, and N,,2,,O represent //absolute quantities// rather than CO,,2,,e quantities. For some scenarios within this methodology, emissions factors for CH,,4,, and N,,2,,O are not available. In these cases values of zero are returned for the respective gases together with a notification comment. CO,,2,, and CO,,2,,e values are returned as normal. 
+----
+
+===Similar methodologies===
+Other Greenhouse Gas Protocol transport methodologies are available representing general [[Transport_fuels_by_Greenhouse_Gas_Protocol|transport fuel]] consumption, fuels consumed in [[Transport_fuels_with_context_by_Greenhouse_Gas_Protocol|specific transport  contexts]], [[Passenger_transport_by_Greenhouse_Gas_Protocol|passenger/public transport]], and road transportation in the [[UK_road_transport_by_Greenhouse_Gas_Protocol|UK]] (with [[UK_heavy_goods_transport_by_Greenhouse_Gas_Protocol|heavy goods]]), [[US_road_transport_by_Greenhouse_Gas_Protocol|US]] and [[Other_regional_road_transport_by_Greenhouse_Gas_Protocol|other regions]].
+----
+
+==Notes==
+===Default units===
+The CO,,2,, emissions factors contained within this methodology are presented in a mixture of units (i.e. kg [emissions] per //short ton mile//; kg [emissions] per //tonne kilometer//) in the original Greenhouse Gas Protocol source documentation.
+
+For consistency, all CO,,2,, factors are presented within the AMEE platform in a common default unit: kg [emissions] per //short ton mile//. Emissions factors were converted using the tonne-kilometer-to-short-ton-mile conversion factor provided in the //Reference - EF Fuel Use// worksheet of the source documentation, i.e. 
+
+emission factor ,,kg per short ton mile,, = emission factor ,,kg per tonne kilometer,, *  1.45997231943488 ,,tonne kilometers per short ton mile,,
+
+Users of AMEE can, of course, choose to specify their consumption in any appropriate unit with the AMEE handling any required conversions.

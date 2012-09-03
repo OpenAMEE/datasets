@@ -1,0 +1,7 @@
+name,Magnesium Production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Magnesium Production by Raw Material,magnesiumProductionByRawMaterial,TEXT,true,true,,,,
+Mass CO2 Produced Per Mass Product,massCO2PerMassProduct,DECIMAL,both,false,t,t,,
+Quantity of Product,productQuantity,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

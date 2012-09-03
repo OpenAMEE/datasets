@@ -1,0 +1,43 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- GHGP
+- UK
+- car
+- bus
+- light_goods
+- motorcycle
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: |-
+        <%= chart :dependent => 'massCO2PerDistance' %>
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of road vehicle
+  fuel: Type of fuel used
+  size: Vehicle size (engine capacity or gross weight)
+  massCO2PerDistance: Quantity of CO,,2,, per unit distance
+  distance: Distance travelled
+  occupancy: Occupancy of vehicle
+wikiname: UK_road_transport_by_Greenhouse_Gas_Protocol
+name: "UK road transport by Greenhouse Gas Protocol"
+usages:
+  default: { occupancy : optional }

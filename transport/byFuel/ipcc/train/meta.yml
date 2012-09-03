@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- fuel
+- IPCC
+- train
+- IPCC_tier1
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  vehicleAge: Age of vehicle
+  CH4WeightingFactor: Emissions factor modifier for specific engine type
+  N2OWeightingFactor: Emissions factor modifier for specific engine type
+  massCH4PerEnergy: Factor for CH4 emissions per unit of fuel consumed
+  fuel: Type of fuel used
+  energyConsumed: Quantity of fuel used on an energetic basis
+  massN2OPerEnergy: Factor for N2O emissions per unit of fuel consumed
+  source: 
+  massCO2PerEnergy: Factor for CO2 emissions per unit of fuel consumed
+  engineType: Type of engine
+wikiname: Train_fuels
+usages:
+  default: { vehicleAge : optional }

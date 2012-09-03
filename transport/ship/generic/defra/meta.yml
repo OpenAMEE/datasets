@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- ship
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  numberOfPassengers: use if calculating for multiple people
+  distancePerJourney: distance travelled by ship
+  isReturn: is this a return journey? If true, then distance is doubled by the algorithm
+  kgCO2ePerKmForN2O: N2O emission factor
+  type: //**type**// of ship
+  kgCO2PerKmPassenger: CO2 emission factor
+  numberOfJourneys: use for multiple identical journeys
+  source: 
+  kgCO2ePerKmForCH4: CH4 emission factor
+wikiname: Ship_generic_Defra
+usages:
+  default: { isReturn : optional, numberOfJourneys : optional, numberOfPassengers : optional }

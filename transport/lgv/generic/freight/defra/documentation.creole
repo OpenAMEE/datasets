@@ -1,0 +1,37 @@
+** This category is deprecated. The latest DEFRA methodology for heavy goods vehicle freighting can be found [[DEFRA_freight_transport_methodology|here]].**
+
+   This category uses the most recent [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|Defra]] data and advice to calculate emissions from UK heavy goods road freight. The most accurate way to measure emissions is by fuel use using the [[Fuel_Defra|Fuel]] category. But often this data is not available, or, specifically for freight categories, all emissions are not due to the packages being monitored. Therefore, this category allows the user to estimate their greenhouse gas emissions based on the distance travelled and the mass of the freight being transported. This category is used if the load mass and freight distance are known, if only vehicle distance and approximate load known then use the [[Heavy_Goods_Defra|Percentage Laden]] category.
+
+==How to use this category==
+
+Use the drill-down //**type**// to select the type of Heavy Goods Vehicle used from the following options.
+
+* //rigid//
+
+* //articulated//
+
+* //unknown//
+
+Use the second drill-down //**size**// to select the size of vehicle from the following options.
+
+* //3.5-7.5t// - rigid only
+
+* //7.5-17t// - rigid only
+
+* //>17t// - rigid only
+
+* //unknown//
+
+* //3.5-33t// - articulated only
+
+* //>33t// - articulated only
+
+The //**distance**// and //**mass**// must then be entered as profile item values.
+
+==Algorithm==
+
+CO2eEmissionFactor = CO2EF + N2OEF + CH4EF
+
+kgCO2e = CO2eEmissionFactor * distance * mass
+
+The result is equivalent CO2 emissions, which includes contributions from carbon dioxide, nitrous oxide and methane emissions.

@@ -1,0 +1,6 @@
+path,versions,aliasedTo
+name,1.0|2.0,
+energy,1.0|2.0,
+percentage,1.0|2.0,
+source,1.0|2.0,
+usagePerQuarter,1.0|2.0,

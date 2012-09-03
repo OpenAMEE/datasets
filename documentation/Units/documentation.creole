@@ -1,0 +1,96 @@
+ Please read [[Introduction_to_AMEE_Discover|Introduction to AMEEdiscover]] before reading this so that you understand the concepts of profile items and profile item values.
+
+See [[http://my.amee.com/developers/wiki/Units|this page]] for a quick reference on common units available in AMEE.
+
+== Amounts returned by AMEE ==
+
+Amounts returned by AMEE are usually in units of kilograms of carbon dioxide, but it is important to consult the documentation on a category to understand exactly what the returned value represents.
+
+== Profile item values == 
+
+When setting a profile item value, it is important to specify your units explicitly. For example, to represent 100 kilometres travelled per month, you should set distance=100, distanceUnit=km and distancePerUnit=month. AMEE supports all units present in [[http://jscience.org|JScience]].
+
+== Data item values ==
+
+It is not usually necessary to be concerned with the units used in data items as AMEE handles unit conversion transparently with profile items, i.e. AMEE will ensure that the units specified by the user are converted to match those needed in the algorithm.
+
+All values, units and perUnits are available for inspection via the API under /data. In most cases, to reduce the possibility of mistranslation, the units used in AMEE data items are the same as that in the specified source.
+
+== Supported Units ==
+
+Many units are supported in AMEE. This list shows the common name for each unit we support, and in brackets, the name used when sending data to AMEE. As well as those listed below, many more obscure units are supported. See the JScience lists of  [[http://jscience.org/api/javax/measure/unit/SI.html|SI]] and  [[http://jscience.org/api/javax/measure/unit/NonSI.html|Non-SI]] units for the complete set.
+
+In addition, the SI prefixes such as Mega (M), Micro (m), Kilo (k), and so on, are supported.
+
+Note that unit names are case sensitive.
+
+===  Mass === 
+
+    * Grams (g)
+    * Kilograms (kg)
+    * Metric Tons / Tonnes (t)
+    * Ounces (oz)
+    * Pounds (lb)
+    * Tons (UK imperial) (ton_uk)
+    * Tons (US imperial) (ton_us) 
+
+===  Distance === 
+
+    * Metres (m)
+    * Kilometres (km)
+    * Feet (ft)
+    * Yards (yd)
+    * Miles (mi)
+    * Nautical Miles (nmi) 
+
+=== Volume === 
+
+    * Litres (L)
+    * Cubic Metres (m³)
+    * Fluid Ounces (UK imperial) (oz_fl_uk)
+    * Fluid Ounces (US imperial) (oz_fl)
+    * Gallons (UK imperial) (gal_uk or gallon_uk)
+    * Gallons (US imperial) (gal) 
+
+=== Energy === 
+
+    * Kilowatt-Hours (kWh)
+    * Joules (J) 
+
+=== Energy - BTU === 
+
+    * 39 °F (BTU_ThirtyNineF)
+    * Mean (BTU_Mean)
+    * IT (BTU_IT)
+    * ISO (BTU_ISO)
+    * 59 °F (BTU_FiftyNineF)
+    * 60 °F (BTU_SixtyF)
+    * 63 °F (BTU_SixtyThreeF)
+    * Thermochemical (BTU_Thermochemical) 
+
+Note: These units are based on those defined  [[http://en.wikipedia.org/wiki/British_thermal_unit|here]]. See [[British_thermal_units|this page]] for more details on prefixes.
+
+=== Energy - Therm === 
+
+    * 39 °F (thm_ThirtyNineF)
+    * Mean (thm_Mean)
+    * IT (thm_IT)
+    * EC (thm_ec, alias of thm_IT)
+    * ISO (thm_ISO)
+    * 59 °F (thm_FiftyNineF)
+    * US (thm_us, alias of thm_FiftyNineF)
+    * 60 °F (thm_SixtyF)
+    * 63 °F (thm_SixtyThreeF)
+    * Thermochemical (thm_Thermochemical) 
+
+Note: These units are based on the BTU units defined above and simply multiplied by 100,000.
+
+=== Time === 
+
+    * Second (s)
+    * Minute (min)
+    * Hour (h)
+    * Day (day)
+    * Week (week)
+    * Month (month)
+    * Year (year) 

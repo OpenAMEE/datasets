@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- fugitive
+- CH4
+- IPCC
+- mining
+- IPCC_tier1
+- IPCC_energy
+- IPCC_energy_fugitive
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  recoveredMethane: Quantity of methane recovered during inventory year
+  volumeCH4PerTime1926to1950: Annual CH,,4,, emissions from mines abandoned between 1926 and 1950
+  minesAbandoned1976to2000: Number of mines which were abandoned between 1976 and 2000
+  minesAbandoned1951to1975: Number of mines which were abandoned between 1951 and 1975
+  volumeCH4PerTime2001toPresent: Annual CH,,4,, emissions from mines abandoned between 2001 and the present
+  volumeCH4PerTime1976to2000: Annual CH,,4,, emissions from mines abandoned between 1976 and 2000
+  minesAbandoned2001toPresent: Number of mines which were abandoned between 2001 and the present
+  volumeCH4PerTime1901to1925: Annual CH,,4,, emissions from mines abandoned between 1901 and 1925
+  inventoryYear: Year for which emissions are estimated
+  volumeCH4PerTime1951to1975: Annual CH,,4,, emissions from mines abandoned between 1951 and 1975
+  minesAbandoned1901to1925: Number of mines which were abandoned between 1901 and 1925
+  source: 
+  minesAbandoned1926to1950: Number of mines which were abandoned between 1926 and 1950
+wikiname: Generic_abandoned_mines
+name: "IPCC methodology for abandoned underground mines - tier 1"
+usages:
+  default: { recoveredMethane : optional }

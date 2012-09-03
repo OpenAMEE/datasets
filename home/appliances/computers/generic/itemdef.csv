@@ -1,0 +1,9 @@
+name,Computers Generic
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Device,device,TEXT,true,true,,,,
+Rating,rating,TEXT,true,true,,,,
+KWh Per Year,kWhPerYear,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Number Owned,numberOwned,INTEGER,false,false,,,1,
+On standby,onStandby,TEXT,false,false,,,,always=always,mostly=mostly,sometimes=sometimes,never=never

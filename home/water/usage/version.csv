@@ -1,0 +1,8 @@
+path,versions,aliasedTo
+litresPerUse,1.0|2.0,
+litresPerMinute,1.0|2.0,
+litresPerDay,1.0|2.0,
+usesPerDay,1.0|2.0,
+minutesPerDay,1.0|2.0,
+source,1.0|2.0,
+type,1.0|2.0,

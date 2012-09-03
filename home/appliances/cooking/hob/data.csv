@@ -1,0 +1,4 @@
+type,baseKWhPerYear,perPersonKWhPerYear,units,source
+gas,226.607,45.626,kWh/year,BRE/MTP/dgen/defra 2008
+electric,184.14,37.075,kWh/year,BRE/MTP/dgen/defra 2008
+induction,129.969,26.168,kWh/year,BRE/MTP/dgen/defra 2008

@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- material_balance
+- mass_balance
+- defra
+- defra_annex8
+- refrigeration
+- UK
+- calculation
+- direct
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of calculation
+  refrigerant: Type of refrigerant
+  purchased: Purchases of refrigerant used to charge new equipment
+  newCapacity: Total full capacity of the new equipment
+  service: Quantity of refrigerant used to service equipment
+  retiredCapacity: Total full capacity of retiring equipment
+  recovered: Refrigerant recovered from retiring equipment
+wikiname: Refrigerant_material_balance_methodology_by_DEFRA
+usages:
+  default : { refrigerant : optional }

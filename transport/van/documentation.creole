@@ -1,0 +1,17 @@
+        The AMEE category /transport/van contains data associated with the greenhouse gas emissions of van transport. Van-associated data is currently available in the following subcategory: 
+
+
+==Generic van==
+The AMEE category [[Generic_van_transport|/transport/van/generic]] contains data associated with the greenhouse gas emissions of representative van types. The data and methodology is sourced from [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]] with emissions calculations made on on the basis of distance travelled, with the option of specifying vehicle fuel consumption for the most accurate results. This category measures CO,,2,, emissions only and should be considered to represent a useful first point of entry to van-related emissions.
+
+==Generic bus transport - DEFRA==
+The AMEE [[Van_generic_Defra|DEFRA generic van transport]] category contains the most recently published [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]] data on greenhouse gas emissions associated with representative van types in UK. The methodology uses distance-based, //per vehicle// emissions factors, requiring the user to specify the distance travelled. This category includes CO,,2,,, CH,,4,, and N,,2,,O emissions as part of each calculation.
+
+==Generic van transport - GHG Protocol==
+The category [[Light_goods_truck_transport|GHGP light goods vehicles]] contains data on van-associated emissions sourced from the latest World Resources Institute [[http://www.ghgprotocol.org/about-ghgp|Greenhouse Gas Protocol (GHGP)]] documentation. This category includes emissions methodologies for light goods transport in several geographic contexts, and a separate functionality for calculating biofuel emissions.
+
+==Generic bus transport - IPCC==
+The category [[Generic_van_transport_IPCC|IPCC generic van transport]] contains data on van-associated emissions  sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/|Guidelines for National Greenhouse Gas Inventories]]. This category contains data and methodologies for van transport in European and US contexts and calclulates emissions on per vehicle basis, using fuel consumption or a combination of fuel consumption, fuel efficiency and distance.
+
+==Van freighting==
+The category [[Van_Freight|Van freighting]] contains data on van-associated freighting emissions, sourced from the most recently published [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]] data. The methodologies provided in this category calculate emissions on per unit mass of freight transported, and therefore require values for mass and distance to be specified by the user.

@@ -1,0 +1,29 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- passenger
+- car
+- distance
+- mobile
+- calculation
+- emission_factor
+- direct
+provenance: 
+gallery: 
+show: "0"
+authority: enterprise
+ivds: 
+  model: 
+  kgCO2PerKm: 
+  manufacturer: 
+  transmission: 
+  distanceKmPerMonth: 
+  description: 
+  engineCapacity: 
+  fuelType: 
+  source: 
+  distance: 
+wikiname: Specific_car_transport

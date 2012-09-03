@@ -1,0 +1,10 @@
+name,DEFRA CHP Energy
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of service,type,TEXT,true,true,,,,
+Total plant emissions,plantEmissions,DECIMAL,false,false,kg,,,
+Total electricity produced,electricityProduced,DECIMAL,false,false,kWh,,,
+Total heat produced,heatProduced,DECIMAL,false,false,kWh,,,
+Heat consumed,heatConsumed,DECIMAL,false,false,kWh,,,
+Electricity consumed,electricityConsumed,DECIMAL,false,false,kWh,,,
+Source,source,TEXT,true,false,,,,

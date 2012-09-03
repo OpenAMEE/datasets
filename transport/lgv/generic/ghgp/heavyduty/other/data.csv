@@ -1,0 +1,9 @@
+"vehicleType","fuelType","kgCO2PerMile",units,source
+rigid,gasoline,0.9771290,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+rigid,diesel,1.15125,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+rigid,lng,0.5068182,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+rigid,lpg,0.6931818,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+articulated,gasoline,1.4574127,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+articulated,diesel,1.7171186,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+articulated,lng,0.7559322,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+articulated,lpg,1.0338983,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

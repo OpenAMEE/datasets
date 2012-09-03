@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_aluminum_sector
+- aluminium
+- IPCC
+- IPCC_tier1
+- IPCC_industry
+- IPCC_industry_metal
+- EPA
+- EPA_mandatory
+- EPA_mandatory_aluminum
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  processType: The type of electrolysis cell technology employed
+  aluminiumQuantity: The quantity of aluminium produced
+  defEmisFact: Default CO,,2,, emissions factor - the quantity of CO,,2,, emitted per unit of aluminium produced. Used if no facility-specific emission factor is available
+  emisFact: CO,,2,, emissions factor - the quantity of CO,,2,, emitted per unit of aluminium produced
+  source: 
+wikiname: Aluminium_defaults
+name: "IPCC methodology for aluminium production CO2 emissions - tier 1"
+usages:
+  default: { emisFact : optional }
+

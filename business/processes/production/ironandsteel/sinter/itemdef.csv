@@ -1,0 +1,12 @@
+name,Iron and Steel: Sinter
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Material,material,TEXT,true,true,,,,
+Amount of Material,materialQuantity,DECIMAL,false,false,kg,,,
+Carbon Content (%w/w),carbonContent,DECIMAL,false,false,kg,kg,,
+Default Carbon Content,defCarbonContent,DECIMAL,true,false,kg,kg,,
+Amount of sinter off-gas transferred offsite,offsiteSinterQuantity,DECIMAL,false,false,kg,,,
+Carbon Content of sinter off-gas transferred offsite,carbonSinter,DECIMAL,false,false,kg,kg,,
+Amount of Sinter produced,sinterQuantity,DECIMAL,false,false,kg,,,
+CH4 emission factor,ch4EM,DECIMAL,false,false,kg,kg,0.00007,
+Source,source,TEXT,true,false,,,,

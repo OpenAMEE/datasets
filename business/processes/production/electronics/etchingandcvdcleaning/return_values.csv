@@ -1,0 +1,8 @@
+label,type,unit,per_unit,default
+primaryGas,DECIMAL,kg,,false
+byProductCF4,DECIMAL,kg,,false
+byProductC2F6,DECIMAL,kg,,false
+byProductC3F8,DECIMAL,kg,,false
+byProductCHF3,DECIMAL,kg,,false
+CO2e,DECIMAL,kg,,true
+comment,TEXT,,,false

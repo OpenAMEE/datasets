@@ -1,0 +1,7 @@
+name,Heating UK types
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel,fuel,TEXT,true,true,,,,
+Heating type,heatingType,TEXT,true,true,,,,
+Efficiency,efficiency,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

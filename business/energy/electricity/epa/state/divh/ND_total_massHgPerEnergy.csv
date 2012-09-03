@@ -1,0 +1,6 @@
+state=ND&type=total
+massHgPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),0.078
+2005-01-01T00:00:00+00:00 (GMT),0.0715
+2007-01-01T00:00:00+00:00 (GMT),null

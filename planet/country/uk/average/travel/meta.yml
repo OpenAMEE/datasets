@@ -1,0 +1,22 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- typical
+- average
+- UK
+- data
+- benchmark
+- direct
+- actonco2
+provenance: DECC 2009
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCO2PerTime: 
+  householdOrIndividual: 
+  type: 
+  source: 
+wikiname: UK_Average_Travel

@@ -1,0 +1,2 @@
+manufacturer,line,massCO2PerDistance,fuelSystem,fuelCapacity,range,units,source
+Riversimple,Urban vehicle,0.031,fuel cell,,,,http://www.riversimple.com/ Provisional extrapolated from early test cell results. The figure was calculated in accordance with the CONCAWE database for well to wheel emissions.

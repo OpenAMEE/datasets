@@ -1,0 +1,14 @@
+name,Televisions Generic Ranges
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Size,size,TEXT,true,true,in,,,
+kW on,kWOn,DECIMAL,true,false,kW,,,
+kW standby,kWStandby,DECIMAL,true,false,kW,,,
+Source,source,TEXT,true,false,,,,
+Comment,comment,TEXT,false,false,,,,
+Time On,hoursOn,DECIMAL,false,false,,year,0,
+Hours Per Month,hoursPerMonth,DECIMAL,false,false,,month,,
+standby always CO2,standbyAlwaysCO2,DECIMAL,false,false,kg,year,0,
+standby mostly CO2,standbyMostlyCO2,DECIMAL,false,false,kg,year,0,
+standby sometimes CO2,standbySometimesCO2,DECIMAL,false,false,kg,year,0,

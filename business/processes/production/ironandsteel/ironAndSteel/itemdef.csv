@@ -1,0 +1,16 @@
+name,Iron and Steel: Iron and Steel
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Material,material,TEXT,true,true,,,,
+Amount of Material,materialQuantity,DECIMAL,false,false,kg,,,
+Carbon Content (%w/w),carbonContent,DECIMAL,false,false,kg,kg,,
+Default Carbon Content,defCarbonContent,DECIMAL,true,false,kg,kg,,
+Amount of Steel Produced,steelQuantity,DECIMAL,false,false,kg,,,
+Carbon Content of Steel (%w/w),steelCarbon,DECIMAL,false,false,kg,kg,0.01,
+Amount of Iron not Converted into Steel,ironQuantity,DECIMAL,false,false,kg,,,
+Carbon Content of Iron (%w/w),ironCarbon,DECIMAL,false,false,kg,kg,0.04,
+Blast Furnace Gas Transferred Offsite,gasQuantity,DECIMAL,false,false,kg,,,
+Carbon Content of Gas (%w/w),gasCarbon,DECIMAL,false,false,kg,kg,0.17,
+Amount of Pig Iron Produced,pigQuantity,DECIMAL,false,false,kg,,,
+CH4 Emission Factor,ch4EM,DECIMAL,false,false,kg,kg,0,
+Source,source,TEXT,true,false,,,,

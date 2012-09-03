@@ -1,0 +1,10 @@
+name,LGV Generic GHGP US
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Fuel,fuelType,TEXT,true,true,,,,
+CO2 per distance,kgCO2PerMile,DECIMAL,true,false,kg,mi,,
+CH4 per distance,gCH4PerMile,DECIMAL,true,false,g,mi,,
+N2O per distance,gN2OPerMile,DECIMAL,true,false,g,mi,,
+Source,source,TEXT,true,false,,,,
+Distance travelled,distance,DECIMAL,false,false,mi,,,
+Year of Manufacture,yearOfManufacture,TEXT,true,true,,,,

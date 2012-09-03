@@ -1,0 +1,14 @@
+The AMEE category at [[Transport_fuel|/transport/byFuel]] includes data for the mobile burning of a variety of fuels taken from parts of several of the [[Greenhouse_Gas_Protocol|Greenhouse Gas Protocol]] worksheets. The following data categories are available.
+
+
+==By Fuel==
+The primary category ([[Transport_fuel|/transport/byFuel]]) contains data on greenhouse gas emissions associated with numerous types of fuel when burned in the context of transportation. Alternative emissions factors are available for each fuel type, from sources including the [[http://www.ipcc.ch/|IPCC]], the UK government agency [[http://www.defra.gov.uk/|DEFRA]], and the US [[http://www.eia.doe.gov/|Energy Information Administration]]. Users have the option of specifying fuel quantities in terms of energy, volume or mass.
+
+==By fuel US==
+The category [[US_transport_fuel|/transport/byFuel/us]] contains data on greenhouse gas emissions associated with numerous types of fuel for mobile combustion (i.e. transportation) in the US, and is sourced from the latest [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]] dataset. This category differs from the [[Transport_fuel|/transport/byFuel]] category in that alternative emissions factors for each fuel are available for different transport contexts, e.g. 'agricultural equipment', 'passenger car', 'heavy goods vehicle'. Although the carbon intensity of a given fuel (i.e. the CO2 emissions) remain similar across different contexts, variations in total greenhouse gas emissions vary, reflecting inter-context differences in the production of CH,,4,, and N,,2,,O. The category contains functionality for calculating biofuel associated geenhouse gas emissions separately from those associated with fossil fuels.
+
+==By Fuel Other regions==
+The category [[Other_regional_transport_fuel|/transport/byFuel/other]] contains similar data and functionality to the category [[US_transport_fuel|/transport/byFuel/us]], but applies specifically to contexts other than the US and UK.
+
+==IPCC transport fuels==
+The AMEE category [[IPCC_transport_fuels|/transport/byFuel/ipcc]] contains data and methodologies sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/|Guidelines for National Greenhouse Gas Inventories]] for calculating emissions associated with fuel used in various transportation contexts. These include, off-road vehicles, ocean-going ships, and trains organised according to engine type and age.

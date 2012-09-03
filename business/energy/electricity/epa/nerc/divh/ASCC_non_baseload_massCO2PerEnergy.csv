@@ -1,0 +1,6 @@
+region=ASCC&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1436.563
+2005-01-01T00:00:00+00:00 (GMT),1470.5632
+2007-01-01T00:00:00+00:00 (GMT),1381.6741

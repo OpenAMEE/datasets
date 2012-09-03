@@ -1,0 +1,10 @@
+carbonateType,formula,defEF,units,source
+Calcite,CaCO3,0.44,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Aragonite,CaCO3,0.44,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Magnesite,MgCO3,0.52,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Dolomite,CaMg(CO3)2,0.48,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Siderite,FeCO3,0.38,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Ankerite,Ca(Fe.Mg.Mn)(CO3)2,0.44,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Rhodochrosite,Na2CO3,0.38,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Sodium Carbonate,MnCO3,0.41,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Soda Ash,MnCO3,0.41,fraction,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

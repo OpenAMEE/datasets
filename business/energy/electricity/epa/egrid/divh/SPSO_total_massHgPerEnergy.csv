@@ -1,0 +1,6 @@
+region=SPSO&type=total
+massHgPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),0.0387
+2005-01-01T00:00:00+00:00 (GMT),0.031
+2007-01-01T00:00:00+00:00 (GMT),null

@@ -1,0 +1,11 @@
+name,Military aircraft
+algFile,default.js
+name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Aircraft type,type,TEXT,true,true,,,,
+Aircraft subtype,subtype,TEXT,true,true,,,,
+Representative aircraft,representativeAircraft,TEXT,true,false,,,,
+Fuel flow,massFuelPerTime,DECIMAL,true,false,kg,min,,
+Flight duration,flightDuration,DECIMAL,false,false,min,,,
+Use RFI,useRFI,TEXT,false,false,,,false,true,false
+Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
+Source,source,TEXT,true,false,,,,

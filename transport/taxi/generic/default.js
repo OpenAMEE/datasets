@@ -1,0 +1,1 @@
+kgCO2PerKm * distance

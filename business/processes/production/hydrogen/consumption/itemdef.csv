@@ -1,0 +1,13 @@
+name,Hydrogen production by feedstock
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of process,type,TEXT,true,true,,,,
+Quantity of feedstock consumed,massFeedstock,DECIMAL,false,false,t,year,,
+Quantity of hydrogen produced,massHydrogen,DECIMAL,false,false,t,year,,
+Feedstock consumption per quantity of hydrogen produced,massFeedstockPerMassHydrogen,DECIMAL,false,false,t,t,,
+Carbon content of feedstock,feedstockCarbon,DECIMAL,false,false,t,t,,
+Carbon oxidation factor of feedstock,feedstockOxidation,DECIMAL,false,false,,,1.0,
+Quantity of CO2 recovered,CO2Recovered,DECIMAL,false,false,t,year,0,
+Quantity of carbon recovered,carbonRecovered,DECIMAL,false,false,t,year,0,
+Period of operation,operatingDuration,DECIMAL,false,false,year,,1,
+Source,source,TEXT,true,false,,,,

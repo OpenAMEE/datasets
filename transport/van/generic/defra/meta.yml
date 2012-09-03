@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- van
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  occupants: use to return the fraction of emissions attributable to each person
+  size: approximate size of van, by weight class
+  totalFuelConsumed: use if total fuel used over entire journey is known
+  kgCO2PerKm: CO2 emission factor
+  fuel: fuel used in van
+  kgCO2ePerKmForN2O: N2O emission factor
+  numberOfJourneys: number of identical journeys travelled
+  source: 
+  ownFuelConsumption: for use if user has an accurate reading of the fuel consumption rate of the vehicle
+  distance: distance travelled by van
+  kgCO2ePerKmForCH4: CH4 emission factor
+wikiname: Van_generic_Defra
+usages:
+  byDistance: {  occupants : optional, ownFuelConsumption : optional, numberOfJourneys : optional, totalFuelConsumed : forbidden }
+  byFuel: { distance : ignored, occupants : ignored, ownFuelConsumption : ignored, numberOfJourneys : ignored }
+  order: [ byDistance, byFuel ]

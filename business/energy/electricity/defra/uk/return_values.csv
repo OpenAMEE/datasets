@@ -1,0 +1,6 @@
+label,type,unit,per_unit,default
+CO2,DECIMAL,kg,,false
+methaneCO2e,DECIMAL,kg,,false
+nitrousOxideCO2e,DECIMAL,kg,,false
+totalCO2e,DECIMAL,kg,,false
+comment,TEXT,,,false

@@ -1,0 +1,7 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+source,1.0|2.0,
+kgCO2PerKm,1.0|2.0,
+kgCO2PerLaunch,1.0|2.0,
+distanceKmPerMonth,1.0,distance
+distance,2.0,

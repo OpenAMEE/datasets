@@ -1,0 +1,41 @@
+--- 
+data_items: []
+
+tags: 
+- DRI
+- GHGP
+- GHGP_iron_and_steel_sector
+- iron
+- steel
+- IPCC
+- IPCC_industry
+- IPCC_industry_metal
+- IPCC_tier2
+- EPA
+- EPA_mandatory
+- EPA_mandatory_iron_and_steel
+- calculation
+- direct
+- mass_balance
+- emission_factor
+- global
+provenance: "Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for Iron and Steel"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  ch4EM: "CH,,4,, emissions per unit of DRI produced"
+  type: 
+  metCokeQuantity: Quantity of metallurgical coke consumed
+  gasQuantity: Quantity of natural gas consumed
+  metCokeCarbon: Carbon content of metallurgical coke (percent weight)
+  cokeCarbon: Carbon content of coke breeze (percent weight)
+  cokeQuantity: Quantity of coke breeze consumed
+  gasCarbon: Carbon content of natural gas (percent weight)
+  source: 
+  driQuantity: Quantity of direct reduced iron consumed
+wikiname: Iron_and_Steel_DRI
+name: "IPCC methodology for direct reduced iron production - tiers 2/3"
+usages:
+  default: { gasCarbon : optional, ch4EM : optional }
+

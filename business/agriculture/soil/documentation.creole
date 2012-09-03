@@ -1,0 +1,19 @@
+    The AMEE category /business/agriculture/soil contains data and methodologies for calculating greenhouse gas emissions from managed soils, sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_11_Ch11_N2O&CO2.pdf|Guidelines for National Greenhouse Gas Inventories]].
+
+Several subcategories are available.
+
+==N,,2,,O emissions from managed organic soils==
+
+The category [[N2O_emissions_from_managed_organic_soils|/business/agriculture/soil/organic]] contains a methodology for calculating the N,,2,,O emissions associated with the management of organic soils.
+
+==N,,2,,O emissions from soil applications==
+
+The category [[N2O_emissions_from_soil_applications|/business/agriculture/soil/inputs]] contains methodologies for calculating the N,,2,,O emissions associated with the addition of synthetic and organic (i.e. manure, compost, etc.) fertilizers into managed soils.
+
+==Soil liming==
+
+The category [[Soil_liming|/business/agriculture/soil/lime]] contains a methodology for calculating CO,,2,, emissions associated with the addition of lime onto managed soils.
+
+==Soil urea application==
+
+The category [[Soil_urea_application|/business/agriculture/soil/urea]] contains a methodology for calculating CO,,2,, emissions associated with the addition of urea onto managed soils.

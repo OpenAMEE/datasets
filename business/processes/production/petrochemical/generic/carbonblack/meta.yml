@@ -1,0 +1,30 @@
+--- 
+data_items: []
+
+tags: 
+- carbon_black
+- petrochemical
+- IPCC
+- IPCC_tier1
+- IPCC_industry
+- IPCC_industry_chemical
+- EPA
+- EPA_mandatory
+- EPA_mandatory_petrochemical
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCH4PerMass: Quantity of CH,,4,, emissions per unit produced
+  massCO2PerMass: Quantity of CO,,2,, emissions per unit produced
+  mass: Quantity of carbon black produced
+  feedstock: Type of feedstock
+  process: Type of process
+  methaneFlared: Choose 'yes' or 'no' to specify flaring practice
+  source: 
+wikiname: Carbon_black_production

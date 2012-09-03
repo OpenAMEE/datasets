@@ -1,0 +1,26 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- ship
+- freight
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  kgCO2ePerTonneKmForCH4: 
+  mass: 
+  kgCO2ePerTonneKmForN2O: 
+  kgCO2PerTonneKm: 
+  typicalVesselDeadweight: 
+  type: 
+  source: 
+  distance: 
+wikiname: Ship_Freight_Defra

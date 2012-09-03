@@ -1,0 +1,13 @@
+name,ICE v2 by mass
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Material,material,TEXT,true,true,,,,
+Material type,type,TEXT,true,true,,,,
+Material subtype,subtype,TEXT,true,true,,,,
+Embodied energy per unit of mass,energyPerMass,DECIMAL,true,false,MJ,kg,,
+Embodied CO2 per unit mass,massCO2PerMass,DECIMAL,true,false,kg,kg,,
+Embodied CO2e per unit mass,massCO2ePerMass,DECIMAL,true,false,kg,kg,,
+Life cycle analysis boundary,boundary,TEXT,true,false,,,,
+Publication notes,note,TEXT,true,false,,,,
+Quantity used,mass,DECIMAL,false,false,kg,,,
+Source,source,TEXT,true,false,,,,

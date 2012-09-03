@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- IPCC
+- fuel
+- volume
+- mass
+- energy
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  fuel: Type of transport fuel
+  massCO2PerEnergy: CO,,2,, emissions per unit energy yielded
+  netEnergyPerMass: Net calorific value of fuel (i.e. energy per unit mass)
+  energy: Energy consumed
+  mass: mass of fuel consumed
+  density: Density of fuel
+  volume: Volume of fuel consumed
+wikiname: Transport_fuels_by_IPCC
+usages:
+  byVolume: { energy : ignored, mass : ignored }
+  byMass: { density : forbidden, volume : forbidden, energy : ignored }
+  byEnergy: { density : forbidden, volume : forbidden, mass : forbidden }  
+  order: [ byVolume, byMass, byEnergy ]

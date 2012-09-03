@@ -1,0 +1,13 @@
+name,Kitchen Generic
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Device,device,TEXT,true,true,,,,
+Rating,rating,TEXT,true,true,,,,
+Age,age,TEXT,true,true,,,,
+Temperature,temperature,TEXT,true,true,,,,
+KWh Per Cycle,kWhPerCycle,DECIMAL,true,false,,,,
+KWh Per Year,kWhPerYear,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Comment,comment,TEXT,false,false,,,,
+Cycle Rate,cycleRate,DECIMAL,false,false,,year,0,
+Cycles Per Month,cyclesPerMonth,DECIMAL,false,false,,month,0,

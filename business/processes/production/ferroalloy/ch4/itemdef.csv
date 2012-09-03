@@ -1,0 +1,9 @@
+name,Ferroalloy methane emissions
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Alloy,typeOfAlloy,TEXT,true,true,,,,
+Operation of Furnace,operationOfFurnace,TEXT,true,true,,,,
+Mass CH4 Per Mass Product,massCH4PerMassProduct,DECIMAL,both,false,kg,t,,
+Quantity of Product,productQuantity,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,
+

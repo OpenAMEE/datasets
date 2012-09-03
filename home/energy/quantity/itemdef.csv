@@ -1,0 +1,24 @@
+name,Energy Quantity
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+kgCO2 Per KWh,kgCO2PerKWh,DECIMAL,true,false,,,,
+kgCO2 Per Kg,kgCO2PerKg,DECIMAL,true,false,,,,
+kgCO2 Per Litre,kgCO2PerLitre,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Current Reading,currentReading,DECIMAL,false,false,kWh,year,0,
+Number of deliveries,deliveries,DECIMAL,false,false,,year,,
+Energy Consumption,energyConsumption,DECIMAL,false,false,kWh,year,0,
+Green tariff,greenTariff,TEXT,false,false,,,,
+Includes Heating,includesHeating,TEXT,false,false,,,false,true=true,false=false
+kWh Per Month,kWhPerMonth,DECIMAL,false,false,kWh,month,0,
+kWh reading current,kWhReadingCurrent,DECIMAL,false,false,kWh,month,0,
+kWh reading last,kWhReadingLast,DECIMAL,false,false,kWh,month,0,
+kg Per Month,kgPerMonth,DECIMAL,false,false,kg,month,0,
+Last Reading,lastReading,DECIMAL,false,false,kWh,year,0,
+Litres Per Month,litresPerMonth,DECIMAL,false,false,L,month,0,
+Mass Per Time,massPerTime,DECIMAL,false,false,kg,year,0,
+Number of deliveries,numberOfDeliveries,DECIMAL,false,false,,year,,
+Payment frequency,paymentFrequency,TEXT,false,false,,,,
+Season,season,TEXT,false,false,,,,
+Volume Per Time,volumePerTime,DECIMAL,false,false,L,year,0,

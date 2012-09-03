@@ -1,0 +1,5 @@
+"type","kgCO2PerKmPassenger","kgCO2ePerKmForCH4","kgCO2ePerKmForN2O","units","source"
+"typical",0.10351,0.00013,0.00098,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"local",0.11037,0.00014,0.00102,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"london",0.08300,0.00009,0.00068,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"coach",0.03000,0.00004,0.00058,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"

@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+tags: 
+- electricity
+- GHGP
+- US
+- climate_leaders
+- egrid
+- NERC
+- EPA
+- calculation
+- direct
+- emission_factor
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|GHG Protocol worksheet]]"
+gallery: |-
+  <%= chart :dependent => 'massCO2PerEnergy' %>
+  <img src="http://www.energystar.gov/istar/pmpam/help/EGRID_subregion_map.gif"/>
+  <br />
+  <strong>NERC Subregion Representational Map</strong>
+  <img src="http://www.epa.gov/cleanenergy/images/eGRID_NERC.gif"/>
+show: "1"
+authority: enterprise
+ivds: 
+  subregion: The subregion in which the electricity was consumed
+  energyPerTime: The quantity of energy consumed per unit time
+  massCH4PerEnergy: "CH,,4,, emissions intensity"
+  totalArea: Total area of facility
+  massN2OPerEnergy: "N,,2,,O emissions intensity"
+  responsibleArea: Area under consideration
+  source: 
+  massCO2PerEnergy: "CO,,2,, emissions intensity"
+wikiname: US_Subregion_Electricity
+name: "Greenhouse Gas Protocol methodology for US grid electricity"
+usages:
+  totalEmissions : { totalArea : forbidden, responsibleArea : forbidden }
+  byResponsibleArea : { totalArea : compulsory, responsibleArea : compulsory }
+  order : [ totalEmissions, byResponsibleArea ] 

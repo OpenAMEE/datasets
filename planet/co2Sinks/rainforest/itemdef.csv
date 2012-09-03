@@ -1,0 +1,8 @@
+name,Carbon Sinks: Rainforest
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Amount of C02,co2Quantity,DECIMAL,false,false,kg,year,,
+Area of rainforest,rainforestArea,DECIMAL,false,false,km^2,,,
+Source Name,sourceName,TEXT,true,true,,,,
+CO2 to Rainforest Conversion,co2ToRainforest,DECIMAL,true,false,kg,km^2,,,
+Source,source,TEXT,true,false,,,,

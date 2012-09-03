@@ -1,0 +1,13 @@
+name,Stationary combustion by carbon content
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,type,TEXT,true,true,,,,
+Subtype of fuel,subtype,TEXT,true,true,,,,
+Mass of fuel,mass,DECIMAL,false,false,t,,,
+Carbon content of fuel,carbonContent,DECIMAL,false,false,,,,
+Default carbon content,defaultCarbonContent,DECIMAL,true,false,,,,
+Molecular weight of gaseous fuel,molecularWeight,DECIMAL,false,false,g,mol,,
+Molar volume conversion factor,molarVolumeConversionFactor,DECIMAL,false,false,L,mol,,
+Density of fuel,density,DECIMAL,false,false,t,m^3,,
+Volume of fuel,volume,DECIMAL,false,false,m^3,,,
+Source,source,TEXT,true,false,,,,

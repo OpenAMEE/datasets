@@ -1,0 +1,3 @@
+processType,defEmisFact,units,source
+Prebake,1.6,kgCO2/kgAl,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Soderberg,1.7,kgCO2/kgAl,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

@@ -1,0 +1,3 @@
+type,energyGenerated,units,source,algorithm
+photovoltaic solar panels,2125,kWh/year,EST 2008,
+hydro,3068,kWh/year,EST 2008,

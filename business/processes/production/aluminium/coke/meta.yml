@@ -1,0 +1,40 @@
+--- 
+data_items: []
+
+tags: 
+- coke
+- calcination
+- aluminium
+- GHGP
+- IAI
+- EPA
+- climate_leaders
+- GHGP_aluminum_sector
+- calculation
+- direct
+- physical_properties
+- mass_balance
+- global
+- emission_factor 
+provenance: "[[http://www.ghgprotocol.org/downloads/calcs/aluminium.pdf|International Aluminium Insitute/GHG Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCokeDust: Quantity of coke dust collected
+  calcinedCokeSulphur: Calcined coke sulphur content (%, 0-100)
+  massGreenCoke: Quantity of green coke feedstock
+  greenCokeMethaneContent: 
+  greenCokeMoistureContent: Green coke moisture content (%, 0-100)
+  massCalcinedCokeProducedPerMass: Quantity of coke produced per quantity of feedstock
+  greenCokeVolatilesContent: Green coke volatiles content (%, 0-100)
+  type: 
+  greenCokeSulphurContent: Green coke sulphur content (%, 0-100)
+  massCokeDustPerMass: Quantity of coke dust produced per quantity of feedstock
+  source: 
+  underCalcinedCokeCollected: Quantity of under-calcined coke collected
+  massCalcinedCokeProduced: Quantity of calcined coke produced
+wikiname: Coke_calcination
+usages:
+  default : { massCalcinedCokeProduced : optional, massCokeDust : optional, greenCokeMoistureContent : optional, greenCokeVolatilesContent : optional, greenCokeSulphurContent : optional, massCalcinedCokeProduced : optional, massCalcinedCokeProducedPerMass : optional, underCalcinedCokeCollected : optional, massCokeDustPerMass : optional, calcinedCokeSulphur : optional, greenCokeMethaneContent : optional }
+

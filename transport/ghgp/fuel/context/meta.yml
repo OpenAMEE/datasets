@@ -1,0 +1,40 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- GHGP
+- fuel
+- train
+- construction
+- agriculture
+- global
+- calculation
+- emission_factor
+- direct
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: <%= chart :dependent => 'massCH4PerVolume' %>
+show: "1"
+authority: enterprise
+ivds: 
+  fuel: Type of fuel used
+  useContext: Context in which fuel used
+  region: Geographic region
+  massCH4PerVolume: Quantity of CH,,4,, emissions per unit volume
+  massN2OPerVolume: Quantity of N,,2,,O emissions per unit volume
+  volume: Quantity of fuel used
+wikiname: Transport_fuels_with_context_by_Greenhouse_Gas_Protocol
+name: "Transport fuels with context by Greenhouse Gas Protocol"

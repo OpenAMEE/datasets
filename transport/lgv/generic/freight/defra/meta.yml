@@ -1,0 +1,26 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- heavy_goods
+- calculation
+- emission_factor
+- UK
+- direct
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  kgCO2ePerTonneKmForCH4: CH4 emission factor
+  size: size class of vehicle
+  mass: mass of freight
+  kgCO2ePerTonneKmForN2O: N2O emission factor
+  kgCO2PerTonneKm: CO2 emission factor
+  typicalPercentageLaden: 
+  type: 
+  source: 
+  distance: 
+wikiname: Heavy_Goods_Freight_Defra

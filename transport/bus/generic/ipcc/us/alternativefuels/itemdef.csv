@@ -1,0 +1,16 @@
+name,IPCC US Bus alternative fuel
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,fuel,TEXT,true,true,,,,
+Emissions factor type,factorType,TEXT,true,true,,,,
+N2O emissions factor,massN2OPerDistance,DECIMAL,true,false,mg,km,,
+CH4 emissions factor,massCH4PerDistance,DECIMAL,true,false,mg,km,,
+Distance,distance,DECIMAL,false,false,km,,,
+Journey frequency,frequency,TEXT,false,false,,,,
+Distance per journey,distancePerJourney,DECIMAL,false,false,km,,,
+Number of journeys,numberOfJourneys,DECIMAL,false,false,,,1,
+Fuel efficiency,fuelEfficiency,DECIMAL,false,false,km,L,,
+Fuel consumed,fuelConsumed,DECIMAL,false,false,L,,,
+Total bus occupancy,totalOccupancy,DECIMAL,false,false,,,1,
+Accounted passengers,accountedPassengers,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

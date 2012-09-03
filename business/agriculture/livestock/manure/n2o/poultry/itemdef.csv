@@ -1,0 +1,12 @@
+name,Manure N2O poultry
+algFile,default.js
+name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Region,region,TEXT,true,true,,,,
+Poultry subtype,poultrySubtype,TEXT,true,true,,,,
+Management type,managementType,TEXT,true,true,,,,
+N excretion rate,massNExcretedPer1000kgLivestockPerTime,DECIMAL,true,false,kg,t*day,,
+Direct manure-N to N2O-N conversion factor,massN2OPerMassNDirect,DECIMAL,true,false,kg,kg,,
+Volatilised fraction,fractionVolatilised,DECIMAL,true,false,,,,
+Volatilised-N to N2O-N conversion factor,massN2OPerMassNVolatilised,DECIMAL,true,false,kg,kg,,
+Livestock population liveweight,totalLiveweight,DECIMAL,false,false,kg,,,
+Source,source,TEXT,true,false,,,,

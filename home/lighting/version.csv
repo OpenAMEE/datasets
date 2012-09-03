@@ -1,0 +1,6 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+kWhPerYear,1.0|2.0,
+source,1.0|2.0,
+noOfLightBulbs,1.0|2.0,
+noOfLowEnergyLightBulbs,1.0|2.0,

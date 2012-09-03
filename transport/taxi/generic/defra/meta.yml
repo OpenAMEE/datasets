@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- taxi
+- UK
+- calculation
+- emission_factor
+- direct
+provenance: http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  totalFuelConsumed: use if total amount of fuel used for entire journey is known
+  numberOfPassengers: use if calculating for multiple people
+  assumedOccupancy: used by the algorithm to convert between per person and per vehicle emission factors
+  distancePerJourney: distance travelled by taxi
+  isReturn: is this a return journey? If so, the algorithm will multiply the distance by 2
+  kgCO2ePerKmForN2O: N2O emission factor
+  type: type of taxi
+  kgCO2PerKmPassenger: CO2 emission factor
+  numberOfJourneys: number of identical journeys
+  ownFuelConsumption: use if the fuel consumption rate of the vehicle has been measured by the user
+  source: 
+  kgCO2ePerKmForCH4: CH4 emission factor
+wikiname: Taxi_generic_Defra
+usages:
+  byDistance: { numberOfPassengers : optional, ownFuelConsumption : optional, numberOfJourneys : optional, totalFuelConsumed : forbidden, isReturn : optional }
+  byFuel: { numberOfPassengers : ignored, distancePerJourney : ignored, numberOfPassengers : ignored, ownFuelConsumption : ignored, numberOfJourneys : ignored, isReturn : ignored }
+  order: [ byDistance, byFuel ]

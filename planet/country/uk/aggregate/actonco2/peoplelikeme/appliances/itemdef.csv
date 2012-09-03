@@ -1,0 +1,6 @@
+name,People Like Me Appliances
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown
+Number of people,numberOfPeople,TEXT,true,true
+CO2,CO2,DECIMAL,true,false
+Source,source,TEXT,true,false

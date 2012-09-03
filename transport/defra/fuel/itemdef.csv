@@ -1,0 +1,13 @@
+name, DEFRA transport fuels
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,fuel,TEXT,true,true,,,,
+Direct CO2 emissions factor,massCO2PerVolume,DECIMAL,true,false,kg,L,,
+Direct CH4 emissions factor (CO2e),massCH4PerVolume,DECIMAL,true,false,kg,L,,
+Direct N2O emissions factor (CO2e),massN2OPerVolume,DECIMAL,true,false,kg,L,,	
+Total direct CO2e emissions factor,massDirectCO2ePerVolume,DECIMAL,true,false,kg,L,,
+Indirect CO2e emissions factor,massIndirectCO2ePerVolume,DECIMAL,true,false,kg,L,,
+Total life cycle CO2e emissions factor,massTotalCO2ePerVolume,DECIMAL,true,false,kg,L,,
+Mass of fuel consumed,mass,DECIMAL,false,false,kg,,,
+Volume of fuel consumed,volume,DECIMAL,false,false,L,,,
+Source,source,TEXT,true,false,,,,

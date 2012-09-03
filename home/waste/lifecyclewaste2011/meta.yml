@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+tags: 
+- defra
+- defra_annex9
+- waste
+- lca
+- calculation
+- UK
+- emission_factor
+authority: enterprise
+show: "1"
+gallery: |-
+  <%= chart :dependent => 'kgCO2eDisposedByLandfill' %>
+ivds: 
+  wasteType: waste type is selected by the user from the drill-down options
+  wasteSubType: waste sub type is selected by the user from the drill-down options
+  kgCO2eDisposedByRecyclingClosedLoop: 
+  quantityComposted: 
+  quantityReUse:
+  quantityLandfill: 
+  kgCO2eDisposedByComposting: 
+  kgCO2eDisposedByRecyclingOpenLoop: 
+  kgCO2eCombustion: 
+  kgCO2eDisposedByLandfill: 
+  quantityClosedLoop: 
+  quantityCombustion: 
+  kgCO2ePreparationForReUse: 
+  quantityOpenLoop: 
+  quantityAnaerobicDigestion: 
+  kgCO2eAnaerobicDigestion: 
+  source: 
+name: "DEFRA methodology for waste lifecycle emissions"
+wikiname: Life_Cycle_Waste_2011
+usages:
+  default : { quantityClosedLoop : optional, quantityOpenLoop : optional, quantityCombustion : optional, quantityAnaerobicDigestion : optional, quantityComposted : optional, quantityLandfill : optional, quantityReUse : optional }

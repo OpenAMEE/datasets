@@ -1,0 +1,13 @@
+fuel,massCO2PerVolume,massCH4PerVolume,massN2OPerVolume,massDirectCO2ePerVolume,massIndirectCO2ePerVolume,massTotalCO2ePerVolume,units,source
+aviation spirit,2.2121,0.0227,0.0219,2.2568,0.3988,2.6556,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+aviation turbine fuel,2.5218,0.0012,0.0248,2.5478,0.4690,3.0168,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+burning oil,2.5299,0.0054,0.0069,2.5421,0.4701,3.0122,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+cng,0.4728,0.0007,0.0003,0.4738,0.0698,0.5436,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+diesel,2.6480,0.0012,0.0184,2.6676,0.5085,3.1761,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+diesel (retail station biofuel blend),2.5424,0.0012,0.0183,2.5619,0.5421,3.1040,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+gas oil,2.7667,0.0030,0.2898,3.0595,0.5270,3.5865,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lng,1.2226,0.0018,0.0007,1.2251,0.4319,1.6570,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lpg,1.4884,0.0010,0.0023,1.4918,0.1868,1.6786,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+natural gas,0.0020154,0.000003,0.0000012,0.0020196,0.0001974,0.002217,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petrol,2.3018,0.0034,0.0065,2.3117,0.4110,2.7227,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petrol (retail station biofuel blend),2.2350,0.0034,0.0064,2.2448,0.4226,2.6674,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting

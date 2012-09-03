@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+tags: 
+- energy
+- electricity
+- real_time
+- home
+- business
+- data
+- emission_factor
+- UK
+- direct
+provenance: "[[http://www.decc.gov.uk/en/content/cms/statistics/publications/dukes/dukes.aspx|DUKES]], [[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  generatedToSuppliedGrossFactor: 
+  fuel: Electricity generation type
+  source: 
+  kgCO2PerKWh: CO2 emissions factor
+wikiname: Electricity_Generation_Emission_Factors

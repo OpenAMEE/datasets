@@ -1,0 +1,6 @@
+region=SRTV&type=non+baseload
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),11.836
+2005-01-01T00:00:00+00:00 (GMT),10.1064
+2007-01-01T00:00:00+00:00 (GMT),7.2787

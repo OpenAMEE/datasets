@@ -1,0 +1,10 @@
+name,Other generic waste combustion
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Waste type,type,TEXT,true,true,,,,
+Total carbon content,totalCarbonContent,DECIMAL,true,false,,,,
+Fossil carbon content,fossilFraction,DECIMAL,true,false,,,,
+Oxidation factor,oxidationFactor,DECIMAL,true,false,,,,
+Quantity waste burned,mass,DECIMAL,false,false,t,,,
+Include all carbon,includeAllCarbon,TEXT,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

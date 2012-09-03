@@ -1,0 +1,33 @@
+--- 
+data_items: 
+- doc: The desktop computer represents a typical desktop box plus a typical LCD monitor.
+  drills: 
+  - - device
+    - Personal Computers
+  - - rating
+    - Desktop
+- doc: This is a special item and will calculate the standby contribution from all other items in this category. See the main text of [[Computers_generic]] for more detail.
+  drills: 
+  - - device
+    - standby
+  - - rating
+    - "-"
+tags: 
+- computer
+- electronics
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: "[[MTP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  rating: 
+  device: 
+  onStandby: Only needs to be set for the //standby// item.
+  numberOwned: Defaults to 1 if not set explicitly.
+  source: 
+  kWhPerYear: 
+wikiname: Computers_generic

@@ -1,0 +1,18 @@
+name,Aluminium Production: Soderberg Process
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Soderberg potline,soderbergType,TEXT,true,true,,,,
+Type of paste,pasteType,TEXT,true,true,,,,
+Quantity of aluminium produced,aluminiumQuantity,DECIMAL,false,false,kg,,,
+Anode paste consumption per unit production,anodeQuantity,DECIMAL,false,false,kg,kg,,
+Cyclohexane soluble matter emitted per unit production,cycloQuantity,DECIMAL,false,false,kg,kg,,
+Default cyclohexane soluble matter emitted per unit production,defCycloQuantity,DECIMAL,true,false,kg,kg,,
+Paste binder content (%),binderQuantity,DECIMAL,false,false,,,,
+Default paste binder content (%),defBinQuantity,DECIMAL,true,false,,,,
+Pitch sulphur content (%),sulphurPitch,DECIMAL,false,false,,,0.6,
+Pitch ash content (%),ashPitch,DECIMAL,false,false,,,0.2,
+Pitch hydrogen content (%),hydPitch,DECIMAL,false,false,,,3.3,
+Coke sulphur content (%),sulphurCoke,DECIMAL,false,false,,,1.9,
+Coke ash content (%),ashCoke,DECIMAL,false,false,,,0.2,
+Carbon dust collected per unit production,carbonDust,DECIMAL,false,false,kg,kg,0.01,
+Source,source,TEXT,true,false,,,,

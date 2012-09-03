@@ -1,0 +1,8 @@
+"type","subtype","massFuelPerTime","representativeAircraft","units","source"
+"combat","high thrust",54.72,"F16",,"http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html"
+"combat","low thrust",35,"Tiger F-5E",,"http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html"
+"trainer","jet trainers",12,"Hawk",,"http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html"
+"trainer","turboprop trainers",2,"PC-7",,"http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html"
+"tanker/transport","large",37.08,"C-130",,"http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html"
+"tanker/transport","small",8.32,"ATP",,"http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html"
+"maritime patrol aircraft",,37.08,"C130",,"http://www.eea.europa.eu/publications/EMEPCORINAIR5/page017.html"

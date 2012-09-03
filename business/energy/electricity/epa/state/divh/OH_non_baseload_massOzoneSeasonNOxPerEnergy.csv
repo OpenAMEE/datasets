@@ -1,0 +1,6 @@
+state=OH&type=non+baseload
+massOzoneSeasonNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),3.354
+2005-01-01T00:00:00+00:00 (GMT),2.7289
+2007-01-01T00:00:00+00:00 (GMT),2.2715

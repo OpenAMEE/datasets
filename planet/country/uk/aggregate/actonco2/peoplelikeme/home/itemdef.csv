@@ -1,0 +1,10 @@
+name,People Like Me Home
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown
+Age,age,TEXT,true,true
+Number of bedrooms,numberOfBedrooms,TEXT,true,true
+Fuel,fuel,TEXT,true,true
+Home type,homeType,TEXT,true,true
+Heating CO2,heatingCO2,DECIMAL,true,false
+Lighting CO2,lightingCO2,DECIMAL,true,false
+Source,source,TEXT,true,false

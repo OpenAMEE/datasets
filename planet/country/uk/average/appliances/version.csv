@@ -1,0 +1,5 @@
+path,versions,aliasedTo
+type,1.0|2.0,
+householdOrIndividual,1.0|2.0,
+massCO2PerTime,1.0|2.0,
+source,1.0|2.0,

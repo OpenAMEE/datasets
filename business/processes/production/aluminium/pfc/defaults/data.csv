@@ -1,0 +1,5 @@
+cellType,defCf4EmisFact,defC2f6EmisFact,units,source
+Centre Work Prebake,0.0004,0.00004,kg/kgAl,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Side Work Prebake,0.0016,0.0004,kg/kgAl,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Vertical Stud Soderberg,0.0008,0.00004,kg/kgAl,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+Horizontal Stud Soderberg,0.0004,0.00003,kg/kgAl,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

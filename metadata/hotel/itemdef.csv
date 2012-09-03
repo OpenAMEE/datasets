@@ -1,0 +1,27 @@
+name,Hotel Metadata
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,N/A,
+Has Room temp control,hasRoomTempControl,TEXT,false,false,,,false,false,true
+Has Fitness room,hasFitnessRoom,TEXT,false,false,,,false,false,true
+Has Turkish bath,hasTurkishBath,TEXT,false,false,,,false,false,true
+Has Individually controlled ventilation,hasIndividuallyControlledVentilation,TEXT,false,false,,,false,false,true
+Hotel rating,rating,TEXT,false,false,,,,
+Total floorspace,totalFloorspace,DECIMAL,false,false,,,,
+Has Indoor pool,hasIndoorPool,TEXT,false,false,,,false,false,true
+Has Centrally controlled air con,hasCentrallyControlledAirCon,TEXT,false,false,,,false,false,true
+Floorspace units,floorspaceUnits,TEXT,false,false,,,,m^2,ft^2
+Has Centrally controlled ventilation,hasCentrallyControlledVentilation,TEXT,false,false,,,false,false,true
+Has Solarium,hasSolarium,TEXT,false,false,,,false,false,true
+Average occupancy rate,averageOccupancyRate,DECIMAL,false,false,,,,
+Number of meeting rooms,numberOfMeetingRooms,DECIMAL,false,false,,,,
+Proportion of floorspace for meeting rooms,proportionFloorspaceMeetingRooms,DECIMAL,false,false,,,,
+Proportion of floorspace remaining,proportionFloorspaceRemaining,DECIMAL,false,false,,,,
+Has Outdoor pool,hasOutdoorPool,TEXT,false,false,,,false,false,true
+Has Sauna,hasSauna,TEXT,false,false,,,false,false,true
+Number of rooms,numberOfRooms,DECIMAL,false,false,,,,
+Has Fitness centre,hasFitnessCentre,TEXT,false,false,,,false,false,true
+Refrigerant volume,refrigerantVolume,DECIMAL,false,false,,,,
+Has Ceiling fan,hasCeilingFan,TEXT,false,false,,,false,false,true
+Proportion of floorspace for accommodation,proportionFloorspaceaccommodation,DECIMAL,false,false,,,,

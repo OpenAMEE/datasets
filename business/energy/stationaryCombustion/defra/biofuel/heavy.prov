@@ -1,0 +1,13 @@
+prov:download
+prov:out svn:8522/internal/provenance/sources/rfa-quarterly-report-april-2009-january-2010-workbook.xls
+prov:in http://www.renewablefuelsagency.gov.uk/sites/rfa/files/_documents/RFA_quarterly_report_Apr_2009_Jan_2010.xls
+
+The data provided in prov:out http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls#'Annex%209%20Other%20UK%20Factors'!B127:K136 was compiled by a prov:process using the CO2 emissions factors presented in prov:numeric http://www.renewablefuelsagency.gov.uk/sites/rfa/files/_documents/RFA_quarterly_report_Apr_2009_Jan_2010.xls , CH4 and N2O emissions factors for analogous fossil fuels taken from http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls#'Annex%201%20Fuel%20Conversion%20Factors'! and a prov:assumption nouri"Biofuel CH4 and N2O emissions are equivalent to those produced by the corresponding fossil fuels" . Out of scope (biogenic CO2) emissions were sourced from prov:numeric http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,163182&_dad=portal&_schema=PORTAL and prov:numeric http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,20041&_dad=portal&_schema=PORTAL .
+
+prov:download
+prov:out svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+The functionality described by prov:out csv_files:business/energy/stationaryCombustion/defra/biofuel was created by a prov:manual based on the emissions factors in prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%209%20Other%20UK%20Factors'!B127:K136 and the fuel conversion factors in prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls#'Annex%2011%20Fuel%20Properties'!
+
+prov:ameem business/energy/stationaryCombustion/defra/biofuel

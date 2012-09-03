@@ -1,0 +1,12 @@
+name, DEFRA stationary combustion by mass
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,fuel,TEXT,true,true,,,,
+Direct CO2 emissions factor,massCO2PerMass,DECIMAL,true,false,kg,t,,
+Direct CH4 emissions factor (CO2e),massCH4PerMass,DECIMAL,true,false,kg,t,,
+Direct N2O emissions factor (CO2e),massN2OPerMass,DECIMAL,true,false,kg,t,,	
+Total direct CO2e emissions factor,massDirectCO2ePerMass,DECIMAL,true,false,kg,t,,
+Indirect CO2e emissions factor,massIndirectCO2ePerMass,DECIMAL,true,false,kg,t,,
+Total life cycle CO2e emissions factor,massTotalCO2ePerMass,DECIMAL,true,false,kg,t,,
+Quantity fuel consumed,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

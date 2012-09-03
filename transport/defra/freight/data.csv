@@ -1,0 +1,77 @@
+type,subtype,size,massCO2PerMassPerDistance,massCH4PerMassPerDistance,massN2OPerMassPerDistance,massDirectCO2ePerMassPerDistance,massIndirectCO2ePerMassPerDistance,massTotalCO2ePerMassPerDistance,averageLoading,averageMassGoods,units,source
+van,petrol,up to 1.305 t,0.852479866,0.001365623,0.005395934,0.859241423,0.165,1.024241423,36.75,0.24,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,petrol,1.305-1.74 t,0.801325121,0.001219923,0.004820235,0.807365279,0.15504,0.962405279,36.75,0.26,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,petrol,1.74-3.5 t,0.481789049,0.000662065,0.005344009,0.487795122,0.09367,0.581465122,41.25,0.53,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,petrol,average (up to 3.5 t),0.693854736,0.001060149,0.004804452,0.699719337,0.13437,0.834089337,40.2754262,0.31,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,diesel,up to 1.305 t,0.659474082,0.000243984,0.004556849,0.664274915,0.12756,0.791834915,36.75,0.24,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,diesel,1.305-1.74 t,0.624014122,0.000159749,0.004311827,0.628485698,0.12069,0.749175698,36.75,0.36,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,diesel,1.74-3.5 t,0.503576503,0.000108122,0.003479624,0.507164249,0.09739,0.604554249,41.25,0.53,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,diesel,average (up to 3.5 t),0.5302357,0.000122079,0.003663835,0.534021613,0.10255,0.636571613,40.2754262,0.47,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,lpg,up to 3.5 t,0.556747485,0.001466462,0.004281614,0.562495561,0.10802,0.670515561,40.2754262,0.47,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,cng,up to 3.5 t,0.503723915,0.0034505,0.004281614,0.511456028,0.09822,0.609676028,40.2754262,0.47,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+van,average,up to 3.5 t,0.536995331,0.000160834,0.003710957,0.540867121,0.10386,0.644727121,40.2754262,0.46,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+heavy goods vehicle,rigid,3.5-7.5 t,0.59938,0.00029,0.00627,0.60594,0.11625,0.72219,43,0.974962293,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+heavy goods vehicle,rigid,7.5-17 t,0.38802,0.00019,0.00406,0.39227,0.07526,0.46753,36,1.908637874,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+heavy goods vehicle,rigid,above 17 t,0.19623,0.0001,0.00205,0.19838,0.03806,0.23644,52.25680172,4.899197495,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+heavy goods vehicle,rigid,uk average,0.25897,0.00013,0.00271,0.26181,0.05023,0.31204,50,3.174075613,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+heavy goods vehicle,articulated,3.5-33 t,0.14661,0.00014,0.00153,0.14828,0.02845,0.17673,45,5.79760479,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+heavy goods vehicle,articulated,above 33 t,0.08567,0.00008,0.0009,0.08665,0.01662,0.10327,61,11.48902672,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+heavy goods vehicle,articulated,uk average,0.08853,0.00008,0.00093,0.08954,0.01718,0.10672,60,10.97353292,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+heavy goods vehicle,all,uk average,0.12718,0.00011,0.00191,0.1292,0.02479,0.15399,54.89149467,6.989175996,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+rail,diesel/electric,,0.0285,0.00005,0.00306,0.03161,0.00533,0.03694,,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+plane,domestic,,1.73772,0.0011,0.01711,1.75592,0.32318,2.0791,,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+plane,short-haul international,,1.33494,0.00008,0.01314,1.34816,0.24827,1.59643,,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+plane,long-haul international,,0.60818,0.00003,0.00599,0.6142,0.11311,0.72731,,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,crude tanker (oil),Over 200 000 dwt,0.0029,0,0.00002,0.00292,0.00049,0.00341,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,crude tanker (oil),120 000-199 999 dwt,0.0044,0,0.00003,0.00443,0.00075,0.00518,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,crude tanker (oil),80 000-119 999 dwt,0.0059,0,0.00005,0.00595,0.001,0.00695,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,crude tanker (oil),60 000-79 999 dwt,0.0075,0,0.00006,0.00756,0.00127,0.00883,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,crude tanker (oil),10 000-59 999 dwt,0.0091,0,0.00007,0.00917,0.00154,0.01071,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,crude tanker (oil),0-9999 dwt,0.0333,0.00001,0.00026,0.03357,0.00565,0.03922,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,crude tanker (oil),average,0.00451,0,0.00003,0.00454,0.00077,0.00531,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,products tanker ,over 60 000 dwt,0.0057,0,0.00004,0.00574,0.00097,0.00671,55,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,products tanker ,20 000-59 999 dwt,0.0103,0,0.00008,0.01038,0.00175,0.01213,55,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,products tanker ,10 000-19 999 dwt,0.0187,0.00001,0.00014,0.01885,0.00317,0.02202,50,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,products tanker ,5000-9999 dwt,0.0292,0.00001,0.00022,0.02943,0.00495,0.03438,45,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,products tanker ,0-4999 dwt,0.045,0.00001,0.00035,0.04536,0.00764,0.053,45,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,products tanker ,average,0.00891,0,0.00007,0.00898,0.00151,0.01049,54.19905299,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,chemical tanker ,over 20 000 dwt ,0.0084,0,0.00006,0.00846,0.00143,0.00989,64,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,chemical tanker ,"10,000-19,999 dwt ",0.0108,0,0.00008,0.01088,0.00183,0.01271,64,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,chemical tanker ,5000-9999 dwt ,0.0151,0,0.00012,0.01522,0.00256,0.01778,64,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,chemical tanker ,0-4999 dwt ,0.0222,0.00001,0.00017,0.02238,0.00377,0.02615,64,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,chemical tanker ,average,0.01018,0,0.00008,0.01026,0.00173,0.01199,64,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,lpg tanker,over 50 000 m3 ,0.009,0,0.00007,0.00907,0.00153,0.0106,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,lpg tanker,0-49 999 m3 ,0.0435,0.00001,0.00033,0.04384,0.00738,0.05122,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,lng tanker,over 200 000 m3 ,0.0093,0,0.00007,0.00937,0.00158,0.01095,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,lng tanker,0-199 999 m3 ,0.0145,0,0.00011,0.01461,0.00246,0.01707,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,lng tanker,average,0.01139,0,0.00009,0.01148,0.00193,0.01341,48,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,bulk carrier,over 200 000 dwt ,0.0025,0,0.00002,0.00252,0.00042,0.00294,50,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,bulk carrier,100 000-199 999 dwt,0.003,0,0.00002,0.00302,0.00051,0.00353,50,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,bulk carrier,60 000-99 999 dwt ,0.0041,0,0.00003,0.00413,0.0007,0.00483,55,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,bulk carrier,35 000-59 999 dwt ,0.0057,0,0.00004,0.00574,0.00097,0.00671,55,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,bulk carrier,10 000-34 999 dwt ,0.0079,0,0.00006,0.00796,0.00134,0.0093,55,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,bulk carrier,0-9999 dwt ,0.0292,0.00001,0.00022,0.02943,0.00495,0.03438,60,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,bulk carrier,average,0.00349,0,0.00003,0.00352,0.00059,0.00411,51.43282195,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,general cargo,over 10 000 dwt ,0.0119,0,0.00009,0.01199,0.00202,0.01401,60,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,general cargo,5000-9999 dwt ,0.0158,0.00001,0.00012,0.01593,0.00268,0.01861,60,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,general cargo,0-4999 dwt ,0.0139,0,0.00011,0.01401,0.00236,0.01637,60,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,general cargo,over 10 000 dwt over 100 teu ,0.011,0,0.00008,0.01108,0.00187,0.01295,60,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,general cargo,5000-9999 dwt over 100 teu ,0.0175,0.00001,0.00013,0.01764,0.00297,0.02061,60,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,general cargo,0-4999 dwt over 100 teu ,0.0198,0.00001,0.00015,0.01996,0.00336,0.02332,60,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,general cargo,average,0.01305,0,0.0001,0.01315,0.00221,0.01536,60,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,refrigerated cargo,all dwt,0.0129,0,0.0001,0.013,0.00219,0.01519,50,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,container,over 8000 teu ,0.0125,0,0.0001,0.0126,0.00212,0.01472,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,container,5000-7999 teu ,0.0166,0.00001,0.00013,0.01674,0.00282,0.01956,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,container,3000-4999 teu ,0.0166,0.00001,0.00013,0.01674,0.00282,0.01956,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,container,2000-2999 teu ,0.02,0.00001,0.00015,0.02016,0.00339,0.02355,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,container,1000-1999 teu ,0.0321,0.00001,0.00025,0.03236,0.00545,0.03781,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,container,0-999 teu ,0.0363,0.00001,0.00028,0.03659,0.00616,0.04275,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,container,average,0.01592,0.00001,0.00012,0.01605,0.0027,0.01875,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,vehicle transport,over 4000 ceu ,0.032,0.00001,0.00025,0.03226,0.00543,0.03769,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,vehicle transport,0-3999 ceu ,0.0576,0.00002,0.00044,0.05806,0.00977,0.06783,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,vehicle transport,average,0.03805,0.00001,0.00029,0.03835,0.00646,0.04481,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,ro-ro ferry,over 2000 lm ,0.0495,0.00002,0.00038,0.0499,0.0084,0.0583,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,ro-ro ferry,0-1999 lm ,0.0603,0.00002,0.00046,0.06078,0.01023,0.07101,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,ro-ro ferry,average,0.05095,0.00002,0.00039,0.05136,0.00865,0.06001,70,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+ship,large ropax ferry,,0.38434,0.00012,0.00295,0.38741,0.06522,0.45263,,,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+

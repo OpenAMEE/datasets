@@ -1,0 +1,7 @@
+path,versions,aliasedTo
+device,1.0|2.0,
+rating,1.0|2.0,
+kWhPerYear,1.0|2.0,
+source,1.0|2.0,
+numberOwned,1.0|2.0,
+onStandby,1.0|2.0,

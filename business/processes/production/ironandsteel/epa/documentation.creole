@@ -1,0 +1,9 @@
+  The AMEE category at business/processes/production/ironandsteel/epa provides methodologies for calculating greenhouse gas emissions associated with the production of iron and steel. These methodologies are sourced from the guidelines published by the [[http://www.epa.gov/climateleaders/documents/resources/ironsteel.pdf|Climate Leaders]] industry-government initiative for reporting and reducing greenhouse gas emissions.
+
+See the following subcategories for further detail.
+
+===Primary production===
+The AMEE category at [[EPA_primary_iron_and_steel_production|/business/processes/production/ironandsteel/epa/primary]] provides a methodology for calculating greenhouse gas emissions associated with the production of primary iron and steel. This methodology accounts for the CO,,2,, emissions due to carbonate calcination and adjusts [[EPA_stationary_combustion|stationary combustion]] emissions by accounting for carbon which remains contained within process products or by-products.
+
+
+The AMEE category at [[EPA_EAF_iron_and_steel_production|/business/processes/production/ironandsteel/epa/eaf]] provides a methodology for calculating greenhouse gas emissions associated with Electron Arc Furnace (EAF) steel facilities. This methodology accounts for the CO,,2,, emissions due to carbonate flux and the use of carbon electrodes. Any emissions from coke and/or coal consumption should be calculated using a methodology for [[EPA_stationary_combustion|stationary combustion]]. 

@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- agriculture
+- IPCC
+- IPCC_agriculture
+- IPCC_agriculture_crop
+- IPCC_tier1
+- rice
+- CH4
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_05_Ch5_Cropland.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  harvestedArea: Size of cultivated area under consideration
+  massOrganicAmendmentPerArea: Rate at which organic amendments are added. If no quantity is specified, no organic additions are assumed (regardless of the selection for ''organicAmendment''. 
+  cultivationWaterScalingFactor: Emissions factor modifier to account for the affects of local water dynamics //during// the cultivation period
+  drainage: Drainage/flooding characteristics of area under consideration for the period during cultivation. The //aggregated// selection represents the weighted average of all drainage/flooding regimes.
+  preCultivationWaterScalingFactor: Emissions factor modifier to account for the affects of local water dynamics //before// the cultivation period
+  system: Hydrological context of cultivated area under consideration
+  cultivationPeriod: Duration of cultivation period
+  organicFactor: Emissions factor modifier to account for the affects of additional organic inputs
+  organicAmendment: Practices associated with the application of additional organic material. If no organic amendments are practiced, the 'none' option can be specified. There are two choices related to the incorporation of straw into the soil. The time periods associated with these choices (under 30 days, over 30 days) should be understood to represent the period //prior// to cultivation within which the straw was added.
+  massCH4PerAreaPerDay: Baseline methane emissions factor. Represents cases where fields are continuously flooded during the cultivation period, not flooded at all during the 180 days prior to cultivation, and receive no organic amendments
+  flooding: Time period without flooding prior to cultivation. The //aggregated// selection represents the weighted average of all flooding regimes. This choice is not required to the //upland// context.
+  source: 
+wikiname: Rice_cultivation
+usages: 
+  default : { massOrganicAmendmentPerArea : optional }
+name: "IPCC methodology for rice cultivation"

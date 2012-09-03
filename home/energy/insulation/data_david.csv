@@ -1,0 +1,10 @@
+type,savingKgCO2,units,source,algorithm,default
+cavity,-1,N/A,N/A,N/A,
+loft,-1,N/A,N/A,N/A,
+floor,-1,N/A,N/A,N/A,
+lagging,65,N/A,www.energysavingtrust.org.uk/Home-improvements/Home-insulation-glazing/Tanks-and-pipes-insulation,N/A,
+double glazing,-1,N/A,N/A,N/A,
+draft exclusion,150,kgco2,www.energysavingtrust.org.uk/Home-improvements/Home-insulation-glazing/Draught-proofing,N/A,
+other,-1,N/A,N/A,N/A,
+hot water tank,200,kgc02,www.energysavingtrust.org.uk/Home-improvements/Home-insulation-glazing/Tanks-and-pipes-insulation,N/A,
+solid wall,-1,N/A,N/A,N/A,

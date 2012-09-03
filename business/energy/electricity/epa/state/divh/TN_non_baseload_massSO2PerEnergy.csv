@@ -1,0 +1,6 @@
+state=TN&type=non+baseload
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),15.47
+2005-01-01T00:00:00+00:00 (GMT),11.0225
+2007-01-01T00:00:00+00:00 (GMT),9.2238

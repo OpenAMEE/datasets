@@ -1,0 +1,42 @@
+       The AMEE category business/processes/production/ferroalloy/rawmaterials is aimed towards industry professionals to enable them to prepare inventories of greenhouse gas emissions from ferroalloy production. Ferroalloy is the term used to describe concentrated alloys of iron and one or more metals such as silicon, manganese, chromium, molybdenum, vanadium and tungsten. Silicon metal production is usually included in the ferroalloy group because silicon metal production process is quite similar to the ferrosilicon process. Ferroalloy production involves a metallurgical reduction process that results in significant carbon dioxide emissions.
+
+The methodology provided by AMEE in this category represents the //Tier 2// and //Tier 3// approach described by the IPCC Guidelines for National Greenhouse Gas Inventories ([[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|NGGIP]]) and calculates on the basis of raw material inputs to the ferroalloy production process. 
+
+==How to use this category==
+
+To use this category use the //typeOfReducingAgent// drill-down to select the reducing agent type being used from the following options:
+
+# //coal (for FeSi and Si-metal)//
+# //coal (for other ferroalloys)//
+# //coke (for FeMn and SiMn)//
+# //coke (for Si and FeSi)//
+# //coke (for other ferroalloys)//
+# //prebaked electrodes//
+# //electrode paste//
+# //petroleum coke//
+
+The following profile item values are required in order to accurately calculate CO,,2,, emissions:
+
+# //**reducingAgentQuantity**//
+# //**oreQuantity**//
+# //**oreCarbonContent**//
+# //**slagQuantity**//
+# //**slagCarbonContent**//
+# //**productQuantity**//
+# //**productCarbonContent**//
+# //**nonProductOutgoingStreamQuantity**//
+# //**nonProductOutgoingStreamCarbonContent**//
+
+The CO,,2,, emission factor for the reducing agent has a default value provided by the AMEE engine, but this can be over-ridden, using the //**massCO2PerMassReducingAgent**// profile item value, by the user if more precise site or country-specific values are known. 
+
+For Tier 3 calculations the following profile item values can also be specified.
+
+Use either:
+# //**reducingAgentCarbonContent**// (decimal fraction, 0-1)
+
+Or:
+# //**percentageAsh**//: within reducing agent (decimal fraction, 0-1)
+# //**percentageVolatiles**//: within reducing agent (decimal fraction, 0-1)
+# //**carbonContentInVolatiles**//: within reducing agent (decimal fraction, 0-1)
+
+AMEE converts the carbon content of each source and product into CO,,2,, emissions using molecular mass ratios, seen in [[Stoichiometries_ratios]]. This assumes complete combustion of carbon into CO,,2,,.

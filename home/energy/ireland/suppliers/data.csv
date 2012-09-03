@@ -1,0 +1,4 @@
+supplier,kgCO2PerKWh,units,source,algorithm
+ESB,0.642,kgCO2/kWh,www.esb.ie - supplied by www.edenbee.com 15jan08,value*user_electricity_kWh
+Airtricity,0.0704,kgCO2/kWh,www.airtricity.ie - supplied by www.edenbee.com 15jan08,value*user_electricity_kWh
+Bord Gais,0.204,kgCO2/kWh,Bord Gais via agency.com 21apr08,value*user_electricity_kWh

@@ -1,0 +1,4 @@
+type,massCarbonPerEnergy,oxidisedFraction,energyPerMass,units,source
+lubricating oil,20,0.2,0.0402,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_5_Ch5_Non_Energy_Products.pdf
+grease,20,0.05,0.0402,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_5_Ch5_Non_Energy_Products.pdf
+aggregated,20,0.2,0.0402,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_5_Ch5_Non_Energy_Products.pdf

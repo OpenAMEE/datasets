@@ -1,0 +1,6 @@
+state=IA&type=non+baseload
+massCO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),2391.544
+2005-01-01T00:00:00+00:00 (GMT),2240.0143
+2007-01-01T00:00:00+00:00 (GMT),2052.5236

@@ -1,0 +1,23 @@
+     The AMEE category /business/energy/stationaryCombustion/epa/petroleum contains data on the emissions associated with the burning of petroleum-derived fuels (e.g. distillate and residual fuels, liquefied petroleum fuels, kerosene), sourced from the US Environmental Protection Agency's [[Climate_Leaders|Climate Leaders]] initiative.
+
+To use this category, select the type of petroleum product using the //type// and //subtype// drill choices. Next specify the quantity of fuel consumed using either the //**energyConsumed**// or //**volume**// profile item values. 
+
+Emissions of CH,,4,, and N,,2,,O vary according to the specific burning context under consideration. Users can specify the burning context using the //**burningContext**// profile item value with one of the following valid parameters;
+
+* //residential//
+* //commercial//
+* //industry//
+* //electricity generation//
+
+If no burning context is explicitly specified the //industry// context is assumed by default. AMEE retrieves the appropriate emissions factors from the [[CH4_and_N20_emissions_from_stationary_combustion|associated EPA dataset for CH,,4,, and N,,2,,O emissions]].
+
+Four quantities are returned, as follows:
+
+* //**CO2**//: CO,,2,, emissions
+* //**CH4**//: CH,,4,, (methane) emissions
+* //**N2O**//: N,,2,,O (nitrous oxide) emissions
+* //**CO2e**//: CO,,2,,e emissions (all three gases, converted using [[Greenhouse_gases_Global_warming_potentials|these]] global warming potential)
+
+The individual quantities for CH,,4,, and N,,2,,O represent //absolute quantities// rather than CO,,2,,e quantities. 
+
+See [[British_thermal_units|here]] for information on using British thermal units (Btu's) with the AMEE platform.

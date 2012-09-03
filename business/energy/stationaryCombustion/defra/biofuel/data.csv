@@ -1,0 +1,4 @@
+"fuel","massDirectCO2ePerVolume","massIndirectCO2ePerVolume","massTotalCO2ePerVolume","massBiogenicCO2ePerVolume","massDirectCO2ePerEnergy","massIndirectCO2ePerEnergy","massTotalCO2ePerEnergy","massBiogenicCO2ePerEnergy","massDirectCO2ePerMass","massIndirectCO2ePerMass","massTotalCO2ePerMass","massBiogenicCO2ePerMass","units","source"
+"biodiesel",0.0170,1.3504,1.3674,2.4930,0.514,40.787,41.301,75.300,0.019108,1.5178496,1.5369576,2.8021,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
+"bioethanol",0.0061,0.8104,0.8165,1.5236,0.286,38.083,38.369,71.600,0.0076799,1.0202936,1.0279735,1.9182,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
+"biomethane",0.000004,0.00096,0.000964,0.001972,0.106,27.000,27.106,55.408,0.0050,1.3230,1.3280,2.7150,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"

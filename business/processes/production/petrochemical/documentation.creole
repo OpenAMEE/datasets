@@ -1,0 +1,12 @@
+   The AMEE category at business/processes/production/petrochemical provides several methodologies for calculating greenhouse gas emissions associated with the production of petrochemicals. The methodologies are based on the IPCC Guidelines for National Greenhouse Gas Inventories ([[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|NGGIP]]).
+
+==Generic calculations==
+The AMEE category at [[Generic_petrochemical_production|business/processes/production/petrochemical/generic]] provides a methodologies based on default emissions factors relating to the quantity of petrochemical produced or feedstock consumed. These methodologies represent the //Tier 1// approach described by the IPCC Guidelines for National Greenhouse Gas Inventories ([[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|NGGIP]]).
+
+==Carbon mass-balance calculations==
+The AMEE category at [[Petrochemical_mass_balance_methodology|business/processes/production/petrochemical/massbalance]] provides a methodology based on a mass-balance approach which accounts for all of the carbon contained within process feedstocks, products and by-products. This methodology represents the //Tier 2// approach described by the IPCC Guidelines for National Greenhouse Gas Inventories ([[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|NGGIP]]).
+
+**Note**: The IPCC also provides a //Tier 3// method which considers the emissions arising from three process components: (1) fuel or by-product combustion; (2) process venting of CO,,2,, and CH,,4,,; (3) flaring of waste gases. Users of AMEE are referred to the following AMEE categories for calculating emissions due to combustion and flaring:
+
+* [[Stationary_Combustion|business/energy/stationaryCombustion]]
+* [[Methane_flaring|/business/processes/fugitive/methaneflaring]]

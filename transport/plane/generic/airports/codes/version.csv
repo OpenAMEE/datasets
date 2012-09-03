@@ -1,0 +1,8 @@
+path,versions,aliasedTo
+IATACode,1.0|2.0,
+airportName,1.0|2.0,
+country,1.0|2.0,
+fullName,1.0|2.0,
+latitude,1.0|2.0,
+longitude,1.0|2.0,
+source,1.0|2.0,

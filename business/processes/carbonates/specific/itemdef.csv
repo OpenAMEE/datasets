@@ -1,0 +1,19 @@
+name,Miscellaneous carbonate consumption
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of process,type,TEXT,true,true,,,,
+Quantity of calcite/aragonite consumed,massCalcite,DECIMAL,false,false,t,,,
+Quantity of magnesite consumed,massMagnesite,DECIMAL,false,false,t,,,
+Quantity of dolomite consumed,massDolomite,DECIMAL,false,false,t,,,
+Quantity of siderite consumed,massSiderite,DECIMAL,false,false,t,,,
+Quantity of ankerite consumed,massAnkerite,DECIMAL,false,false,t,,,
+Quantity of rhodochrosite consumed,massRhodochrosite,DECIMAL,false,false,t,,,
+Quantity of soda ash consumed,massSodaAsh,DECIMAL,false,false,t,,,
+Calcite/aragonite calcination fraction achieved,fractionCalcite,DECIMAL,false,false,,,1.0,
+Magnesite calcination fraction achieved,fractionMagnesite,DECIMAL,false,false,,,1.0,
+Dolomite calcination fraction achieved,fractionDolomite,DECIMAL,false,false,,,1.0,
+Siderite calcination fraction achieved,fractionSiderite,DECIMAL,false,false,,,1.0,
+Ankerite calcination fraction achieved,fractionAnkerite,DECIMAL,false,false,,,1.0,
+Rhodochrosite calcination fraction achieved,fractionRhodochrosite,DECIMAL,false,false,,,1.0,
+Soda ash calcination fraction achieved,fractionSodaAsh,DECIMAL,false,false,,,1.0,
+Source,source,TEXT,true,false,,,,

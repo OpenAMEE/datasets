@@ -1,0 +1,18 @@
+name, DEFRA Great Circle Route
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of route,type,TEXT,true,true,,,,
+IATA code 1,IATACode1,TEXT,false,false,,,,
+IATA code 2,IATACode2,TEXT,false,false,,,,
+Lat1,lat1,DECIMAL,false,false,,,-999,
+Lat2,lat2,DECIMAL,false,false,,,-999,
+Long1,long1,DECIMAL,false,false,,,-999,
+Long2,long2,DECIMAL,false,false,,,-999,
+Journeys,journeys,DECIMAL,false,false,,,1,
+Number of passengers,passengers,DECIMAL,false,false,,,1,
+Passenger class,passengerClass,TEXT,false,false,,,average,average,economy,premium economy,business,first
+Is return flight,isReturn,TEXT,false,false,,,false,true,false
+Quantity freighted,mass,DECIMAL,false,false,t,,,
+Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
+Use RFI,useRFI,TEXT,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

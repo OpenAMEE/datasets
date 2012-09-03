@@ -1,0 +1,9 @@
+name,GHGPassenger
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Distance,distance,DECIMAL,false,false,km,,,
+Mass CO2 per Passenger Distance,massCO2perPassengerDistance,DECIMAL,true,false,kg,km,,
+Passengers,passengers,DECIMAL,false,false,,,1.8,
+Source,source,TEXT,true,false,,,,
+Type and Context,typeAndContext,TEXT,true,true,,,,
+vehicle,vehicle,TEXT,true,true,,,,

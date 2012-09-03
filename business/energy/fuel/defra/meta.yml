@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- fuel
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  mass: input data if //mass// was selected for drill-down //**unit**//
+  energy: input data if //energy// was selected for drill-down //**unit**//
+  kgCO2ePerUnitForCH4: CH4 emission factor
+  kgCO2PerUnit: CO2 emission factor
+  netOrGross: is the user's information measured on a net or gross basis
+  fuel: select the type of fuel from the data item list below
+  volume: input data if //volume// was selected for drill-down //**mass**//
+  unit: select //energy//, //volume// or //mass//
+  source: 
+  kgCO2ePerUnitForN2O: N2O emission factor
+wikiname: Fuel_Defra

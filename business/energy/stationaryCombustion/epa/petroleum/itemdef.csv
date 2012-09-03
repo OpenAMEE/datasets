@@ -1,0 +1,12 @@
+name,Stationary combustion of petroleum products EPA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,type,TEXT,true,true,,,,
+Fuel subtype,subtype,TEXT,true,true,,,,
+Heating value of fuel,energyPerVolume,DECIMAL,true,false,MBTU_FiftyNineF,bbl,,
+CO2 emissions factor,massCO2PerEnergy,DECIMAL,true,false,kg,MBTU_FiftyNineF,,
+Quantity of fuel consumed,energyConsumed,DECIMAL,false,false,MBTU_FiftyNineF,,,
+Volume of fuel consumed,volume,DECIMAL,false,false,bbl,,,
+Include non-CO2 gases,includeNonCO2Gases,TEXT,false,false,,,false,true,false
+Burning context,burningContext,TEXT,false,false,,,industry,residential,commercial,industry,electricity generation
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,13 @@
+name,ICE v2 by area
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Material,material,TEXT,true,true,,,,
+Material type,type,TEXT,true,true,,,,
+Material subtype,subtype,TEXT,true,true,,,,
+Embodied energy per unit area,energyPerArea,DECIMAL,true,false,MJ,m^2,,
+Embodied CO2 per unit area,massCO2PerArea,DECIMAL,true,false,kg,m^2,,
+Embodied CO2e per unit area,massCO2ePerArea,DECIMAL,true,false,kg,m^2,,
+Life cycle analysis boundary,boundary,TEXT,true,false,,,,
+Author notes,note,TEXT,true,false,,,,
+Quantity used,area,DECIMAL,false,false,m^2,,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,15 @@
+type,householdOrIndividual,massCO2PerTime,units,source
+Cooking (gas),household average,56,kgCO2/year,DECC 2009
+Cooking (electricity),household average,114,kgCO2/year,DECC 2009
+Cold Appliances,household average,324,kgCO2/year,DECC 2009
+Wet Appliances,household average,299,kgCO2/year,DECC 2009
+Domestic ICT,household average,249,kgCO2/year,DECC 2009
+Consumer Electronics,household average,384,kgCO2/year,DECC 2009
+Other Electricity Use,household average,64,kgCO2/year,DECC 2009
+Cooking (gas),individual average,24,kgCO2/year,DECC 2009
+Cooking (electricity),individual average,61,kgCO2/year,DECC 2009
+Cold Appliances,individual average,138,kgCO2/year,DECC 2009
+Wet Appliances,individual average,127,kgCO2/year,DECC 2009
+Domestic ICT,individual average,106,kgCO2/year,DECC 2009
+Consumer Electronics,individual average,164,kgCO2/year,DECC 2009
+Other Electricity Use,individual average,27,kgCO2/year,DECC 2009

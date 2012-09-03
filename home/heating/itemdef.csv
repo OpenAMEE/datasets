@@ -1,0 +1,10 @@
+name,Heating
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Home Dwelling Type,homeDwellingType,TEXT,true,true,,,,
+Number Of Bedrooms,homeNoOfBedrooms,INTEGER,true,true,,,,
+Home Fuel,homeFuel,TEXT,true,true,,,,
+Home Age,homeAge,TEXT,true,true,,,,
+Type,type,TEXT,true,true,,,,
+kgCO2 Per Year,kgCO2PerYear,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

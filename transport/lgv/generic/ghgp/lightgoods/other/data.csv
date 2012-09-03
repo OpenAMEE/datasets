@@ -1,0 +1,4 @@
+"fuelType","kgCO2PerMile",units,source
+lpg,0.3765432,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,0.5307861,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+diesel,0.6253704,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

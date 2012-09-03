@@ -1,0 +1,6 @@
+region=SRMV&type=total
+massOzoneSeasonNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),1.505
+2005-01-01T00:00:00+00:00 (GMT),1.3098
+2007-01-01T00:00:00+00:00 (GMT),1.2672

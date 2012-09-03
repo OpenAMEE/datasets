@@ -1,0 +1,15 @@
+name,Continuous emissions monitoring system
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,fuel,TEXT,true,true,,,,
+Subtype of fuel,subtype,TEXT,true,true,,,,
+Volume of dry flue gases per unit energy of fuel (F-factor),volumeDryFlueGasPerEnergy,DECIMAL,true,false,ft^3,MBTU_FiftyNineF,,
+Volume of CO2 per unit energy of fuel (Fc-factor),volumeCO2PerEnergy,DECIMAL,true,false,ft^3,MBTU_FiftyNineF,,
+Average stack gas CO2 concentration,carbonDioxideConcentration,DECIMAL,false,false,,,,
+Average stack gas flow rate,flowRate,DECIMAL,false,false,ft^3,h,,
+CO2 density,density,DECIMAL,false,false,kg,ft^3,0.0517104,
+Stack gas moisture content,moistureContent,DECIMAL,false,false,,,0,
+Average stack gas O2 concentration,oxygenConcentration,DECIMAL,false,false,,,,
+Ambient concentration of O2,ambientO2Concentration,DECIMAL,true,false,,,,
+Unit operating time,operatingTime,DECIMAL,false,false,h,,,
+Source,source,TEXT,true,false,,,,

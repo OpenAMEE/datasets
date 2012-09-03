@@ -1,0 +1,5 @@
+path,versions,aliasedTo
+numberOfPeople,1.0|2.0,
+fuel,1.0|2.0,
+kgCO2PerYear,1.0|2.0,
+source,1.0|2.0,

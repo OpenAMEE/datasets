@@ -1,0 +1,68 @@
+--- 
+data_items: 
+- doc: "Vertical Stud S\xC3\xB8derberg"
+  drills: 
+  - - soderbergType
+    - VSS
+  - - pasteType
+    - Dry Paste
+- doc: "Vertical Stud S\xC3\xB8derberg"
+  drills: 
+  - - soderbergType
+    - VSS
+  - - pasteType
+    - Wet Paste
+- doc: "Horizontal Stud S\xC3\xB8derberg"
+  drills: 
+  - - soderbergType
+    - HSS
+  - - pasteType
+    - Dry Paste
+- doc: "Horizontal Stud S\xC3\xB8derberg"
+  drills: 
+  - - soderbergType
+    - HSS
+  - - pasteType
+    - Wet Paste
+tags: 
+- GHGP
+- aluminium
+- soderberg
+- GHGP_aluminum_sector
+- IPCC
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_industry
+- IPCC_industry_metal
+- EPA
+- EPA_mandatory
+- EPA_mandatory_aluminum
+- climate_leaders
+- calculation
+- direct
+- mass_balance
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  carbonDust: Quantity of carbon in dust skimmed from Søderberg cells
+  ashPitch: Ash content (wt. %) in pitch feedstock
+  binderQuantity: Binder content (wt. %) in anode paste
+  hydPitch: Hydrogen content (wt. %) in pitch feedstock
+  defCycloQuantity: Default quantity of cyclohexane soluble matter emitted per unit of aluminium produced. Used if no facility-specific data is available
+  pasteType: Type of anode paste used
+  anodeQuantity: Quantity of anode paste used per unit of aluminium produced
+  ashCoke: Ash content (wt. %) in coke feedstock
+  defBinQuantity: Default binder content (wt. %) in anode paste. Used if no facility-specific data is available
+  aluminiumQuantity: Quantity of primary aluminium produced
+  sulphurCoke: Sulphur content (wt. %) in coke feedstock
+  cycloQuantity: Quantity of cyclohexane soluble matter emitted per unit of aluminium produced
+  soderbergType: Type of Søderberg technology used
+  source: 
+  sulphurPitch: Sulphur content (wt. %) in pitch feedstock
+wikiname: Aluminium_soderberg
+name: "IPCC methodology for aluminium production CO2 emissions - Soderberg processes"
+usages:
+  default : { cycloQuantity : optional, ashCoke : optional, binderQuantity : optional, sulphurPitch : optional, ashPitch : optional, hydPitch : optional, sulphurCoke : optional, carbonDust : optional }

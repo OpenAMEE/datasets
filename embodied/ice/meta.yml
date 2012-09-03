@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+provenance: http://www.bath.ac.uk/mech-eng/sert/embodied/
+tags: 
+- deprecated
+- embodied
+- building_materials
+- life_cycle
+- lca
+- ice
+- calculation
+- emission_factor
+- UK
+authority: Enterprise
+show: "0"
+gallery: 
+ivds: 
+  mass: 
+  boundary: 
+  massEmbodiedCO2PerMass: 
+  type: 
+  subtype: 
+  embodiedEnergyPerMass: 
+  material: 
+  source: 
+name: ICE_Building_Materials_LCA
+wikiname: ICE_Building_Materials_LCA

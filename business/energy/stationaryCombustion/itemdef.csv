@@ -1,0 +1,16 @@
+name,stationaryCombustion
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fuel,fuel,TEXT,true,true,,,,
+Combustion context,context,TEXT,true,true,,,,
+Fuel density,density,DECIMAL,true,false,kg,m^3,,
+CH4 emissions per unit energy yielded,EFLHVNRGCH4,DECIMAL,true,false,kg,TJ,,
+CO2 emissions per unit energy yielded,EFLHVNRGCO2,DECIMAL,true,false,kg,TJ,,
+N2O emissions per unit energy yielded,EFLHVNRGN2O,DECIMAL,true,false,kg,TJ,,
+Lower to higher heating value conversion factor,HHVConversion,DECIMAL,true,false,,,,
+Lower heating value,LHV,DECIMAL,true,false,TJ,Gg,,
+Mass of fuel used,mass,DECIMAL,false,false,Gg,,,
+Volume of fuel used,volume,DECIMAL,false,false,m^3,,,
+Energy of fuel used,NRG,DECIMAL,false,false,TJ,,,
+Use higher heating value?,useHHV,TEXT,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

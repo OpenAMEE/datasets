@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.energystar.gov/index.cfm?c=home.index|Energystar]]"
+tags: 
+- energy_star
+- appliances
+- US
+- office
+- computer
+- notebook
+- tablet
+authority: enterprise
+show: "1"
+gallery: "nil"
+ivds: 
+  brand: 
+  category: A,B or C. See above for detailed explanation.
+  productType: 
+  quantity: number of appliances to be included in the calculation. Default of 1.
+  energyPerTime: CO2 emission factor for chosen product.
+  modelName: 
+  modelNumber: 
+  source: 
+wikiname: Computers_Notebooks_and_Tablets

@@ -1,0 +1,16 @@
+name,Domestic water treatment
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Water treatment type,type,TEXT,true,true,,,,
+Discharge pathway,system,TEXT,true,true,,,,
+Treatment context,systemContext,TEXT,true,true,,,,
+Methane conversion factor,methaneConversionFactor,DECIMAL,true,false,,,,
+Methane production capacity (BOD basis),massPerMassBODMax,DECIMAL,true,false,kg,kg,,
+Methane production capacity (COD basis),massPerMassCODMax,DECIMAL,true,false,kg,kg,,
+Total organics in waste water,totalOrganicWaste,DECIMAL,false,false,kg,,,
+Volume of water discharged,volume,DECIMAL,false,false,L,,,
+Oxygen demand of waste water,massOrganicPerVolume,DECIMAL,false,false,mg,L,,
+Mass of sludge removed,massSludge,DECIMAL,false,false,kg,,0,
+Methane recovered,recoveredMethane,DECIMAL,false,false,kg,,0,
+Is Chemical Oxygen Demand,isCOD,TEXT,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

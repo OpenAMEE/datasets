@@ -1,0 +1,9 @@
+label,type,unit,per_unit,default
+CO2,DECIMAL,kg,,false
+CH4,DECIMAL,kg,,false
+N2O,DECIMAL,kg,,false
+CO2e,DECIMAL,kg,,true
+NOx,DECIMAL,kg,,false
+ozoneSeasonNOx,DECIMAL,kg,,false
+SO2,DECIMAL,kg,,false
+Hg,DECIMAL,kg,,false

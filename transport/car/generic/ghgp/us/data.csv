@@ -1,0 +1,16 @@
+"fuelType","yearOfManufacture","kgCO2PerMile","gCH4PerMile","gN2OPerMile",units,source
+gasoline,1984-1993,0.3915556,0.0704,0.0647,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1994,0.3915556,0.0531,0.056,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1995,0.3915556,0.0358,0.0473,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1996,0.3915556,0.0272,0.0426,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1997,0.3915556,0.0268,0.0422,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1998,0.3915556,0.0249,0.0393,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1999,0.3915556,0.0216,0.0337,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2000,0.3915556,0.0178,0.0273,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2001,0.3915556,0.011,0.0158,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2002,0.3915556,0.0107,0.0153,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2003,0.3915556,0.0114,0.0135,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2004,0.3915556,0.0145,0.0083,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2005-present,0.3915556,0.0147,0.0079,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+diesel,1960-1982,0.4511111,0.0006,0.0012,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+diesel,1983-present,0.4511111,0.0005,0.001,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

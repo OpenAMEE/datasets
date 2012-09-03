@@ -1,0 +1,23 @@
+name,Plane Generic
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Size,size,TEXT,true,true,,,,
+kgCO2 Per Passenger Journey,kgCO2PerPassengerJourney,DECIMAL,true,false,,,,
+kgCO2 Per Passenger Km,kgCO2PerPassengerKm,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+IATA code 1,IATACode1,TEXT,false,false,,,,
+IATA code 2,IATACode2,TEXT,false,false,,,,
+Distance,distance,DECIMAL,false,false,km,year,,
+Distance Km Per Year,distanceKmPerYear,DECIMAL,false,false,,,,
+Journeys,journeys,DECIMAL,false,false,,year,,
+Journeys Per Year,journeysPerYear,INTEGER,false,false,,,,
+Lat1,lat1,DECIMAL,false,false,,,-999,
+Lat2,lat2,DECIMAL,false,false,,,-999,
+Long1,long1,DECIMAL,false,false,,,-999,
+Long2,long2,DECIMAL,false,false,,,-999,
+Number of passengers,numberOfPassengers,DECIMAL,false,false,,,,
+Passenger Class,passengerClass,TEXT,false,false,,,,
+Radiative Forcing Index (RFI),radiativeForcingIndex,DECIMAL,false,false,,,1.9,
+Use RFI,useRFI,TEXT,false,false,,,false,true,false
+Great Circle calculated distance,calculatedDistance,DECIMAL,false,false,,,,

@@ -1,0 +1,7 @@
+process,massCO2PerMass,massCH4PerMass,massN2OPerMass,units,source
+full life cycle,10620.6,59.8,0.04,,http://www.nrel.gov/docs/fy01osti/27637.pdf
+construction and decomissionsing,42.48,0,0,,http://www.nrel.gov/docs/fy01osti/27637.pdf
+natural gas production and transport,1571.85,66.26,0.02,,http://www.nrel.gov/docs/fy01osti/27637.pdf
+electricity generation,265.52,0,0.02,,http://www.nrel.gov/docs/fy01osti/27637.pdf
+plant operation,8889.44,0,0,,http://www.nrel.gov/docs/fy01osti/27637.pdf
+avoided operations,-159.31,-6.52,0,,http://www.nrel.gov/docs/fy01osti/27637.pdf

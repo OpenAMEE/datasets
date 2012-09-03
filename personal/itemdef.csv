@@ -1,0 +1,8 @@
+name,Personal
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
+kgCO2 Per GBP,kgCO2PerPound,DECIMAL,true,false,,,0,
+Currency GBP Per Month,currencyGBPPerMonth,DECIMAL,false,false,,month,0,
+Currency GBP,currencyGBP,DECIMAL,false,false,,year,0,

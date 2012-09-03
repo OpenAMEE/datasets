@@ -1,0 +1,8 @@
+name,Aluminium Production: Defaults only
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of cell technology,processType,TEXT,true,true,,,,
+Quantity of aluminium produced,aluminiumQuantity,DECIMAL,false,false,kg,,,
+CO2 emissions per unit production,emisFact,DECIMAL,false,false,kg,kg,,
+Default CO2 emissions per unit production,defEmisFact,DECIMAL,true,false,kg,kg,,
+Source,source,TEXT,true,false,,,,

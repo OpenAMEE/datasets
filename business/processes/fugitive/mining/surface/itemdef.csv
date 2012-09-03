@@ -1,0 +1,8 @@
+name,fugitive surface mining
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Overburden depth,overburdenDepth,TEXT,true,true,,,,
+Mining phase emissions per tonne,volumeCH4PerMassMining,DECIMAL,true,false,m^3,t,,
+Post-mining phase emissions per tonne,volumeCH4PerMassPostMining,DECIMAL,true,false,m^3,t,,
+Coal production rate,coalProduction,DECIMAL,false,false,t,year,,
+Source,source,TEXT,true,false,,,,

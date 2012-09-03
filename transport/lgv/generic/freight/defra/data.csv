@@ -1,0 +1,9 @@
+type,size,typicalPercentageLaden,kgCO2PerTonneKm,kgCO2ePerTonneKmForCH4,kgCO2ePerTonneKmForN2O,units,source
+rigid,3.5-7.5t,40,0.67115,0.00038,0.00728,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+rigid,7.5-17t,37,0.31518,0.00013,0.00342,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+rigid,>17t,55,0.17797,0.00006,0.00193,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+rigid,unknown,53,0.23167,0.00009,0.00251,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+articulated,3.5-33t,43,0.13961,0.00025,0.00151,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+articulated,>33t,60,0.08237,0.00013,0.00089,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+articulated,unknown,59,0.08492,0.00014,0.00092,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+unknown,,56,0.11857,0.00012,0.00167,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls

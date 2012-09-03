@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- cement
+- clinker
+- IPCC
+- IPCC_tier2
+- IPCC_industry
+- IPCC_industry_mineral
+- EPA
+- EPA_mandatory
+- EPA_mandatory_cement
+- calculation
+- direct
+- mass_balance
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  clinkerCaOFraction: Calcium oxide fraction in clinker
+  massClinker: Quantity of clinker produced
+  cementKilnDustCalcinedFraction: Fraction of calcination for cement kiln dust
+  type: 
+  carbonateCaOFraction: Fraction of clinker calcium oxide derived from carbonates
+  source: 
+  massCementKilnDust: Quantity of cement kiln dust not recycled to kiln
+wikiname: IPCC_cement_production_based_on_clinker
+usages:
+  default : { clinkerCaOFraction : optional, carbonateCaOFraction : optional, massCementKilnDust : optional, cementKilnDustCalcinedFraction : optional }
+

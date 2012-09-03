@@ -1,0 +1,1 @@
+currencyGBP*kgCO2PerPound

@@ -1,0 +1,15 @@
+name, DEFRA road vehicles by class
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of vehicle,type,TEXT,true,true,,,,
+Type of fuel used,fuel,TEXT,true,true,,,,
+Vehicle class/market segment,class,TEXT,true,true,,,,
+Direct CO2 emissions factor,massCO2PerDistance,DECIMAL,true,false,kg,km,,
+Direct CH4 emissions factor (CO2e),massCH4PerDistance,DECIMAL,true,false,kg,km,,
+Direct N2O emissions factor (CO2e),massN2OPerDistance,DECIMAL,true,false,kg,km,,	
+Total direct CO2e emissions factor,massDirectCO2ePerDistance,DECIMAL,true,false,kg,km,,
+Indirect CO2e emissions factor,massIndirectCO2ePerDistance,DECIMAL,true,false,kg,km,,
+Total life cycle CO2e emissions factor,massTotalCO2ePerDistance,DECIMAL,true,false,kg,km,,
+Distance travelled,distance,DECIMAL,false,false,km,,,
+Vehicle occupancy,occupancy,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

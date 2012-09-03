@@ -1,0 +1,18 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- electricity
+- heating
+- data
+- physical_quantities
+provenance: "[[http://www.est.org.uk|EST]]"
+gallery: 
+show: "1"
+authority: recommended
+ivds: 
+  type: 
+  energyGenerated: 
+  source: 
+wikiname: Heating_UK_Renewable

@@ -1,0 +1,5 @@
+leadProductionBySource,massCO2PerMassProduct,units,source
+default,0.52,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+imperial smelt furnace (ISF) production,0.59,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+direct smelting (DS) production,0.25,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+treatment of secondary raw materials,0.20,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf

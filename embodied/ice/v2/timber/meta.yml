@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- ice
+- construction
+- materials
+- timber
+- calculation
+- emission_factor
+- energy
+- lca
+- biogenic
+provenance: "[[http://people.bath.ac.uk/cj219/|Inventory of Carbon & Energy]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of timber
+  energyPerMass: Embodied energy per unit mass of timber
+  massCO2PerMass: Embodied CO,,2,, per unit mass of timber
+  massCO2ePerMass: Embodied CO,,2,,e per unit mass of timber
+  massBioCO2PerMass: "Embodied biogenic CO,,2,, per unit mass of timber. These emissions represent the return of carbon to the atmosphere which was only recently removed through biological processes (i.e. photosynthesis). In most cases, these emissions are not considered to represent a net addition of CO,,2,, into the atmosphere and therefore not regarded as a contributor to atmoshperic warming" 
+  boundary: Life cycle analysis boundary, i.e. the stages in the timber life cycle which are represented by the energy and CO,,2,, factors
+  note: Author notes on the sourcing of data
+  mass: Mass of timber used
+wikiname: ICE_v2_timber
+name: "Inventory of Carbon & Energy methodology for timber"

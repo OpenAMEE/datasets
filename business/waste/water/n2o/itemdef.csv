@@ -1,0 +1,10 @@
+name,Water treatment N2O
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of process,type,TEXT,true,true,,,,
+Total service population,totalPopulation,DECIMAL,false,false,,,,
+Service population served by biological denitrification,populationWith,DECIMAL,false,false,,,0,
+Mass N2O per person with (de)nitrification,massN2OPerPersonWith,DECIMAL,false,false,g,,7,
+Mass N2O per person without (de)nitrification,massN2OPerPersonWithout,DECIMAL,false,false,g,,3.2,
+Industrial/commercial correction factor,industryFactor,DECIMAL,false,false,,,1.25,
+Source,source,TEXT,true,false,,,,

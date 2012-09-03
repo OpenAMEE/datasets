@@ -1,0 +1,10 @@
+name,Phosphoric acid production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Region of source phosphate rock,region,TEXT,true,true,,,,
+Total carbon content of phosphate,massTotalCarbonPerMass,DECIMAL,true,false,,,,
+Organic carbon content of phosphate,massOrganicCarbonPerMass,DECIMAL,true,false,,,,
+Inorganic carbon content of phosphate,massInorganicCarbonPerMass,DECIMAL,both,false,,,,
+Quantity of phosphate rock consumed,mass,DECIMAL,false,false,t,year,,
+Duration of operation,operatingDuration,DECIMAL,false,false,year,,1,
+Source,source,TEXT,true,false,,,,

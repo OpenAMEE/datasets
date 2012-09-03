@@ -1,0 +1,7 @@
+name,Industry typical waste water
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Industry,industry,TEXT,true,true,,,,
+Typical waste water per production,volumeWasteWaterPerMassProduction,DECIMAL,true,false,m^3,t,,
+Typical degradable organics in waste water,massOrganicPerVolumeWasteWater,DECIMAL,true,false,kg,m^3,,
+Source,source,TEXT,true,false,,,,

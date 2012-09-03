@@ -1,0 +1,13 @@
+ The AMEE category /business/processes/fugitive contains data on intentional or unintentional emissions of greenhouse gases associated with the extraction, processing and delivery of fossil fuels. Fugitive emissions from the coal, oil and gas industries are covered within this category.
+
+* [[Methane_flaring|Methane flaring]]
+
+* [[Surface_mining|Surface mining]]
+
+* [[Underground_mining|Underground mining]]
+
+* [[Generic_abandoned_mines|Generic abandoned mines]]
+
+* [[User_defined_abandoned_mines|User-defined abandoned mines]]
+
+* [[Oil_and_gas_fugitive_emissions|Oil and gas fugitive emissions]]

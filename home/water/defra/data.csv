@@ -1,0 +1,4 @@
+type,kgCO2ePerCubicMetre,units,source
+supply,0.34,kgCO2/m^3,"[[http://www.water.org.uk/home/news/press-releases/sustainability-indicators-09-10/sustainability-2010-final.pdf|www.water.org.uk 2009-10]], [[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|www.defra.gov]]"
+treatment,0.70,kgCO2/m^3,"[[http://www.water.org.uk/home/news/press-releases/sustainability-indicators-09-10/sustainability-2010-final.pdf|www.water.org.uk 2009-10]], [[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|www.defra.gov]]"
+supply and treatment,1.04,kgCO2/m^3,"[[http://www.water.org.uk/home/news/press-releases/sustainability-indicators-09-10/sustainability-2010-final.pdf|www.water.org.uk 2009-10]], [[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|www.defra.gov]]"

@@ -1,0 +1,11 @@
+name,Ethylene production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of feedstock,feedstock,TEXT,true,true,,,,
+Type of process,process,TEXT,true,true,,,,
+Geographic region,region,TEXT,true,true,,,,
+Quantity of CO2 per unit of ethylene produced,massCO2PerMass,DECIMAL,true,false,t,t,,
+Quantity of CH4 per unit of ethylene produced,massCH4PerMass,DECIMAL,true,false,kg,t,,
+Geographic adjustment factor,geographicAdjustmentFactor,DECIMAL,true,false,,,,
+Quantity of ethylene produced,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

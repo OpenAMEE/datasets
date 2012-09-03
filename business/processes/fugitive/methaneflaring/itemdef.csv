@@ -1,0 +1,8 @@
+name,methane flaring
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of flaring,type,TEXT,true,true,,,,
+Volume of methane flared,volumeCH4Flared,DECIMAL,false,false,m^3,year,,
+Density of methane flared,methaneDensity,DECIMAL,false,false,kg,m^3,0.67,
+Combustion efficiency,combustionEfficiency,DECIMAL,false,false,,,0.98,
+Source,source,TEXT,true,false,,,,

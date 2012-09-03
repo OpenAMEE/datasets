@@ -1,0 +1,13 @@
+name,Fuel DEFRA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel Type,fuel,TEXT,true,true,,,,
+Net or Gross CV Basis,netOrGross,TEXT,true,true,,,,
+Units Required,unit,TEXT,true,true,,,,
+kgCO2 Per Unit,kgCO2PerUnit,DECIMAL,true,false,,,,
+kgCO2 Equivalent Per Unit for CH4,kgCO2ePerUnitForCH4,DECIMAL,true,false,,,,
+kgCO2 Equivalent Per Unit for N2O,kgCO2ePerUnitForN2O,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Energy,energy,DECIMAL,false,false,kWh,,,
+Mass,mass,DECIMAL,false,false,t,,,
+Volume,volume,DECIMAL,false,false,L,,,

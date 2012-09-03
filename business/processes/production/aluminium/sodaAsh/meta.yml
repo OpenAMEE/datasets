@@ -1,0 +1,32 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- aluminium
+- soda_ash
+- EPA
+- climate_leaders
+- calcination
+- GHGP
+- IAI
+- GHGP_aluminum_sector
+- calculation
+- direct
+- physical_properties
+- mass_balance
+- global
+provenance: Based on the WRI Greenhouse Gas Protocol Aluminium [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheets]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: There are no drill options in this category. Set //**type**// to //Normal//
+  calcFrac: Default of 1 is assumed in none entered
+  sodaQuantity: Amount of soda ash consumed on-site
+  source: 
+  sodaFrac: "Default of 0.95 is assumed if none entered "
+wikiname: Aluminium_soda_ash
+usages:
+  default: { sodaFrac : optional, calcFrac : optional }
+

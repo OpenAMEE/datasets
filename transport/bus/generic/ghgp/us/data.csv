@@ -1,0 +1,5 @@
+"fuelType","kgCO2PerMile","gCH4PerMile","gN2OPerMile",units,source
+"cng",,1.9660,0.175,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+"ethanol",,0.1970,0.175,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+"diesel",2.743243,0.0051,0.0048,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+"gasoline",1.762000,0.0210,0.017,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

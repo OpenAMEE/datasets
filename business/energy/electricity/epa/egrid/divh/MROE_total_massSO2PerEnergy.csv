@@ -1,0 +1,6 @@
+region=MROE&type=total
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),7.5
+2005-01-01T00:00:00+00:00 (GMT),7.1664
+2007-01-01T00:00:00+00:00 (GMT),6.5654

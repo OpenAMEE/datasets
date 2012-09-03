@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- lime
+- IPCC
+- IPCC_industry
+- IPCC_industry_mineral
+- IPCC_tier1
+- calculation
+- direct
+- emission_factor
+- global
+- EPA
+- EPA_mandatory
+- EPA_mandatory_lime
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  limeQuantity: Quantity of lime produced
+  type: 
+  massPerMass: CO,,2,, emissions per quantity of lime
+  source: 
+wikiname: Generic_lime_production
+usages:
+  default: { massPerMass : optional }

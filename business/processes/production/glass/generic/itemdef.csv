@@ -1,0 +1,10 @@
+name,Generic glass production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Glass type,type,TEXT,true,true,,,,
+Glass subtype,subtype,TEXT,true,true,,,,
+CO2 emissions factor,massCO2PerMass,DECIMAL,true,false,kg,kg,,
+Typical cullet ratio,typicalCulletRatio,DECIMAL,true,false
+Quantity produced,massProduced,DECIMAL,false,false,kg,,,
+Cullet ratio,culletRatio,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,6 @@
+state=MD&type=non+baseload
+massHgPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),0.062
+2005-01-01T00:00:00+00:00 (GMT),0.056
+2007-01-01T00:00:00+00:00 (GMT),null

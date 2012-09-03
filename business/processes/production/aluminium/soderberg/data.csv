@@ -1,0 +1,5 @@
+soderbergType,pasteType,defBinQuantity,defCycloQuantity,units,source
+VSS,Dry Paste,24,0.0005,kg cyclo/kg Al,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+VSS,Wet Paste,27,0.0005,kg cyclo/kg Al,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+HSS,Dry Paste,24,0.004,kg cyclo/kg Al,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+HSS,Wet Paste,27,0.004,kg cyclo/kg Al,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

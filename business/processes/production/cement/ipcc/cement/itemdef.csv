@@ -1,0 +1,10 @@
+name,Cement production (IPCC)
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Quantity cement produced,massCement,DECIMAL,false,false,t,,,
+Clinker fraction of cement,clinkerFraction,DECIMAL,false,false,,,,
+Imports for consumption of clinker,clinkerImports,DECIMAL,false,false,t,,0,
+Exports of clinker,clinkerExports,DECIMAL,false,false,t,,0,
+CO2 emissions factor for clinker,massPerMass,DECIMAL,true,false,t,t,,
+Source,source,TEXT,true,false,,,,

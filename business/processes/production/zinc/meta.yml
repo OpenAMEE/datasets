@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_industry_chemical
+- EPA
+- EPA_mandatory
+- EPA_mandatory_zinc
+- calculation
+- direct
+- emission_factor
+- global
+- zinc
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol3.html|IPCC-NGGIP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  productQuantity: user-supplied value for the quantity of lead produced
+  massCO2PerMassProduct: the emission factor for the source or furnace type selected
+  zincProductionBySource: drill-down used to specify the production process
+  source: 
+wikiname: Zinc_production
+usages:
+  default: { massCO2PerMassProduct : optional }

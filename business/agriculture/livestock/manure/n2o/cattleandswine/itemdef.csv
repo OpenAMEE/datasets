@@ -1,0 +1,15 @@
+name,Manure N2O cattle and swine
+algFile,default.js
+name,path,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Region,region,TEXT,true,true,,,,
+Livestock type,livestockType,TEXT,true,true,,,,
+Management type,managementType,TEXT,true,true,,,,
+Management subtype,managementSubtype,TEXT,true,true,,,,
+Typical mass of individual livestock,typicalMass,DECIMAL,true,false,kg,,,
+N excretion rate,massNExcretedPer1000kgLivestockPerTime,DECIMAL,true,false,kg,t*day,,
+Direct manure-N to N2O-N conversion factor,massN2OPerMassNDirect,DECIMAL,true,false,kg,kg,,
+Volatilised fraction,fractionVolatilised,DECIMAL,true,false,,,,
+Volatilised-N to N2O-N conversion factor,massN2OPerMassNVolatilised,DECIMAL,true,false,kg,kg,,
+Livestock population liveweight,totalLiveweight,DECIMAL,false,false,kg,,,
+Livestock population size,livestockNumber,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

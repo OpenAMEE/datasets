@@ -1,0 +1,48 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- energy
+- electricity
+- fuel
+- quantity
+- actonco2
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|Defra]]"
+gallery:
+show: "1"
+authority: enterprise
+ivds: 
+  greenTariff: 
+  lastReading: Previous meter reading - used to derive energy consumption
+  massPerTime: Fuel consumption rate (mass-based quantity)
+  paymentFrequency: 
+  kWhReadingCurrent: 
+  kgCO2PerLitre: Volume-based CO,,2,, emissions factor
+  season: Season in which fuel consumption estimate is based
+  litresPerMonth: 
+  energyConsumption: Energy consumption rate
+  type: Type of fuel used
+  deliveries: 
+  kgCO2PerKg: Mass-based CO,,2,, emissions factor
+  volumePerTime: Fuel consumption rate (volumetric quantity)
+  numberOfDeliveries: 
+  includesHeating: 
+  kgCO2PerKWh: Energy-based CO,,2,, emissions factor
+  source: 
+  kWhPerMonth: 
+  kgPerMonth: 
+  currentReading: Current meter reading - used to derive energy consumption
+  kWhReadingLast: 
+wikiname: Energy_by_Quantity
+usages:
+  byEnergy: { includesHeating : optional, season : optional, currentReading : forbidden, lastReading : forbidden, massPerTime : forbidden, volumePerTime : forbidden, deliveries : ignored, greenTariff : ignored, paymentFrequency : ignored }
+  byMass: { includesHeating : optional, season : optional, currentReading : forbidden, lastReading : forbidden, energyConsumption : forbidden, volumePerTime : forbidden, deliveries : ignored, greenTariff : ignored, paymentFrequency : ignored } 
+  byVolume: { includesHeating : optional, season : optional, currentReading : forbidden, lastReading : forbidden, energyConsumption : forbidden, massPerTime : forbidden, deliveries : ignored, greenTariff : ignored, paymentFrequency : ignored }
+  byMeterReadings: { includesHeating : optional, season : optional, energyConsumption : forbidden, massPerTime : forbidden, volumePerTime : forbidden, deliveries : ignored, greenTariff : ignored, paymentFrequency : ignored }
+  order: [ byEnergy, byMeterReadings, byMass, byVolume ]

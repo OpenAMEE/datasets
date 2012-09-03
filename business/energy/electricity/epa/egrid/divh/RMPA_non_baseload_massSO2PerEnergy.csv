@@ -1,0 +1,6 @@
+region=RMPA&type=non+baseload
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),2.041
+2005-01-01T00:00:00+00:00 (GMT),2.0408
+2007-01-01T00:00:00+00:00 (GMT),1.6391

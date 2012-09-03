@@ -1,0 +1,10 @@
+name,Generic carbonates
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of carbonate,type,TEXT,true,true,,,,
+Form of carbonate,form,TEXT,true,true,,,,
+Purity of carbonate,purity,DECIMAL,both,false,t,t,,
+Quantity of carbonate consumed,mass,DECIMAL,false,false,t,,,
+Proportion of limestone in total carbonates,fractionLimestone,DECIMAL,false,false,t,t,0.85,
+Proportion of dolomite in total carbonates,fractionDolomite,DECIMAL,false,false,t,t,0.15,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- electricity
+- gas
+- calculation
+- direct
+- emission_factor
+- global
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+provenance: Based on the WRI GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for purchased electricity
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  energyPerTime: The quantity of energy generated per unit time
+  country: The country or international jurisdiction
+  source: 
+  massCO2PerEnergy: The quantity of CO,,2,, emitted per unit quantity of energy generated
+wikiname: Electricity_oil
+name: "Greenhouse Gas Protocol methodology for oil-fired electricity"

@@ -1,0 +1,19 @@
+name,Ferroalloy production raw materials methodology
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Reducing Agent,typeOfReducingAgent,TEXT,true,true,,,,
+Mass CO2 Produced Per Mass Reducing Agent,massCO2PerMassReducingAgent,DECIMAL,both,false,t,t,,
+Carbon Content in Volatiles,carbonContentInVolatiles,DECIMAL,both,false,t,t,,
+Carbon Content of Reducing Agent,reducingAgentCarbonContent,DECIMAL,false,false,t,t,,
+Percentage of Ash,percentageAsh,DECIMAL,false,false,,,,
+Percentage of Volatiles,percentageVolatiles,DECIMAL,false,false,,,,
+Quantity of Reducing Agent,reducingAgentQuantity,DECIMAL,false,false,t,,,
+Quantity of Ore,oreQuantity,DECIMAL,false,false,t,,0,
+Carbon Content of Ore,oreCarbonContent,DECIMAL,false,false,t,t,0,
+Quantity of Slag,slagQuantity,DECIMAL,false,false,t,,0,
+Carbon Content of Slag,slagCarbonContent,DECIMAL,false,false,t,t,0,
+Quantity of Product,productQuantity,DECIMAL,false,false,t,,0,
+Carbon Content of Product,productCarbonContent,DECIMAL,false,false,t,t,0,
+Quantity of Non-Product Outgoing Stream,nonProductOutgoingStreamQuantity,DECIMAL,false,false,t,,0,
+Carbon Content of Non-Product Outgoing Stream,nonProductOutgoingStreamCarbonContent,DECIMAL,false,false,t,t,0,
+Source,source,TEXT,true,false,,,,

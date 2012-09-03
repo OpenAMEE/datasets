@@ -1,0 +1,13 @@
+type,emission,basis,massCO2PerEnergy,massCH4PerEnergy,massN2OPerEnergy,massCO2ePerEnergy,units,source
+electricity generation,direct,annual,0.44550,0.00025,0.00261,0.44837,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity distribution and transmission,direct,annual,0.03602,0.00002,0.00021,0.03625,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity consumption,direct,annual,0.48152,0.00027,0.00283,0.48462,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity generation,direct,rolling average,0.48322,0.00023,0.00299,0.48644,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity distribution and transmission,direct,rolling average,0.03792,0.00002,0.00023,0.03817,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity consumption,direct,rolling average,0.52114,0.00025,0.00323,0.52462,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity generation,indirect,rolling average,,,,0.06425,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity distribution and transmission,indirect,rolling average,,,,0.00481,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity consumption,indirect,rolling average,,,,0.06906,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity generation,life cycle,rolling average,,,,0.55069,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity distribution and transmission,life cycle,rolling average,,,,0.04298,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/
+electricity consumption,life cycle,rolling average,,,,0.59368,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting/

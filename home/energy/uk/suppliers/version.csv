@@ -1,0 +1,6 @@
+path,versions,aliasedTo
+supplier,1.0|2.0
+kgCO2PerKWh,1.0|2.0
+energyConsumption,2.0
+kWhPerMonth,1.0,energyConsumption
+source,1.0|2.0

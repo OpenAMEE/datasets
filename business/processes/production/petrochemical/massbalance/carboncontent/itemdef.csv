@@ -1,0 +1,6 @@
+name,Petrochemical carbon contents
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of petrochemical/feedstock,type,TEXT,true,true,,,,
+Carbon content,carbonContent,DECIMAL,true,false,t,t,,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,16 @@
+name,Aluminium Production: Alternative (no anode data)
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Total Pitch Comsumption,pitchQuantity,DECIMAL,false,false,kg,,,
+Percentage Carbon Content of Pitch,carbonPitch,DECIMAL,false,false,,,95,
+Total Coke Consumption,cokeQuantity,DECIMAL,false,false,kg,,,
+Percentage Carbon Content of Coke,carbonCoke,DECIMAL,false,false,,,98,
+Total Packing Coke Consumption,packingQuantity,DECIMAL,false,false,kg,,,
+Percentage Carbon Content of Packing Coke,carbonPacking,DECIMAL,false,false,,,97,
+Total Carbon By-Products or Waste,byprodQuantity,DECIMAL,false,false,kg,,,
+Total Mass of Purchased Anodes,anodeQuantity,DECIMAL,false,false,kg,,,
+Percentage Carbon Content of Purchased Anodes,carbonAnode,DECIMAL,false,false,,,98,
+Total Mass of Sold Anodes,soldQuantity,DECIMAL,false,false,kg,,,
+Percentage Carbon Content of Sold Anodes,carbonSold,DECIMAL,false,false,,,98,
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,

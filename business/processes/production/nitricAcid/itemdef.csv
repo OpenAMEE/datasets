@@ -1,0 +1,10 @@
+name,Nitric Acid N2O emissions
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Quantity of Nitric Acid,acidQuantity,DECIMAL,false,false,kg,,,
+Emissions Factor,specEmFact,DECIMAL,false,false,kg,kg,,
+Abatement System Utilization Factor,abateFact,DECIMAL,false,false,,,,
+Default Emission Factor,defEmFact,DECIMAL,true,false,kg,kg,,
+Destruction Factor,destrFact,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,
+Type of plant,plantType,TEXT,true,true,,,,

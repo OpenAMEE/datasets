@@ -1,0 +1,15 @@
+name, DEFRA passenger transport
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of transport,type,TEXT,true,true,,,,
+Subtype of transport,subtype,TEXT,true,true,,,,
+Passenger class,class,TEXT,true,true,,,,
+Direct CO2 emissions factor,massCO2PerDistancePerPassenger,DECIMAL,true,false,kg,km,,
+Direct CH4 emissions factor (CO2e),massCH4PerDistancePerPassenger,DECIMAL,true,false,kg,km,,
+Direct N2O emissions factor (CO2e),massN2OPerDistancePerPassenger,DECIMAL,true,false,kg,km,,	
+Total direct CO2e emissions factor,massDirectCO2ePerDistancePerPassenger,DECIMAL,true,false,kg,km,,
+Indirect CO2e emissions factor,massIndirectCO2ePerDistancePerPassenger,DECIMAL,true,false,kg,km,,
+Total life cycle CO2e emissions factor,massTotalCO2ePerDistancePerPassenger,DECIMAL,true,false,kg,km,,
+Distance travelled,distance,DECIMAL,false,false,km,,,
+Number of passengers,passengers,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

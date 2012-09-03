@@ -1,0 +1,9 @@
+name,Lighting generic
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Location (country/region),location,TEXT,true,true,,,,
+Type of light bulb,type,TEXT,true,true,,,,
+Energy consumption of light bulb,energyPerTime,DECIMAL,true,false,kWh,year,,
+Source,source,TEXT,true,false,,,,
+Country in which light bulb(s) used,country,TEXT,false,false,,,,
+Number of light bulbs,number,DECIMAL,false,false,,,,

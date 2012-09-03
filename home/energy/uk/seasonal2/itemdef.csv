@@ -1,0 +1,8 @@
+name,Energy UK Seasonal
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Source,source,TEXT,true,false,,,,
+Usage Per Quarter,usagePerQuarter,DECIMAL,false,false,,,0,
+Energy,energy,TEXT,true,true,,,,
+Percentage,percentage,DECIMAL,true,false,,,,
+Name,name,TEXT,true,true,,,,

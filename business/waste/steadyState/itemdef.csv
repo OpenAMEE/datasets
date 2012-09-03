@@ -1,0 +1,14 @@
+name,wasteSteadyState
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Waste Deposition Rate,wasteDepositionRate,DECIMAL,false,false,t,year,,
+Time since closed,timeSinceClosed,DECIMAL,false,false,year,,,
+Time since opened,timeSinceOpened,DECIMAL,false,false,year,,,
+Collection Efficiency,collectionEfficiency,DECIMAL,false,false,,,0.75,
+Fraction collected burned,fractionCollectedBurned,DECIMAL,false,false,,,1.0,
+Fraction uncollected oxidising,fractionUncollectedOxidising,DECIMAL,false,false,,,0.1,
+Decay rate,decayRate,DECIMAL,false,false,,year,0.03,
+Ultimate methane potential,ultimateMethanePotential,DECIMAL,false,false,m^3,t,100,
+Type,type,TEXT,true,true,,,,
+Standard density of methane,standardDensity,DECIMAL,false,false,kg,m^3,0.72,
+Source,source,TEXT,true,false,,,,

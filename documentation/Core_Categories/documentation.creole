@@ -1,0 +1,8 @@
+AMEE data is divided into several 'core' or 'top-level' categories:
+
+* [[Business]]
+* [[Embodied]]
+* [[Home]]
+* [[Metadata]]
+* [[Planet]]
+* [[Transport]]

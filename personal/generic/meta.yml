@@ -1,0 +1,18 @@
+--- 
+data_items: []
+
+tags: 
+provenance: ECCM
+gallery: 
+show: "1"
+authority: tentative
+ivds: 
+  kgCO2PerPound: 
+  type: 
+  currencyGBP: 
+  source: 
+  currencyGBPPerMonth: 
+wikiname: Personal_Generic
+usages:
+  default: { currencyGBP : compulsory, currencyGBPPerMonth : ignored }
+

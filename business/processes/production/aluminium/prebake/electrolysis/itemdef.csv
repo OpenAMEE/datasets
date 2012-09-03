@@ -1,0 +1,9 @@
+name,Aluminium Production: Prebake Process - Electrolysis Cells
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Quantity of aluminium produced,aluminiumQuantity,DECIMAL,false,false,kg,,,
+Baked anode consumption per unit production,anodeQuantity,DECIMAL,false,false,kg,kg,,
+Baked Anode sulphur content (%),sulphurQuantity,DECIMAL,false,false,,,2.0,
+Baked Anode ash content (%),ashQuantity,DECIMAL,false,false,,,0.4,
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,

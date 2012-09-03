@@ -1,0 +1,17 @@
+name,IPCC US Car conventional fuel
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,fuel,TEXT,true,true,,,,
+Emissions control technology,technology,TEXT,true,true,,,,
+N2O per distance emissions factor,massN2OPerDistance,DECIMAL,true,false,mg,km,,
+N2O per start emissions factor,massN2OPerStart,DECIMAL,true,false,mg,,,
+CH4 per distance emissions factor,massCH4PerDistance,DECIMAL,true,false,mg,km,,
+CH4 per start emissions factor,massCH4PerStart,DECIMAL,true,false,mg,,,
+Distance,distance,DECIMAL,false,false,km,,,
+Distance per journey,distancePerJourney,DECIMAL,false,false,km,,,
+Journey frequency,frequency,TEXT,false,false,,,,
+Number of journeys,numberOfJourneys,DECIMAL,false,false,,,,
+Fuel efficiency,fuelEfficiency,DECIMAL,false,false,km,L,,
+Fuel consumed,fuelConsumed,DECIMAL,false,false,L,,,
+Occupancy,occupancy,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

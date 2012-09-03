@@ -1,0 +1,7 @@
+prov:download
+prov:out svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+The functionality described by prov:out csv_files:business/energy/stationaryCombustion/defra/blends/conventional was created by a prov:manual based on the emissions factors in prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%209%20Other%20UK%20Factors'!B127:K136 and prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%209%20Other%20UK%20Factors'!B138:K147 as well as the conversion factors in prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%2011%20Fuel%20Properties'!.
+
+prov:ameem business/energy/stationaryCombustion/defra/blends/conventional

@@ -1,0 +1,6 @@
+state=WA&type=total
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),0.162
+2005-01-01T00:00:00+00:00 (GMT),0.0887
+2007-01-01T00:00:00+00:00 (GMT),0.1247

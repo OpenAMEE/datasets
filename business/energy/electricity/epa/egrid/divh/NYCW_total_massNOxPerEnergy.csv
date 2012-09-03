@@ -1,0 +1,6 @@
+region=NYCW&type=total
+massNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),0.896
+2005-01-01T00:00:00+00:00 (GMT),0.7288
+2007-01-01T00:00:00+00:00 (GMT),0.4758

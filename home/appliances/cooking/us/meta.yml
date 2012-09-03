@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- cooking
+- electricity
+- gas
+- calculation
+- direct
+- emission_factor
+- US
+provenance: "[[MTP]],[[http://www.bre.co.uk|BREDEM]]"
+gallery: 
+show: "1"
+authority: recommended
+ivds: 
+  elecPerPersonKWhPerYear: 
+  gasPerPersonKWhPerYear: 
+  numberOfPeople: If this is not set then the **//peopleInHousehold//** value is used in the [[Metadata|/metadata]] profile item.
+  cookerType: 
+  elecBaseKWhPerYear: 
+  source: 
+  fuelType: 
+  gasBaseKWhPerYear: 
+wikiname: Cooking_US

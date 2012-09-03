@@ -1,0 +1,9 @@
+name,Transport Other
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
+kgCO2 Per Km,kgCO2PerKm,DECIMAL,true,false,,,,
+kgCO2 Per Launch,kgCO2PerLaunch,DECIMAL,true,false,,,,
+Distance Km Per Month,distanceKmPerMonth,DECIMAL,false,false,km,month,,
+Distance,distance,DECIMAL,false,false,km,year,,

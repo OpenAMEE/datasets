@@ -1,0 +1,8 @@
+name,Hotel Stay
+algFile,algorithm.js
+name,path,type,isDataItemValue,isDrillDown,default,choices
+CO2perPerson,CO2perPerson,DECIMAL,true,false
+Source,source,TEXT,true,false
+Type,type,TEXT,true,true
+Number of Nights Stay,stayDuration,DECIMAL,false,false
+Number of People,numberOfPeople,INTEGER,false,false

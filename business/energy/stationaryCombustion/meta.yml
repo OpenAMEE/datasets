@@ -1,0 +1,57 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- GHGP
+- stationary
+- combustion
+- IPCC
+- IPCC_energy
+- IPCC_energy_stationary
+- IPCC_tier1
+- calculation
+- direct
+- emission_factor
+- physical_properties
+- global
+- GHGP_cross_sector
+- GHGP_adipic_acid_sector
+- GHGP_aluminum_sector
+- GHGP_ammonia_sector
+- GHGP_cement_sector
+- GHGP_hcfc22_sector
+- GHGP_iron_and_steel_sector
+- GHGP_lime_sector
+- GHGP_nitric_sector
+- GHGP_pulp_and_paper_sector
+- GHGP_refrigeration_sector
+- GHGP_semiconductor_sector
+- GHGP_wood_sector
+- EPA_mandatory
+- EPA_mandatory_fuel
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  EFLHVNRGN2O: N,,2,,O emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
+  mass: Mass of fuel used
+  NRG: Energy produced in combustion
+  useHHV: Set true to indicate that specified of energy represents consumption based on the 'higher heating value' (or gross calorific value). Otherwise, the lower heating value (or net calorific value) is assumed by default. This is only valid if consumption is specified in terms of energy. If fuel quantity is specified as a mass or a volume, this will have no effect.
+  LHV: Lower heating value (net calorific value) of the fuel. This is a measure of the energy content of the fuel
+  fuel: Type of fuel
+  EFLHVNRGCH4: CH,,4,, emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
+  volume: Volume of fuel used
+  EFLHVNRGCO2: CO,,2,, emissions per unit of energy yielded. This value is based upon the net energy content of the fuel ('net calorific value' or 'lower heating value')
+  HHVConversion: Conversion factor to adjust emissions for use on a higher heating value basis. This is only relevant if consumption is specified in terms of energy
+  context: Industrial context or specific technology type
+  source: 
+  density: Density of liquid and gaseous fuels at standard pressure and temperature
+wikiname: Stationary_Combustion
+usages:
+  byEnergy : { mass : forbidden, volume : forbidden, useHHV : optional }
+  byMass : { NRG : forbidden, volume : forbidden, useHHV : ignored }
+  byVolume : { NRG : forbidden, mass : forbidden, useHHV : ignored }
+  order : [byEnergy, byMass, byVolume]
+name: "IPCC methodology for stationary fuel combustion"

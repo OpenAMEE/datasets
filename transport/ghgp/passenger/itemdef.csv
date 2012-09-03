@@ -1,0 +1,13 @@
+name,GHGP passenger transport
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Vehicle type,type,TEXT,true,true,,,,
+Vehicle subtype,subtype,TEXT,true,true,,,,
+Passenger class,class,TEXT,true,true,,,,
+Region,region,TEXT,true,true,,,,
+CO2 emissions per unit distance,massCO2PerDistance,DECIMAL,true,false,kg,mi,,
+CH4 emissions per unit distance,massCH4PerDistance,DECIMAL,true,false,g,mi,,
+N2O emissions per unit distance,massN2OPerDistance,DECIMAL,true,false,g,mi,,
+Distance travelled,distance,DECIMAL,false,false,mi,,,
+Number of passengers,passengers,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,15 @@
+name,Train specific electric
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Region,region,TEXT,true,true,,,,
+Train type,type,TEXT,true,true,,,,
+Energy consumption per seat,kWhPerSeatPerDistance,DECIMAL,true,false,kWh,km,,
+Seating capacity,seatingCapacity,DECIMAL,true,false,,,,
+Energy consumption per vehicle,kWhPerDistance,DECIMAL,true,false,kWh,km,,
+Typical car number,numberOfCars,DECIMAL,true,false,,,,
+Unladed (tare) weight,tareMass,DECIMAL,true,false,t,,,
+Distance,distance,DECIMAL,false,false,km,,,
+Percentage occupied,occupancy,DECIMAL,false,false,,,31,
+Country,country,TEXT,false,false,,,,
+Number of passengers,passengers,DECIMAL,false,false,,,1,
+Source,source,TEXT,true,false,,,,

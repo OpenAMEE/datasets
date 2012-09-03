@@ -1,0 +1,13 @@
+name,Transport By Fuel GHGP US
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel Type,fuelType,TEXT,true,true,,,,
+CO2 or CO2e,CO2eOrCO2,TEXT,true,true,,,,
+Transport Type,transportType,TEXT,true,true,,,,
+Transport Sub-type,transportSubType,TEXT,true,true,,,,
+Year of Manufacture,yearOfManufacture,TEXT,true,true,,,,
+CO2 per fuel,kgCO2PerUsGallon,DECIMAL,true,false,kg,gal,,
+CH4 per fuel,kgCH4PerUsGallon,DECIMAL,true,false,kg,gal,,
+N2O per fuel,kgN2OPerUsGallon,DECIMAL,true,false,kg,gal,,
+Source,source,TEXT,true,false,,,,
+Quantity of fuel used,fuelQuantity,DECIMAL,false,false,gal,,,

@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_hcfc22_sector
+- HCFC_22
+- IPCC
+- IPCC_tier2
+- IPCC_industry
+- IPCC_industry_chemical
+- calculation
+- direct
+- mass_balance
+- global
+provenance: Based on the HCFC-22 GHGP worksheet from http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  carbonContFact: 
+  fluorineContFact: Default of 0.54 used if no value entered
+  timeHFC23: Default of 1 used if no value entered
+  type: There are no drill options for this category. Set drill //**type**// to //Normal//
+  lossHCFC22: 
+  carbonBalEff: 
+  quantityHCFC22: 
+  fluorineBalEff: 
+  source: 
+wikiname: HCFC22_fluorine_and_carbon
+usages:
+  default: { timeHFC23 : optional, carbonContFact : optional, fluorineContFact : optional, lossHCFC22 : optional }
+

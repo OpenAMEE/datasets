@@ -1,0 +1,51 @@
+--- 
+data_items: 
+- doc: Emissions from limestone or dolomite in flue gas desulphurization systems
+  drills: 
+  - - chemical
+    - Sodium Carbonate
+  - - type
+    - Pulp Mill
+- doc: Emissions from make-up carbonates used in the Pulp Mill
+  drills: 
+  - - chemical
+    - Calcium Carbonate
+  - - type
+    - Pulp Mill
+- doc: Emissions from make-up carbonates used in the Pulp Mill
+  drills: 
+  - - chemical
+    - Calcium Carbonate
+  - - type
+    - Flue gas desulphurization
+- doc: Emissions from limestone or dolomite in flue gas desulphurization systems
+  drills: 
+  - - chemical
+    - Dolomite
+  - - type
+    - Flue gas desulphurization
+tags: 
+- GHGP
+- GHGP_pulp_and_paper_sector
+- industry
+- pulp
+- paper
+- ICFPA
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for the Pulp and Paper Industry"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  chemicalQuantity: The quantity of carbonates consumed
+  type: Use context
+  chemical: The type of carbonate used in the make-up chemicals
+  emisFact: "CO,,2,, emissions factor"
+  source: 
+wikiname: Pulp_and_Paper_Direct_Emissions
+name: "ICFPA methodology for pulping mill make-up chemicals"
+

@@ -1,0 +1,10 @@
+name,Televisions Generic
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Size,size,TEXT,true,true,,,,
+kW,kW,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Comment,comment,TEXT,false,false,,,,
+Time On,hoursOn,DECIMAL,false,false,,year,0,
+Hours Per Month,hoursPerMonth,DECIMAL,false,false,,month,0,

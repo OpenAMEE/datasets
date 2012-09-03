@@ -1,0 +1,7 @@
+path,versions,aliasedTo
+location,1.0|2.0,
+type,1.0|2.0,
+energyPerTime,1.0|2.0,
+source,1.0|2.0,
+country,1.0|2.0,
+number,1.0|2.0,

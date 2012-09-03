@@ -1,0 +1,8 @@
+label,type,unit,per_unit,default
+totalPlantElectricityEmissions,DECIMAL,kg,,true
+totalPlantSteamEmissions,DECIMAL,kg,,false
+emissionsPerUnitElectricity,DECIMAL,kg,kWh,false
+emissionsPerUnitSteam,DECIMAL,kg,kWh,false
+consumedElectricityEmissions,DECIMAL,kg,,false
+consumedSteamEmissions,DECIMAL,kg,,false
+comment,TEXT,,,false

@@ -1,0 +1,17 @@
+name,DEFRA International electricity
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,true,true,,,,
+Type of process,type,TEXT,true,true,,,,
+Annual direct CO2 emissions factor,annualMassDirectCO2PerEnergy,DECIMAL,true,false,kg,kWh,,
+Rolling average direct CO2 emissions factor,massDirectCO2PerEnergy,DECIMAL,true,false,kg,kWh,,
+Rolling average indirect CO2e emissions factor,massIndirectCO2ePerEnergy,DECIMAL,true,false,kg,kWh,,
+Rolling average life cycle CO2e emissions factor,massLifeCycleCO2ePerEnergy,DECIMAL,true,false,kg,kWh,,
+Percent electricity,percentElectricity,DECIMAL,true,false,,,,
+Percentage heat,percentHeat,DECIMAL,true,false,,,,
+Percentage electricity losses,percentLossesElectricity,DECIMAL,true,false,,,,
+Percentage heat losses,percentLossesHeat,DECIMAL,true,false,,,,
+Energy consumed,energyConsumed,DECIMAL,false,false,kWh,,,
+Calculation basis,calculationBasis,TEXT,false,false,,,annual,annual,average
+Emission type,emissionType,TEXT,false,false,,,direct,direct,indirect,life cycle
+Source,source,TEXT,true,false,,,,

@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- minibus
+- passenger
+- mobile
+- distance
+- fuel
+- occupancy
+provenance: 
+gallery: 
+show: "0"
+authority: enterprise
+ivds: 
+  airconFull: 
+  airconTypical: 
+  occupants: 
+  kmPerLitreOwn: 
+  kgCO2PerKmUS: 
+  size: 
+  ecoDriving: 
+  country: 
+  kgCO2PerKm: 
+  regularlyServiced: 
+  fuel: 
+  tyresUnderinflated: 
+  distanceKmPerMonth: 
+  typicalDistance: 
+  fuelConsumed: 
+  useTypicalDistance: 
+  kmPerLitre: 
+  ownFuelConsumption: 
+  fuelConsumption: 
+  source: 
+  distance: 
+wikiname: Minibus

@@ -1,0 +1,14 @@
+name,Car DEFRA By Size
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel,fuel,TEXT,true,true,,,,
+Size,size,TEXT,true,true,,,,
+kgCO2 Per Km,kgCO2PerKm,DECIMAL,true,false,,,,
+kgCO2 Equivalent Per Km for CH4,kgCO2ePerKmForCH4,DECIMAL,true,false,,,,
+kgCO2 Equivalent Per Km for N2O,kgCO2ePerKmForN2O,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Distance,distance,DECIMAL,false,false,km,year,,
+Occupants,occupants,DECIMAL,false,false,,,-1,
+Own Fuel Consumption,ownFuelConsumption,DECIMAL,false,false,km,L,0,
+Number of Journeys,numberOfJourneys,DECIMAL,false,false,,,1,
+Total Fuel Consumed,totalFuelConsumed,DECIMAL,false,false,L,,,

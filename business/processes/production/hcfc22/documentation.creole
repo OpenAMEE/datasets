@@ -1,0 +1,7 @@
+    This category provides data and calculation methodologies for estimating greenhouse gas emissions from the production of chlorodifluoromethane (HCFC-22). These methodologies and their associated data are sourced from the WRI Greenhouse Gas protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheets]] but ultimately follow the IPCC 2006 [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|Guidelines for National Greenhouse Gas Inventories]]. They cover only process-related HFC-23 emissions arising from the production of HCFC-22; it does not cover direct emissions from the combustion of fossil fuel or indirect emissions from the purchase of energy. 
+
+Three methods are presented in the related subcategories: 
+
+* A methodology using [[HCFC22_gas_stream|gas stream]] data, repesenting the IPCC //Tier 3// approach  
+* A methodology using [[HCFC22_fluorine_and_carbon|fluorine and carbon]] balance efficiency data, repesenting the IPCC //Tier 2// approach
+* A methodology using [[HCFC22_production_data_only|default]] data, repesenting the IPCC //Tier 1// approach

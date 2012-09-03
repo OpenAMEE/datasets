@@ -1,0 +1,5 @@
+"fuel","size","kgCO2PerKm","kgCO2ePerKmForCH4","kgCO2ePerKmForN2O","units","source"
+"petrol","small (less than 125cc)",0.08499,0.00184,0.00057,"kgCO2e/km","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"petrol","medium (125-500cc)",0.10316,0.00190,0.00062,"kgCO2e/km","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"petrol","large (greater than 500cc)",0.13724,0.00191,0.00062,"kgCO2e/km","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"petrol","unknown",0.11606,0.00189,0.00060,"kgCO2e/km","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"

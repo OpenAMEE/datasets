@@ -1,0 +1,6 @@
+region=RFCM&type=total
+massNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),2.452
+2005-01-01T00:00:00+00:00 (GMT),2.3449
+2007-01-01T00:00:00+00:00 (GMT),2.2963

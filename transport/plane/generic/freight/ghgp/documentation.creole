@@ -1,0 +1,5 @@
+**This category is deprecated. The Greenhouse Gas Protocol methodology for air freighting can now be found [[Freight_transport_by_Greenhouse_Gas_Protocol|here]]**
+
+ The AMEE category /transport/plane/generic/freight/ghgp contains data on the greenhouse gas emissions associated with plane transported freight sourced from the [[http://www.ghgprotocol.org/calculation-tools/all-tools|WRI Greenhouse Gas Protocol]]. 
+
+Data and methodologies are organised into two subcategories, based on US and other regional contexts. See the relevant subcategories for further details.

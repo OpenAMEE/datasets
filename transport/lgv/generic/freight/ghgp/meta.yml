@@ -1,0 +1,19 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- transport
+- road
+- freight
+- large_goods_vehicle
+- lorry
+- truck
+- GHGP
+provenance: http://www.ghgprotocol.org/calculation-tools/all-tools
+gallery: 
+show: "0"
+authority: enterprise
+ivds: {}
+
+wikiname: Road_freighting_GHGP

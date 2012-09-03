@@ -1,0 +1,11 @@
+name,Light bulb by wattage
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Time used per time period,timePerTimePeriod,DECIMAL,false,false,h,day,,
+Time period,timePeriod,DECIMAL,false,false,day,,365.2425,
+Total time in use,totalTimeInUse,DECIMAL,false,false,h,,,
+Light bulb wattage,wattage,DECIMAL,false,false,W,,,
+Number of light bulbs,number,DECIMAL,false,false,,,1,
+Country in which light bulb(s) used,country,TEXT,false,false,,,,
+Source,source,TEXT,true,false,,,,

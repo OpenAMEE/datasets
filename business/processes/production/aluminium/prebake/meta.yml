@@ -1,0 +1,16 @@
+--- 
+data_items: []
+
+tags: 
+- aluminium
+- GHGP
+- IPCC
+- prebake
+- EPA
+provenance: Based on the WRI Greenhouse Gas Protocol Aluminium [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheets]]
+gallery: 
+show: "0"
+authority: enterprise
+ivds: {}
+
+wikiname: Aluminium_prebake

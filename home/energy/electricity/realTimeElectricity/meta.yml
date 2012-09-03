@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- business
+- electricity
+- energy
+- real_time
+- calculation
+- direct
+- UK
+- emission_factor
+provenance: "[[http://www.bmreports.com/bsp/additional/soapfunctions.php?element=generationbyfueltypetable|www.bmreports.com]]"
+gallery: <img src="http://wiki.amee.com/upload/a/aa/Realtimecarbon.png"/>
+show: "1"
+authority: enterprise
+ivds: 
+  intirl: Quantity of electricity imported from the Republic of Ireland
+  wind: Quantity of electricity supplied by wind generation
+  coal: Quantity of electricity supplied by coal powered generation
+  ccgt: Quantity of electricity supplied by closed cycle gas turbine generation
+  country: Country of electricity grid under consideration
+  ocgt: Quantity of electricity supplied by open cycle gas turbine generation
+  npshyd: Quantity of electricity supplied by hydro generation methods other than pump storage
+  energyUsed: Quantity of electricity consumed
+  intfr: Quantity of electricity imported from France
+  other: "Quantity of electricity supplied by 'other' generation methods "
+  oil: Quantity of electricity supplied by oil powered generation
+  pumpStorage: Quantity of electricity supplied by pump storage generation
+  nuclear: Quantity of electricity supplied by nuclear generation
+  source: 
+  massCO2PerEnergy: Weighted average CO2 emissions factor for fuel mix
+wikiname: Real_Time_Electricity

@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- plane
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: UK government agency [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  long2: "arrival airport longitude "
+  lat1: "departure airport latitude "
+  IATACode1: "departure airport IATA code "
+  kgCO2PerPassengerKm: "CO2 emission factor "
+  lat2: arrival airport latitude
+  journeys: 
+  passengerClass: travel class, e.g. //business//
+  IATACode2: "arrival airport IATA code "
+  useRFI: "use to include effects of radiative forcing "
+  numberOfPassengers: 
+  isReturn: 
+  kgCO2ePerKmForN2O: "N2O emission factor "
+  type: flight type, e.g. //domestic//
+  radiativeForcingIndex: use to set own RFI, default 1.9
+  source: 
+  long1: "departure airport longitude "
+  distance: 
+  kgCO2ePerKmForCH4: "CH4 emission factor "
+wikiname: Plane_Generic_Defra

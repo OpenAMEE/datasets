@@ -1,0 +1,18 @@
+type,system,systemContext,methaneConversionFactor,massPerMassBODMax,massPerMassCODMax,units,source
+untreated,sea,,0.1,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+untreated,river,,0.1,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+untreated,lake,,0.1,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+untreated,stagnant sewer,,0.5,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+untreated,open flowing sewer,,0,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+untreated,closed flowing sewer,,0,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,centralised aerobic treatment plant,well managed,0,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,centralised aerobic treatment plant,overloaded,0.3,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,anaerobic sludge digester,,0.8,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,anaerobic reactor,,0.8,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,anaerobic shallow lagoon,,0.2,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,anaerobic deep lagoon,,0.8,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,septic system,,0.5,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,latrine (dry climate),low water table,0.1,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,latrine (dry climate),high water table,0.5,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,latrine (wet climate),,0.7,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf
+treated,latrine (regular sediment removal),,0.1,0.6,0.25,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_6_Ch6_Wastewater.pdf

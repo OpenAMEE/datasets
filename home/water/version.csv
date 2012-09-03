@@ -1,0 +1,7 @@
+path,versions,aliasedTo
+kgCO2PerLitre,1.0|2.0,
+kWhPerLitre,1.0|2.0,
+litresPerMonth,1.0,volumePerTime
+volumePerTime,2.0,
+source,1.0|2.0,
+type,1.0|2.0,

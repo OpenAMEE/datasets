@@ -1,0 +1,20 @@
+fuel,massCO2PerMass,massCH4PerMass,massN2OPerMass,massDirectCO2ePerMass,massIndirectCO2ePerMass,massTotalCO2ePerMass,units,source
+aviation spirit,3127.9,32.1,31,3191.1,563.8,3754.9,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+aviation turbine fuel,3149.7,1.5,31,3182.2,585.7,3767.9,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+burning oil,3149.7,6.7,8.6,3165,585.3,3750.3,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+cng,2702,4,1.6,2707.6,398.8,3106.4,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (industrial),2177.4,1.4,42.7,2221.5,381.1,2602.6,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (electricity generation),2238.3,0.4,19.5,2258.2,369.3,2627.5,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coal (domestic),2506.3,329.7,37.8,2873.8,450.6,3324.4,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+coking coal,2955.4,30.4,70.7,3056.4,481.6,3538,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+diesel,3164.3,1.5,22,3187.8,607.6,3795.4,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+diesel (retail station biofuel blend),3030.4,1.5,21.8,3053.7,646.1,3699.8,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+fuel oil,3212.5,2.8,13,3228.3,545.1,3773.4,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+gas oil,3190,3.5,334.1,3527.6,607.6,4135.2,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lng,2702,4,1.6,2707.6,954.5,3662.1,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+lubricants,3171.1,1.9,8.5,3181.5,386.2,3567.7,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+naphtha,3131.3,2.7,8,3142.1,441.7,3583.8,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+other petroleum gas,2621.4,3.3,69.3,2694,319.3,3013.3,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petrol,3135,4.6,8.9,3148.5,559.8,3708.3,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petrol (retail station biofuel blend),3036.9,4.5,8.8,3050.2,574.2,3624.4,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting
+petroleum coke,3089.9,2.3,70.3,3162.4,376.4,3538.8,,http://www.defra.gov.uk/environment/economy/business-efficiency/reporting

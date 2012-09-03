@@ -1,0 +1,4 @@
+type,CO2,units,source,algorithm,default
+domestic,0.002069,kgCO2/kg.km,defra ghg cf 2008 9% uplift included,,
+short haul,0.001434,kgCO2/kg.km,defra ghg cf 2008 9% uplift included,,
+long haul,0.000661,kgCO2/kg.km,defra ghg cf 2008 9% uplift included,,

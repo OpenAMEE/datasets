@@ -1,0 +1,6 @@
+region=HIMS&type=non+baseload
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),5.338
+2005-01-01T00:00:00+00:00 (GMT),4.5107
+2007-01-01T00:00:00+00:00 (GMT),2.4412

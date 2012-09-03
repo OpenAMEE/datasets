@@ -1,0 +1,9 @@
+typeOfReducingAgent,massCO2PerMassReducingAgent,carbonContentInVolatiles,units,source
+coal (for FeSi and Si-metal),3.1,0.65,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+coal (for other ferroalloys),,0.65,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+coke (for FeMn and SiMn),3.25,0.80,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+coke (for Si and FeSi),3.35,0.80,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+coke (for other ferroalloys),,0.80,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+prebaked electrodes,3.54,,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+electrode paste,3.4,,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+petroleum coke,3.5,,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf

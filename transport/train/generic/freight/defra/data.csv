@@ -1,0 +1,2 @@
+fuel,kgCO2PerTonneKm,kgCO2ePerTonneKmForCH4,kgCO2ePerTonneKmForN2O,units,source
+diesel,0.02850,0.00007,0.00332,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls

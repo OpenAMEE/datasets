@@ -1,0 +1,6 @@
+state=NY&type=total
+massOzoneSeasonNOxPerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),0.967
+2005-01-01T00:00:00+00:00 (GMT),0.8842
+2007-01-01T00:00:00+00:00 (GMT),0.741

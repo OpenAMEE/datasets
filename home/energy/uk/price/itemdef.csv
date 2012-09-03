@@ -1,0 +1,15 @@
+name,Energy UK Price
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Payment,payment,TEXT,true,true,,,,
+kgCO2 Per Pound,kgCO2PerPound,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Currency GBP,currencyGBP,DECIMAL,false,false,,year,0,
+Currency GBP Per Month,currencyGBPPerMonth,DECIMAL,false,false,,month,0,
+Number of deliveries,deliveries,DECIMAL,false,false,,year,,
+Green tariff,greenTariff,TEXT,false,false,,,,
+Includes Heating,includesHeating,TEXT,false,false,,,false,false=false,true=true
+Number of deliveries,numberOfDeliveries,DECIMAL,false,false,,year,,
+Payment frequency,paymentFrequency,TEXT,false,false,,,,
+Season,season,TEXT,false,false,,,,

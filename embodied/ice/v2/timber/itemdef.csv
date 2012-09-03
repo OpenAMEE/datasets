@@ -1,0 +1,12 @@
+name,ICE v2 timber
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Timber type,type,TEXT,true,true,,,,
+Embodied energy per unit timber,energyPerMass,DECIMAL,true,false,MJ,kg,,
+Embodied CO2 per unit timber,massCO2PerMass,DECIMAL,true,false,kg,kg,,
+Embodied CO2e per unit timber,massCO2ePerMass,DECIMAL,true,false,kg,kg,,
+Embodied biogenic CO2 per unit timber,massBioCO2PerMass,DECIMAL,true,false,kg,kg,,
+Life cycle analysis boundary,boundary,TEXT,true,false,,,,
+Publication notes,note,TEXT,true,false,,,,
+Quantity of timber,mass,DECIMAL,false,false,kg,,,
+Source,source,TEXT,true,false,,,,

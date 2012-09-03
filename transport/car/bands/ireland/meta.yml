@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- car
+- engine_size
+- band
+- ireland
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.environ.ie/en/Environment/Atmosphere/ClimateChange/VehicleLabelling/|www.environ.ie]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  kgCO2PerKmMin: |
+    Minimum value of the band
+
+  kgCO2PerKm: "Value used in a profile item calculation\n\
+    \t"
+  band: |
+    Car category banding
+
+  distanceKmPerMonth: |
+    Distance travelled per month
+
+  kgCO2PerKmMax: |
+    Maximum value of the band
+
+  source: 
+  distance: |
+    Distance travelled
+
+wikiname: Car_transport_by_band_in_Ireland

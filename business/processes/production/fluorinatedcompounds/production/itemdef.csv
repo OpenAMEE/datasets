@@ -1,0 +1,9 @@
+name,Fluorinated compound production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of fluorinated compound produced,type,TEXT,true,true,,,,
+Quantity of emissions per quantity of production,massPerMass,DECIMAL,both,false,t,t,,
+Quantity of fluorinated compound produced,mass,DECIMAL,false,false,t,,,
+Name of fluorinated compound,compound,TEXT,false,false,,,,
+Basis for emissions quantity,returnCO2e,TEXT,false,false,,,false,
+Source,source,TEXT,true,false,,,,,

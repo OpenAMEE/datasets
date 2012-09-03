@@ -1,0 +1,21 @@
+name,Waste Disposal Life-Cycle
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Waste Type,wasteType,TEXT,true,true,,,,
+kgCO2e Emitted Per Tonne Recycled Material,kgCO2ePerTonneRecycled,DECIMAL,true,false,kg,t,,
+kgCO2e Emitted Per Tonne Virgin Material,kgCO2ePerTonneVirgin,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Disposed of by Closed Loop Recycling,kgCO2eDisposedByRecyclingClosedLoop,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Disposed of by Open Loop Recycling,kgCO2eDisposedByRecyclingOpenLoop,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Treated by Power Only Moving Grate,kgCO2ePowerOnlyMovingGrate,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Treated by Anaerobic Digestion,kgCO2eAnaerobicDigestion,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Disposed of by Composting,kgCO2eDisposedByComposting,DECIMAL,true,false,kg,t,,
+Net kgCO2e Per Tonne Disposed of by Landfill,kgCO2eDisposedByLandfill,DECIMAL,true,false,kg,t,,
+Recycled Material Percentage of Disposed Waste,percentageRecycled,DECIMAL,false,false,,,0,
+Amount of Waste Disposed of by Closed Loop Recycling,quantityClosedLoop,DECIMAL,false,false,t,,0,
+Amount of Waste Disposed of by Open Loop Recycling,quantityOpenLoop,DECIMAL,false,false,t,,0,
+Amount of Waste Treated by Power Only Moving Grate,quantityMovingGrate,DECIMAL,false,false,t,,0,
+Amount of Waste Treated by Anaerobic Digestion,quantityAnaerobicDigestion,DECIMAL,false,false,t,,0,
+Amount of Waste Disposed of by Composting,quantityComposted,DECIMAL,false,false,t,,0,
+Amount of Waste Disposed of by Landfill,quantityLandfill,DECIMAL,false,false,t,,0,
+Return disposal emissions only,disposalEmissionsOnly,TEXT,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

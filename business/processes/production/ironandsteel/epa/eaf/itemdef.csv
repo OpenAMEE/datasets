@@ -1,0 +1,12 @@
+name,EAF steel production EPA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Quantity of carbonate flux,fluxQuantity,DECIMAL,false,false,t,,,
+Purity of carbonate flux,fluxPurity,DECIMAL,false,false,,,1.0,
+Carbon content of flux,fluxCarbon,DECIMAL,false,false,t,t,0.12,
+Quantity of carbon electrode used,electrodeQuantity,DECIMAL,false,false,t,,,
+Carbon content of electrode,electrodeCarbon,DECIMAL,false,false,t,t,,
+Quantity of steel produced,steelQuantity,DECIMAL,false,false,t,,,
+Electrode emissions per steel production,massElectrodeCarbonPerMassSteel,DECIMAL,false,false,t,t,0.0015,
+Source,source,TEXT,true,false,,,,

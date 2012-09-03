@@ -1,0 +1,8 @@
+name,Heat transfer fluids by production
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+C6F14 emissions per area substrate produced,massC6F14PerArea,DECIMAL,true,false,kg,m^2,,
+Annual manufacturing design capacity,capacity,DECIMAL,false,false,m^2,,,
+Plant production capacity utilisation,fractionCapacityUtilised,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,

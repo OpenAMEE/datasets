@@ -1,0 +1,13 @@
+name,IPCC train fuels
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,fuel,TEXT,true,true,,,,
+Type of engine,engineType,TEXT,true,true,,,,
+CO2 emissions factor,massCO2PerEnergy,DECIMAL,true,false,kg,TJ,,
+CH4 emissions factor,massCH4PerEnergy,DECIMAL,true,false,kg,TJ,,
+N2O emissions factor,massN2OPerEnergy,DECIMAL,true,false,kg,TJ,,
+Engine specific CH4 weighting factor,CH4WeightingFactor,DECIMAL,true,false,,,,
+Engine specific N2O weighting factor,N2OWeightingFactor,DECIMAL,true,false,,,,
+Energy used,energyConsumed,DECIMAL,false,false,TJ,,,
+Vehicle age,vehicleAge,DECIMAL,false,false,year,,,
+Source,source,TEXT,true,false,,,,

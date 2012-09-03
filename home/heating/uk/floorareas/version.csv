@@ -1,0 +1,5 @@
+path,versions,aliasedTo
+homeType,1.0|2.0,
+numberOfBedrooms,1.0|2.0,
+floorArea,1.0|2.0,
+source,1.0|2.0,

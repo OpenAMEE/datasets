@@ -1,0 +1,37 @@
+This methodology provides data and a calculation methodology for calculating CO,,2,, emissions associated with the consumption of transport fuels (e.g. motor gasoline, diesel, kerosene, compressed natural gas (CNG), liquefied natural gas (LNG), liquid petroleum gas (LPG)). The methodology is sourced from the 2006 IPCC [[http://www.ipcc-nggip.iges.or.jp/|Guidelines for National Greenhouse Gas Inventories]].
+----
+
+==The methodology==
+===Emissions model===
+Greenhouse gas emissions associated with transport arise from the combustion of fuels. According to this methodology, CO,,2,, emissions are [[Custom_emissions_factors|directly related]] to the quantity of carbon which is oxidised during combustion and therefore directly proportionate to the quantity of fuel burned and the concentration of carbon within the particular fuel type. 
+
+===Model data===
+The IPCC provides the following fuel property data for several types of transport fuel:
+
+* **CO,,2,, emissions factor**: emissions factors expressed in terms of quantities of CO,,2,, emitted //per unit of energy// (//kg per TJ//)
+* **Heating value**: 'heating' or 'calorific' values (net) describing the energy content of the fuel (//TJ per Gg//)
+
+Thus, CO,,2,, emissions can be calculated in two ways using these data: (1) on the basis of //energy consumption// by simply multiplying a quantity of energy by the //mass CO,,2,, per energy// emission factor; or (2) according to a //mass// of fuel by converting a mass-based fuel quantity (e.g. kg, tonnes) into its corresponding energy quantity using the heating value, and multiplying by the energy-based emission factor. 
+
+A third method of calculating is on the basis of a //volumetric// quantity of fuel (e.g. litres, barrels), which can be achieved by specifying a volumetric quantity together with value for fuel //density// (i.e. mass per unit volume) which enables the conversion of volumetric quantities into their corresponding mass-based quantity and, in-turn, into energy and CO,,2,, quantities.
+
+===Related methodologies===
+Other IPCC transport categories are available which represent transport fuel consumption in specific [[Offroad_fuels|offroad]], [[Ship_fuels|ship]] and [[Train_fuels|train]] contexts, as well as vehicular emissions for [[European_road_transport_by_IPCC|European road vehicles]] and both '[[US_road_transport_by_IPCC|conventionally]]' and '[[US_road_transport_with_alternative_fuels_by_IPCC|alternatively]]' (cng, lpg, lng, ethanol) fuelled vehicles in the US.
+----
+
+==Using this methodology==
+===Choosing a specific activity type===
+To use this methodology, the particular type of fuel which best represents the users emissions scenario must be specified by selecting from the //**fuel**// drill down choice.
+
+===Activity data required==
+Calculations can be made on the basis of //either//: (1) //energy// consumed; (2) //mass// of fuel consumed; or (3) //volume// of fuel consumed.
+
+**Specifying energy consumption**: Set the energy consumed using the //**energy**// profile item value.
+
+**Specifying fuel mass**: Set the mass of fuel consumed using the //**mass**// profile item value.
+
+**Specifying fuel volume**: Set the volume of fuel consumed using the //**volume**// profile item value. In this case the fuel density **must** also be specified using the //**density**// profile item value.
+
+===Calculation and result===
+The returned quantity for this methodology represents the CO,,2,, emissions associated with the fuel consumption specified. 
+

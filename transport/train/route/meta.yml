@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+provenance: 
+tags: 
+- transport
+- train
+- network
+- UK
+- stations
+- calculation
+- direct
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  station1: Name of departure station/location
+  legDetail: 
+  station2: Name of destination station/location
+  trainType: Type of train; set to one of the types found within the cateogories /transport/train/generic and /transport/train/specific
+  occupancy: Train passenger occupancy by percentage (default, 31%)
+  type: Single drill option; set to //type=auto//
+  passengers: Number of passengers under consideration (default, 1)
+  source: 
+wikiname: Train_Route
+usages:
+  default: { occupancy : optional, passengers : optional, legDetail : ignored }

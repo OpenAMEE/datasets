@@ -1,0 +1,17 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- space
+- calculation
+- global
+provenance: 
+gallery: "nil"
+show: "1"
+authority: recommended
+ivds: 
+  type: Mode of transport
+  kgCO2PerKm: CO2 emissions per km
+  kgCO2PerLaunch: CO2 emissions per launch  
+wikiname: Miscellaneous_modes_of_transport

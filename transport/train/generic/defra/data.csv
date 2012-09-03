@@ -1,0 +1,6 @@
+"type","kgCO2PerKmPassenger","kgCO2ePerKmForCH4","kgCO2ePerKmForN2O","units","source"
+"national",0.05774,0.00008,0.00331,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"underground",0.07801,0.00003,0.00051,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"local rail",0.08340,0.00004,0.00055,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"tram",0.08340,0.00004,0.00055,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"international",0.01765,0.00001,0.00012,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"

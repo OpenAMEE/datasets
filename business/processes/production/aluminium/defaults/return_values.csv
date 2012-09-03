@@ -1,0 +1,3 @@
+label,type,unit,per_unit,default
+CO2,DECIMAL,kg,,true
+comment,TEXT,,,false

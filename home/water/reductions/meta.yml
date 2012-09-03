@@ -1,0 +1,21 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- water
+- reductions
+- UK
+- calculation
+- lca
+- indirect
+- embodied
+provenance: "[[http://www.defra.gov.uk/environment/quality/water/strategy/pdf/future-water.pdf|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of behaviour change
+  litresPerDay: Volume water saved
+  source: 
+wikiname: Reductions

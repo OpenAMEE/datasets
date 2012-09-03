@@ -1,0 +1,106 @@
+numberOfPeople,fuel,kgCO2PerYear,units,source
+1,Gas,188,kgCO2/year,BRE/MTP/dgen/defra 2007
+2,Gas,205,kgCO2/year,BRE/MTP/dgen/defra 2007
+3,Gas,222,kgCO2/year,BRE/MTP/dgen/defra 2007
+4,Gas,238,kgCO2/year,BRE/MTP/dgen/defra 2007
+5,Gas,255,kgCO2/year,BRE/MTP/dgen/defra 2007
+6,Gas,271,kgCO2/year,BRE/MTP/dgen/defra 2007
+7,Gas,288,kgCO2/year,BRE/MTP/dgen/defra 2007
+8,Gas,305,kgCO2/year,BRE/MTP/dgen/defra 2007
+9,Gas,321,kgCO2/year,BRE/MTP/dgen/defra 2007
+10,Gas,338,kgCO2/year,BRE/MTP/dgen/defra 2007
+11,Gas,354,kgCO2/year,BRE/MTP/dgen/defra 2007
+12,Gas,371,kgCO2/year,BRE/MTP/dgen/defra 2007
+13,Gas,388,kgCO2/year,BRE/MTP/dgen/defra 2007
+14,Gas,404,kgCO2/year,BRE/MTP/dgen/defra 2007
+15,Gas,421,kgCO2/year,BRE/MTP/dgen/defra 2007
+16,Gas,437,kgCO2/year,BRE/MTP/dgen/defra 2007
+17,Gas,454,kgCO2/year,BRE/MTP/dgen/defra 2007
+18,Gas,471,kgCO2/year,BRE/MTP/dgen/defra 2007
+19,Gas,487,kgCO2/year,BRE/MTP/dgen/defra 2007
+20,Gas,504,kgCO2/year,BRE/MTP/dgen/defra 2007
+UKAverage (2.4),Gas,210,kgCO2/year,BRE/MTP/dgen/defra 2007
+1,Electric,301,kgCO2/year,BRE/MTP/dgen/defra 2007
+2,Electric,336,kgCO2/year,BRE/MTP/dgen/defra 2007
+3,Electric,372,kgCO2/year,BRE/MTP/dgen/defra 2007
+4,Electric,407,kgCO2/year,BRE/MTP/dgen/defra 2007
+5,Electric,443,kgCO2/year,BRE/MTP/dgen/defra 2007
+6,Electric,478,kgCO2/year,BRE/MTP/dgen/defra 2007
+7,Electric,513,kgCO2/year,BRE/MTP/dgen/defra 2007
+8,Electric,549,kgCO2/year,BRE/MTP/dgen/defra 2007
+9,Electric,584,kgCO2/year,BRE/MTP/dgen/defra 2007
+10,Electric,620,kgCO2/year,BRE/MTP/dgen/defra 2007
+11,Electric,655,kgCO2/year,BRE/MTP/dgen/defra 2007
+12,Electric,691,kgCO2/year,BRE/MTP/dgen/defra 2007
+13,Electric,726,kgCO2/year,BRE/MTP/dgen/defra 2007
+14,Electric,762,kgCO2/year,BRE/MTP/dgen/defra 2007
+15,Electric,797,kgCO2/year,BRE/MTP/dgen/defra 2007
+16,Electric,833,kgCO2/year,BRE/MTP/dgen/defra 2007
+17,Electric,868,kgCO2/year,BRE/MTP/dgen/defra 2007
+18,Electric,903,kgCO2/year,BRE/MTP/dgen/defra 2007
+19,Electric,939,kgCO2/year,BRE/MTP/dgen/defra 2007
+20,Electric,974,kgCO2/year,BRE/MTP/dgen/defra 2007
+UKAverage (2.4),Electric,346,kgCO2/year,BRE/MTP/dgen/defra 2007
+1,Mixed,231,kgCO2/year,BRE/MTP/dgen/defra 2007
+2,Mixed,255,kgCO2/year,BRE/MTP/dgen/defra 2007
+3,Mixed,279,kgCO2/year,BRE/MTP/dgen/defra 2007
+4,Mixed,303,kgCO2/year,BRE/MTP/dgen/defra 2007
+5,Mixed,327,kgCO2/year,BRE/MTP/dgen/defra 2007
+6,Mixed,350,kgCO2/year,BRE/MTP/dgen/defra 2007
+7,Mixed,374,kgCO2/year,BRE/MTP/dgen/defra 2007
+8,Mixed,398,kgCO2/year,BRE/MTP/dgen/defra 2007
+9,Mixed,422,kgCO2/year,BRE/MTP/dgen/defra 2007
+10,Mixed,446,kgCO2/year,BRE/MTP/dgen/defra 2007
+11,Mixed,470,kgCO2/year,BRE/MTP/dgen/defra 2007
+12,Mixed,493,kgCO2/year,BRE/MTP/dgen/defra 2007
+13,Mixed,517,kgCO2/year,BRE/MTP/dgen/defra 2007
+14,Mixed,541,kgCO2/year,BRE/MTP/dgen/defra 2007
+15,Mixed,565,kgCO2/year,BRE/MTP/dgen/defra 2007
+16,Mixed,589,kgCO2/year,BRE/MTP/dgen/defra 2007
+17,Mixed,612,kgCO2/year,BRE/MTP/dgen/defra 2007
+18,Mixed,636,kgCO2/year,BRE/MTP/dgen/defra 2007
+19,Mixed,660,kgCO2/year,BRE/MTP/dgen/defra 2007
+20,Mixed,684,kgCO2/year,BRE/MTP/dgen/defra 2007
+UKAverage (2.4),Mixed,262,kgCO2/year,BRE/MTP/dgen/defra 2007
+1,Gas hob only,143,kgCO2/year,BRE/MTP/dgen/defra 2007
+2,Gas hob only,152,kgCO2/year,BRE/MTP/dgen/defra 2007
+3,Gas hob only,161,kgCO2/year,BRE/MTP/dgen/defra 2007
+4,Gas hob only,170,kgCO2/year,BRE/MTP/dgen/defra 2007
+5,Gas hob only,179,kgCO2/year,BRE/MTP/dgen/defra 2007
+6,Gas hob only,188,kgCO2/year,BRE/MTP/dgen/defra 2007
+7,Gas hob only,197,kgCO2/year,BRE/MTP/dgen/defra 2007
+8,Gas hob only,206,kgCO2/year,BRE/MTP/dgen/defra 2007
+9,Gas hob only,214,kgCO2/year,BRE/MTP/dgen/defra 2007
+10,Gas hob only,223,kgCO2/year,BRE/MTP/dgen/defra 2007
+11,Gas hob only,232,kgCO2/year,BRE/MTP/dgen/defra 2007
+12,Gas hob only,241,kgCO2/year,BRE/MTP/dgen/defra 2007
+13,Gas hob only,250,kgCO2/year,BRE/MTP/dgen/defra 2007
+14,Gas hob only,259,kgCO2/year,BRE/MTP/dgen/defra 2007
+15,Gas hob only,268,kgCO2/year,BRE/MTP/dgen/defra 2007
+16,Gas hob only,277,kgCO2/year,BRE/MTP/dgen/defra 2007
+17,Gas hob only,286,kgCO2/year,BRE/MTP/dgen/defra 2007
+18,Gas hob only,295,kgCO2/year,BRE/MTP/dgen/defra 2007
+19,Gas hob only,304,kgCO2/year,BRE/MTP/dgen/defra 2007
+20,Gas hob only,313,kgCO2/year,BRE/MTP/dgen/defra 2007
+UKAverage (2.4),Gas hob only,154,kgCO2/year,BRE/MTP/dgen/defra 2007
+1,Electric hob only,212,kgCO2/year,BRE/MTP/dgen/defra 2007
+2,Electric hob only,233,kgCO2/year,BRE/MTP/dgen/defra 2007
+3,Electric hob only,253,kgCO2/year,BRE/MTP/dgen/defra 2007
+4,Electric hob only,274,kgCO2/year,BRE/MTP/dgen/defra 2007
+5,Electric hob only,295,kgCO2/year,BRE/MTP/dgen/defra 2007
+6,Electric hob only,315,kgCO2/year,BRE/MTP/dgen/defra 2007
+7,Electric hob only,336,kgCO2/year,BRE/MTP/dgen/defra 2007
+8,Electric hob only,356,kgCO2/year,BRE/MTP/dgen/defra 2007
+9,Electric hob only,377,kgCO2/year,BRE/MTP/dgen/defra 2007
+10,Electric hob only,398,kgCO2/year,BRE/MTP/dgen/defra 2007
+11,Electric hob only,418,kgCO2/year,BRE/MTP/dgen/defra 2007
+12,Electric hob only,439,kgCO2/year,BRE/MTP/dgen/defra 2007
+13,Electric hob only,459,kgCO2/year,BRE/MTP/dgen/defra 2007
+14,Electric hob only,480,kgCO2/year,BRE/MTP/dgen/defra 2007
+15,Electric hob only,501,kgCO2/year,BRE/MTP/dgen/defra 2007
+16,Electric hob only,521,kgCO2/year,BRE/MTP/dgen/defra 2007
+17,Electric hob only,542,kgCO2/year,BRE/MTP/dgen/defra 2007
+18,Electric hob only,562,kgCO2/year,BRE/MTP/dgen/defra 2007
+19,Electric hob only,583,kgCO2/year,BRE/MTP/dgen/defra 2007
+20,Electric hob only,603,kgCO2/year,BRE/MTP/dgen/defra 2007
+UKAverage (2.4),Electric hob only,239,kgCO2/year,BRE/MTP/dgen/defra 2007

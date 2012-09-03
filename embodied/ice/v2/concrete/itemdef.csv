@@ -1,0 +1,19 @@
+name,ICE v2 concrete
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Concrete type,type,TEXT,true,true,,,,
+Concrete subtype,subtype,TEXT,true,true,,,,
+Cement replacement,replacement,TEXT,true,true,,,,
+Embodied energy per unit mass,energyPerMass,DECIMAL,true,false,MJ,kg,,
+Embodied CO2 per unit mass,massCO2PerMass,DECIMAL,true,false,kg,kg,,
+Embodied CO2e per unit mass,massCO2ePerMass,DECIMAL,true,false,kg,kg,,
+Life cycle analysis boundary,boundary,TEXT,true,false,,,,
+Publication notes,note,TEXT,true,false,,,,
+Quantity of concrete,mass,DECIMAL,false,false,kg,,,
+Embodied energy per unit mass for reinforcing steel,energyPerMassPerSteelDensity,DECIMAL,false,false,MJ*m^3,kg^2,0.0104,
+Embodied CO2 per unit mass for reinforcing steel,massPerMassPerSteelDensity,DECIMAL,false,false,m^3,kg,0.00077,
+Embodied energy per unit mass for precasting,energyPerMassPrecast,DECIMAL,false,false,MJ,kg,0.45,
+Embodied CO2 per unit mass for precasting,massPerMassPrecast,DECIMAL,false,false,kg,kg,0.029,
+Density of reinforcing steel,steelDensity,DECIMAL,false,false,kg,m^3,,
+Is precast concrete?,isPrecast,BOOLEAN,false,false,,,false,true,false
+Source,source,TEXT,true,false,,,,

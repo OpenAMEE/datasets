@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- airport
+- IATA
+- country
+- latitude
+- longitude
+- flight
+- plane
+- data
+- global
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  IATACode: Airport IATA code
+  latitude: Latitudinal reference for airport location
+  country: Country within which airport is located
+  airportName: Airport name and IATA code
+  fullName: Full name of airport
+  longitude: Longitudinal reference for airport location
+  source: 
+wikiname: Airports_by_Code
+name: "Major city and destination airports by IATA code"

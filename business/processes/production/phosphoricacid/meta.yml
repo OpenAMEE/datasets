@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- phosphate
+- phosphoric
+- EPA
+- EPA_mandatory
+- EPA_mandatory_phosphoric
+- calculation
+- direct
+- mass_balance
+- US
+provenance: "[[http://www.epa.gov/climatechange/emissions/archived/downloads/tsd/TSD%20Phosphoric%20-%20_EPA%202-18-09.pdf|EPA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massInorganicCarbonPerMass: Percentage of inorganic carbon by weight in phosphate
+  massTotalCarbonPerMass: Percentage of carbon by weight in phosphate
+  region: Region of phosphate rock origin
+  mass: Quantity of phosphate rock feedstock consumed
+  operatingDuration: Duration for which facility was in operation
+  massOrganicCarbonPerMass: Percentage of organic carbon by weight in phosphate
+  source: 
+wikiname: Phosphoric_acid_production
+usages:
+  default: { massInorganicCarbonPerMass : optional }

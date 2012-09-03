@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- fugitive
+- CH4
+- IPCC
+- mining
+- IPCC_tier1
+- IPCC_energy
+- IPCC_energy_fugitive
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  recoveredMethane: Rate of methane recovery
+  volumeCH4PerMassMining: Emission rate per tonne of coal produced for the mining phase
+  mineDepth: Depth of mined coal strata
+  inSituGasContent: In situ gas content
+  coalProduction: Rate of coal production
+  isPreDrained: Set to 'true' to indicate the practise of mine pre-drainage
+  source: 
+  volumeCH4PerMassPostMining: Emission rate per tonne of coal produced for the post-mining phase
+wikiname: Underground_mining
+usages:
+  defaultInSituGasContent: { inSituGasContent : forbidden, isPreDrained : ignored, recoveredMethane : optional }
+  specifiedInSituGasContent: { isPreDrained : optional, recoveredMethane : optional }
+  order: [ defaultInSituGasContent, specifiedInSituGasContent ]
+name: "IPCC methodology for underground mining fugitive emissions"

@@ -1,0 +1,10 @@
+name,Major airport codes,,,
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown
+IATA code,IATACode,TEXT,TRUE,TRUE
+Country,country,TEXT,TRUE,FALSE
+Full name,fullName,TEXT,TRUE,FALSE
+Latitude,latitude,DECIMAL,TRUE,FALSE
+Longitude,longitude,DECIMAL,TRUE,FALSE
+Airport name,airportName,TEXT,TRUE,FALSE
+Source,source,TEXT,TRUE,FALSE

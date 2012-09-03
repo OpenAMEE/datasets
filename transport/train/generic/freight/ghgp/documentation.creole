@@ -1,0 +1,8 @@
+**This category is deprecated. The Greenhouse Gas Protocol methodologies for train freighting can now be found [[Freight_transport_by_Greenhouse_Gas_Protocol|here]]**
+
+   The AMEE category /transport/train/generic/freight/ghgp contains data on the greenhouse gas emissions associated with the train transportation of freight, sourced from the [[http://www.ghgprotocol.org/calculation-tools/all-tools|WRI Greenhouse Gas Protocol]]. 
+
+Data and calculation methodologies are available for train-based freighting in two subcategories:
+
+* [[US_train_freight|US train freight]]
+* [[Other_regional_train_freight|Other regional train freight]]

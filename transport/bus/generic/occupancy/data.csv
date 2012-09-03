@@ -1,0 +1,5 @@
+context,distancePerFuelVolume,massCO2perFuelVolume,units,source
+urban,1.7,2.6417,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+average,2.85,2.6417,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+intercity,3.826,2.6417,DUMMY,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+NAEI coach,3.94013,2.6417,DUMMY,NAEI vehicle speed emission factors

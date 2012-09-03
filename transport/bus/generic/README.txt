@@ -1,0 +1,1 @@
+This category has some necessary complications with repsect to IVD versioning in v1 and v2. These prevent (at least) documentation updates via ameem. Since this category is deprecated, this shortfall has been left unadressed.

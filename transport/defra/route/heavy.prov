@@ -1,0 +1,19 @@
+prov:download
+prov:out svn:7282/internal/provnance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+prov:download
+prov:in http://www.partow.net/miscellaneous/airportdatabase/
+prov:out svn:7603/internal/provenance/sources/partow-airport-database.html
+
+prov:download
+prov:in http://en.wikipedia.org/wiki/Haversine_formula
+prov:out svn:8486/internal/provenance/sources/haversine-formula.html
+
+prov:download
+prov:in http://www.ipcc.ch/ipccreports/sres/aviation/137.htm
+prov:out svn:8488/internal/provenance/sources/aviation-and-the-global-atmosphere-934-935.html
+
+The functionality described in prov:out csv_files:transport/defra/route was created from a prov:manual on the basis of passenger and freight emissions factors taken from prov:numeric svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%206%20Passenger%20Transport'!B311:X324 and prov:numeric svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%207%20Freight%20Transport'!B194:Q202 respectively, together with airport location data from prov:in svn:7603/internal/provenance/sources/partow-airport-database.html and the haversine formula for calculating Great Circle distances ( prov:in svn:8486/internal/provenance/sources/haversine-formula.html ). An 'uplift' of 10% is given to Great Circle distances to account for flight path deviations on the basis of prov:in http://www.ipcc.ch/ipccreports/sres/aviation/137.htm#935
+
+prov:ameem transport/defra/route

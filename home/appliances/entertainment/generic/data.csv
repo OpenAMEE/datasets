@@ -1,0 +1,10 @@
+device,rating,kWhPerYear,units,source,algorithm,default
+Set-top boxes,Cable,141.81,kWh/year,MTP / defra 2007,value*user_numberOfCableBoxes*fuel_electricity,
+Set-top boxes,Satellite,159.39,kWh/year,MTP / defra 2007,value*user_numberOfSatelliteBoxes*fuel_electricity,
+Set-top boxes,Freeview box,60.34,kWh/year,MTP / defra 2007,value*user_numberOfFreeviewBoxes*fuel_electricity,
+Video,DVD,28.76,kWh/year,MTP / defra 2007,value*user_numberOfDVDs*fuel_electricity,
+Video,VCR,40.31,kWh/year,MTP / defra 2007,value*user_numberOfVCRs*fuel_electricity,
+Video,HDD,159.39,kWh/year,MTP / defra 2007,value*user_numberOfHDDs*fuel_electricity,
+PSU,typical,13.57,kWh/year,MTP / defra 2007,value*user_numberOfPSUs*fuel_electricity,
+Radio,digital,3.869,kWh/year,based on 2002 Grundig Opus listened to 2 hrs per day,value*user_numberOfPSUs*fuel_electricity,
+standby,-,,N/A,N/A,,

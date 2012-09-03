@@ -1,0 +1,3 @@
+"type",assumedOccupancy,"kgCO2PerKmPassenger","kgCO2ePerKmForCH4","kgCO2ePerKmForN2O","units","source"
+"typical",1.4,0.15835,0.00006,0.00124,"kgCO2e/pkm","http://www.defra.gov.uk/environmentbusiness/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"black cab",1.5,0.17053,0.00005,0.00116,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"

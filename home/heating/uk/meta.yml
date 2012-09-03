@@ -1,0 +1,70 @@
+--- 
+data_items: []
+
+provenance: "[[http://projects.bre.co.uk/sap2005/|RdSAP]],[[http://www.est.org.uk|EST]]"
+tags: 
+- home
+- heating
+- UK
+- electricity
+- fuel
+- insulation
+- renewable
+- actonco2
+- calculation
+- emission_factor
+- direct
+authority: enterprise
+show: "1"
+gallery: 
+ivds: 
+  comment: 
+  solarHotWaterEnergySaved: 
+  renewableElectricitySavedCO2: 
+  baseNumberOfBedrooms: 
+  solidWall: 
+  cavityWallWaterEnergy: 
+  waterHeatingCO2: 
+  hasHydro: 
+  noLoftInsulation: 
+  cavityWall: 
+  hasNoInsulation: 
+  hasBiomass: 
+  numberOfBedrooms: 
+  heatingType: must be set to a drill choice from the [[heating_UK_types|/home/heating/uk/heatingtypes]] category.
+  solidWallSpaceEnergy: 
+  hasCavityWallInsulation: 
+  fuel: 
+  hasPhotovoltaic: 
+  draftExclusion: 
+  groundSourceHeatPump: 
+  hasWindTurbine: 
+  isWaterHeatingElectric: 
+  insulatedCavityWallSpaceEnergy: 
+  hasDoubleGlazing: 
+  subtractLoft100mm: 
+  hasAirSourceHeatPump: 
+  hasDraftExclusion: 
+  spaceHeatingCO2: 
+  hasSolidWallInsulation: 
+  homeType: 
+  cavityWallSpaceEnergy: 
+  hasLoftInsulation: 
+  insulatedCavityWallWaterEnergy: 
+  age: 
+  source: 
+  hasGroundSourceHeatPump: 
+  underFloor: 
+  subtractCavityWall: 
+  subtractDoubleGlazing: 
+  hasNoRenewables: 
+  airSourceHeatPump: 
+  solidWallWaterEnergy: 
+  hasUnderFloorInsulation: 
+  loft: 
+  hasSolarHotWater: 
+  doubleGlazing: 
+wikiname: Heating_uk
+usages:
+  default : { spaceHeatingCO2 : forbidden, waterHeatingCO2 : forbidden, isWaterHeatingElectric : forbidden, renewableElectricitySavedCO2 : forbidden, age : optional, hasAirSourceHeatPump : optional, hasBiomass : forbidden, hasCavityWallInsulation : optional, hasDoubleGlazing : optional, hasDraftExclusion : optional, hasGroundSourceHeatPump : optional, hasHydro : optional, hasLoftInsulation : optional, hasNoInsulation : optional, hasNoRenewables : optional, hasPhotovoltaic : optional, hasSolarHotWater : optional, hasSolidWallInsulation : optional, hasUnderFloorInsulation : optional, hasWindTurbine : optional,  numberOfBedrooms : optional, comment : forbidden }
+

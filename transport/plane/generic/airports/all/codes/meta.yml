@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+tags: 
+- airport
+- IATA
+- latitude
+- longitude
+- country
+- flight
+- plane
+- data
+- global
+provenance: "[[http://www.partow.net/miscellaneous/airportdatabase/|partow.net]]"
+gallery: "nil"
+show: "1"
+authority: recommended
+ivds: 
+  IATACode: Airport IATA code
+  latitude: Latitudinal reference for airport location
+  country: Country within which airport is located
+  airportName: Airport name and IATA code
+  fullName: Full name of airport
+  longitude: Longitudinal reference for airport location
+  source: 
+wikiname: All_airports_by_code
+name: "Global airports by IATA code"

@@ -1,0 +1,24 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- heating
+- lighting
+- typical
+- average
+- UK
+- data
+- benchmark
+- direct
+- actonco2
+provenance: DECC 2009
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCO2PerTime: CO2 emissions factor
+  householdOrIndividual: Choose individual or household value
+  type: Type of heating/lighting
+  source: 
+wikiname: UK_Average_Home

@@ -1,0 +1,12 @@
+name,DEFRA Emissions types by industrial process
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Industrial sector,sector,TEXT,true,true,,,,
+Industrial process,process,TEXT,true,true,,,,
+Carbon dioxide (CO2) emissions,co2,TEXT,true,false,,,,
+Methane (CH4) emissions,ch4,TEXT,true,false,,,,
+Nitrous oxide (N2O) emissions,n2o,TEXT,true,false,,,,
+Perfluorocarbon (PFC) emissions,pfc,TEXT,true,false,,,,
+Sulphur hexafluoride (SF6) emissions,sf6,TEXT,true,false,,,,
+Hydrofluorocarbon (HFC) emissions,hfc,TEXT,true,false,,,,
+Source,source,TEXT,true,false,,,,

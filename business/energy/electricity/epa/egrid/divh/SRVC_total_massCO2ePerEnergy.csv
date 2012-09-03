@@ -1,0 +1,6 @@
+region=SRVC&type=total
+massCO2ePerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),null
+2005-01-01T00:00:00+00:00 (GMT),1141.5124938
+2007-01-01T00:00:00+00:00 (GMT),1124.7865

@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_cement_sector
+- cement
+- CSI
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- mass_balance
+- global
+- EPA
+- EPA_mandatory
+- EPA_mandatory_cement
+provenance: Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|cement CSI worksheet]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  rawClinkerRatio: Default of 1.55 used if none given
+  EF: default value of 0.525kg/t used if none given
+  clinkerQuantity: Quantity of clinker produced
+  carbonContent: Default of 0.2% used if none given
+  bypassDust: Quantity of Bypass dust leaving the kiln system
+  calcinationCKD: Default of 100% used if none given
+  type: There are no drill options for this category. Set drill //**type**// to //Normal//
+  quantityCKD: Quantity of CKD leaving the kiln system
+  source: 
+wikiname: Cement_CSI
+usages:
+  default: { EF : optional, calcinationCKD : optional, carbonContent : optional, rawClinkerRatio : optional }
+

@@ -1,0 +1,707 @@
+state,type,fuel,numberOfBedrooms,kWhPerYearSpace,kWhPerYearWater,kWhPerYearAirCon,units,source
+new york state,detached,natural gas,2,26838,6764,1248,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,detached,natural gas,3,33085,7171.5,1248,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,detached,natural gas,4 or more,39332,7579,1248,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,detached,fuel oil,2,18919,10083,834,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,detached,fuel oil,3,25345,9557,834,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,detached,fuel oil,4 or more,26969,11697,834,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,attached,natural gas,2,17089,4853,828,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,attached,natural gas,3,21828,6251,828,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,attached,natural gas,4 or more,29260,9164,828,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,apartment,natural gas,0 or 1,5534,2663,495,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,apartment,natural gas,2,12591,4467,574,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,apartment,natural gas,3,22045,5707,941,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,apartment,fuel oil,0 or 1,6417,4299,455,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,apartment,fuel oil,2,10204,5340,582,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,apartment,fuel oil,3,13910,10365,582,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,apartment,electricity,0 or 1,2123,867,188,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new york state,apartment,electricity,2,5010,1830,683,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,detached,natural gas,0 or 1,5800,4188,277,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,detached,natural gas,2,7929,5624,788,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,detached,natural gas,3,8913,5928,834,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,detached,natural gas,4 or more,10680,6274,1838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,detached,electricity,2,2361,1897,950,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,detached,electricity,3,2361,2735,1734,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,detached,electricity,4 or more,2534,2735,2233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,attached,natural gas,2,5606,4552,801,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,attached,natural gas,3,6210,5934,1590,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,attached,natural gas,4 or more,10088,6869,1724,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,apartment,natural gas,0 or 1,2594,2647,500,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,apartment,natural gas,2,4413,3904,646,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,apartment,natural gas,3,4742,4275,646,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,apartment,electricity,0 or 1,1031,1278,500,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+california,apartment,electricity,2,1536,1596,672,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,detached,natural gas,2,9907,4501,2595,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,detached,natural gas,3,12404,5894,3578,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,detached,natural gas,4 or more,12404,7794,7516,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,detached,electricity,2,2720,2701,2980,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,detached,electricity,3,3642,2701,4752,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,detached,electricity,4 or more,4512,4484,6586,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,apartment,natural gas,0 or 1,5917,3307,1637,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,apartment,electricity,0 or 1,1556,1558,1979,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+texas,apartment,electricity,2,2590,2192,3077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,detached,natural gas,3,3764,4525,3595,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,detached,natural gas,4 or more,3764,5698,6324,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,detached,electricity,2,1104,2111,4318,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,detached,electricity,3,1104,2618,5320,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,detached,electricity,4 or more,1505,3662,7464,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,attached,electricity,2,687,1743,2746,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,apartment,electricity,0 or 1,256,1160,3196,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,apartment,electricity,2,552,1815,3692,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+florida,apartment,electricity,3,692,2256,4266,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,detached,natural gas,2,25744,5285,603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,detached,natural gas,2,25744,5285,603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,detached,natural gas,2,25744,5285,603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,detached,natural gas,2,25744,5285,603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,detached,natural gas,2,25744,5285,603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,detached,natural gas,2,25744,5285,603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,detached,natural gas,3,32226,6297,675,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,detached,natural gas,3,32226,6297,675,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,detached,natural gas,3,32226,6297,675,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,detached,natural gas,3,32226,6297,675,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,detached,natural gas,3,32226,6297,675,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,detached,natural gas,3,32226,6297,675,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,detached,natural gas,4 or more,38708,9019,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,detached,natural gas,4 or more,38708,9019,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,detached,natural gas,4 or more,38708,9019,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,detached,natural gas,4 or more,38708,9019,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,detached,natural gas,4 or more,38708,9019,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,detached,natural gas,4 or more,38708,9019,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,detached,fuel oil,2,22420,7924,594,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,detached,fuel oil,2,22420,7924,594,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,detached,fuel oil,2,22420,7924,594,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,detached,fuel oil,2,22420,7924,594,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,detached,fuel oil,2,22420,7924,594,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,detached,fuel oil,2,22420,7924,594,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,detached,fuel oil,3,23777,9300,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,detached,fuel oil,3,23777,9300,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,detached,fuel oil,3,23777,9300,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,detached,fuel oil,3,23777,9300,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,detached,fuel oil,3,23777,9300,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,detached,fuel oil,3,23777,9300,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,detached,fuel oil,4 or more,27664,10286,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,detached,fuel oil,4 or more,27664,10286,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,detached,fuel oil,4 or more,27664,10286,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,detached,fuel oil,4 or more,27664,10286,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,detached,fuel oil,4 or more,27664,10286,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,detached,fuel oil,4 or more,27664,10286,947,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,attached,natural gas,2,15533,4802,694,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,attached,natural gas,2,15533,4802,694,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,attached,natural gas,2,15533,4802,694,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,attached,natural gas,2,15533,4802,694,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,attached,natural gas,2,15533,4802,694,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,attached,natural gas,2,15533,4802,694,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,attached,fuel oil,3,30337,10333,1351,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,attached,fuel oil,3,30337,10333,1351,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,attached,fuel oil,3,30337,10333,1351,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,attached,fuel oil,3,30337,10333,1351,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,attached,fuel oil,3,30337,10333,1351,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,attached,fuel oil,3,30337,10333,1351,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,attached,fuel oil,4 or more,31658,11218,1379,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,attached,fuel oil,4 or more,31658,11218,1379,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,attached,fuel oil,4 or more,31658,11218,1379,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,attached,fuel oil,4 or more,31658,11218,1379,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,attached,fuel oil,4 or more,31658,11218,1379,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,attached,fuel oil,4 or more,31658,11218,1379,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,apartment,natural gas,0 or 1,9286,2473,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,apartment,natural gas,0 or 1,9286,2473,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,apartment,natural gas,0 or 1,9286,2473,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,apartment,natural gas,0 or 1,9286,2473,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,apartment,natural gas,0 or 1,9286,2473,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,apartment,natural gas,0 or 1,9286,2473,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,apartment,natural gas,2,18651,4142,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,apartment,natural gas,2,18651,4142,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,apartment,natural gas,2,18651,4142,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,apartment,natural gas,2,18651,4142,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,apartment,natural gas,2,18651,4142,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,apartment,natural gas,2,18651,4142,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,apartment,natural gas,3,18651,4501,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,apartment,natural gas,3,18651,4501,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,apartment,natural gas,3,18651,4501,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,apartment,natural gas,3,18651,4501,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,apartment,natural gas,3,18651,4501,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,apartment,natural gas,3,18651,4501,608,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,apartment,fuel oil,0 or 1,12818,4858,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,apartment,fuel oil,0 or 1,12818,4858,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,apartment,fuel oil,0 or 1,12818,4858,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,apartment,fuel oil,0 or 1,12818,4858,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,apartment,fuel oil,0 or 1,12818,4858,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,apartment,fuel oil,0 or 1,12818,4858,297,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,apartment,fuel oil,2,14579,6568,526,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,apartment,fuel oil,2,14579,6568,526,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,apartment,fuel oil,2,14579,6568,526,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,apartment,fuel oil,2,14579,6568,526,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,apartment,fuel oil,2,14579,6568,526,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,apartment,fuel oil,2,14579,6568,526,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,apartment,fuel oil,3,34377,16758,588,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,apartment,fuel oil,3,34377,16758,588,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,apartment,fuel oil,3,34377,16758,588,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,apartment,fuel oil,3,34377,16758,588,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,apartment,fuel oil,3,34377,16758,588,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,apartment,fuel oil,3,34377,16758,588,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,apartment,electricity,0 or 1,3539,1399,460,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,apartment,electricity,0 or 1,3539,1399,460,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,apartment,electricity,0 or 1,3539,1399,460,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,apartment,electricity,0 or 1,3539,1399,460,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,apartment,electricity,0 or 1,3539,1399,460,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,apartment,electricity,0 or 1,3539,1399,460,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+connecticut,apartment,electricity,2,4152,1791,656,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maine,apartment,electricity,2,4152,1791,656,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+massachusetts,apartment,electricity,2,4152,1791,656,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new hampshire,apartment,electricity,2,4152,1791,656,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+vermont,apartment,electricity,2,4152,1791,656,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+rhode island,apartment,electricity,2,4152,1791,656,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,natural gas,2,24940,7112,928,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,natural gas,2,24940,7112,928,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,natural gas,3,28939.5,5891,1333,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,natural gas,3,28939.5,5891,1333,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,natural gas,4 or more,32939,6936,1476,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,natural gas,4 or more,32939,6936,1476,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,fuel oil,2,17194,10083,830,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,fuel oil,2,17194,10083,830,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,fuel oil,3,23478,10083,1269,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,fuel oil,3,23478,10083,1269,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,fuel oil,4 or more,29349,10090,1274,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,fuel oil,4 or more,29349,10090,1274,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,electricity,2,7595,1619,1017,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,electricity,2,7595,1619,1017,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,electricity,3,8698,3082,1887,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,electricity,3,8698,3082,1887,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,detached,electricity,4 or more,9801,3299,2536,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,detached,electricity,4 or more,9801,3299,2536,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,attached,natural gas,2,16110,5669,852,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,attached,natural gas,2,16110,5669,852,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,attached,natural gas,3,24132,5795,897,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,attached,natural gas,3,24132,5795,897,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,attached,natural gas,4 or more,24132,6648,897,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,attached,natural gas,4 or more,24132,6648,897,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,attached,fuel oil,3,23034,9301,668,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,attached,fuel oil,3,23034,9301,668,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,attached,electricity,3,5482,2141,1550,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,attached,electricity,3,5482,2141,1550,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,apartment,natural gas,0 or 1,8350,2897,491,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,apartment,natural gas,0 or 1,8350,2897,491,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,apartment,natural gas,2,13609,4595,644,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,apartment,natural gas,2,13609,4595,644,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,apartment,natural gas,3,21513,5647,934,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,apartment,natural gas,3,21513,5647,934,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,apartment,fuel oil,0 or 1,6242,4303,458,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,apartment,fuel oil,0 or 1,6242,4303,458,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,apartment,fuel oil,2,12391,5994,566,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,apartment,fuel oil,2,12391,5994,566,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,apartment,fuel oil,3,15508,10552,566,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,apartment,fuel oil,3,15508,10552,566,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,apartment,electricity,0 or 1,3462,1376,523,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,apartment,electricity,0 or 1,3462,1376,523,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new jersey,apartment,electricity,2,5843,2295,1047,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+pennsylvania,apartment,electricity,2,5843,2295,1047,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,detached,natural gas,2,22655,5638,1251,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,detached,natural gas,2,22655,5638,1251,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,detached,natural gas,2,22655,5638,1251,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,detached,natural gas,2,22655,5638,1251,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,detached,natural gas,2,22655,5638,1251,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,detached,natural gas,3,26325,6181,1515,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,detached,natural gas,3,26325,6181,1515,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,detached,natural gas,3,26325,6181,1515,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,detached,natural gas,3,26325,6181,1515,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,detached,natural gas,3,26325,6181,1515,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,detached,natural gas,4 or more,29995,7917,2058,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,detached,natural gas,4 or more,29995,7917,2058,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,detached,natural gas,4 or more,29995,7917,2058,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,detached,natural gas,4 or more,29995,7917,2058,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,detached,natural gas,4 or more,29995,7917,2058,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,detached,electricity,3,8010,2969,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,detached,electricity,3,8010,2969,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,detached,electricity,3,8010,2969,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,detached,electricity,3,8010,2969,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,detached,electricity,3,8010,2969,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,attached,natural gas,2,17813,6200,1002,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,attached,natural gas,2,17813,6200,1002,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,attached,natural gas,2,17813,6200,1002,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,attached,natural gas,2,17813,6200,1002,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,attached,natural gas,2,17813,6200,1002,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,attached,natural gas,3,25275,7426,1368,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,attached,natural gas,3,25275,7426,1368,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,attached,natural gas,3,25275,7426,1368,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,attached,natural gas,3,25275,7426,1368,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,attached,natural gas,3,25275,7426,1368,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,attached,natural gas,4 or more,32737,8652,1603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,attached,natural gas,4 or more,32737,8652,1603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,attached,natural gas,4 or more,32737,8652,1603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,attached,natural gas,4 or more,32737,8652,1603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,attached,natural gas,4 or more,32737,8652,1603,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,apartment,natural gas,0 or 1,9726,2924,565,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,apartment,natural gas,0 or 1,9726,2924,565,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,apartment,natural gas,0 or 1,9726,2924,565,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,apartment,natural gas,0 or 1,9726,2924,565,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,apartment,natural gas,0 or 1,9726,2924,565,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,apartment,natural gas,2,16753,4446,838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,apartment,natural gas,2,16753,4446,838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,apartment,natural gas,2,16753,4446,838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,apartment,natural gas,2,16753,4446,838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,apartment,natural gas,2,16753,4446,838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,apartment,natural gas,3,24782,6122,1540,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,apartment,natural gas,3,24782,6122,1540,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,apartment,natural gas,3,24782,6122,1540,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,apartment,natural gas,3,24782,6122,1540,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,apartment,natural gas,3,24782,6122,1540,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,apartment,electricity,0 or 1,3245,1114,477,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,apartment,electricity,0 or 1,3245,1114,477,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,apartment,electricity,0 or 1,3245,1114,477,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,apartment,electricity,0 or 1,3245,1114,477,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,apartment,electricity,0 or 1,3245,1114,477,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+illinois,apartment,electricity,2,4113,1412,552,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+indiana,apartment,electricity,2,4113,1412,552,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+michigan,apartment,electricity,2,4113,1412,552,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+ohio,apartment,electricity,2,4113,1412,552,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wisconsin,apartment,electricity,2,4113,1412,552,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,natural gas,0 or 1,18218,4062,543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,natural gas,0 or 1,18218,4062,543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,natural gas,0 or 1,18218,4062,543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,natural gas,0 or 1,18218,4062,543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,natural gas,0 or 1,18218,4062,543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,natural gas,0 or 1,18218,4062,543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,natural gas,0 or 1,18218,4062,543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,natural gas,2,18326,5535,1298,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,natural gas,2,18326,5535,1298,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,natural gas,2,18326,5535,1298,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,natural gas,2,18326,5535,1298,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,natural gas,2,18326,5535,1298,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,natural gas,2,18326,5535,1298,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,natural gas,2,18326,5535,1298,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,natural gas,3,21641,5965,2010,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,natural gas,3,21641,5965,2010,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,natural gas,3,21641,5965,2010,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,natural gas,3,21641,5965,2010,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,natural gas,3,21641,5965,2010,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,natural gas,3,21641,5965,2010,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,natural gas,3,21641,5965,2010,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,natural gas,4 or more,24627,7149,2484,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,natural gas,4 or more,24627,7149,2484,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,natural gas,4 or more,24627,7149,2484,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,natural gas,4 or more,24627,7149,2484,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,natural gas,4 or more,24627,7149,2484,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,natural gas,4 or more,24627,7149,2484,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,natural gas,4 or more,24627,7149,2484,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,fuel oil,2,18065,10667,522,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,fuel oil,2,18065,10667,522,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,fuel oil,2,18065,10667,522,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,fuel oil,2,18065,10667,522,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,fuel oil,2,18065,10667,522,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,fuel oil,2,18065,10667,522,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,fuel oil,2,18065,10667,522,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,fuel oil,3,21543,10667,802,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,fuel oil,3,21543,10667,802,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,fuel oil,3,21543,10667,802,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,fuel oil,3,21543,10667,802,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,fuel oil,3,21543,10667,802,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,fuel oil,3,21543,10667,802,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,fuel oil,3,21543,10667,802,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,fuel oil,4 or more,25856,10667,1544,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,fuel oil,4 or more,25856,10667,1544,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,fuel oil,4 or more,25856,10667,1544,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,fuel oil,4 or more,25856,10667,1544,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,fuel oil,4 or more,25856,10667,1544,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,fuel oil,4 or more,25856,10667,1544,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,fuel oil,4 or more,25856,10667,1544,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,electricity,3,8452,3112,2336,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,electricity,3,8452,3112,2336,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,electricity,3,8452,3112,2336,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,electricity,3,8452,3112,2336,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,electricity,3,8452,3112,2336,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,electricity,3,8452,3112,2336,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,electricity,3,8452,3112,2336,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,detached,electricity,4 or more,8671,3632,3087,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,detached,electricity,4 or more,8671,3632,3087,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,detached,electricity,4 or more,8671,3632,3087,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,detached,electricity,4 or more,8671,3632,3087,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,detached,electricity,4 or more,8671,3632,3087,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,detached,electricity,4 or more,8671,3632,3087,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,detached,electricity,4 or more,8671,3632,3087,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,attached,natural gas,2,18707,7156,1640,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,attached,natural gas,2,18707,7156,1640,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,attached,natural gas,2,18707,7156,1640,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,attached,natural gas,2,18707,7156,1640,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,attached,natural gas,2,18707,7156,1640,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,attached,natural gas,2,18707,7156,1640,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,attached,natural gas,2,18707,7156,1640,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,attached,natural gas,3,21300,9351.5,1901,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,attached,natural gas,3,21300,9351.5,1901,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,attached,natural gas,3,21300,9351.5,1901,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,attached,natural gas,3,21300,9351.5,1901,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,attached,natural gas,3,21300,9351.5,1901,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,attached,natural gas,3,21300,9351.5,1901,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,attached,natural gas,3,21300,9351.5,1901,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,attached,natural gas,4 or more,23893,11547,3205,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,attached,natural gas,4 or more,23893,11547,3205,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,attached,natural gas,4 or more,23893,11547,3205,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,attached,natural gas,4 or more,23893,11547,3205,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,attached,natural gas,4 or more,23893,11547,3205,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,attached,natural gas,4 or more,23893,11547,3205,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,attached,natural gas,4 or more,23893,11547,3205,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,apartment,natural gas,0 or 1,15693,3631,778,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,apartment,natural gas,0 or 1,15693,3631,778,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,apartment,natural gas,0 or 1,15693,3631,778,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,apartment,natural gas,0 or 1,15693,3631,778,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,apartment,natural gas,0 or 1,15693,3631,778,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,apartment,natural gas,0 or 1,15693,3631,778,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,apartment,natural gas,0 or 1,15693,3631,778,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,apartment,natural gas,2,15693,3631,1307,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,apartment,natural gas,2,15693,3631,1307,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,apartment,natural gas,2,15693,3631,1307,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,apartment,natural gas,2,15693,3631,1307,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,apartment,natural gas,2,15693,3631,1307,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,apartment,natural gas,2,15693,3631,1307,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,apartment,natural gas,2,15693,3631,1307,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+iowa,apartment,electricity,2,5354,1928,1321,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kansas,apartment,electricity,2,5354,1928,1321,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+minnesota,apartment,electricity,2,5354,1928,1321,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+missouri,apartment,electricity,2,5354,1928,1321,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nebraska,apartment,electricity,2,5354,1928,1321,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north dakota,apartment,electricity,2,5354,1928,1321,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south dakota,apartment,electricity,2,5354,1928,1321,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,detached,natural gas,2,14388,4921,1659,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,detached,natural gas,2,14388,4921,1659,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,detached,natural gas,2,14388,4921,1659,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,detached,natural gas,2,14388,4921,1659,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,detached,natural gas,2,14388,4921,1659,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,detached,natural gas,2,14388,4921,1659,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,detached,natural gas,2,14388,4921,1659,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,detached,natural gas,2,14388,4921,1659,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,detached,natural gas,3,15749.5,5366,2543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,detached,natural gas,3,15749.5,5366,2543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,detached,natural gas,3,15749.5,5366,2543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,detached,natural gas,3,15749.5,5366,2543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,detached,natural gas,3,15749.5,5366,2543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,detached,natural gas,3,15749.5,5366,2543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,detached,natural gas,3,15749.5,5366,2543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,detached,natural gas,3,15749.5,5366,2543,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,detached,natural gas,4 or more,17111,7783,4948,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,detached,natural gas,4 or more,17111,7783,4948,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,detached,natural gas,4 or more,17111,7783,4948,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,detached,natural gas,4 or more,17111,7783,4948,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,detached,natural gas,4 or more,17111,7783,4948,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,detached,natural gas,4 or more,17111,7783,4948,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,detached,natural gas,4 or more,17111,7783,4948,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,detached,natural gas,4 or more,17111,7783,4948,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,detached,fuel oil,3,19332,7014,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,detached,fuel oil,3,19332,7014,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,detached,fuel oil,3,19332,7014,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,detached,fuel oil,3,19332,7014,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,detached,fuel oil,3,19332,7014,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,detached,fuel oil,3,19332,7014,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,detached,fuel oil,3,19332,7014,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,detached,fuel oil,3,19332,7014,1468,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,detached,electricity,2,2207,2153,3689,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,detached,electricity,2,2207,2153,3689,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,detached,electricity,2,2207,2153,3689,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,detached,electricity,2,2207,2153,3689,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,detached,electricity,2,2207,2153,3689,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,detached,electricity,2,2207,2153,3689,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,detached,electricity,2,2207,2153,3689,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,detached,electricity,2,2207,2153,3689,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,detached,electricity,3,2538,2507,3911,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,detached,electricity,3,2538,2507,3911,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,detached,electricity,3,2538,2507,3911,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,detached,electricity,3,2538,2507,3911,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,detached,electricity,3,2538,2507,3911,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,detached,electricity,3,2538,2507,3911,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,detached,electricity,3,2538,2507,3911,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,detached,electricity,3,2538,2507,3911,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,detached,electricity,4 or more,3157,3317,5978,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,detached,electricity,4 or more,3157,3317,5978,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,detached,electricity,4 or more,3157,3317,5978,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,detached,electricity,4 or more,3157,3317,5978,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,detached,electricity,4 or more,3157,3317,5978,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,detached,electricity,4 or more,3157,3317,5978,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,detached,electricity,4 or more,3157,3317,5978,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,detached,electricity,4 or more,3157,3317,5978,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,attached,natural gas,3,17106,6121,2291,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,attached,natural gas,3,17106,6121,2291,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,attached,natural gas,3,17106,6121,2291,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,attached,natural gas,3,17106,6121,2291,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,attached,natural gas,3,17106,6121,2291,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,attached,natural gas,3,17106,6121,2291,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,attached,natural gas,3,17106,6121,2291,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,attached,natural gas,3,17106,6121,2291,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,attached,electricity,2,1796,1739,2451,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,attached,electricity,2,1796,1739,2451,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,attached,electricity,2,1796,1739,2451,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,attached,electricity,2,1796,1739,2451,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,attached,electricity,2,1796,1739,2451,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,attached,electricity,2,1796,1739,2451,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,attached,electricity,2,1796,1739,2451,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,attached,electricity,2,1796,1739,2451,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,attached,electricity,3,4163,2527,3222,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,attached,electricity,3,4163,2527,3222,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,attached,electricity,3,4163,2527,3222,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,attached,electricity,3,4163,2527,3222,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,attached,electricity,3,4163,2527,3222,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,attached,electricity,3,4163,2527,3222,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,attached,electricity,3,4163,2527,3222,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,attached,electricity,3,4163,2527,3222,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,attached,electricity,4 or more,4163,4790,6354,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,attached,electricity,4 or more,4163,4790,6354,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,attached,electricity,4 or more,4163,4790,6354,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,attached,electricity,4 or more,4163,4790,6354,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,attached,electricity,4 or more,4163,4790,6354,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,attached,electricity,4 or more,4163,4790,6354,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,attached,electricity,4 or more,4163,4790,6354,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,attached,electricity,4 or more,4163,4790,6354,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,apartment,natural gas,0 or 1,4377,3601,865,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,apartment,natural gas,0 or 1,4377,3601,865,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,apartment,natural gas,0 or 1,4377,3601,865,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,apartment,natural gas,0 or 1,4377,3601,865,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,apartment,natural gas,0 or 1,4377,3601,865,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,apartment,natural gas,0 or 1,4377,3601,865,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,apartment,natural gas,0 or 1,4377,3601,865,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,apartment,natural gas,0 or 1,4377,3601,865,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,apartment,natural gas,2,6806,5905,1937,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,apartment,natural gas,2,6806,5905,1937,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,apartment,natural gas,2,6806,5905,1937,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,apartment,natural gas,2,6806,5905,1937,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,apartment,natural gas,2,6806,5905,1937,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,apartment,natural gas,2,6806,5905,1937,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,apartment,natural gas,2,6806,5905,1937,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,apartment,natural gas,2,6806,5905,1937,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,apartment,electricity,0 or 1,1356,1244,1898,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,apartment,electricity,0 or 1,1356,1244,1898,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,apartment,electricity,0 or 1,1356,1244,1898,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,apartment,electricity,0 or 1,1356,1244,1898,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,apartment,electricity,0 or 1,1356,1244,1898,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,apartment,electricity,0 or 1,1356,1244,1898,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,apartment,electricity,0 or 1,1356,1244,1898,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,apartment,electricity,0 or 1,1356,1244,1898,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,apartment,electricity,2,1823,2056,2564,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,apartment,electricity,2,1823,2056,2564,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,apartment,electricity,2,1823,2056,2564,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,apartment,electricity,2,1823,2056,2564,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,apartment,electricity,2,1823,2056,2564,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,apartment,electricity,2,1823,2056,2564,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,apartment,electricity,2,1823,2056,2564,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,apartment,electricity,2,1823,2056,2564,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+delaware,apartment,electricity,3,2872,3050,3376,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+district of columbia,apartment,electricity,3,2872,3050,3376,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+georgia,apartment,electricity,3,2872,3050,3376,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+maryland,apartment,electricity,3,2872,3050,3376,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+north carolina,apartment,electricity,3,2872,3050,3376,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+south carolina,apartment,electricity,3,2872,3050,3376,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+virginia,apartment,electricity,3,2872,3050,3376,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+west virginia,apartment,electricity,3,2872,3050,3376,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,detached,natural gas,2,12613,4804,2448,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,detached,natural gas,2,12613,4804,2448,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,detached,natural gas,2,12613,4804,2448,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,detached,natural gas,2,12613,4804,2448,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,detached,natural gas,3,15104,5956,3203,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,detached,natural gas,3,15104,5956,3203,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,detached,natural gas,3,15104,5956,3203,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,detached,natural gas,3,15104,5956,3203,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,detached,natural gas,4 or more,19051,7589,4455,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,detached,natural gas,4 or more,19051,7589,4455,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,detached,natural gas,4 or more,19051,7589,4455,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,detached,natural gas,4 or more,19051,7589,4455,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,detached,electricity,2,4074,2430,2182,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,detached,electricity,2,4074,2430,2182,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,detached,electricity,2,4074,2430,2182,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,detached,electricity,2,4074,2430,2182,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,detached,electricity,3,4584,3000,2838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,detached,electricity,3,4584,3000,2838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,detached,electricity,3,4584,3000,2838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,detached,electricity,3,4584,3000,2838,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,detached,electricity,4 or more,6696,3432,4534,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,detached,electricity,4 or more,6696,3432,4534,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,detached,electricity,4 or more,6696,3432,4534,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,detached,electricity,4 or more,6696,3432,4534,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,apartment,natural gas,0 or 1,4609,2109,1244,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,apartment,natural gas,0 or 1,4609,2109,1244,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,apartment,natural gas,0 or 1,4609,2109,1244,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,apartment,natural gas,0 or 1,4609,2109,1244,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,apartment,natural gas,2,10418,3472,2116,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,apartment,natural gas,2,10418,3472,2116,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,apartment,natural gas,2,10418,3472,2116,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,apartment,natural gas,2,10418,3472,2116,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,apartment,electricity,0 or 1,2312,1776,1599,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,apartment,electricity,0 or 1,2312,1776,1599,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,apartment,electricity,0 or 1,2312,1776,1599,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,apartment,electricity,0 or 1,2312,1776,1599,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+alabama,apartment,electricity,2,2933,2545,2871,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+kentucky,apartment,electricity,2,2933,2545,2871,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+mississippi,apartment,electricity,2,2933,2545,2871,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+tennessee,apartment,electricity,2,2933,2545,2871,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,detached,natural gas,2,10751,4929,2431,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,detached,natural gas,2,10751,4929,2431,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,detached,natural gas,2,10751,4929,2431,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,detached,natural gas,3,12883,6122,3669,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,detached,natural gas,3,12883,6122,3669,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,detached,natural gas,3,12883,6122,3669,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,detached,natural gas,4 or more,12883,7730,7177,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,detached,natural gas,4 or more,12883,7730,7177,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,detached,natural gas,4 or more,12883,7730,7177,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,detached,electricity,2,3603,2803,3042,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,detached,electricity,2,3603,2803,3042,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,detached,electricity,2,3603,2803,3042,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,detached,electricity,3,3603,2803,4261,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,detached,electricity,3,3603,2803,4261,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,detached,electricity,3,3603,2803,4261,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,detached,electricity,4 or more,4629,4626,6418,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,detached,electricity,4 or more,4629,4626,6418,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,detached,electricity,4 or more,4629,4626,6418,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,apartment,natural gas,0 or 1,5784,3269,1363,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,apartment,natural gas,0 or 1,5784,3269,1363,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,apartment,natural gas,0 or 1,5784,3269,1363,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,apartment,electricity,0 or 1,1676,1599,2068,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,apartment,electricity,0 or 1,1676,1599,2068,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,apartment,electricity,0 or 1,1676,1599,2068,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arkansas,apartment,electricity,2,2198,1831,2723,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+louisiana,apartment,electricity,2,2198,1831,2723,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oklahoma,apartment,electricity,2,2198,1831,2723,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,detached,natural gas,0 or 1,15299,4141,233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,detached,natural gas,0 or 1,15299,4141,233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,detached,natural gas,0 or 1,15299,4141,233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,detached,natural gas,0 or 1,15299,4141,233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,detached,natural gas,0 or 1,15299,4141,233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,detached,natural gas,0 or 1,15299,4141,233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,detached,natural gas,0 or 1,15299,4141,233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,detached,natural gas,0 or 1,15299,4141,233,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,detached,natural gas,2,15854,4935,1155.5,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,detached,natural gas,2,15854,4935,1155.5,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,detached,natural gas,2,15854,4935,1155.5,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,detached,natural gas,2,15854,4935,1155.5,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,detached,natural gas,2,15854,4935,1155.5,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,detached,natural gas,2,15854,4935,1155.5,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,detached,natural gas,2,15854,4935,1155.5,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,detached,natural gas,2,15854,4935,1155.5,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,detached,natural gas,3,16409,6110,2078,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,detached,natural gas,3,16409,6110,2078,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,detached,natural gas,3,16409,6110,2078,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,detached,natural gas,3,16409,6110,2078,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,detached,natural gas,3,16409,6110,2078,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,detached,natural gas,3,16409,6110,2078,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,detached,natural gas,3,16409,6110,2078,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,detached,natural gas,3,16409,6110,2078,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,detached,natural gas,4 or more,21677,6644,3162,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,detached,natural gas,4 or more,21677,6644,3162,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,detached,natural gas,4 or more,21677,6644,3162,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,detached,natural gas,4 or more,21677,6644,3162,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,detached,natural gas,4 or more,21677,6644,3162,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,detached,natural gas,4 or more,21677,6644,3162,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,detached,natural gas,4 or more,21677,6644,3162,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,detached,natural gas,4 or more,21677,6644,3162,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,detached,electricity,2,3220,1319,3181,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,detached,electricity,2,3220,1319,3181,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,detached,electricity,2,3220,1319,3181,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,detached,electricity,2,3220,1319,3181,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,detached,electricity,2,3220,1319,3181,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,detached,electricity,2,3220,1319,3181,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,detached,electricity,2,3220,1319,3181,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,detached,electricity,2,3220,1319,3181,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,detached,electricity,3,4242,3494,4264,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,detached,electricity,3,4242,3494,4264,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,detached,electricity,3,4242,3494,4264,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,detached,electricity,3,4242,3494,4264,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,detached,electricity,3,4242,3494,4264,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,detached,electricity,3,4242,3494,4264,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,detached,electricity,3,4242,3494,4264,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,detached,electricity,3,4242,3494,4264,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,detached,electricity,4 or more,4242,3633,8949,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,detached,electricity,4 or more,4242,3633,8949,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,detached,electricity,4 or more,4242,3633,8949,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,detached,electricity,4 or more,4242,3633,8949,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,detached,electricity,4 or more,4242,3633,8949,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,detached,electricity,4 or more,4242,3633,8949,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,detached,electricity,4 or more,4242,3633,8949,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,detached,electricity,4 or more,4242,3633,8949,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,attached,natural gas,2,16003,6331,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,attached,natural gas,2,16003,6331,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,attached,natural gas,2,16003,6331,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,attached,natural gas,2,16003,6331,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,attached,natural gas,2,16003,6331,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,attached,natural gas,2,16003,6331,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,attached,natural gas,2,16003,6331,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,attached,natural gas,2,16003,6331,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,attached,natural gas,3,16003,7070,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,attached,natural gas,3,16003,7070,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,attached,natural gas,3,16003,7070,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,attached,natural gas,3,16003,7070,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,attached,natural gas,3,16003,7070,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,attached,natural gas,3,16003,7070,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,attached,natural gas,3,16003,7070,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,attached,natural gas,3,16003,7070,623,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,attached,electricity,2,2700,1606,2077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,attached,electricity,2,2700,1606,2077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,attached,electricity,2,2700,1606,2077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,attached,electricity,2,2700,1606,2077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,attached,electricity,2,2700,1606,2077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,attached,electricity,2,2700,1606,2077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,attached,electricity,2,2700,1606,2077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,attached,electricity,2,2700,1606,2077,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,apartment,natural gas,0 or 1,7147,2885,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,apartment,natural gas,0 or 1,7147,2885,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,apartment,natural gas,0 or 1,7147,2885,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,apartment,natural gas,0 or 1,7147,2885,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,apartment,natural gas,0 or 1,7147,2885,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,apartment,natural gas,0 or 1,7147,2885,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,apartment,natural gas,0 or 1,7147,2885,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,apartment,natural gas,0 or 1,7147,2885,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,apartment,natural gas,2,11687,3938,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,apartment,natural gas,2,11687,3938,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,apartment,natural gas,2,11687,3938,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,apartment,natural gas,2,11687,3938,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,apartment,natural gas,2,11687,3938,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,apartment,natural gas,2,11687,3938,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,apartment,natural gas,2,11687,3938,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,apartment,natural gas,2,11687,3938,2436,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,apartment,electricity,0 or 1,1387,1327,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,apartment,electricity,0 or 1,1387,1327,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,apartment,electricity,0 or 1,1387,1327,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,apartment,electricity,0 or 1,1387,1327,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,apartment,electricity,0 or 1,1387,1327,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,apartment,electricity,0 or 1,1387,1327,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,apartment,electricity,0 or 1,1387,1327,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,apartment,electricity,0 or 1,1387,1327,2517,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+arizona,apartment,electricity,2,1944,2095,4260,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+colorado,apartment,electricity,2,1944,2095,4260,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+idaho,apartment,electricity,2,1944,2095,4260,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+montana,apartment,electricity,2,1944,2095,4260,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+nevada,apartment,electricity,2,1944,2095,4260,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+new mexico,apartment,electricity,2,1944,2095,4260,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+utah,apartment,electricity,2,1944,2095,4260,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+wyoming,apartment,electricity,2,1944,2095,4260,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,natural gas,0 or 1,6944,4324,330,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,natural gas,0 or 1,6944,4324,330,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,natural gas,2,8265,5619,771,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,natural gas,2,8265,5619,771,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,natural gas,3,9911,5951,848,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,natural gas,3,9911,5951,848,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,natural gas,4 or more,13543,6253,1743,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,natural gas,4 or more,13543,6253,1743,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,fuel oil,3,12771,7157,459,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,fuel oil,3,12771,7157,459,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,electricity,0 or 1,3091,2443,432,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,electricity,0 or 1,3091,2443,432,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,electricity,2,3898.5,2643,811,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,electricity,2,3898.5,2643,811,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,electricity,3,4706,3496,1421,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,electricity,3,4706,3496,1421,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,detached,electricity,4 or more,6612,4090,1846,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,detached,electricity,4 or more,6612,4090,1846,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,attached,natural gas,2,5606,4552,801,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,attached,natural gas,2,5606,4552,801,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,attached,natural gas,3,6210,5934,1590,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,attached,natural gas,3,6210,5934,1590,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,attached,natural gas,4 or more,10399,6645,1724,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,attached,natural gas,4 or more,10399,6645,1724,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,attached,electricity,3,2447,2357,718,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,attached,electricity,3,2447,2357,718,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,apartment,natural gas,0 or 1,2814,2644,500,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,apartment,natural gas,0 or 1,2814,2644,500,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,apartment,natural gas,2,4874,3953,646,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,apartment,natural gas,2,4874,3953,646,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,apartment,natural gas,3,6215,4485,646,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,apartment,natural gas,3,6215,4485,646,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,apartment,electricity,0 or 1,1549,1062,475,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,apartment,electricity,0 or 1,1549,1062,475,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,apartment,electricity,2,2302,1693,654,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,apartment,electricity,2,2302,1693,654,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+oregon,apartment,electricity,3,3958,2125,876,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html
+washington,apartment,electricity,3,3958,2125,876,kWh/year,http://www.eia.doe.gov/emeu/recs/recs2001/detail_tables.html

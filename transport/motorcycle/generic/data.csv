@@ -1,0 +1,4 @@
+fuel,size,kgCO2PerKm,typicalDistance,units,source,algorithm,default
+petrol,small,0.085,4827,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,value*user_distance*user_multipliers,
+petrol,medium,0.1032,4827,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,value*user_distance*user_multipliers,
+petrol,large,0.1372,4827,kgCO2/km ,http://www.defra.gov.uk/environment/business/reporting/pdf/20090717-guidelines-ghg-conversion-factors.xls,value*user_distance*user_multipliers,

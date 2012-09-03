@@ -1,0 +1,20 @@
+"fuelType","yearOfManufacture","kgCO2PerMile","gCH4PerMile","gN2OPerMile",units,source
+cng,,,0.737,0.05,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+lpg,,0.3574074,0.037,0.067,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+ethanol,,,0.055,0.067,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1987-1993,0.5438272,0.0813,0.1035,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1994,0.5438272,0.0646,0.0982,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1995,0.5438272,0.0517,0.0908,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1996,0.5438272,0.0452,0.0871,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1997,0.5438272,0.0452,0.0871,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1998,0.5438272,0.0391,0.0728,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,1999,0.5438272,0.0321,0.0564,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2000,0.5438272,0.0346,0.0621,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2001,0.5438272,0.0151,0.0164,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2002,0.5438272,0.0178,0.0228,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2003,0.5438272,0.0155,0.0114,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2004,0.5438272,0.0152,0.0132,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+gasoline,2005-present,0.5438272,0.0157,0.0101,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+diesel,1960-1982,0.6265432,0.0011,0.0017,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+diesel,1983-1995,0.6265432,0.0009,0.0014,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools
+diesel,1996-present,0.6265432,0.001,0.0015,none,GHGP http://www.ghgprotocol.org/calculation-tools/all-tools

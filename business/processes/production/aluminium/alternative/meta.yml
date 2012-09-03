@@ -1,0 +1,35 @@
+--- 
+data_items: []
+
+tags: 
+- aluminium
+- GHGP
+- GHGP_aluminum_sector
+- IAI
+- EPA
+- calculation
+- direct
+- physical_properties
+- mass_balance
+- global
+provenance: Based on the WRI Greenhouse Gas Protocol Aluminium [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheets]]
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  carbonAnode: Carbon content of purchased anodes, 98% default
+  pitchQuantity: Total quantity of pitch
+  packingQuantity: Total quantity of packing coke
+  carbonSold: Carbon content of sold anodes
+  carbonPacking: Carbon content of packing coke, 97% default
+  anodeQuantity: Total quantity of purchased anodes
+  byprodQuantity: Total quantity of carbon by-products
+  type: No drill options, set //**type**// to //Normal//
+  cokeQuantity: Total quantity of coke
+  carbonPitch: Carbon content of pitch, 95% default
+  source: 
+  soldQuantity: Total quantity of sold anodes
+  carbonCoke: Carbon content of coke, 98% default
+wikiname: Aluminium_alternative
+usages:
+  default : { carbonPitch : optional, carbonCoke : optional, carbonPacking : optional, carbonAnode : optional, carbonSold : optional }

@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- defra
+- fuel
+- biofuel
+- energy
+- calorific
+- density
+- UK
+- defra_annex11
+- data
+- physical_properties
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  fuel: Type of fuel/biofuel
+  netEnergyPerMass: Net energy yield per mass ('net calorific' or 'lower heating' value)
+  grossEnergyPerMass: Gross energy yield per mass ('gross calorific' or 'higher heating' value)
+  massPerVolume: Density expressed as mass per unit volume
+  volumePerMass: Density expressed as volume per unit mass
+wikiname: Fuel_properties_by_DEFRA

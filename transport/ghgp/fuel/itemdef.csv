@@ -1,0 +1,9 @@
+name,GHGP transport fuels
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel type,fuel,TEXT,true,true,,,,
+Region,region,TEXT,true,true,,,,
+CO2 emissions per unit volume,massCO2PerVolume,DECIMAL,true,false,kg,gal,,
+Biogenic CO2 emissions per unit volume,massBiogenicCO2PerVolume,DECIMAL,true,false,kg,gal,,
+Volume fuel consumed,volume,DECIMAL,false,false,gal,,,
+Source,source,TEXT,true,false,,,,

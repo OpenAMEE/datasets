@@ -1,0 +1,14 @@
+name,Concrete
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Subtype,subtype,TEXT,true,true,,,,
+Subsubtype,subsubtype,TEXT,true,true,,,,
+Boundary,boundary,TEXT,true,false,,,,
+Embodied energy per mass,embodiedEnergyPerMass,DECIMAL,true,false,MJ,kg,,
+Embodied mass CO2 per mass,massEmbodiedCO2PerMass,DECIMAL,true,false,kg,kg,,
+Embodied CO2 per mass steel,massEmbodiedCO2PerMassSteelPerVolume,DECIMAL,true,false,kg,kg,,
+Mass used,mass,DECIMAL,false,false,kg,,,
+Mass steel used,massSteel,DECIMAL,false,false,kg,m^3,0,
+Source,source,TEXT,true,false,,,,
+

@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- agriculture
+- IPCC_agriculture
+- IPCC_agriculture_livestock
+- IPCC
+- IPCC_tier1
+- livestock
+- CH4
+- direct
+- calculation
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_10_Ch10_Livestock.pdf|IPCC]]"
+gallery: 
+name: "IPCC methodology for livestock enteric fermentation"
+show: "1"
+authority: enterprise
+ivds: 
+  region: Geographic region in which livestock kept
+  livestockNumber: Total number of livestock (head count) under consideration
+  livestockSubtype: Subtype of livestock
+  livestockType: Type of livestock
+  source: 
+  massCH4PerHeadPerTime: Annual methane emissions per head of livestock
+wikiname: Enteric_fermentation

@@ -1,0 +1,5 @@
+type,totalCarbonContent,fossilFraction,oxidationFactor,units,source
+industrial waste,50,90,100,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+clinical waste,60,40,100,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+sewage sludge,45,0,100,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf
+fossil liquid waste,80,100,100,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/5_Volume5/V5_5_Ch5_IOB.pdf

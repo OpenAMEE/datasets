@@ -1,0 +1,7 @@
+name,Soil liming
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Carbonate mineral used in liming,type,TEXT,true,true,,,,
+Carbon content of carbonate,massPerMass,DECIMAL,true,false,t,t,,
+Quantity of lime applied,massUsed,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

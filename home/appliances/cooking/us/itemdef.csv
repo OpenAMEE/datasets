@@ -1,0 +1,11 @@
+name,Cooktop US
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Cooker Type,cookerType,TEXT,true,true,,,,
+Fuel Type,fuelType,TEXT,true,true,,,,
+Number of people,numberOfPeople,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,
+Gas Base kWh per year,gasBaseKWhPerYear,DECIMAL,true,false,kWh,year,,
+Gas Per person kWh per year,gasPerPersonKWhPerYear,DECIMAL,true,false,kWh,year,,
+Electricity Base kWh per year,elecBaseKWhPerYear,DECIMAL,true,false,kWh,year,,
+Electricity Per person kWh per year,elecPerPersonKWhPerYear,DECIMAL,true,false,kWh,year,,

@@ -1,0 +1,6 @@
+gridName,massCO2PerEnergy,units,source
+northern,0.800,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+western,0.930,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+southern,0.750,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+eastern,1.190,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools
+northeastern,0.360,kg/kWh,http://www.ghgprotocol.org/calculation-tools/all-tools

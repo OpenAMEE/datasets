@@ -1,0 +1,5 @@
+type,kgCO2PerTonneKm,kgCO2ePerTonneKmForCH4,kgCO2ePerTonneKmForN2O,units,source
+domestic,1.91593,0.00144,0.01866,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+short haul,1.40441,0.00008,0.01382,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+long haul,0.59487,0.00003,0.00585,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls
+auto,0,0,0,kgCO2e/tkm,http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls

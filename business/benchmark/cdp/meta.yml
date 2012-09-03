@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- CDP
+- disclosure
+- benchmark
+- data
+- company
+- sector
+- financial
+- revenue
+- global
+provenance: "[[https://www.cdproject.net/en-US/Pages/HomePage.aspx|Carbon Disclosure Project 2010]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  company: Name of reporting company
+  country: Name of country in which the reporting company is based
+  sector: Industrial/commercial sector to which reporting company belongs
+  financialMetric: Description of the financial metric used for calculating emissions intensity
+  energyScopeTwoElectricity: Quantity of scope 2 electricity consumed during the reporting period
+  energyScopeTwoHeat: Quantity of scope 2 heat consumed during the reporting period
+  energyScopeTwoSteam: Quantity of scope 2 steam consumed during the reporting period
+  energyScopeTwoCooling: Quantity of scope 2 cooling consumed during the reporting period
+  reportingPeriodStart: Start date of the reporting period represented
+  reportingPeriodEnd: End date of the reporting period represented
+  massCO2ePerUSDFinancialMetric: Company emissions intensity based on financial metric
+  totalFinancialMetricUSD: Total, absolute value of the financial metric. This is derived from the disclosed absolute emissions and emissions intensity values
+  massScopeOneCO2e: Quantity of scope 1 greenhouse gas emissions associated with reporting period
+  massScopeTwoCO2e: Quantity of scope 1 greenhouse gas emissions associated with reporting period
+  energyScopeOne: Quantity of scope 1 energy consumption associated with reporting period
+  energyScopeTwoTotal: Quantity of scope 2 energy consumption associated with reporting period. This represents the total of all electricity, heat, steam and cooling energy consumed
+wikiname: CDP_emissions_and_financial_metrics
+name: "Carbon Disclosure Project - emissions and financial metrics by company"

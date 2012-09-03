@@ -1,0 +1,5 @@
+zincProductionBySource,massCO2PerMassProduct,units,source
+default,1.72,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+waelz kiln production,3.66,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+pyrometallurgical (imperial smelting furnace) production,0.43,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf
+electro-thermic distillation production,,none,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_4_Ch4_Metal_Industry.pdf

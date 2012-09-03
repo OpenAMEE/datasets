@@ -1,0 +1,9 @@
+name,Generic iron and steel processes
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Product,product,TEXT,true,true,,,,
+Process,process,TEXT,true,true,,,,
+CO2 emissions per mass produced,massCO2PerMass,DECIMAL,true,false,t,t,,
+CH4 emissions per mass produced,massCH4PerMass,DECIMAL,true,false,kg,t,,
+Quantity produced,mass,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

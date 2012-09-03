@@ -1,0 +1,12 @@
+label,type,unit,per_unit,default
+reUseEmissions,DECIMAL,kg,,false
+closedLoopDisposalCO2e,DECIMAL,kg,,false
+openLoopDisposalCO2e,DECIMAL,kg,,false
+combustionDisposalCO2e,DECIMAL,kg,,false
+anaerobicDigestionDisposalCO2e,DECIMAL,kg,,false
+compostDisposalCO2e,DECIMAL,kg,,false
+landfillDisposalCO2e,DECIMAL,kg,,false
+productionCO2e,DECIMAL,kg,,false
+totalDisposalCO2e,DECIMAL,kg,,false
+totalCO2e,DECIMAL,kg,,true
+comment,TEXT,,,false

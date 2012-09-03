@@ -1,0 +1,4 @@
+"type","subtype","energyPerMass","massCO2PerEnergy","units","source"
+"wood and wood waste",,15.38,93.87,,"http://www.epa.gov/climateleaders/documents/resources/stationarycombustionguidance.pdf"
+"kraft black liquor","north american hardwood",11.98,94.41,,"http://www.epa.gov/climateleaders/documents/resources/stationarycombustionguidance.pdf"
+"kraft black liquor","north american softwood",12.24,95.13,,"http://www.epa.gov/climateleaders/documents/resources/stationarycombustionguidance.pdf"

@@ -1,0 +1,43 @@
+--- 
+data_items: []
+
+tags: 
+- fuel
+- defra
+- stationary
+- combustion
+- indirect
+- direct
+- lca
+- calculation
+- emission_factor
+- defra_annex9
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: |-
+ <%= chart :dependent => 'massDirectCO2ePerEnergy' %> 
+show: "1"
+authority: enterprise
+ivds: 
+  fuel: Type of fuel
+  massDirectCO2ePerVolume: Quantity of direct CO,,2,,e per unit volume
+  massIndirectCO2ePerVolume: Quantity of indirect CO,,2,,e per unit volume
+  massTotalCO2ePerVolume: Quantity of total/life-cycle CO,,2,,e per unit volume
+  massBiogenicCO2ePerVolume: Quantity of biogenic CO,,2,,e per unit volume
+  massDirectCO2ePerEnergy: Quantity of direct CO,,2,,e per unit energy
+  massIndirectCO2ePerEnergy: Quantity of indirect CO,,2,,e per unit energy
+  massTotalCO2ePerEnergy: Quantity of total/life-cycle CO,,2,,e per unit energy
+  massBiogenicCO2ePerEnergy: Quantity of biogenic CO,,2,,e per unit energy
+  massDirectCO2ePerMass: Quantity of direct CO,,2,,e per unit mass
+  massIndirectCO2ePerMass: Quantity of indirect CO,,2,,e per unit mass
+  massTotalCO2ePerMass: Quantity of total/life-cycle CO,,2,,e per unit mass
+  massBiogenicCO2ePerMass: Quantity of biogenic CO,,2,,e per unit mass
+  mass: Mass quantity consumed
+  energy: Energy quantity consumed
+  volume: Volume quantity consumed
+wikiname: Fuels_associated_with_biofuel_blends_by_DEFRA
+usages:
+  byMass: { energy : ignored, volume : ignored }
+  byVolume: { energy : ignored, mass : forbidden }  
+  byEnergy: { mass : forbidden, volume : forbidden }
+  order: [ byMass, byVolume, byEnergy]

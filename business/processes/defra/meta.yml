@@ -1,0 +1,25 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- processes
+- defra
+- defra_annex4
+- data
+- direct
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  sector: Industrial sector
+  process: Specific industrial process
+  co2: Is CO,,2,, emitted?
+  ch4: Is CH,,4,, emitted?
+  n2o: Is N,,2,,O emitted?
+  pfc: Are PFC's emitted?
+  sf6: Is SF,,6,, emitted?
+  hfc: Are HFC's emitted?
+wikiname: DEFRA_Emissions_types_by_industrial_process

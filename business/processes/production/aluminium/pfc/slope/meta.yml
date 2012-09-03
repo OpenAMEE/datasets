@@ -1,0 +1,41 @@
+--- 
+data_items: []
+
+tags: 
+- PFC
+- GHGP
+- GHGP_aluminum_sector
+- aluminium
+- IPCC
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_industry
+- IPCC_industry_metal
+- EPA
+- EPA_mandatory
+- EPA_mandatory_aluminum
+- climate_leaders
+- calculation
+- direct
+- emission_factor
+- physical_properties
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|IPCC]] - [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  weightFrac: The quantity of C,,2,,F,,6,, emitted relative to CF,,4,, emissions
+  cf4Coef: Slope coefficient for CF,,4,,. This describes the relationship between the anode effect and the rate of CF,,4,, emissions
+  defWeightFrac: Default C,,2,,F,,6,,/CF,,4,, weight fraction. This is used if no facility-specific value is available
+  aef: Anode effect frequency. Optional. Ignored if none entered
+  alQuantity: Quantity of aluminium produced
+  defCf4Coef: Default slope coefficient for CF,,4,,. This describes the relationship between the anode effect and the rate of CF,,4,, emissions
+  cellType: Type of cell technology employed
+  source: 
+  aem: Anode effect minutes per cell day (i.e. the number of cells operating multiplied by the number of days in operation)
+wikiname: Aluminium_PFC_Slope
+name: "IPCC methodology for aluminium production PFC emissions - slope approach"
+usages:
+  default: { weightFrac : optional, cf4Coef : optional, aef : optional }
+

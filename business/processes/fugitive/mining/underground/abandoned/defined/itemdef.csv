@@ -1,0 +1,10 @@
+name,fugitive abandoned mine user defined
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Coal rank,coalRank,TEXT,true,true,,,,
+CH4 emissions rate prior to abandonment,emissionsRate,DECIMAL,false,false,m^3,year,,
+CH4 emissions rate decay coefficient,factorCoefficient,DECIMAL,true,false,,,,
+CH4 emissions rate decay exponent,factorExponent,DECIMAL,true,false,,,,
+Time since abandonment,timeAbandoned,DECIMAL,false,false,year,,,
+Quantity of methane recovered,recoveredMethane,DECIMAL,false,false,m^3,year,0,
+Source,source,TEXT,true,false,,,,

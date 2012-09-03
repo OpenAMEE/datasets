@@ -1,0 +1,26 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- bus
+- occupancy
+- passenger
+- GHGP
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: GHG based on DEFRA and USDOT/NAEI vehicle speed emission factors
+gallery: "nil"
+show: "1"
+authority: enterprise
+ivds: 
+  occupancy: Total number of passengers occupying bus
+  distancePerFuelVolume: Fuel consumption rate
+  massCO2perFuelVolume: CO,,2,, emitted per volume of fuel used
+  accountedPassengers: Number of passengers to be considered in calculation
+  context: Type of bus travel
+  source: 
+  distance: Distance travelled
+wikiname: Bus_by_occupancy

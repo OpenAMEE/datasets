@@ -1,0 +1,34 @@
+--- 
+data_items: []
+
+tags: 
+- industry
+- calculation
+- emission_factor
+- direct
+- global
+- IPCC
+- IPCC_tier2
+- IPCC_tier1
+- IPCC_industry_mineral
+- IPCC_industry
+- glass
+- EPA
+- EPA_mandatory
+- EPA_mandatory_glass
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_2_Ch2_Mineral_Industry.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  massCO2PerMass: CO2 emissions factor
+  culletRatio: Proprtion of secondary glass used
+  massProduced: Quantity of glass produced
+  typicalCulletRatio: Typical cullet ratio (proportion of recycled glass)
+  subtype: "Glass subtype "
+  type: "Glass type "
+  source: 
+wikiname: Generic_glass_production
+usages:
+  default : { culletRatio : optional }
+

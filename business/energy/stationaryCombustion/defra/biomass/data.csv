@@ -1,0 +1,6 @@
+"fuel","massIndirectCO2ePerMass","massBiogenicCO2ePerMass","massIndirectCO2ePerEnergy","massBiogenicCO2ePerEnergy","units","source"
+"wood logs",77.38,1435.29,0.01895,0.35150,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
+"wood chips",61.41,1372.00,0.01579,0.35400,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
+"wood pellets",183.93,1649.00,0.03895,0.34900,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
+"grasses/straw",41.08,1406.50,0.01020,0.34800,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
+"biogas",0.00,2040.00,0.00000,0.24600,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"

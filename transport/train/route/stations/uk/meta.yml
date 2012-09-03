@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- train
+- network
+- stations
+- data
+- UK
+provenance: 
+gallery: 
+show: "1"
+authority: 
+ivds: 
+  elevation: Elevation of station
+  name: Name of railway station
+  latitude: Latitudinal reference for station
+  postcode: UK postal code associated with station
+  code: Rail network code for railway station
+  longitude: Longitudinal reference for station
+  source: 
+wikiname: UK_train_stations

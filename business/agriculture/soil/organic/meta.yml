@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- agriculture
+- IPCC
+- IPCC_agriculture
+- IPCC_agriculture_soil
+- IPCC_tier1
+- soil
+- organic
+- calculation
+- direct
+- emission_factor
+- global
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_11_Ch11_N2O&CO2.pdf|IPCC]]"
+gallery: |-
+  <img src="http://ec.europa.eu/dgs/jrc/site_images/normal_11590.jpg" alt="IPCC defined Global Climatic Zones" width="650" height="407"/>
+show: "1"
+authority: enterprise
+ivds: 
+  massPerArea: Conversion factor for N,,2,,O-N
+  area: Area of managed soil under consideration
+  type: Type of land use
+  context: Climatic context
+  source: 
+wikiname: N2O_emissions_from_managed_organic_soils
+name: "IPCC methodology for drained/managed organic soils"

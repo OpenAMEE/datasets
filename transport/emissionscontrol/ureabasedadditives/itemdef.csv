@@ -1,0 +1,7 @@
+name,Urea-based catalysts
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Mass of urea-based additive,mass,DECIMAL,false,false,kg,,,
+Purity of additive,purity,DECIMAL,false,false,,,,
+Dummy data column,dummy,TEXT,true,false,,,,
+Source,source,TEXT,true,false,,,,

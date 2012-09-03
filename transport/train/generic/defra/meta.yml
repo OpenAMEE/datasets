@@ -1,0 +1,28 @@
+--- 
+data_items: []
+
+tags: 
+- deprecated
+- defra
+- train
+- calculation
+- emission_factor
+- direct
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|Defra]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  numberOfPassengers: Use if calculating for multiple passengers
+  distancePerJourney: distance travelled by train
+  isReturn: is this journey return? If so, the algorithm multiplies the distance by two
+  kgCO2ePerKmForN2O: N2O emission factor
+  type: type of rail transport
+  kgCO2PerKmPassenger: CO2 emission factor
+  numberOfJourneys: Use for multiple identical journeys, default 1
+  source: 
+  kgCO2ePerKmForCH4: CH4 emission factor
+wikiname: Train_generic_Defra
+usages:
+  default: { numberOfJourneys : optional, isReturn : optional, numberOfPassengers : optional }

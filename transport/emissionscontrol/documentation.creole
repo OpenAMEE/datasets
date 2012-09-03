@@ -1,0 +1,3 @@
+  This category contains data associated vehicular emissions control technologies. There is currently one subcategory providing a methodology sourced from the IPCC [[http://www.ipcc-nggip.iges.or.jp/|Guidelines for National Greenhouse Gas Inventories]] for calculating non-combustive CO,,2,, emissions from urea-based catalytic converters.
+
+See the [[Urea_based_additives]] page for more information.

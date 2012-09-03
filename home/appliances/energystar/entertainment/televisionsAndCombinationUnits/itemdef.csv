@@ -1,0 +1,10 @@
+name,Energy Star Televisions
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Company Name,companyName,TEXT,true,true,,,,
+Brand Name,brandName,TEXT,true,true,,,,
+Model,model,TEXT,true,true,,,,
+Series,series,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
+Number Owned,quantity,DECIMAL,false,false,,,1,
+Energy Per Time,energyPerTime,DECIMAL,true,false,kWh,year,,

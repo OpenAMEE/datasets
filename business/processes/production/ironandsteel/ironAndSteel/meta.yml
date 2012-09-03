@@ -1,0 +1,43 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_iron_and_steel_sector
+- iron
+- steel
+- IPCC
+- IPCC_industry
+- IPCC_industry_metal
+- IPCC_tier2
+- EPA
+- EPA_mandatory
+- EPA_mandatory_iron_and_steel
+- calculation
+- direct
+- mass_balance
+- emission_factor
+- global
+provenance: "Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for Iron and Steel"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  steelQuantity: Quantity of steel produced
+  ch4EM: "CH,,4,, emissions per unit of pig iron produced"
+  ironCarbon: Carbon content of produced iron (percent weight)
+  carbonContent: Carbon content of feedstock (percent weight)
+  gasQuantity: Quantity of by-product blast furnace gas
+  steelCarbon: Carbon content of produced steel (percent weight)
+  pigQuantity: Quantity of pig iron produced
+  materialQuantity: Quantity of feedstock consumed
+  gasCarbon: Carbon content of by-product blast furnace gas (percent weight)
+  ironQuantity: Quantity of iron produced
+  source: 
+  defCarbonContent: Default carbon content for feedstock (percent weight)
+  material: Feedstock used
+wikiname: Iron_and_Steel
+name: "IPCC methodology for iron and steel production - tier 2/3"
+usages:
+  default: { carbonContent : optional, steelCarbon : optional, ironCarbon : optional, gasCarbon : optional, ch4EM : optional }
+

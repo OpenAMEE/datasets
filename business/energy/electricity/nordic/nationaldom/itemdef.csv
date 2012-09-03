@@ -1,0 +1,11 @@
+name,Electricity Disclosure - National Domain
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Year,year,TEXT,true,true,,,,
+Country,country,TEXT,true,true,,,,
+CO2 emissions intensity for renewable generation,massPerEnergyRenewable,DECIMAL,true,false,g,kWh,,
+CO2 emissions intensity for nuclear generation,massPerEnergyNuclear,DECIMAL,true,false,g,kWh,,
+CO2 emissions intensity for fossil generation,massPerEnergyFossil,DECIMAL,true,false,g,kWh,,
+Total CO2 emissions intensity,massPerEnergyTotal,DECIMAL,true,false,g,kWh,,
+Quantity of electricity used,energy,DECIMAL,false,false,kWh,,,
+Source,source,TEXT,true,false,,,,

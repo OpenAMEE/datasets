@@ -1,0 +1,13 @@
+name,Pulp and paper pulping liquor emissions
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type of Pulping Liquor,type,TEXT,true,true,,,,
+Wood Furnish,woodFurnish,TEXT,true,true,,,,
+Typical Carbon Content (percent),carbonContent,DECIMAL,true,false,,,,
+Higher heating value,energyPerMassGross,DECIMAL,true,false,GJ,t,,
+Lower heating value,energyPerMassNet,DECIMAL,true,false,GJ,t,,
+Mass of pulping liquor consumed,mass,DECIMAL,false,false,t,,,
+Quantity of energy consumed,energy,DECIMAL,false,false,GJ,,,
+User higher heating value,useGross,TEXT,false,false,,,false,
+Oxidation factor,oxidationCorrectionFactor,DECIMAL,false,false,,,0.99,
+Source,source,TEXT,true,false,,,,

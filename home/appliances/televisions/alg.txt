@@ -1,0 +1,1 @@
+kW * hoursPerMonth * 0.527

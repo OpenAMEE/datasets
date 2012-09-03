@@ -1,0 +1,2 @@
+fuel,useContext,massCO2PerEnergy,massCH4PerEnergy,massN2OPerEnergy,energyPerVolume,units,source
+heavy fuel oil,ocean-going ship,74100,7,2,0.036200,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf

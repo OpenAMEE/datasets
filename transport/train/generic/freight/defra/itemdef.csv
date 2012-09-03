@@ -1,0 +1,10 @@
+name, Train Freight DEFRA
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel,fuel,TEXT,true,true,,,,
+kgCO2 Per Tonne Km,kgCO2PerTonneKm,DECIMAL,true,false,,,,
+kgCO2 Equivalent Per Tonne Km for CH4,kgCO2ePerTonneKmForCH4,DECIMAL,true,false,,,,
+kgCO2 Equivalent Per Tonne Km for N2O,kgCO2ePerTonneKmForN2O,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Load Mass,mass,DECIMAL,false,false,t,,,
+Distance,distance,DECIMAL,false,false,km,,,

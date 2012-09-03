@@ -1,0 +1,10 @@
+name,Car Bands
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Band,band,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
+kgCO2 per km min,kgCO2PerKmMin,DECIMAL,true,false,,,,
+kgCO2 per km max,kgCO2PerKmMax,DECIMAL,true,false,,,,
+kgCO2 per km,kgCO2PerKm,DECIMAL,true,false,,,,
+distance Km Per Month,distanceKmPerMonth,DECIMAL,false,false,km,month,,
+Distance,distance,DECIMAL,false,false,km,year,,

@@ -1,0 +1,5 @@
+type,kgCO2PerPound,units,source
+food_drink_tobacco,1.516,kgCO2/£,dgen 2003 www.statistics.gov.uk
+clothing_footwear,0.632,kgCO2/£,dgen 2003 www.statistics.gov.uk
+household_personal,0.555,kgCO2/£,dgen 2003 www.statistics.gov.uk
+leisure_services,0.988,kgCO2/£,dgen 2003 www.statistics.gov.uk

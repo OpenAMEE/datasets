@@ -1,0 +1,8 @@
+name,Lighting
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,normal,
+kWh Per Year,kWhPerYear,DECIMAL,true,false,,,0,
+Source,source,TEXT,true,false,,,,
+Number Of Light Bulbs,noOfLightBulbs,INTEGER,false,false,,,0,
+Number Of Low Energy Light Bulbs,noOfLowEnergyLightBulbs,INTEGER,false,false,,,0,

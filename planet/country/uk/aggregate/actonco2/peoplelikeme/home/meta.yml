@@ -1,0 +1,27 @@
+--- 
+data_items: []
+
+provenance: Act on CO2
+tags: 
+- UK
+- typical
+- aggregate
+- home
+- heating
+- lighting
+- data
+- benchmark
+- direct
+- actonco2
+authority: recommended
+show: "1"
+gallery: 
+ivds: 
+  heatingCO2: Typical CO,,2,, emissions associated with heating
+  numberOfBedrooms: 
+  fuel: Heating fuel used
+  lightingCO2: Typical CO,,2,, emissions associated with lighting
+  homeType: Type of home
+  age: Home age
+  source: 
+wikiname: People_Like_Me_Home

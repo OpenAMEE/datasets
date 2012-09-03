@@ -1,0 +1,11 @@
+The AMEE category /transport/ship contains data and methodologies for calculating ship-associated greenhouse gas emissions. Several subcategories are available which provide functionality for calculating passenger-oriented emissions and those related to ship-based freighting of goods.
+
+==Generic ship transport==
+The [[Generic_ship_transport|Generic ship transport]] category contains greenhouse gas emissions data relating to ferry travel relating to the United Kingdom and Republic of Ireland. The methodology uses distance-based, //per passenger// emissions factors, requiring the user to specify the distance travelled. Users may calculate according to single 'one-off' journeys, or by repeated journeys, and ppecific options relate to walk-on and car-associated ferry travel. This category returns CO,,2,, emissions only and should be considered as a useful first entry point for ship-related transport.
+
+==Generic ship transport by DEFRA==
+The [[Ship_generic_Defra|DEFRA ship transport]] category contains greenhouse gas emissions data relating to ferry travel, sourced from the UK government agency [[http://www.defra.gov.uk/environment/business/reporting/conversion-factors.htm|DEFRA]]. The methodology uses distance-based, //per passenger// emissions factors, requiring the user to specify the distance travelled and returns CO,,2,,, CH,,4,, and N,,2,,O emissions related to walk-on or car-associated ferry travel.
+
+==Ship freighting==
+The [[Ship_freighting|Ship freighting]] category provides data and methodologies sourced from the UK government agency [[http://www.defra.gov.uk/environment/business/reporting/pdf/ghg-cf-guidelines2008.pdf|DEFRA]] and the World Resources Institute [[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol (GHGP)]] for calculating greenhouse gas emissions related to ship-based freighting. These methodologies use distance-based, //per mass// of freight emissions factors, requiring the user to specify the distance and mass of freight transported in order to obtain an emissions estimate.
+

@@ -1,0 +1,7 @@
+name,Plane Class
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Type,type,TEXT,true,true,,,,
+Passenger class,passengerClass,TEXT,true,true,,,,
+kgCO2 Per Passenger Km,kgCO2PerPassengerKm,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,

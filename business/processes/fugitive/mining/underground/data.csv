@@ -1,0 +1,4 @@
+mineDepth,volumeCH4PerMassMining,volumeCH4PerMassPostMining,units,source
+less than 200 m,10,0.9,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+200 m to 400 m,18,2.5,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf
+greater than 400 m,25,4.0,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_4_Ch4_Fugitive_Emissions.pdf

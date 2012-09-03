@@ -1,0 +1,6 @@
+state=WY&type=non+baseload
+massSO2PerEnergy
+start,value
+2004-01-01T00:00:00+00:00 (GMT),3.069
+2005-01-01T00:00:00+00:00 (GMT),2.5677
+2007-01-01T00:00:00+00:00 (GMT),2.3776

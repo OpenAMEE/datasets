@@ -1,0 +1,13 @@
+name,ICE v2 window
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Frame type,type,TEXT,true,true,,,,
+Glazing type,glazing,TEXT,true,true,,,,
+Calculation basis,basis,TEXT,true,true,,,,
+Embodied energy per window,energyPerWindow,DECIMAL,true,false,MJ,,,
+Embodied CO2 per window,massCO2PerWindow,DECIMAL,true,false,kg,,,
+Life cycle analysis boundary,boundary,TEXT,true,false,,,,
+Publication notes,note,TEXT,true,false,,,,
+Number of windows,number,DECIMAL,false,false,,,,
+Air space fill,fill,TEXT,false,false,,,Air,Air,Argon,Krypton,Xenon
+Source,source,TEXT,true,false,,,,

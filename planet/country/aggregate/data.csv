@@ -1,0 +1,233 @@
+country,change,cumulative,annual2006,perCapita,rank,units,source
+Mexico,24,11463.7,436.0,4.05396825759732,15,Dummy,http://www.eia.doe.gov/environment.html
+Guinea-Bissau,20,,0.4,0.27859142012528,183,Dummy,http://www.eia.doe.gov/environment.html
+Afghanistan,-84,77.1,1.0,0.025773055912296,169,Dummy,http://www.eia.doe.gov/environment.html
+Ethiopia,67,93.5,5.0,0.068607879157667,125,Dummy,http://www.eia.doe.gov/environment.html
+Costa Rica,22,127.6,6.0,1.4116817067674,116,Dummy,http://www.eia.doe.gov/environment.html
+Bosnia and Herzegovina,74,666.6,17.0,3.86912509517555,85,Dummy,http://www.eia.doe.gov/environment.html
+United Kingdom,-1,67906.8,586.0,9.6637552164123,8,Dummy,http://www.eia.doe.gov/environment.html
+United Arab Emirates,31,1660.3,150.0,35.0508879604148,32,Dummy,http://www.eia.doe.gov/environment.html
+"Virgin Islands, British",39,,0.1,4.27349304058375,205,Dummy,http://www.eia.doe.gov/environment.html
+Tonga,17,2.6,0.2,1.35449841408402,200,Dummy,http://www.eia.doe.gov/environment.html
+Montserrat,39,,0.1,7.67091734157895,209,Dummy,http://www.eia.doe.gov/environment.html
+Pakistan,24,2303.0,126.0,0.77650223225777,34,Dummy,http://www.eia.doe.gov/environment.html
+Libya,22,1158.3,54.0,9.06884575466259,55,Dummy,http://www.eia.doe.gov/environment.html
+Somalia,23,,1.0,0.083638336581848,170,Dummy,http://www.eia.doe.gov/environment.html
+Cape Verde,55,4.7,0.3,0.61973004439419,191,Dummy,http://www.eia.doe.gov/environment.html
+Bolivia,41,260.1,12.0,1.38082457497426,94,Dummy,http://www.eia.doe.gov/environment.html
+Montenegro,,,,,,Dummy,http://www.eia.doe.gov/environment.html
+Nicaragua,36,99.6,5.0,0.82012761117435,123,Dummy,http://www.eia.doe.gov/environment.html
+Dominica,17,2.2,0.1,1.35617040522575,206,Dummy,http://www.eia.doe.gov/environment.html
+Sweden,-18,4239.6,57.0,6.36218439562105,54,Dummy,http://www.eia.doe.gov/environment.html
+Czech Republic,-15,10006.1,116.0,11.3629258474188,36,Dummy,http://www.eia.doe.gov/environment.html
+Falkland Islands (Islas Malvinas),20,,,,210,Dummy,http://www.eia.doe.gov/environment.html
+Russia,5,90135.0,1704.0,11.9966386173608,3,Dummy,http://www.eia.doe.gov/environment.html
+Greece,19,2535.4,107.0,10.0181262364913,38,Dummy,http://www.eia.doe.gov/environment.html
+Guadeloupe,19,,2.0,,147,Dummy,http://www.eia.doe.gov/environment.html
+Cambodia,20,20.5,1.0,0.047405185849963,180,Dummy,http://www.eia.doe.gov/environment.html
+Ireland,32,1584.5,47.0,11.5363889142747,64,Dummy,http://www.eia.doe.gov/environment.html
+Syria,17,1096.7,51.0,2.70546577546633,61,Dummy,http://www.eia.doe.gov/environment.html
+Denmark,-23,3446.3,59.0,10.8485374987453,60,Dummy,http://www.eia.doe.gov/environment.html
+Vanuatu,38,2.8,0.1,0.50611565216169,203,Dummy,http://www.eia.doe.gov/environment.html
+Norway,12,1790.0,45.0,9.79237297280491,65,Dummy,http://www.eia.doe.gov/environment.html
+Gabon,-28,148.2,4.0,3.03984069076086,119,Dummy,http://www.eia.doe.gov/environment.html
+New Caledonia,30,,3.0,11.8548369451039,137,Dummy,http://www.eia.doe.gov/environment.html
+Malawi,25,32.7,1.0,0.074433704545218,165,Dummy,http://www.eia.doe.gov/environment.html
+Djibouti,9,11.5,2.0,4.11651837578498,150,Dummy,http://www.eia.doe.gov/environment.html
+Namibia,50,27.3,3.0,1.31673248416161,138,Dummy,http://www.eia.doe.gov/environment.html
+Switzerland,1,2398.5,46.0,6.05586064379461,63,Dummy,http://www.eia.doe.gov/environment.html
+Samoa,19,4.0,0.2,0.79581543074469,199,Dummy,http://www.eia.doe.gov/environment.html
+Chad,17,6.5,0.2,0.021647971339539,196,Dummy,http://www.eia.doe.gov/environment.html
+Bhutan,19,6.3,0.3,0.48839972129605,186,Dummy,http://www.eia.doe.gov/environment.html
+Haiti,38,38.1,2.0,0.21081528225853,151,Dummy,http://www.eia.doe.gov/environment.html
+Tajikistan,36,513.8,7.0,1.05923630943452,106,Dummy,http://www.eia.doe.gov/environment.html
+Vietnam,57,1315.7,92.0,1.08555896648616,42,Dummy,http://www.eia.doe.gov/environment.html
+Asia & Oceania,39,,11220.0,3.07438668599098,,Dummy,http://www.eia.doe.gov/environment.html
+Guyana,37,,2.0,2.14652894068536,152,Dummy,http://www.eia.doe.gov/environment.html
+Turkmenistan,64,1746.8,50.0,10.0265876999016,62,Dummy,http://www.eia.doe.gov/environment.html
+Kuwait,34,1605.3,75.0,30.9249654862401,46,Dummy,http://www.eia.doe.gov/environment.html
+Canada,15,23930.0,614.0,18.8117471452485,7,Dummy,http://www.eia.doe.gov/environment.html
+France,6,31775.7,418.0,6.59691993951258,14,Dummy,http://www.eia.doe.gov/environment.html
+Serbia,,2223.4,,,,Dummy,http://www.eia.doe.gov/environment.html
+Venezuela,12,5004.4,152.0,5.92654542795016,31,Dummy,http://www.eia.doe.gov/environment.html
+Belize,73,12.4,1.0,3.43954712626249,163,Dummy,http://www.eia.doe.gov/environment.html
+Italy,9,17886.5,468.0,8.04967160891066,10,Dummy,http://www.eia.doe.gov/environment.html
+Equatorial Guinea,68,38.2,5.0,8.37105132961645,121,Dummy,http://www.eia.doe.gov/environment.html
+Tanzania,47,106.4,5.0,0.12146523681621,126,Dummy,http://www.eia.doe.gov/environment.html
+Algeria,9,2161.2,93.0,2.82658645063244,41,Dummy,http://www.eia.doe.gov/environment.html
+Africa,20,,1057.0,1.15632902820977,,Dummy,http://www.eia.doe.gov/environment.html
+Lebanon,8,407.9,14.0,3.69286581665845,88,Dummy,http://www.eia.doe.gov/environment.html
+Azerbaijan,2,1943.1,40.0,4.93687638990803,71,Dummy,http://www.eia.doe.gov/environment.html
+Israel,26,1434.2,67.0,9.80481850158378,49,Dummy,http://www.eia.doe.gov/environment.html
+Eurasia,7,,2601.0,9.11256440303288,,Dummy,http://www.eia.doe.gov/environment.html
+Nigeria,-1,2179.3,101.0,0.76650963587253,37,Dummy,http://www.eia.doe.gov/environment.html
+Austria,15,4432.2,76.0,9.32409088771823,44,Dummy,http://www.eia.doe.gov/environment.html
+Hungary,-1,4009.3,59.0,5.87600089673145,53,Dummy,http://www.eia.doe.gov/environment.html
+Solomon Islands,19,4.8,0.2,0.38332022635198,195,Dummy,http://www.eia.doe.gov/environment.html
+China,51,89243.0,6018.0,4.57976564824026,2,Dummy,http://www.eia.doe.gov/environment.html
+Former Yugoslavia,,,,,,Dummy,http://www.eia.doe.gov/environment.html
+Congo (Brazzaville),44,60.5,6.0,1.49293295402125,118,Dummy,http://www.eia.doe.gov/environment.html
+Angola,43,249.7,21.0,1.76718819924279,80,Dummy,http://www.eia.doe.gov/environment.html
+Kazakhstan,33,10021.4,213.0,14.0152976397178,26,Dummy,http://www.eia.doe.gov/environment.html
+Guam,-70,,2.0,11.0561492980364,146,Dummy,http://www.eia.doe.gov/environment.html
+Burkina Faso,34,23.7,1.0,0.074751955790946,162,Dummy,http://www.eia.doe.gov/environment.html
+Peru,14,1045.1,30.0,1.05272985119381,74,Dummy,http://www.eia.doe.gov/environment.html
+Latvia,-13,549.1,9.0,3.84230194184933,103,Dummy,http://www.eia.doe.gov/environment.html
+Bangladesh,47,562.6,43.0,0.29005628991172,66,Dummy,http://www.eia.doe.gov/environment.html
+Netherlands Antilles,-5,,11.0,49.1306075122962,99,Dummy,http://www.eia.doe.gov/environment.html
+Luxembourg,27,634.8,12.0,26.2826091715663,93,Dummy,http://www.eia.doe.gov/environment.html
+Bahrain,41,392.5,27.0,38.4389059135927,76,Dummy,http://www.eia.doe.gov/environment.html
+Malta,16,65.2,3.0,7.78283458166867,134,Dummy,http://www.eia.doe.gov/environment.html
+Colombia,8,2137.4,62.0,1.41825047639409,52,Dummy,http://www.eia.doe.gov/environment.html
+Panama,14,167.3,14.0,4.5216820064663,90,Dummy,http://www.eia.doe.gov/environment.html
+Oman,58,398.3,35.0,11.1898905772912,73,Dummy,http://www.eia.doe.gov/environment.html
+"Gambia, The",29,6.6,0.3,0.19105264495145,188,Dummy,http://www.eia.doe.gov/environment.html
+Netherlands,12,8922.8,260.0,15.7930682780132,23,Dummy,http://www.eia.doe.gov/environment.html
+Philippines,17,1833.2,72.0,0.80913301060571,45,Dummy,http://www.eia.doe.gov/environment.html
+Burundi,3,6.1,0.4,0.046943599780116,185,Dummy,http://www.eia.doe.gov/environment.html
+Antarctica,11,,0.3,,192,Dummy,http://www.eia.doe.gov/environment.html
+Germany,-4,79450.4,858.0,10.404926349997,6,Dummy,http://www.eia.doe.gov/environment.html
+Central & South America,21,,1138.0,2.5080222789588,,Dummy,http://www.eia.doe.gov/environment.html
+Macau,35,,2.0,5.02475807926342,148,Dummy,http://www.eia.doe.gov/environment.html
+Armenia,20,254.4,10.0,3.47527421250334,100,Dummy,http://www.eia.doe.gov/environment.html
+Nepal,44,46.1,3.0,0.10612144134664,135,Dummy,http://www.eia.doe.gov/environment.html
+Mauritius,40,52.1,4.0,3.22064241340856,130,Dummy,http://www.eia.doe.gov/environment.html
+Former U.S.S.R.,,,,,,Dummy,http://www.eia.doe.gov/environment.html
+Bulgaria,-9,3107.8,49.0,6.6260727457721,58,Dummy,http://www.eia.doe.gov/environment.html
+Hong Kong,43,,85.0,12.2275591123843,43,Dummy,http://www.eia.doe.gov/environment.html
+Indonesia,15,6174.1,280.0,1.20939744519839,20,Dummy,http://www.eia.doe.gov/environment.html
+Lesotho,21,4.0,0.2,0.10687045100108,194,Dummy,http://www.eia.doe.gov/environment.html
+Slovakia,-15,3349.4,38.0,7.01440641022378,68,Dummy,http://www.eia.doe.gov/environment.html
+Saint Pierre and Miquelon,-3,,0.1,11.8716406820692,207,Dummy,http://www.eia.doe.gov/environment.html
+Sierra Leone,29,25.8,1.0,0.19846822176518,159,Dummy,http://www.eia.doe.gov/environment.html
+Jordan,28,338.7,20.0,3.36803991829388,81,Dummy,http://www.eia.doe.gov/environment.html
+Cyprus,24,169.7,9.0,11.3659693411908,102,Dummy,http://www.eia.doe.gov/environment.html
+Reunion,33,,3.0,,136,Dummy,http://www.eia.doe.gov/environment.html
+"Germany, West",,,,,,Dummy,http://www.eia.doe.gov/environment.html
+Ukraine,-11,22956.4,329.0,7.05109641694011,19,Dummy,http://www.eia.doe.gov/environment.html
+Bermuda,21,,1.0,10.0657807044935,175,Dummy,http://www.eia.doe.gov/environment.html
+Yemen,40,323.1,18.0,0.84214815334034,84,Dummy,http://www.eia.doe.gov/environment.html
+Croatia,19,743.6,21.0,4.76799583070944,79,Dummy,http://www.eia.doe.gov/environment.html
+Aruba,38,,1.0,9.45766843698977,160,Dummy,http://www.eia.doe.gov/environment.html
+Belgium,3,10653.4,148.0,14.2188518038433,30,Dummy,http://www.eia.doe.gov/environment.html
+Liberia,27,37.8,1.0,0.17890394608029,181,Dummy,http://www.eia.doe.gov/environment.html
+Grenada,38,4.3,0.3,3.03412278267432,193,Dummy,http://www.eia.doe.gov/environment.html
+Thailand,31,3287.0,245.0,3.79129997474092,24,Dummy,http://www.eia.doe.gov/environment.html
+Botswana,27,74.7,4.0,2.38871543878711,128,Dummy,http://www.eia.doe.gov/environment.html
+Cuba,-6,1225.5,29.0,2.52074946847202,75,Dummy,http://www.eia.doe.gov/environment.html
+"Bahamas, The",29,137.5,5.0,16.4752293932934,120,Dummy,http://www.eia.doe.gov/environment.html
+Estonia,-5,1020.3,19.0,14.0552790892896,82,Dummy,http://www.eia.doe.gov/environment.html
+Macedonia,-38,395.1,7.0,3.496270811501,105,Dummy,http://www.eia.doe.gov/environment.html
+Tunisia,27,490.2,21.0,2.06064220705691,78,Dummy,http://www.eia.doe.gov/environment.html
+Togo,75,28.2,3.0,0.45213113517511,145,Dummy,http://www.eia.doe.gov/environment.html
+Sudan,68,203.1,12.0,0.3178740769353,95,Dummy,http://www.eia.doe.gov/environment.html
+U.S. Pacific Islands,-2,,0.3,1.09798272220438,190,Dummy,http://www.eia.doe.gov/environment.html
+Sri Lanka,36,250.2,13.0,0.60550711406196,92,Dummy,http://www.eia.doe.gov/environment.html
+Central African Republic,10,,0.3,0.075337390887132,187,Dummy,http://www.eia.doe.gov/environment.html
+French Guiana,10,,1.0,,161,Dummy,http://www.eia.doe.gov/environment.html
+Barbados,30,35.5,1.0,5.33736211980728,154,Dummy,http://www.eia.doe.gov/environment.html
+"Korea, South",22,9004.4,515.0,10.5336166753848,9,Dummy,http://www.eia.doe.gov/environment.html
+Saint Kitts and Nevis,25,2.0,0.1,3.57476515357243,201,Dummy,http://www.eia.doe.gov/environment.html
+World Total,22,,29195.0,4.47833433508452,,Dummy,http://www.eia.doe.gov/environment.html
+Timor-Leste (East Timor),,,,,,Dummy,http://www.eia.doe.gov/environment.html
+Mauritania,-15,62.6,3.0,0.95204941868405,133,Dummy,http://www.eia.doe.gov/environment.html
+Moldova,-25,722.1,8.0,1.7372168005671,108,Dummy,http://www.eia.doe.gov/environment.html
+Fiji,32,32.8,1.0,1.46684097823036,158,Dummy,http://www.eia.doe.gov/environment.html
+Taiwan,34,4736.9,300.0,13.1851180287308,21,Dummy,http://www.eia.doe.gov/environment.html
+Comoros,26,2.0,0.1,0.16343987012069,202,Dummy,http://www.eia.doe.gov/environment.html
+French Polynesia,23,,1.0,3.36729947358053,166,Dummy,http://www.eia.doe.gov/environment.html
+South Africa,20,13271.3,444.0,10.0385209055655,12,Dummy,http://www.eia.doe.gov/environment.html
+Maldives,51,6.6,1.0,2.02415161705309,178,Dummy,http://www.eia.doe.gov/environment.html
+Niue,32,0.1,0.0,,214,Dummy,http://www.eia.doe.gov/environment.html
+"Germany, East",,,,,,Dummy,http://www.eia.doe.gov/environment.html
+Georgia,-22,562.1,5.0,1.00010831118321,122,Dummy,http://www.eia.doe.gov/environment.html
+Spain,34,10156.9,373.0,9.22371725474781,17,Dummy,http://www.eia.doe.gov/environment.html
+Zimbabwe,-46,614.2,10.0,0.84433598605458,98,Dummy,http://www.eia.doe.gov/environment.html
+Papua New Guinea,43,76.2,5.0,0.81969274290123,129,Dummy,http://www.eia.doe.gov/environment.html
+Iran,44,7589.7,471.0,7.25073864876248,11,Dummy,http://www.eia.doe.gov/environment.html
+Martinique,15,,2.0,,144,Dummy,http://www.eia.doe.gov/environment.html
+United States,7,324603.6,5903.0,19.7784009692158,1,Dummy,http://www.eia.doe.gov/environment.html
+Uzbekistan,14,6008.0,121.0,4.42531301689566,35,Dummy,http://www.eia.doe.gov/environment.html
+Finland,9,2396.8,58.0,11.146115214435,59,Dummy,http://www.eia.doe.gov/environment.html
+Uganda,41,47.7,2.0,0.059317824905842,153,Dummy,http://www.eia.doe.gov/environment.html
+Mongolia,-3,284.3,8.0,2.90595955778026,104,Dummy,http://www.eia.doe.gov/environment.html
+Eritrea,-51,9.1,1.0,0.15400879207209,172,Dummy,http://www.eia.doe.gov/environment.html
+Gibraltar,27,,4.0,160.217714823497,127,Dummy,http://www.eia.doe.gov/environment.html
+Saudi Arabia,41,6221.8,424.0,15.6953767924576,16,Dummy,http://www.eia.doe.gov/environment.html
+Portugal,21,1727.2,62.0,5.81858828046979,50,Dummy,http://www.eia.doe.gov/environment.html
+Zambia,14,178.8,3.0,0.22738322767814,141,Dummy,http://www.eia.doe.gov/environment.html
+Saint Lucia,49,6.7,0.4,2.27189711476871,184,Dummy,http://www.eia.doe.gov/environment.html
+Kiribati,42,1.1,0.0,0.3619572031562,211,Dummy,http://www.eia.doe.gov/environment.html
+Iraq,22,2186.1,99.0,3.69443480170378,40,Dummy,http://www.eia.doe.gov/environment.html
+Morocco,21,812.3,35.0,1.03656042881293,69,Dummy,http://www.eia.doe.gov/environment.html
+Argentina,20,5528.6,162.0,4.06266469090142,29,Dummy,http://www.eia.doe.gov/environment.html
+Malaysia,38,2373.9,164.0,6.70228091732996,28,Dummy,http://www.eia.doe.gov/environment.html
+Saint Helena,52,,0.0,1.77914338575528,213,Dummy,http://www.eia.doe.gov/environment.html
+India,35,25167.0,1293.0,1.1632208664803,5,Dummy,http://www.eia.doe.gov/environment.html
+El Salvador,30,135.2,6.0,0.91899740428822,114,Dummy,http://www.eia.doe.gov/environment.html
+Greenland,13,,1.0,10.8525813575983,177,Dummy,http://www.eia.doe.gov/environment.html
+Cayman Islands,19,,0.4,9.19744705675347,182,Dummy,http://www.eia.doe.gov/environment.html
+Egypt,28,3079.2,152.0,1.92050395278527,27,Dummy,http://www.eia.doe.gov/environment.html
+Australia,27,12014.3,417.0,20.581204591886,13,Dummy,http://www.eia.doe.gov/environment.html
+Suriname,25,82.2,2.0,4.30837072350658,149,Dummy,http://www.eia.doe.gov/environment.html
+Congo (Kinshasa),-54,170.4,3.0,0.040172248828239,142,Dummy,http://www.eia.doe.gov/environment.html
+Hawaiian Trade Zone,,,,,,Dummy,http://www.eia.doe.gov/environment.html
+Honduras,48,115.5,7.0,1.01879244239216,107,Dummy,http://www.eia.doe.gov/environment.html
+Guinea,10,,1.0,0.14338609864236,155,Dummy,http://www.eia.doe.gov/environment.html
+Nauru,10,,0.2,13.6471083196961,198,Dummy,http://www.eia.doe.gov/environment.html
+Falkland Islands ,,,0.0,,,Dummy,http://www.eia.doe.gov/environment.html
+Belarus,7,4052.1,65.0,6.67662319176347,51,Dummy,http://www.eia.doe.gov/environment.html
+Burma (Myanmar),51,300.8,13.0,0.27399186574134,89,Dummy,http://www.eia.doe.gov/environment.html
+"Korea, North",7,3889.2,78.0,3.35789642396571,47,Dummy,http://www.eia.doe.gov/environment.html
+Former Czechoslovakia,,,,,,Dummy,http://www.eia.doe.gov/environment.html
+Antigua and Barbuda,28,15.3,1.0,9.59704995454128,174,Dummy,http://www.eia.doe.gov/environment.html
+Swaziland,20,18.1,1.0,0.91235221263256,164,Dummy,http://www.eia.doe.gov/environment.html
+Niger,8,31.2,1.0,0.10028481312644,157,Dummy,http://www.eia.doe.gov/environment.html
+Albania,58,219.2,5.0,1.30904881065561,124,Dummy,http://www.eia.doe.gov/environment.html
+Mali,29,17.2,1.0,0.064647192896965,171,Dummy,http://www.eia.doe.gov/environment.html
+Middle East,38,,1505.0,8.04077653839141,,Dummy,http://www.eia.doe.gov/environment.html
+Slovenia,5,598.4,18.0,8.76621498913493,86,Dummy,http://www.eia.doe.gov/environment.html
+Poland,-14,22474.8,303.0,7.87340810447902,22,Dummy,http://www.eia.doe.gov/environment.html
+Brunei,65,258.3,10.0,26.8934913792736,110,Dummy,http://www.eia.doe.gov/environment.html
+New Zealand,15,1296.4,38.0,9.38024055435518,72,Dummy,http://www.eia.doe.gov/environment.html
+Former Serbia and Montenegro,5,,52.0,4.81427084989697,56,Dummy,http://www.eia.doe.gov/environment.html
+Turks and Caicos Islands,,,0.0,0.65174105134823,212,Dummy,http://www.eia.doe.gov/environment.html
+Mozambique,78,102.7,5.0,0.24247628669976,143,Dummy,http://www.eia.doe.gov/environment.html
+Cote d'Ivoire (IvoryCoast),9,160.8,6.0,0.35664230205402,112,Dummy,http://www.eia.doe.gov/environment.html
+Japan,9,42696.2,1247.0,9.77738390245974,4,Dummy,http://www.eia.doe.gov/environment.html
+Kyrgyzstan,-43,417.8,5.0,0.94901530141202,117,Dummy,http://www.eia.doe.gov/environment.html
+Faroe Islands,4,,1.0,14.4745855980619,173,Dummy,http://www.eia.doe.gov/environment.html
+Romania,-28,6774.7,99.0,4.42261754033567,39,Dummy,http://www.eia.doe.gov/environment.html
+Western Sahara,26,,0.3,0.83546913199911,189,Dummy,http://www.eia.doe.gov/environment.html
+Trinidad and Tobago,49,694.3,47.0,44.3167212187259,70,Dummy,http://www.eia.doe.gov/environment.html
+Kenya,31,285.3,11.0,0.30067144675563,101,Dummy,http://www.eia.doe.gov/environment.html
+Sao Tome and Principe,20,2.1,0.1,0.51639838058223,204,Dummy,http://www.eia.doe.gov/environment.html
+American Samoa,6,,1.0,10.5912410449573,176,Dummy,http://www.eia.doe.gov/environment.html
+Dominican Republic,33,402.8,17.0,1.88803340153734,83,Dummy,http://www.eia.doe.gov/environment.html
+"Virgin Islands,  U.S.",34,,13.0,118.30438715295,91,Dummy,http://www.eia.doe.gov/environment.html
+Singapore,30,1109.7,141.0,31.4110740590887,33,Dummy,http://www.eia.doe.gov/environment.html
+Cook Islands,32,0.9,0.1,3.27611345264031,208,Dummy,http://www.eia.doe.gov/environment.html
+Benin,61,28.7,3.0,0.33656807986447,139,Dummy,http://www.eia.doe.gov/environment.html
+Ghana,44,157.8,7.0,0.32448419435337,111,Dummy,http://www.eia.doe.gov/environment.html
+Cameroon,5,161.6,7.0,0.40532161321289,109,Dummy,http://www.eia.doe.gov/environment.html
+Guatemala,44,213.4,11.0,0.90198896902485,97,Dummy,http://www.eia.doe.gov/environment.html
+Qatar,43,586.8,54.0,61.1872700605438,57,Dummy,http://www.eia.doe.gov/environment.html
+North America,8,,6954.0,15.852191359671,,Dummy,http://www.eia.doe.gov/environment.html
+Madagascar,50,56.8,3.0,0.13733342693589,140,Dummy,http://www.eia.doe.gov/environment.html
+Turkey,28,5122.8,236.0,3.34741577028347,25,Dummy,http://www.eia.doe.gov/environment.html
+Laos,36,18.8,1.0,0.09130159338538,179,Dummy,http://www.eia.doe.gov/environment.html
+Senegal,31,106.4,6.0,0.47034835822467,115,Dummy,http://www.eia.doe.gov/environment.html
+Chile,30,1676.6,65.0,4.01200907779669,48,Dummy,http://www.eia.doe.gov/environment.html
+Iceland,20,89.8,3.0,11.4970102815655,132,Dummy,http://www.eia.doe.gov/environment.html
+Wake Island,4,,1.0,,156,Dummy,http://www.eia.doe.gov/environment.html
+Saint Vincent/Grenadines,38,,0.2,1.73124251804361,197,Dummy,http://www.eia.doe.gov/environment.html
+Brazil,19,9136.3,377.0,2.00578652935903,18,Dummy,http://www.eia.doe.gov/environment.html
+Ecuador,22,575.7,25.0,1.87944125224617,77,Dummy,http://www.eia.doe.gov/environment.html
+Uruguay,22,280.4,6.0,1.846171385979,113,Dummy,http://www.eia.doe.gov/environment.html
+Jamaica,16,306.3,12.0,4.35949762938031,96,Dummy,http://www.eia.doe.gov/environment.html
+Rwanda,15,14.7,1.0,0.085836538987489,168,Dummy,http://www.eia.doe.gov/environment.html
+Paraguay,28,84.0,4.0,0.57757169018006,131,Dummy,http://www.eia.doe.gov/environment.html
+Puerto Rico,42,,41.0,10.5471363319498,67,Dummy,http://www.eia.doe.gov/environment.html
+Europe,5,,4721.0,7.98831856576906,,Dummy,http://www.eia.doe.gov/environment.html
+Lithuania,-1,864.8,16.0,4.38684918018205,87,Dummy,http://www.eia.doe.gov/environment.html
+Seychelles,43,7.5,1.0,11.3437859431537,167,Dummy,http://www.eia.doe.gov/environment.html

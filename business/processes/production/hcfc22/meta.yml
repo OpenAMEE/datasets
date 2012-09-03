@@ -1,0 +1,15 @@
+--- 
+data_items: []
+
+tags: 
+- HCFC_22
+- GHGP
+- IPCC
+- EPA
+provenance: "Based on the GHG Protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheet]] for HCFC-22 "
+gallery: 
+show: "0"
+authority: enterprise
+ivds: {}
+
+wikiname: HCFC22

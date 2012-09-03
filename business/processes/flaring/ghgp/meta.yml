@@ -1,0 +1,36 @@
+--- 
+data_items: []
+
+tags: 
+- GHGP
+- GHGP_iron_and_steel_sector
+- iron
+- steel
+- CH4
+- flaring
+- stoichiometries
+- calculation
+- direct
+- mass_balance
+- physical_properties
+- global
+provenance: "[[http://www.ghgprotocol.org/calculation-tools/all-tools|Greenhouse Gas Protocol]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  volume: Total volume of gas flared
+  gasHydrocarbonFraction: Molar fraction of hydrocarbon in gas, i.e. the ratio of moles of hydrocarbon to total moles in gas
+  hydrocarbonCarbonFraction: Molar fraction of carbon in hydrocarbon, i.e. the ratio of moles of carbon to moles of hydrocarbon
+  molarVolume: Molar volume of gas, i.e. the volume occupied by a given molar quantity of gas. If no facility-specific value is specified a default value is assumed
+  gasMethaneFraction: Molar fraction of methane in gas, i.e. the ratio of moles of methane to total moles in gas
+  type: Type of flaring practised. This does not require an explicit choice
+  combustionEfficiency: Efficiency of hydrocarbon combustion. If no facility-specific value is specified a default value is assumed
+  molecularMassCO2: The molecular mass of carbon dioxide
+  molecularMassCH4: The molecular mass of methane
+  cToCO2Stoichiometry: The stoichiometric factor relating the molar quantites of reactant carbon ~(C) and product carbon dioxide (CO,,2,,)
+  poundsInTonne: The number of pounds in one metric tonne
+wikiname: GHGP_Flaring
+usages:
+  default: { molarVolume : optional, combustionEfficiency : optional, molecularMassCO2 : optional, molecularMassCH4 : optional, cToCO2Stoichiometry : optional, poundsInTonne : optional }
+name: "Greenhouse Gas Protocol methodology for flaring"

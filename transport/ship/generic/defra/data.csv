@@ -1,0 +1,4 @@
+"type","kgCO2PerKmPassenger","kgCO2ePerKmForCH4","kgCO2ePerKmForN2O","units","source"
+"ferry",0.11516,0.00004,0.00089,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"by foot",0.01912,0.00001,0.00015,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"
+"by car",0.13216,0.00004,0.00102,"kgCO2e/pkm","http://www.defra.gov.uk/environment/business/reporting/pdf/20090928-guidelines-ghg-conversion-factors.xls"

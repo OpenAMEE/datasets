@@ -1,0 +1,23 @@
+--- 
+data_items: []
+
+provenance: "[[http://www.energystar.gov/index.cfm?c=home.index|Energystar]]"
+tags: 
+- energy_star
+- appliances
+- US
+- office
+- computer
+- workstation
+authority: enterprise
+show: "1"
+gallery: "nil"
+ivds: 
+  brand: 
+  productType: 
+  quantity: number of appliances to be included in calculation. Default of 1.
+  energyPerTime: CO2 emission factor for chosen product.
+  modelName: 
+  modelNumber: 
+  source: 
+wikiname: Computers_Workstations

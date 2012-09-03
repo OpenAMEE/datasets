@@ -1,0 +1,55 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- car
+- distance
+- fuel
+- travel
+- IPCC
+- europe
+- bus
+- heavy_goods
+- light_goods
+- motorcycle
+- IPCC
+- IPCC_tier1
+- IPCC_tier2
+- IPCC_tier3
+- IPCC_energy
+- IPCC_energy_mobile
+- calculation
+- emission_factor
+- direct
+- europe
+provenance: "[[http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/2_Volume2/V2_3_Ch3_Mobile_Combustion.pdf|IPCC]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  type: Type of vehicle
+  urbanCold: Proportion of driving represented by a 'urban' context from a cold engine start
+  fuelEfficiency: Fuel consumption efficiency of vehicle
+  massCH4PerDistanceUrbanCold: Methane emissions per unit distance travelled for a 'urban' driving context and a cold engine start
+  massN2OPerDistanceRural: Nitrous oxide emissions per unit distance travelled for a 'rural' driving context
+  massN2OPerDistanceUrbanHot: "Nitrous oxide emissions per unit distance travelled for a 'urban' driving context and a warm engine start "
+  occupancy: Total occupancy of vehicle
+  massCH4PerDistanceHighway: Methane emissions per unit distance travelled for a 'rural' driving context
+  technology: Type of emissions control technology
+  highway: Proportion of driving represented by a 'highway' context
+  fuel: Type of fuel used
+  massCH4PerDistanceRural: Methane emissions per unit distance travelled for a 'highway' driving context
+  rural: Proportion of driving represented by a 'rural' context
+  urbanhot: Proportion of driving represented by a 'urban' context from a warm engine start
+  massCH4PerDistanceUrbanHot: Methane emissions per unit distance travelled for a 'urban' driving context and a warm engine start
+  massN2OPerDistanceHighway: Nitrous oxide emissions per unit distance travelled for a 'highway' driving context
+  fuelConsumed: Total quantity of fuel consumed
+  massN2OPerDistanceUrbanCold: "Nitrous oxide emissions per unit distance travelled for a 'urban' driving context and a cold engine start "
+  distance: Total distance travelled
+wikiname: European_road_transport_by_IPCC
+usages:
+  byFuelOnly: { distance : forbidden, fuelEfficiency : ignored, occupancy : optional, urbanCold : ignored, urbanhot : ignored, highway : ignored, rural : ignored, density : optional }
+  byDistanceAndFuel: { fuelEfficiency : forbidden, occupancy : optional, urbanCold : optional, urbanhot : optional, highway : optional, rural : optional, density : optional }
+  byDistanceAndEfficiency: { fuelConsumed : ignored, occupancy : optional, urbanCold : optional, urbanhot : optional, highway : optional, rural : optional, density : optional }
+  order: [ byFuelOnly, byDistanceAndFuel, byDistanceAndEfficiency ]

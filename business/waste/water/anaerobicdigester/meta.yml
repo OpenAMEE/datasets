@@ -1,0 +1,33 @@
+--- 
+data_items: []
+
+tags: 
+- waste
+- water
+- methane_combustion
+- CH4
+- anaerobic_digestion
+- calculation
+- direct
+- mass_balance
+- US
+- EPA
+- EPA_mandatory
+- EPA_mandatory_wastewater
+provenance: "[[http://www.epa.gov/climatechange/emissions/archived/downloads/tsd/TSD%20wastewater_020409.pdf|EPA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  volumetricFlow: Volumetric flow rate of emissions from the digester
+  time: 
+  pressure: Pressure at which flow measured
+  type: 
+  destructionEfficiency: Destruction efficiency of methane combustion
+  CH4Concentration: 
+  temperature: 
+  source: 
+  density: Density of methane
+wikiname: Waste_water_treatment_anaerobic_digestion
+usages:
+  default: { density : optional, destructionEfficiency : optional }

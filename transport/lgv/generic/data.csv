@@ -1,0 +1,3 @@
+fuel,size,kgCO2PerKm,kgCO2PerKmUS,typicalDistance,units,source,algorithm
+diesel,articulated,0.917,-1,,kgCO2/km,defra ghg cf 2008,
+diesel,non articulated,0.895,-1,,kgCO2/km,defra ghg cf 2008,

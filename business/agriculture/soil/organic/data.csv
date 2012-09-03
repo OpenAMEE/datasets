@@ -1,0 +1,10 @@
+context,type,massPerArea,units,source
+temperate,crop,8.0,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+temperate,grassland,8.0,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+tropical,crop,16.0,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+tropical,grassland,16.0,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+temperate,nutrient rich forest,0.6,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+boreal,nutrient rich forest,0.6,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+temperate,nutrient poor forest,0.1,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+boreal,nutrient poor forest,0.1,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html
+tropical,forest,8.0,,http://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html

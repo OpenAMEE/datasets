@@ -1,0 +1,7 @@
+name,Magnesium Casting
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Magnesium Casting Process,magnesiumCastingProcess,TEXT,true,true,,,,
+Mass SF6 Produced Per Mass Product,massSF6PerMassProduct,DECIMAL,both,false,kg,t,,
+Quantity of Magnesium Casting,mgQuantity,DECIMAL,false,false,t,,,
+Source,source,TEXT,true,false,,,,

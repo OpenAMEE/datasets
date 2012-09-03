@@ -1,0 +1,31 @@
+--- 
+data_items: []
+
+provenance: http://www.bath.ac.uk/mech-eng/sert/embodied/
+tags: 
+- deprecated
+- embodied
+- building_materials
+- life_cycle
+- lca
+- ice
+- calculation
+- emission_factor
+- UK
+authority: Enterprise
+show: "0"
+gallery: 
+ivds: 
+  massSteel: 
+  mass: 
+  boundary: 
+  subsubtype: 
+  massEmbodiedCO2PerMass: 
+  type: 
+  subtype: 
+  embodiedEnergyPerMass: 
+  massEmbodiedCO2PerMassSteelPerVolume: 
+  source: 
+wikiname: Concrete
+usages:
+  default: { massSteel : optional }

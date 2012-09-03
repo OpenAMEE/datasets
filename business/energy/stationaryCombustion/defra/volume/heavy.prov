@@ -1,0 +1,15 @@
+Direct emissions data in prov:out http://www.defra.gov.uk/environment/business/reporting/pdf/101006-guidelines-ghg-conversion-factors-method-paper.pdf#'Annex%201%20Fuel%20Conversion%20Factors'! were based on prov:process the 2008 emissions factors for CO2 and activity-weighted emissions factors for CH4 and N2O published in prov:numeric nouri:"UK Greenhouse Gas Inventory 1990 to 2008".
+
+Emissions factors in prov:out http://www.defra.gov.uk/environment/business/reporting/pdf/101006-guidelines-ghg-conversion-factors-method-paper.pdf#'Annex%201%20Fuel%20Conversion%20Factors'! were converted into energy (gross and net) and volumetric bases using a prov:calculation based on prov:numeric http://www.decc.gov.uk/assets/decc/Statistics/publications/dukes/1_20100208131106_e_@@_dukes09.pdf .
+
+Indirect emissions data in prov:out http://www.defra.gov.uk/environment/business/reporting/pdf/101006-guidelines-ghg-conversion-factors-method-paper.pdf#'Annex%201%20Fuel%20Conversion%20Factors'! were produced by a prov:calculation based on prov:numeric nouri:"JEC - Joint Research Centre-EUCAR-CONCAWE collaboration, Well-to-Wheels analysis of future automotive fuels and powertrains in the European context, Version 3, 2008" and a prov:assumption nouri:"aliasing of unsupported fuels" as well as conversions into energy (gross and net) and volumetric bases using prov:numeric http://www.defra.gov.uk/environment/business/reporting/pdf/101006-guidelines-ghg-conversion-factors-method-paper.pdf#'Annex%2011%20Fuel%20Properties'! and prov:numeric http://www.defra.gov.uk/environment/business/reporting/pdf/101006-guidelines-ghg-conversion-factors-method-paper.pdf#'Annex%2012%20Unit%20Conversions'!
+
+prov:download
+prov:out svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+prov:manual
+prov:out csv_files:business/energy/stationaryCombustion/defra/volume
+prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%201%20Fuel%20Conversion%20Factors'!
+
+prov:ameem business/energy/stationaryCombustion/defra/volume

@@ -1,0 +1,41 @@
+            AMEE provides several categories for calculating and monitoring greenhouse gas emissions associated with primary production of Aluminium and related processes. 
+
+These methodologies and their associated data are sourced from the WRI Greenhouse Gas protocol [[http://www.ghgprotocol.org/calculation-tools/all-tools|worksheets]] and ultimately follow the IPCC 2006 [[http://www.ipcc-nggip.iges.or.jp/public/2006gl/index.html|Guidelines for National Greenhouse Gas Inventories]] and the //[[http://www.world-aluminium.org/cache/fl0000127.pdf|Aluminum Sector Greenhouse Gas Protocol]]// published by the International Aluminium Institute.
+
+The most significant process emissions covered by these methodologies relate to:
+
+* **CO,,2,,** emissions from the consumption of carbon anodes in the reaction to convert aluminium oxide to aluminium metal;
+ * **Perfluorocarbons** (PFC) emissions (specifically CF,,4,, and C,,2,,F,,6,,) during anode effects.
+
+==CO,,2,, emissions==
+The following AMEE categories provide functionality and data for calculating CO,,2,, emissions from aluminium manufacture:
+
+* [[Aluminium_defaults|Default]]: this category provides data and a calculation methodology for CO,,2,, emissions for anode/paste consumption using **default** emissions factors. This methodology can be used where no process data is available on use rates of carbon containing materials, and represents the IPCC //Tier 1// approach.
+
+* [[Aluminium_prebake_electrolysis|Prebake (electrolysis)]] - this category provides data and two calculation methodologies for CO,,2,, emissions from prebake cells (Centre-Worked Prebake (CWPB), Side-Worked Prebake (SWPB)). This category represents //Tiers 2 and 3// approach under the IPCC guidelines.
+
+* [[Aluminium_prebake_pitchcooking|Prebake (pitch cooking)]] - this category provides data and two calculation methodologies for CO,,2,, emissions relating to //pitch volatiles combustion// and //bake furnace paking material//. This category represents //Tiers 2 and 3// under the IPCC guidelines.
+
+* [[Aluminium_soderberg|Søderberg]] - this category provides data and calculation methodologies for CO,,2,, emissions related to Søderberg electrolysis processes, and represent //Tier 2 and 3// approaches for paste consumption under IPCC guidelines.
+
+* [[Aluminium_alternative|Alternative method]] - an 'alternative method' for calculating electrolysis process related CO,,2,, emissions is available in AMEE. This methodology is based on the carbon content of materials consumed, and is sourced ultimately from International Aluminium Institute guidelines.
+
+==PFC emissions==
+Methodologies relating to perfluorocarbon (PFC) emissions from electrolysis are available at the following AMEE categories:
+
+* [[Aluminium_PFC_Defaults|Default PFC methodology]] - this category provides a calculation methodology for CF,,4,, and C,,2,,F,,6,, emissions using default emissions factors. This category represents the //Tier 1// approach under the IPCC guidelines.
+
+* [[Aluminium_PFC_Overvoltage|Overvoltage PFC methodology]] - this category provides a calculation methodology for CF,,4,, and C,,2,,F,,6,, emissions based on data describing aluminium production and anode effect minutes per cell day. This methodology represents //Tier 2 and 3// approaches for PFC emissions under IPCC guidelines.
+
+* [[Aluminium_PFC_Slope|Slope PFC methodology]] - this category provides a calculation methodology for CF,,4,, and C,,2,,F,,6,, emissions based on anode effect overvoltage data. This methodology represents //Tier 2 and 3// approaches for PFC emissions under IPCC guidelines.
+
+==Related process emissions==
+Related process emissions are also available in the following categories:
+
+* [[Coke_calcination|Coke]] - this category provides a methodology for calculating the emissions associated with coke calcination. The methodology is sourced from //[[http://www.ghgprotocol.org/downloads/calcs/aluminium.pdf|The Aluminium Sector Greenhouse Gas Protocol]]// published by the International Aluminium Institute in conjunction with the WRI Greenhouse Gas Protocol.
+
+* [[Aluminium_soda_ash|Soda ash]] - this category provides a calculation methodology for CO,,2,, emissions related to the use of soda ash in aluminium production. This methodology is sourced originally from International Aluminium Institute guidelines.
+
+* [[Lime]] - this category provides data and calculation methodologies for CO,,2,, emissions related to the production of lime, and represent //Tier 2 and 3// approaches recommended under IPCC guidelines.
+
+can be calculated using the Soda Ash sub-category and the [[Lime]] category.

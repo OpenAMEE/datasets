@@ -1,0 +1,9 @@
+label,type,unit,per_unit,default
+CO2,DECIMAL,kg,,false
+ch4CO2e,DECIMAL,kg,,false
+n2oCO2e,DECIMAL,kg,,false
+hfcCO2e,DECIMAL,kg,,false
+pfcCO2e,DECIMAL,kg,,false
+sf6CO2e,DECIMAL,kg,,false
+totalCO2e,DECIMAL,kg,,true
+comment,TEXT,,,false

@@ -1,0 +1,37 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- defra
+- car
+- taxi
+- distance
+- class
+- market_segment
+- defra_annex6
+- calculation
+- emission_factor
+- direct
+- indirect
+- lca
+- UK
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds:
+  type: Type of vehicle
+  fuel: Fuel used by vehicle
+  class: Vehicle class / market segment
+  massCO2PerDistance: Quantity of direct CO,,2,, emissions per unit distance
+  massCH4PerDistance: Quantity of direct CH,,4,, emissions per unit distance (CO,,2,,e)
+  massN2OPerDistance: Quantity of direct N,,2,,O emissions per unit distance (CO,,2,,e)
+  massDirectCO2ePerDistance: Quantity of direct greenhouse gas emissions per unit distance (CO,,2,,e)
+  massIndirectCO2ePerDistance: Quantity of indirect greenhouse gas emissions per unit distance (CO,,2,,e)
+  massTotalCO2ePerDistance: Total quantity of greenhouse gas emissions per unit distance (CO,,2,,e)
+  distance: Distance travelled
+  occupancy: Vehicle occupancy
+wikiname: DEFRA_road_transport_methodology_by_vehicle_class
+usages:
+  default: { occupancy : optional }

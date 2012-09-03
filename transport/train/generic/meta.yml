@@ -1,0 +1,38 @@
+--- 
+data_items: []
+
+tags: 
+- transport
+- mobile
+- passenger
+- train
+- distance
+- actonco2
+- calculation
+- emission_factor
+- direct
+provenance: "[[http://www.defra.gov.uk/environment/economy/business-efficiency/reporting|DEFRA]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  country: 
+  kgCO2PerPassengerKmES: 
+  numberOfPassengers: Number of passengers under consideration
+  distancePerJourney: 
+  isReturn: Set "true" if return journey
+  distanceKmPerMonth: 
+  type: Rail journey type
+  typicalJourneyDistance: 
+  kgCO2PerPassengerKmIE: CO,,2,, emissions factor in Ireland
+  kgCO2PerKmPassenger: CO,,2,, emissions factor
+  numberOfJourneys: 
+  useTypicalDistance: Set "true" to use typical distance
+  journeyFrequency: 
+  source: 
+  distance: Distance travelled
+wikiname: Generic_train_transport
+usages:
+  byAbsoluteDistance: { country : optional, numberOfPassengers : optional, distancePerJourney : ignored, journeyFrequency : ignored, isReturn : ignored, numberOfJourneys : ignored, useTypicalDistance : ignored }
+  byMultipleJourneys: { country : optional, numberOfPassengers : optional, distance : forbidden, isReturn : optional, useTypicalDistance : optional }
+  order: [ byAbsoluteDistance, byMultipleJourneys ]

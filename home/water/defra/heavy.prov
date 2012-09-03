@@ -1,0 +1,39 @@
+prov:download
+prov:out svn:8510/internal/provenance/sources/water-uk-sustainability-indicators-2003-4.pdf
+prov:in http://www.water.org.uk/home/news/press-releases/water-industry-facing-up-to-the-challeng/final-report-03-04.pdf
+
+prov:download
+prov:out svn:8511/internal/provenance/sources/water-uk-sustainability-indicators-2004-5.pdf
+prov:in http://www.water.org.uk/home/policy/publications/archive/sustainability/indicators-04-05/sustainability-report-final2.pdf
+
+prov:download
+prov:out svn:8512/internal/provenance/sources/water-uk-sustainability-indicators-2005-6.pdf
+prov:in http://www.water.org.uk/home/policy/publications/archive/sustainability/indicators-2005-06/towards-sustainability-2005-2006.pdf
+
+prov:download
+prov:out svn:8513/internal/provenance/sources/water-uk-sustainability-indicators-2006-7.pdf
+prov:in http://www.water.org.uk/home/policy/publications/archive/sustainability/sustindicators06-07/sustainability.pdf
+
+prov:download
+prov:out svn:8514/internal/provenance/sources/water-uk-sustainability-indicators-2007-8.pdf
+prov:in http://www.water.org.uk/home/news/press-releases/sustainable-water/sustainability2008.pdf
+
+prov:download
+prov:out svn:8515/internal/provenance/sources/water-uk-sustainability-indicators-2008-9.pdf
+prov:in http://www.water.org.uk/home/news/press-releases/sustainability-indicators-2008-09/sustainability-2009.pdf
+
+prov:download
+prov:out svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+prov:manual
+prov:out csv_files:home/water/defra
+prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%209%20Other%20UK%20Factors'!B111:G122
+prov:in svn:8510/internal/provenance/sources/water-uk-sustainability-indicators-2003-4.pdf
+prov:in svn:8511/internal/provenance/sources/water-uk-sustainability-indicators-2004-5.pdf
+prov:in svn:8512/internal/provenance/sources/water-uk-sustainability-indicators-2005-6.pdf
+prov:in svn:8513/internal/provenance/sources/water-uk-sustainability-indicators-2006-7.pdf
+prov:in svn:8514/internal/provenance/sources/water-uk-sustainability-indicators-2007-8.pdf
+prov:in svn:8515/internal/provenance/sources/water-uk-sustainability-indicators-2008-9.pdf
+
+prov:ameem home/water/defra

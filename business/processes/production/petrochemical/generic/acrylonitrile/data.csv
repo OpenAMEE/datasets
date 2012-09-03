@@ -1,0 +1,4 @@
+"process","massCO2PerMass","massCH4PerMass","massFeedstockPerMass","units","source"
+"secondary products burned for energy recovery/flared",1.000,0.180,1.090,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf"
+"acetonitrile burned for energy recovery/flared",0.830,0.180,1.090,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf"
+"acetonitrile and hydrogen cyanide recovered as product",0.790,0.180,1.090,,"http://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/3_Volume3/V3_3_Ch3_Chemical_Industry.pdf"

@@ -1,0 +1,31 @@
+--- 
+data_items: []
+
+tags: 
+- home
+- appliances
+- electronics
+- television
+- calculation
+- direct
+- emission_factor
+- UK
+provenance: "[[MTP]]"
+gallery: 
+show: "1"
+authority: enterprise
+ivds: 
+  comment: 
+  size: Television screen size (inches)
+  kWStandby: Television "standby" energy consumption rate
+  standbyMostlyCO2: Do //not// set - the algorithm will set this value.
+  kWOn: "Television \"on\" energy consumption rate  "
+  standbySometimesCO2: Do //not// set - the algorithm will set this value.
+  hoursOn: Duration television switched on
+  type: Television type
+  source: 
+  hoursPerMonth: Hours watched per month
+  standbyAlwaysCO2: Do //not// set - the algorithm will set this value.
+wikiname: Televisions_Generic_Ranges
+usages:
+  default: { standbySometimesCO2 : ignored, standbyAlwaysCO2 : ignored, standbyMostlyCO2 : ignored, comment : ignored }

@@ -1,0 +1,33 @@
+prov:download
+prov:in http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,20041&_dad=portal&_schema=PORTAL
+prov:out svn:8504/internal/provenance/sources/bec-typical-calorific-values-of-fuels-.html
+
+prov:download
+prov:in http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,163182&_dad=portal&_schema=PORTAL
+prov:out svn:8505/internal/provenance/sources/bec-carbon-emissions-of-different-fuels-.html
+
+prov:download
+prov:in http://www.berr.gov.uk/files/file14925.pdf
+prov:out svn:8524/internal/provenance/sources/carbon-and-energy-balances-for-a-range-of-biofuel-options.pdf
+
+prov:download
+prov:in http://www.worldenergy.org/documents/lca2.pdf
+prov:out svn:8526/internal/provenance/sources/comparison-of-energy-systems-using-life-cycle-assessment.pdf
+
+prov:download
+prov:in http://www.electricity-guide.org.uk/fuel-mix.html
+prov:out svn:8527/internal/provenance/sources/uk-fuel-mix-by-supplier.html
+
+The data in prov:out http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,163182&_dad=portal&_schema=PORTAL was compiled by a prov:process using prov:in http://www.berr.gov.uk/files/file14925.pdf , prov:in http://www.worldenergy.org/documents/lca2.pdf and prov:in http://www.electricity-guide.org.uk/fuel-mix.html .
+
+Fuel property data in prov:out http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls#'Annex%2011%20Fuel%20Properties'! was based on a prov:process using prov:in http://www.decc.gov.uk/assets/decc/statistics/publications/dukes/dukes08.pdf , prov:in nouri:"JEC - Joint Research Centre-EUCAR-CONCAWE collaboration, Well-to-Wheels analysis of future automotive fuels and powertrains in the European context, Version 3, 2008" , prov:numeric http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,20041&_dad=portal&_schema=PORTAL, and prov:numeric http://www.biomassenergycentre.org.uk/portal/page?_pageid=75,163182&_dad=portal&_schema=PORTAL .
+
+prov:download
+prov:out svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls
+prov:in http://www.defra.gov.uk/environment/business/reporting/pdf/100805-guidelines-ghg-conversion-factors.xls
+
+prov:manual
+prov:out csv_files:business/energy/stationaryCombustion/defra/fuelproperties
+prov:in svn:7282/internal/provenance/sources/defra-conversion-factors-workbook-2010.xls#'Annex%2011%20Fuel%20Properties'!
+
+prov:ameem business/energy/stationaryCombustion/defra/fuelproperties
