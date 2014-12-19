@@ -1,3 +1,3 @@
 type,CO2perPerson,units,source,algorithm
-international,36.63,kgCO2/night,WBCSD 2006/ CIBSE 2004
-uk,29.83,kgCO2/night,Defra 2007/ CIBSE 2004
+international,36.63,kgCO2/night,WBCSD 2006/ CIBSE 2004,
+uk,29.83,kgCO2/night,Defra 2007/ CIBSE 2004,
