@@ -1,6 +1,6 @@
 name,Water Reductions
 algFile,default.js
-name,path,type,isDataItemValue,isDrillDown
-litres per day,litresPerDay,DECIMAL,true,false
-Source,source,TEXT,true,false
-Type,type,TEXT,true,true
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+litres per day,litresPerDay,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Type,type,TEXT,true,true,,,,
