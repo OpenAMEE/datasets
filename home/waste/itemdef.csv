@@ -1,12 +1,12 @@
 name,Waste
 algFile,default.js
-name,path,type,isDataItemValue,isDrillDown
-kg per month,kgPerMonth,DECIMAL,false,false
-Disposal method,savingType,TEXT,false,false
-kg per person per year,kgPerPersonPerYear,DECIMAL,true,false
-kgCO2 Landfill per kg,kgCO2LandfillSavedPerKg,DECIMAL,true,false
-kgCO2 Recycling per kg,kgCO2RecyclingSavedPerKg,DECIMAL,true,false
-kgCO2 Thermal per kg,kgCO2ThermalSavedPerKg,DECIMAL,true,false
-kgCO2 Embodied Fossil Energy per kg,kgCO2EmbodiedFossilEnergySavedPerKg,DECIMAL,true,false
-Source,source,TEXT,true,false
-Type,type,TEXT,true,true
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+kg per month,kgPerMonth,DECIMAL,false,false,,,,
+Disposal method,savingType,TEXT,false,false,,,,
+kg per person per year,kgPerPersonPerYear,DECIMAL,true,false,,,,
+kgCO2 Landfill per kg,kgCO2LandfillSavedPerKg,DECIMAL,true,false,,,,
+kgCO2 Recycling per kg,kgCO2RecyclingSavedPerKg,DECIMAL,true,false,,,,
+kgCO2 Thermal per kg,kgCO2ThermalSavedPerKg,DECIMAL,true,false,,,,
+kgCO2 Embodied Fossil Energy per kg,kgCO2EmbodiedFossilEnergySavedPerKg,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
+Type,type,TEXT,true,true,,,,
