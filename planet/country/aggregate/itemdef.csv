@@ -1,10 +1,10 @@
 Name,Country Aggregate
-algFile,algorithm.js
-name,path,type,isDataItemValue,isDrillDown
-Source,source,TEXT,true,false
-Country,country,TEXT,true,true
-Change,change,DECIMAL,true,false
-Cumulative,cumulative,DECIMAL,true,false
-Annual (2006),annual2006,DECIMAL,true,false
-Per Capita,perCapita,DECIMAL,true,false
-Rank,rank,DECIMAL,true,false
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Source,source,TEXT,true,false,,,,
+Country,country,TEXT,true,true,,,,
+Change,change,DECIMAL,true,false,,,,
+Cumulative,cumulative,DECIMAL,true,false,,,,
+Annual (2006),annual2006,DECIMAL,true,false,,,,
+Per Capita,perCapita,DECIMAL,true,false,,,,
+Rank,rank,DECIMAL,true,false,,,,
