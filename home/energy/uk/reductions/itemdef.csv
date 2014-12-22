@@ -1,6 +1,6 @@
 name,Reduction
 algFile,default.js
-name,path,type,isDataItemValue,isDrillDown
-Action,action,TEXT,true,true
-kgCO2 Reduction Per Year,kgCO2ReductionPerYear,DECIMAL,true,false
-Source,source,TEXT,true,false
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Action,action,TEXT,true,true,,,,
+kgCO2 Reduction Per Year,kgCO2ReductionPerYear,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
