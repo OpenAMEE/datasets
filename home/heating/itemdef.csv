@@ -2,7 +2,7 @@ name,Heating
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Home Dwelling Type,homeDwellingType,TEXT,true,true,,,,
-Number Of Bedrooms,homeNoOfBedrooms,INTEGER,true,true,,,,
+Number Of Bedrooms,homeNoOfBedrooms,TEXT,true,true,,,,
 Home Fuel,homeFuel,TEXT,true,true,,,,
 Home Age,homeAge,TEXT,true,true,,,,
 Type,type,TEXT,true,true,,,,
