@@ -1,7 +1,7 @@
 name,Renewable
 algFile,default.js
-name,path,type,isDataItemValue,isDrillDown
-Description,description,TEXT,false,false
-kWh generated per month,kWhGeneratedPerMonth,DECIMAL,false,false
-Source,source,TEXT,true,false
-Type,type,TEXT,true,true
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Description,description,TEXT,false,false,,,,
+kWh generated per month,kWhGeneratedPerMonth,DECIMAL,false,false,,,,
+Source,source,TEXT,true,false,,,,
+Type,type,TEXT,true,true,,,,
