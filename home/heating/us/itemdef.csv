@@ -1,0 +1,12 @@
+name,Heating US
+algFile,default.js
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Fuel,fuel,TEXT,true,true,,,,
+is Air Con,isAirCon,TEXT,false,false,,,true,
+kWh Per Year Air Con,kWhPerYearAirCon,DECIMAL,true,false,,,,
+kWh Per Year Space,kWhPerYearSpace,DECIMAL,true,false,,,,
+kWh Per Year Water,kWhPerYearWater,DECIMAL,true,false,,,,
+Number Of Bedrooms,numberOfBedrooms,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
+State,state,TEXT,true,true,,,,
+Type,type,TEXT,true,true,,,,
