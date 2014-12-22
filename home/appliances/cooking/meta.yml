@@ -1,6 +1,35 @@
 --- 
-data_items: []
-
+data_items:
+- doc: UK Average.
+  drills: 
+  - - numberOfPeople
+    - 2.4
+  - - fuel
+    - Gas
+- doc: UK Average.
+  drills: 
+  - - numberOfPeople
+    - 2.4
+  - - fuel
+    - Electric
+- doc: UK Average.
+  drills: 
+  - - numberOfPeople
+    - 2.4
+  - - fuel
+    - Mixed
+- doc: UK Average.
+  drills: 
+  - - numberOfPeople
+    - 2.4
+  - - fuel
+    - Gas hob only
+- doc: UK Average.
+  drills: 
+  - - numberOfPeople
+    - 2.4
+  - - fuel
+    - Electric hob only
 tags: 
 - deprecated
 - calculation
