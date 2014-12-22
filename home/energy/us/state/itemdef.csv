@@ -1,7 +1,7 @@
-name,Energy US State,,,
+name,Energy US State
 algFile,default.js
-name,path,type,isDataItemValue,isDrillDown
-kWh Per Month,kWhPerMonth,DECIMAL,FALSE,FALSE
-State,state,TEXT,TRUE,TRUE
-kg CO2 per kWh,kgCO2PerkWh,DECIMAL,TRUE,FALSE
-Source,source,TEXT,TRUE,FALSE
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+kWh Per Month,kWhPerMonth,DECIMAL,false,false,,,,
+State,state,TEXT,true,true,,,,
+kg CO2 per kWh,kgCO2PerkWh,DECIMAL,true,false,,,,
+Source,source,TEXT,true,false,,,,
