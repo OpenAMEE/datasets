@@ -1,7 +1,8 @@
 --- 
 data_items: []
 
-tags: deprecated
+tags: 
+- deprecated
 provenance: ECCM
 gallery: 
 show: "1"
