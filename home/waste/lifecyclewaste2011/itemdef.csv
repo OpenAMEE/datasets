@@ -3,7 +3,7 @@ algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Waste type,wasteType,TEXT,true,true,,,,
 Waste sub-type,wasteSubType,TEXT,true,true,,,,
-Production Emissions (avoidance excl disposal) CO2e, kgCO2eProductionEmissions,DECIMAL,true,false,kg,t,,
+Production Emissions (avoidance excl disposal) CO2e,kgCO2eProductionEmissions,DECIMAL,true,false,kg,t,,
 kgCO2e emitted per tonne (preparation for) re-use,kgCO2ePreparationForReUse,DECIMAL,true,false,kg,t,,
 Net kgCO2e Per Tonne Disposed of by Closed Loop Recycling,kgCO2eDisposedByRecyclingClosedLoop,DECIMAL,true,false,kg,t,,
 Net kgCO2e Per Tonne Disposed of by Open Loop Recycling,kgCO2eDisposedByRecyclingOpenLoop,DECIMAL,true,false,kg,t,,
