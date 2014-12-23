@@ -24,7 +24,7 @@ ivds:
   unrndCityEPA: 
   mpgOwn: User determined fuel consumption
   line: Car model
-  class: Car class category
+  sizeClass: Car class category
   distanceMilesPerMonth: Distance travelled per month
   unrndCompEPA: 
   drivingType: Specify "own", "city", "highway", or "combined" driving type

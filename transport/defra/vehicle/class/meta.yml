@@ -23,7 +23,7 @@ authority: enterprise
 ivds:
   type: Type of vehicle
   fuel: Fuel used by vehicle
-  class: Vehicle class / market segment
+  vehicleClass: Vehicle class / market segment
   massCO2PerDistance: Quantity of direct CO,,2,, emissions per unit distance
   massCH4PerDistance: Quantity of direct CH,,4,, emissions per unit distance (CO,,2,,e)
   massN2OPerDistance: Quantity of direct N,,2,,O emissions per unit distance (CO,,2,,e)

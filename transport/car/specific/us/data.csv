@@ -1,4 +1,4 @@
-"manufacturer","line","engineSize","transmission","class","cylinders","driveSystem","indexNumber","mpgCity","mpgHighway","mpgCombined","unrndCityEPA","unrndHwyEPA","unrndCompEPA","fuelType","releaseDate","units","source","algorithm"
+"manufacturer","line","engineSize","transmission","sizeClass","cylinders","driveSystem","indexNumber","mpgCity","mpgHighway","mpgCombined","unrndCityEPA","unrndHwyEPA","unrndCompEPA","fuelType","releaseDate","units","source","algorithm"
 "HONDA","CIVIC HYBRID",1.3,"Auto(AV)","COMPACT CARS",4,"F",2,40,45,42,54.6,65,58.836,"regular gas","09/28/07",,"http://www.fueleconomy.gov",
 "MAZDA","MAZDA RX-8",1.3,"Manual(M6)","SUBCOMPACT CARS",2,"R",9,16,22,18,20.4,30.2,23.888,"premium gas","07/10/07",,"http://www.fueleconomy.gov",
 "MAZDA","MAZDA RX-8",1.3,"Auto(S6)","SUBCOMPACT CARS",2,"R",9,16,23,19,20.177,32,24.201,"premium gas","07/10/07",,"http://www.fueleconomy.gov",

@@ -6,14 +6,14 @@ Manufacturer,manufacturer,TEXT,true,true,,,,
 Line,line,TEXT,true,true,,,,
 Engine size,engineSize,TEXT,true,true,,,,
 Transmission type,transmission,TEXT,true,true,,,,
-Class,class,TEXT,true,false,,,,
+EPA Size Class,sizeClass,TEXT,true,false,,,,
 Cylinders,cylinders,DECIMAL,true,false,,,,
 Drive system,driveSystem,TEXT,true,false,,,,
 Fuel type,fuelType,TEXT,true,false,,,,
 Index number,indexNumber,DECIMAL,true,false,,,,
-Fuel efficiency in city,mpgCity,DECIMAL,TRUE,FALSE,mi,gal
-Fuel efficiency on highway,mpgHighway,DECIMAL,TRUE,FALSE,mi,gal
-Combined fuel efficiency,mpgCombined,DECIMAL,TRUE,FALSE,mi,gal
+Fuel efficiency in city,mpgCity,DECIMAL,TRUE,FALSE,mi,gal,,
+Fuel efficiency on highway,mpgHighway,DECIMAL,TRUE,FALSE,mi,gal,,
+Combined fuel efficiency,mpgCombined,DECIMAL,TRUE,FALSE,mi,gal,,
 Release date,releaseDate,TEXT,true,false,,,,
 Source,source,TEXT,true,false,,,,
 Fuel Consumption,ownFuelConsumption,DECIMAL,false,false,km,L,,

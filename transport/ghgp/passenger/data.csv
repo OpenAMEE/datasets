@@ -1,4 +1,4 @@
-"type","subtype","class","region","massCO2PerDistance","massCH4PerDistance","massN2OPerDistance","units","source"
+"type","subtype","passengerClass","region","massCO2PerDistance","massCH4PerDistance","massN2OPerDistance","units","source"
 "air","domestic","none","other",0.27595422,,,,"http://www.ghgprotocol.org/calculation-tools/all-tools"
 "air","domestic","none","uk",0.27595422,,,,"http://www.ghgprotocol.org/calculation-tools/all-tools"
 "air","domestic","none","us",0.27595422,,,,"http://www.ghgprotocol.org/calculation-tools/all-tools"

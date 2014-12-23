@@ -3,7 +3,7 @@ algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Vehicle type,type,TEXT,true,true,,,,
 Vehicle subtype,subtype,TEXT,true,true,,,,
-Passenger class,class,TEXT,true,true,,,,
+Passenger class,passengerClass,TEXT,true,true,,,,
 Region,region,TEXT,true,true,,,,
 CO2 emissions per unit distance,massCO2PerDistance,DECIMAL,true,false,kg,mi,,
 CH4 emissions per unit distance,massCH4PerDistance,DECIMAL,true,false,g,mi,,

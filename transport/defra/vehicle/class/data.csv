@@ -1,4 +1,4 @@
-"type","fuel","class","massCO2PerDistance","massCH4PerDistance","massN2OPerDistance","massDirectCO2ePerDistance","massIndirectCO2ePerDistance","massTotalCO2ePerDistance","units","source"
+"type","fuel","vehicleClass","massCO2PerDistance","massCH4PerDistance","massN2OPerDistance","massDirectCO2ePerDistance","massIndirectCO2ePerDistance","massTotalCO2ePerDistance","units","source"
 "car","petrol","mini",0.16248,0.00016,0.00084,0.16348,0.02901,0.19249,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
 "car","petrol","supermini",0.17161,0.00016,0.00084,0.17261,0.03064,0.20325,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"
 "car","petrol","lower medium",0.20053,0.00016,0.00084,0.20153,0.03580,0.23733,,"http://www.defra.gov.uk/environment/economy/business-efficiency/reporting"

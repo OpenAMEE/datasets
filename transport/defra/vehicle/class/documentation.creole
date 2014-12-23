@@ -31,7 +31,7 @@ Other DEFRA vehicle-based methodologies available represent [[DEFRA_road_transpo
 ==Using this methodology==
 
 ===Choosing a specific activity type===
-To use this methodology, the particular type of vehicle which best represents the users emissions scenario must be specified by making selections from each of the //**type**//, //**fuel**// and //**class**// drill down choices.
+To use this methodology, the particular type of vehicle which best represents the users emissions scenario must be specified by making selections from each of the //**type**//, //**fuel**// and //**vehicleClass**// drill down choices.
 
 ===Activity data required===
 According to this methodology, greenhouse gas emissions are directly proportionate to distance travelled which therefore must be specified - using the //**distance**// profile item value - in order to make an emissions calculation. 

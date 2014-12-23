@@ -26,7 +26,7 @@ authority: enterprise
 ivds:
   type: Type of transport
   subtype: Subtype of transport
-  class: Passenger class/mode
+  passengerClass: Passenger class/mode
   massCO2PerDistancePerPassenger: Quantity of direct CO,,2,, emissions per unit distance
   massCH4PerDistancePerPassenger: Quantity of direct CH,,4,, emissions per unit distance (CO,,2,,e)
   massN2OPerDistancePerPassenger: Quantity of direct N,,2,,O emissions per unit distance (CO,,2,,e)

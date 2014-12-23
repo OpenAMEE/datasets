@@ -1,4 +1,4 @@
-year,manufacturer,line,engineSize,transmission,class,cylinders,driveSystem,fuelType,indexNumber,mpgCity,mpgHighway,mpgCombined,releaseDate,units,source
+year,manufacturer,line,engineSize,transmission,sizeClass,cylinders,driveSystem,fuelType,indexNumber,mpgCity,mpgHighway,mpgCombined,releaseDate,units,source
 2008,ASTON MARTIN,V8 VANTAGE,4.3,Auto(S6),TWO SEATERS,8,R,P,12,13,20,15,6-Aug-07,,http://www.fueleconomy.gov
 2008,ASTON MARTIN,V8 VANTAGE,4.3,Manual(M6),TWO SEATERS,8,R,P,11,12,19,15,6-Aug-07,,http://www.fueleconomy.gov
 2008,AUDI,R8,4.2,Auto(S6),TWO SEATERS,8,4,P,19,13,19,15,17-Aug-07,,http://www.fueleconomy.gov

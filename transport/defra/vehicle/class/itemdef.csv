@@ -3,7 +3,7 @@ algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of vehicle,type,TEXT,true,true,,,,
 Type of fuel used,fuel,TEXT,true,true,,,,
-Vehicle class/market segment,class,TEXT,true,true,,,,
+Vehicle class/market segment,vehicleClass,TEXT,true,true,,,,
 Direct CO2 emissions factor,massCO2PerDistance,DECIMAL,true,false,kg,km,,
 Direct CH4 emissions factor (CO2e),massCH4PerDistance,DECIMAL,true,false,kg,km,,
 Direct N2O emissions factor (CO2e),massN2OPerDistance,DECIMAL,true,false,kg,km,,	
