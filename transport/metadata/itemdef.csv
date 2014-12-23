@@ -1,14 +1,14 @@
 name,Transport metadata
 algFile,default.js
-name,path,type,isDataItemValue,isDrillDown
-Air con usage,airConUsage,TEXT,false,false
-Car share,carShare,TEXT,false,false
-Eco driving,ecoDriving,TEXT,false,false
-Local public transport,localPublicTransport,TEXT,false,false
-Locality,locality,TEXT,false,false
-Long distance public transport,longDistancePublicTransport,TEXT,false,false
-Short journeys,shortJourneys,TEXT,false,false
-Type,type,TEXT,true,true
-Tyre pressures checked,tyrePressuresChecked,TEXT,false,false
-Vehicle service,vehicleService,TEXT,false,false
-Vehicles have air con,vehiclesHaveAirCon,TEXT,false,false
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Air con usage,airConUsage,TEXT,false,false,,,,
+Car share,carShare,TEXT,false,false,,,,
+Eco driving,ecoDriving,TEXT,false,false,,,,
+Local public transport,localPublicTransport,TEXT,false,false,,,,
+Locality,locality,TEXT,false,false,,,,
+Long distance public transport,longDistancePublicTransport,TEXT,false,false,,,,
+Short journeys,shortJourneys,TEXT,false,false,,,,
+Type,type,TEXT,true,true,,,,
+Tyre pressures checked,tyrePressuresChecked,TEXT,false,false,,,,
+Vehicle service,vehicleService,TEXT,false,false,,,,
+Vehicles have air con,vehiclesHaveAirCon,TEXT,false,false,,,,

@@ -1,10 +1,10 @@
 name,Major airports
 algFile,default.js
-name,path,type,isDataItemValue,isDrillDown
-Country,country,TEXT,true,true
-Full name,fullName,TEXT,true,false
-IATA code,IATACode,TEXT,true,false
-Latitude,latitude,DECIMAL,true,false
-Longitude,longitude,DECIMAL,true,false
-Airport name,airportName,TEXT,true,true
-Source,source,TEXT,true,false
+name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
+Country,country,TEXT,true,true,,,,
+Full name,fullName,TEXT,true,false,,,,
+IATA code,IATACode,TEXT,true,false,,,,
+Latitude,latitude,DECIMAL,true,false,,,,
+Longitude,longitude,DECIMAL,true,false,,,,
+Airport name,airportName,TEXT,true,true,,,,
+Source,source,TEXT,true,false,,,,
