@@ -1,5 +1,5 @@
-name,Train Stations UK,,,,,,,
-algFile,default.js,,,,,,,
+name,Train Stations UK
+algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 name,name,TEXT,true,true,,,,
 Code,code,TEXT,true,false,,,,
