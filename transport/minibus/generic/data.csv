@@ -1,5 +1,5 @@
-fuel,size,kgCO2PerKm,kgCO2PerKmUS,units,source,algorithm
-diesel,mpv,0.1687,0.1687,kgCO2/km,based on Ford Tourneo Connect Part_A_Euro_IV_may2007.csv from http://www.vcacarfueldata.org.uk/downloads/,
-petrol,mpv,0.2004,0.2004,kgCO2/km,based on Vauxhal Zafira Part_A_Euro_IV_may2008.csv from http://www.vcacarfueldata.org.uk/downloads/,
-diesel,minibus,0.2190,0.2190,kgCO2/km,based on Ford Transit Connect and VW Transporter Part_A_Euro_IV_may2008.csv from http://www.vcacarfueldata.org.uk/downloads/,
-petrol,minibus,0.3013,0.3013,kgCO2/km,Based on Mercedes Benz Viano Part_A_Euro_IV_may2003.csv from http://www.vcacarfueldata.org.uk/downloads/,
+fuel,size,kgCO2PerKm,kgCO2PerKmUS,typicalDistance,units,source,algorithm
+diesel,mpv,0.1687,0.1687,14481,kgCO2/km,based on Ford Tourneo Connect Part_A_Euro_IV_may2007.csv from http://www.vcacarfueldata.org.uk/downloads/,
+petrol,mpv,0.2004,0.2004,14481,kgCO2/km,based on Vauxhal Zafira Part_A_Euro_IV_may2008.csv from http://www.vcacarfueldata.org.uk/downloads/,
+diesel,minibus,0.2190,0.2190,14481,kgCO2/km,based on Ford Transit Connect and VW Transporter Part_A_Euro_IV_may2008.csv from http://www.vcacarfueldata.org.uk/downloads/,
+petrol,minibus,0.3013,0.3013,14481,kgCO2/km,Based on Mercedes Benz Viano Part_A_Euro_IV_may2003.csv from http://www.vcacarfueldata.org.uk/downloads/,
