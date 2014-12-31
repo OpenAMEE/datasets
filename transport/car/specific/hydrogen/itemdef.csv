@@ -1,4 +1,4 @@
-name,Car specific hydrogen,,,,,,,,
+name,Car specific hydrogen
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices,
 Manufacturer,manufacturer,TEXT,true,true,,,,,

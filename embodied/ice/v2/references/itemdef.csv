@@ -4,7 +4,7 @@ name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Reference number,reference,TEXT,true,true,,,,
 Reference title,title,TEXT,true,false,,,,
 Reference author,author,TEXT,true,false,,,,
-Reference year of publication,year,TEXT,true,false,,,,
+Reference year of publication,year,INTEGER,true,false,,,,
 Reference publisher,publisher,TEXT,true,false,,,,
 Reference ISBN,isbn,TEXT,true,false,,,,
 Source,source,TEXT,true,false,,,,

@@ -1,6 +1,45 @@
 --- 
-data_items: []
-
+data_items:
+- doc: Average
+  drills:
+  - - type
+    - rigid
+  - - size
+    - 3.5-7.5t
+  - - percentageLaden
+    - 40
+- doc: Average
+  drills:
+  - - type
+    - rigid
+  - - size
+    - 7.5-17t
+  - - percentageLaden
+    - 37
+- doc: Average
+  drills:
+  - - type
+    - rigid
+  - - size
+    - greater than 17t
+  - - percentageLaden
+    - 55
+- doc: Average
+  drills:
+  - - type
+    - articulated
+  - - size
+    - 3.5-33t
+  - - percentageLaden
+    - 43
+- doc: Average
+  drills:
+  - - type
+    - articulated
+  - - size
+    - greater than 33t
+  - - percentageLaden
+    - 60
 tags: 
 - deprecated
 - defra

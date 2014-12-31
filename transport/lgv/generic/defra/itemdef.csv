@@ -1,9 +1,9 @@
-name, Heavy Goods DEFRA
+name,Heavy Goods DEFRA
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,
 Size,size,TEXT,true,true,,,,
-Percentage Weight Laden,percentageLaden,TEXT,true,true,,,,
+Percentage Weight Laden,percentageLaden,DECIMAL,true,true,,,,
 kgCO2 Per Vehicle Km,kgCO2PerVehicleKm,DECIMAL,true,false,,,,
 kgCO2 Equivalent Per Km for CH4,kgCO2ePerKmForCH4,DECIMAL,true,false,,,,
 kgCO2 Equivalent Per Km for N2O,kgCO2ePerKmForN2O,DECIMAL,true,false,,,,

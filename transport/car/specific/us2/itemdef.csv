@@ -1,10 +1,10 @@
 name,Car Specific US2
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
-Year,year,TEXT,true,true,,,,
+Year,year,INTEGER,true,true,,,,
 Manufacturer,manufacturer,TEXT,true,true,,,,
 Line,line,TEXT,true,true,,,,
-Engine size,engineSize,TEXT,true,true,,,,
+Engine size,engineSize,DECIMAL,true,true,,,,
 Transmission type,transmission,TEXT,true,true,,,,
 EPA Size Class,sizeClass,TEXT,true,false,,,,
 Cylinders,cylinders,DECIMAL,true,false,,,,
