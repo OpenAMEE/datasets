@@ -1,4 +1,4 @@
-name, DEFRA typical flight distances
+name,DEFRA typical flight distances
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of flight,type,TEXT,true,true,,,,

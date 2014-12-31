@@ -1,4 +1,4 @@
-name, Shipping Freight DEFRA
+name,Shipping Freight DEFRA
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type,type,TEXT,true,true,,,,

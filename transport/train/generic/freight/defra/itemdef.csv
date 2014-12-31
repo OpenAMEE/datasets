@@ -1,4 +1,4 @@
-name, Train Freight DEFRA
+name,Train Freight DEFRA
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Fuel,fuel,TEXT,true,true,,,,

@@ -1,4 +1,4 @@
-name, DEFRA transport fuels
+name,DEFRA transport fuels
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,

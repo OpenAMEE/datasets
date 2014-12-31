@@ -1,4 +1,4 @@
-name, DEFRA biomass fuel
+name,DEFRA biomass fuel
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,

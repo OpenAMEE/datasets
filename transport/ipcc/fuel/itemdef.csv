@@ -1,4 +1,4 @@
-name, IPCC transport fuels
+name,IPCC transport fuels
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,

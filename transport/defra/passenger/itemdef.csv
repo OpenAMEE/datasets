@@ -1,4 +1,4 @@
-name, DEFRA passenger transport
+name,DEFRA passenger transport
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of transport,type,TEXT,true,true,,,,

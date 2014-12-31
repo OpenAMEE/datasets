@@ -1,4 +1,4 @@
-name, DEFRA road vehicles by class
+name,DEFRA road vehicles by class
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of vehicle,type,TEXT,true,true,,,,

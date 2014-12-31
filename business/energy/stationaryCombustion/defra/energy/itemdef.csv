@@ -1,4 +1,4 @@
-name, DEFRA stationary combustion by energy
+name,DEFRA stationary combustion by energy
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,

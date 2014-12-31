@@ -1,4 +1,4 @@
-name, DEFRA Great Circle Route
+name,DEFRA Great Circle Route
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of route,type,TEXT,true,true,,,,

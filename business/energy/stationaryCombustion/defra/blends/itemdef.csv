@@ -1,4 +1,4 @@
-name, DEFRA biofuel blends
+name,DEFRA biofuel blends
 algFile,default.js
 name,path,type,isDataItemValue,isDrillDown,unit,perUnit,default,choices
 Type of fuel,fuel,TEXT,true,true,,,,
