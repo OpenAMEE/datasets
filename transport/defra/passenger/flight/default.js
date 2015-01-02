@@ -1,9 +1,9 @@
-massCO2PerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',class='+passengerClass,'massCO2PerDistancePerPassenger'));
-massCH4PerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',class='+passengerClass,'massCH4PerDistancePerPassenger'));
-massN2OPerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',class='+passengerClass,'massN2OPerDistancePerPassenger'));
-massDirectCO2ePerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',class='+passengerClass,'massDirectCO2ePerDistancePerPassenger'));
-massIndirectCO2ePerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',class='+passengerClass,'massIndirectCO2ePerDistancePerPassenger'));
-massTotalCO2ePerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',class='+passengerClass,'massTotalCO2ePerDistancePerPassenger'));
+massCO2PerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',passengerClass='+passengerClass,'massCO2PerDistancePerPassenger'));
+massCH4PerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',passengerClass='+passengerClass,'massCH4PerDistancePerPassenger'));
+massN2OPerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',passengerClass='+passengerClass,'massN2OPerDistancePerPassenger'));
+massDirectCO2ePerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',passengerClass='+passengerClass,'massDirectCO2ePerDistancePerPassenger'));
+massIndirectCO2ePerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',passengerClass='+passengerClass,'massIndirectCO2ePerDistancePerPassenger'));
+massTotalCO2ePerDistancePerPassenger = parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',passengerClass='+passengerClass,'massTotalCO2ePerDistancePerPassenger'));
 
 co2Emissions = massCO2PerDistancePerPassenger * distance * passengers * journeys;
 ch4Emissions = massCH4PerDistancePerPassenger * distance * passengers * journeys;

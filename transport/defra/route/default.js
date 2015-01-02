@@ -24,7 +24,7 @@ function getFreightFactor(type,item){
 
 // get emissions factors for passenger
 function getPassengerFactor(type,passengerClass,item){
-  return parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',class='+passengerClass,item));
+  return parseFloat(dataFinder.getDataItemValue('transport/defra/passenger', 'type=plane,subtype='+type+',passengerClass='+passengerClass,item));
 }
 
 // establish distance
